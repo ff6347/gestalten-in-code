@@ -1,6 +1,8 @@
 Gestalten in Code
 =================
 
+[![Join the chat at https://gitter.im/fabiantheblind/gestalten-in-code](https://badges.gitter.im/fabiantheblind/gestalten-in-code.svg)](https://gitter.im/fabiantheblind/gestalten-in-code?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Gestalt | Definition of Gestalt by Merriam-Webster
 
 >gestalt
