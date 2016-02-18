@@ -1,7 +1,5 @@
 Gestalten in Code
-=============
-
-# Gestalt-Gestalten-Gestaltung 
+=================
 
 ## Gestalt | Definition of Gestalt by Merriam-Webster
 
@@ -26,6 +24,14 @@ Gestalten in Code
 >This biography is the first one to consider fully the writer's gestalt.
 >The clusters of behavioral gestalten... the probability factors... the subtypes of crimes... the constellations of criminal subtypes... — Jay Kirk, "Watching the Detectives", Harpers Magazine, Vol. 307, Iss. 1839; pg. 61, Aug, 2003
 [source](https://en.m.wiktionary.org/wiki/gestalt)
+
+## Introduction  
+
+What does it means to design with code? Is it a way of thinking? Is it a tool? Is it just the flavour of the month? (Spoiler: It is not IMHO). In this repository I try to sum up my various experiments on "gestalten in code".  
+
+## Disclaimer  
+
+I don't know where this will take me but there might be 🐉 and 🐛.  
 
 ## TOC
 
