@@ -2,10 +2,8 @@ Gestalten in Code
 =================
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/fabiantheblind/gestalten-in-code)    
-[![](https://img.shields.io/badge/using-P5.js-brightgreen.svg?style=flat-square)](http://p5js.org/)  
-[![](https://img.shields.io/badge/using-VanillaJS-brightgreen.svg?style=flat-square)](http://vanilla-js.com/)  
-![](https://img.shields.io/badge/Ages-12%2B-brightgreen.svg?style=flat-square)  
-![](https://img.shields.io/badge/build with-❤-brightgreen.svg?style=flat-square)  
+[![](https://img.shields.io/badge/using-P5.js-brightgreen.svg?style=flat-square)](http://p5js.org/) [![](https://img.shields.io/badge/using-Processing-brightgreen.svg?style=flat-square)](http://processing.org/) [![](https://img.shields.io/badge/using-VanillaJS-brightgreen.svg?style=flat-square)](http://vanilla-js.com/)  
+![](https://img.shields.io/badge/Ages-6%2B-brightgreen.svg?style=flat-square) ![](https://img.shields.io/badge/build with-❤-brightgreen.svg?style=flat-square)  
 ## Gestalt | Definition of Gestalt by Merriam-Webster
 
 >gestalt
@@ -40,14 +38,15 @@ I don't know where this will take me but there might be 🐉 and 🐛.
 
 ## TOC
 
+- chance
+- color
+- data
 - form
 - grid
-- color
-- typography
+- interaction
 - iteration
 - motion
-- chance
-- interaction
+- typography
 
 ## License (ISC)
 
