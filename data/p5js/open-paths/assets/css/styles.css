@@ -1,0 +1,38 @@
+body {
+  font-family: 'Lora', serif;
+/*  background-image: url("../images/ricepaper2/ricepaper2.png");
+*/}
+/* unvisited link */
+a:link    {
+    color: #352613;
+}
+
+/* visited link */
+a:visited {
+    color: #725229;
+}
+
+/* mouse over link */
+a:hover   {
+    color: black;
+}
+
+/* selected link */
+a:active  {
+    color: 352613;
+}
+
+#hello{
+  padding-bottom: 1em;
+}
+#headline{
+  font-size: 3em;
+}
+#sketch-target{
+  height: 360px;
+}
+
+#info{
+  font-size: 0.8em;
+  color:#6d6d6d;
+}

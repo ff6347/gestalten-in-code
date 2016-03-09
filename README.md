@@ -1,7 +1,7 @@
 Gestalten in Code
 =================
 
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/fabiantheblind/gestalten-in-code)  
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/fabiantheblind/gestalten-in-code)    
 [![](https://img.shields.io/badge/using-P5.js-brightgreen.svg?style=flat-square)](http://p5js.org/)  
 [![](https://img.shields.io/badge/using-VanillaJS-brightgreen.svg?style=flat-square)](http://vanilla-js.com/)  
 ![](https://img.shields.io/badge/Ages-12%2B-brightgreen.svg?style=flat-square)  
