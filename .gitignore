@@ -20,7 +20,7 @@ private.json
 private
 # for extendscript ID dev
 pdfs
-.idlk
+*.idlk
 # for CRAN
 # History files
 .Rhistory
