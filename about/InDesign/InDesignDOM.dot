@@ -1,0 +1,85 @@
+digraph IDDOM{
+  concentrate=true;
+  #outputorder=edgesfirst;
+
+  #sep=6.2;
+  node [shape=record style=filled];
+  graph [splines="ortho" headclip="true" tailclip="true"];
+  K=0.6;
+
+
+  acols [label="<col>application\ncollections|{ <d> documents |<pref> preferences|...}"];
+
+  documents [label="{<d0> documents[0] |<d1> documents[1] | <d2> documents[2] | <dn> documents[n]}"];
+  preferences [label="<p> documents[0]\npreferences |{viewPreferences|documentPreferences|...}"];
+
+  swatches [label="{<sw0> swatches[0] |<sw1> swatches[1] | <sw2> swatches[2] | <swn> swatches[n]}"];
+
+  pages [label="{<p0> pages[0]|<p1> pages[1]|<p2> pages[2]|<p3> pages[3]}"];
+      bgcolor = "mintcream";
+
+  stories [label="{<st0> stories[0] |<st1> stories[1] | <st2> stories[2] | <stn> stories[n]}"];
+  textFrames [label="{<tf0> textFrames[0] |<tf1> textFrames[1] | <tf2> textFrames[2] | <tfn> textFrames[n]}"];
+
+  characters [label="{<c0> characters[0] |<c1> characters[1] | <c2> characters[2] | <cn> characters[n]}"];
+  words [label="{<w0> words[0] |<w1> words[1] | <w2> words[2] | <wn> words[n]}"];
+  lines [label="{<l0> lines[0] |<l1> lines[1] | <l2> lines[2] | <ln> lines[n]}"];
+  paragraphs [label="{<p0> paragraphs[0] |<p1> paragraphs[1] | <p2> paragraphs[2] | <pn> paragraphs[n]}"];
+ pcols [label="<pcol> pages[0]\ncollections |{<pcol1> textFrames | <pcol0> pageItems | <pcol2> stories| <pcol3> ovals| <pcol4> rectangles| <pcol5> graphicLines|...}"];
+
+  dcols [label="<dcol> documents[0]\ncollections |{<dcol4> stories|<dcol6> textFrames |<s> swatches |<p> pages | <dcol1> paragraphStyles | <dcol2> characterStyles|<dcol5> ovals| <dcol6> rectangles| <dcol7> graphicLines|...}"]
+  tfcols [label="<tfcol> textFrames[0]\ncollections |{<tfcol0> paragraphs|<tfcol1> lines|<tfcol2> words|<tfcol3> characters|...}"];
+  stcols [label="<stcol> stories[0]\ncollections |{<tfcol0> paragraphs|<tfcol1> lines|<tfcol2> words|<tfcol3> characters|...}"];
+  cprops [label="<props> characters[0]\nproperties |{<fc>fillColor|<ft>fillTint|<fnt>appliedFont|...}"];
+
+  acols:d-> documents:d0;
+#  acols:d-> documents:d1;
+#  acols:d-> documents:d2;
+#  acols:d-> documents:dn;
+
+  documents:d0 -> dcols:dcol;
+  documents:d0-> preferences:p;
+  documents:d0-> swatches;
+  documents:d0-> textFrames;
+  documents:d0-> stories;
+pages:p0 -> pcols:pcol;
+   pcols:pcol1 -> textFrames;
+   textFrames:tf0 -> tfcols:tfcol;
+   stories:st0 -> stcols:stcol;
+   tfcols:tfcol3 -> characters;
+   tfcols:tfcol2 -> words;
+   tfcols:tfcol1 -> lines;
+   tfcols:tfcol0 -> paragraphs;
+   characters:c0 -> cprops;
+   pcols:pcol2 -> stories;
+   "app" -> "activeDocument";
+   "app" -> acols:d;
+ "activeDocument" -> documents:d0;
+   dcols:p->pages;
+  # dcols:tf0 -> pcols:tf0 [dir=both color="red" style="dotted"];
+   dcols:dcol4 -> stories [dir=both color="red" style="dotted"];
+   dcols:dcol6 -> textFrames [dir=both color="red" style="dotted"];
+  # stcols:c0 -> tfcols:c0 [dir=both color="red" style="dotted"];
+  # pcols:st0 -> stcols:stcol [dir=both color="red" style="dotted"];
+  # pcols:st0 -> dcols:dst0[dir=both color="red" style="dotted"];
+  # dcols:dst0 -> stcols:stcol;
+  # pcols:tf0 -> tfcols:tfcol;
+  # tfcols:c0-> cprops:props;
+  # dcols:tf0 -> tfcols:tfcol;
+  # cprops:fc -> dcols:s3;
+
+#{rank=same stories, textFrames};
+#{rank=same documents, activeDocument};
+# #{rank=same acols, activeDocument};
+
+#{rank=same swatches, pages};
+#{rank=same preferences, dcols};
+##{rank=same pages, pcols};
+#{rank=diff textFrames, tfcols};
+##{rank=same stories, stcols};
+#{rank=same words, lines, paragraphs, characters};
+
+
+
+
+}
