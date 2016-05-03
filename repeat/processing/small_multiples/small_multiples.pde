@@ -70,7 +70,7 @@ class Block {
     this.h = h; // the rects height
     this.w = w; // the rects width
     coords(); // initalize the coordiantes of the rectangles
-  }
+  } // end of complex constructor
 
 
   void coords() {
