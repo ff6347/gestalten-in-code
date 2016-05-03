@@ -22,7 +22,7 @@ void setup() {
     // loop the x axis
     for (int y = stepy; y < height; y+= (height/stepy) ) {
       // loop the y axis
-      //blocks.add(new Block(x, y)); // simple creation of blocks 
+      //blocks.add(new Block(x, y)); // simple creation of blocks
       blocks.add(new Block(x, y, w, h, area, num)); // extend creation of blocks
       println(x + " || " + y); // just to see where the coords are
     } // end of y loop
@@ -72,28 +72,32 @@ class Block {
     coords(); // initalize the coordiantes of the rectangles
   } // end of complex constructor
 
-
+  // we calc our coordiantes for the rectangels
   void coords() {
-    coordinates = new ArrayList<PVector>();
+    coordinates = new ArrayList<PVector>(); // init the list
+    // loop the number of rects
     for (int j = 0; j <this.num; j++) {
+      // add them to the list
       coordinates.add(new PVector(random(-this.area/2, this.area/2), random(-this.area/2, this.area/2)));
     }
   }
+  // we show our block
   void display() {
-    rectMode(CENTER);
-    pushMatrix();
-    translate(this.x, this.y);
+    rectMode(CENTER); // draw them from the center
+    pushMatrix(); // offset the matrix to x/y
+    translate(this.x, this.y); //
     fill(0);
-
+    // loop the coords of the rects
     for (int i = 0; i < this.coordinates.size(); i++) {
-      PVector p = coordinates.get(i);
+      PVector p = coordinates.get(i); // isolate
+      // if we have the last one we want to connect to the first one
       if (i != coordinates.size() -1) {
-        line(p.x, p.y, coordinates.get(i +1).x, coordinates.get(i+1).y);
+        line(p.x, p.y, coordinates.get(i +1).x, coordinates.get(i+1).y); // draw the line
       } else {
         line(p.x, p.y, coordinates.get(0).x, coordinates.get(0).y);
       }
-      rect(p.x, p.y, this.w, this.h);
+      rect(p.x, p.y, this.w, this.h); // draw the rect
     }
-    popMatrix();
-  }
-}
+    popMatrix(); // reset the matrix
+  } // end display
+} // end of class
