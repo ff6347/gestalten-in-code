@@ -42,6 +42,8 @@ I don't know where this will take me but there might be 🐉 and 🐛.
 - color
 - data
 - form
+- - 2D
+- - 3D
 - grid
 - interaction
 - iteration
