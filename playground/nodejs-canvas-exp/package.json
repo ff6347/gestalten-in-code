@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-canvas-exp",
+  "version": "0.0.1",
+  "description": "playing with nodejs canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "./node_modules/.bin/babel src.js -watch --out-file index.js"
+  },
+  "author": "Fabian 'fabiantheblind' Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.4.0"
+  }
+}
