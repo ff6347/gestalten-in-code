@@ -38,5 +38,7 @@ Adobe\ After\ Effects\ Auto-Speichern
 # Particle Photon
 *.bin
 .idlk
-
+# Java compilation
+*.class
+# video and gif creation
 seq/
