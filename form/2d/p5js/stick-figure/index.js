@@ -9,7 +9,7 @@ var bmi = 40; // body mass index
 function setup() {
   // executed once
   colorMode(HSB, 360, 100, 100, 100);
-  var canvas = createCanvas(400, 400);
+  var canvas = createCanvas(500, 500);
   canvas.parent('sketch');
   x = width / 2;
   y = height / 2;
@@ -39,6 +39,7 @@ function setup() {
   vertex(x + w, y + h * 2);
   vertex(x + w, y + h * 3);
   endShape();
+  // saveCanvas(canvas, 'out','png');
 }
 
 function draw() {

@@ -1,4 +1,4 @@
 ---
 layout: default
-tags: gestalt, meta
+tags: [gestalt, meta]
 ---

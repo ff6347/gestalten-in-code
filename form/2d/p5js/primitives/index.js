@@ -5,16 +5,11 @@ var h, w;
  * The setup function is executed once
  */
 function setup() {
-  var canvas = createCanvas(500, 300);
+  var canvas = createCanvas(500, 500);
   canvas.parent('sketch');
   h = height / 4;
   fill('black');
   rectMode(CENTER);
-}
-/**
- * The draw function is executed all the time
- */
-function draw() {
   background('white'); // we need to clear the background
   var area = width / 3; // divide the canvas into three areas
   var x = area / 2; // the first x sits in the middle if an area
@@ -51,4 +46,11 @@ function draw() {
   angle+=(360/5)
   vertex((sin(radians(angle))*radius) + xoff,(cos(radians(angle))*radius) + yoff);
   endShape();
+  // saveCanvas(canvas,'out','png');
+}
+/**
+ * The draw function is executed all the time
+ */
+function draw() {
+
 }

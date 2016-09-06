@@ -80,3 +80,8 @@ Adobe\ After\ Effects\ Auto-Speichern
 # Particle Photon
 *.bin
 
+_site
+.sass-cache
+
+_seq
+npm-debug.log

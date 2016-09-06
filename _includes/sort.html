@@ -1,0 +1,26 @@
+<script type="text/javascript" src={{site.baseurl}}/assets/js/jquery.min.js></script>
+<script type="text/javascript">
+$(document).ready(function() {
+
+  console.log('ready');
+  // var arr = ['p5js','basiljs', 'processing'];
+  // var blocks = $('#blocks');
+  // var sorted = blocks.children('.block').get().sort(function(o1, o2) {
+  //   return $.inArray(o1.className, arr) - $.inArray(o2.className, arr);
+  // });
+  // $.each(sorted, function () {
+  //   $(this).appendTo(blocks);
+  // });
+  $('div.p5js').wrapAll('<div class="all-p5js" />');
+  $('div.processing').wrapAll('<div class="all-processing" />');
+  $('div.basiljs').wrapAll('<div class="all-basiljs" />');
+  $('div.extendscript').wrapAll('<div class="all-extendscript" />');
+  $('div.vanillajs').wrapAll('<div class="all-vanillajs" />');
+
+  $('.all-p5js').prepend('<h2>P5.js</h2><hr>');
+  $('.all-processing').prepend('<h2>Processing</h2><hr>');
+  $('.all-basiljs').prepend('<h2>Basil.js</h2><hr>');
+  $('.all-extendscript').prepend('<h2>Extendscript</h2><hr>');
+});
+
+</script>
