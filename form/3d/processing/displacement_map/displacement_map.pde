@@ -17,11 +17,11 @@ int meshSize = 50; //resolution of your mesh change it for finer mesh
 int xSize, ySize; // size of the mesh
 // set it heigher to lower the extrusion. Goes till 255 but you dont see any effect
 // from 100 on
-float extrusion = 1.9; 
+float extrusion = 1.9;
 
 void setup() {
-  size(720, 480, P3D);// size of sketch
-  extrude = loadImage("grey.png"); // load the image  
+  size(500, 500, P3D);// size of sketch
+  extrude = loadImage("grey.png"); // load the image
   extrude.loadPixels(); // get it's pixles
 
   xSize = extrude.width/meshSize; // get image size x
@@ -61,5 +61,11 @@ void draw() {
       vertex(x * meshSize, y*meshSize+meshSize, val[x][y+1]);
       endShape(CLOSE);
     }
+  }
+}
+
+void keyPressed() {
+  if (key == 's' || key == 'S'){
+    saveFrame("out.png");
   }
 }

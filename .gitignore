@@ -42,3 +42,7 @@ Adobe\ After\ Effects\ Auto-Speichern
 *.class
 # video and gif creation
 seq/
+_site
+.sass-cache
+_seq
+npm-debug.log

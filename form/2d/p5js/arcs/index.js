@@ -13,6 +13,7 @@ function setup() {
     a++;
     i += 13;
   }
+  // saveCanvas(canvas,'out','png');
 }
 function draw() {
 }

@@ -42,8 +42,8 @@ function setup() {
    */
   line(x1, y1, x2, y2);
   line(x2, y1, x1, y2);
-  // saveFrame("lewitt-154.png");
   // we ae done
+  saveCanvas(canvas,'out','png');
 
 
 }

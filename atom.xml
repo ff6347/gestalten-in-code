@@ -1,0 +1,28 @@
+---
+layout: nil
+title: blog atom feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Gestalten in Code</title>
+ <link href="http://fabiantheblind.github.io/gestalten-in-code/atom.xml" rel="self"/>
+ <link href="http://fabiantheblind.github.io/gestalten-in-code/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://fabiantheblind.github.io/gestalten-in-code</id>
+ <author>
+   <name>Fabian Morón Zirfas</name>
+   <email>fabian.moron.zirfas@gmail.com</email>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://fabiantheblind.github.io/gestalten-in-code/{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://fabiantheblind.github.io/gestalten-in-code/{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>

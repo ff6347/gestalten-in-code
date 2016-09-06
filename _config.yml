@@ -1,0 +1,21 @@
+markdown: kramdown
+highlighter: rouge
+exclude: [bower_components,node_modules,about,chance,color,data,grid,gestalt,interact,playground,repeat,typography,motion,build-temp,excludes]
+sass:
+    sass_dir: assets/_scss
+    style: compressed
+baseurl: /gestalten-in-code
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # span, block element options fall back to global
+  # syntax_highlighter_opts:
+  #   # Rouge Options › https://github.com/jneen/rouge#full-options
+  #   css_class: 'highlight'
+  #   span:
+  #     line_numbers: false
+  #   block:
+  #     line_numbers: true
+  #     start_line: 1
+excerpt_separator: "<!-- more -->"
