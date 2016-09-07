@@ -8,3 +8,5 @@ for(int x = step; x < width;x+=step){
     }
   }
 }
+
+saveFrame("out.png");

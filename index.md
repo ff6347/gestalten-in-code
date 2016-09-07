@@ -1,5 +1,6 @@
 ---  
 layout: default
+author: Fabian Morón Zirfas
 title: Gestalten in Code
 categories:
     - meta
@@ -59,3 +60,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </small>
 
 <p class="font_small">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+{% for page in site.pages %}
+<div class="thumb" style="float:left;">
+<a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{site.baseurl}}/{{ page.path | replace:'index.md','' }}thumb.png"></a>
+</div>
+{% endfor %}
+
+<div class="clear-float"></div>

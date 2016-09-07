@@ -1,0 +1,51 @@
+<div id="blocks">
+{% for page in site.pages %}
+{% for tag in page.tags %}
+{% if tag == include.param %}
+<div class="block{% for t in page.tags  %}{% if t != include.param %} {{ t | downcase | replace: '.','' | replace: ' ','-'| replace:'ä','ae' | replace:'ö','oe'| replace:'ü','ue'| replace:'ß','ss' }}{% endif %}{% endfor %}">
+<h3>{{page.title}}</h3>
+<div class="thumb">
+<a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{site.baseurl}}/{{ page.path | replace:'index.md','' }}thumb.png"></a>
+</div>
+{% if page.summary %}
+<div class="summary">
+    <p>{{ page.summary }}</p>
+</div>
+<div class="block-page-tags">{% include icon-tags.html %}
+    {% for t in page.tags  %}
+    {% if t != include.param %}
+    <span><a href="#">{{t}}</a></span>{% unless forloop.last %}, {% endunless %}
+    {% endif %}
+    {% endfor %}
+</div>
+<a href="{{ page.permalink | prepend: site.baseurl }}">see the sketch →</a>
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+</div>
+<div class="clear-float"></div>
+<script type="text/javascript" src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+  console.log('ready');
+  // var arr = ['p5js','basiljs', 'processing'];
+  // var blocks = $('#blocks');
+  // var sorted = blocks.children('.block').get().sort(function(o1, o2) {
+  //   return $.inArray(o1.className, arr) - $.inArray(o2.className, arr);
+  // });
+  // $.each(sorted, function () {
+  //   $(this).appendTo(blocks);
+  // });
+  $('div.p5js').wrapAll('<div class="all-p5js" />');
+  $('div.processing').wrapAll('<div class="all-processing" />');
+  $('div.basiljs').wrapAll('<div class="all-basiljs" />');
+  $('div.extendscript').wrapAll('<div class="all-extendscript" />');
+  $('div.vanillajs').wrapAll('<div class="all-vanillajs" />');
+  $('.all-p5js').prepend('<h2>P5.js</h2>');
+  $('.all-processing').prepend('<h2>Processing</h2>');
+  $('.all-basiljs').prepend('<h2>Basil.js</h2>');
+  $('.all-extendscript').prepend('<h2>Extendscript</h2>');
+});
+</script>

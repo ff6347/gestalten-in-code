@@ -1,5 +1,6 @@
 ---
 layout: default
+author: Fabian Morón Zirfas
 title: Triangle with Shadow
 tags: [Basil.js,distored,duplicate,form]
 permalink: /form/triangle-shadowed/

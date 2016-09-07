@@ -12,6 +12,7 @@ function setup() {
   var off = textWidth('p5');
   textStyle(NORMAL);
   text('js', x + off, y);
+  // saveCanvas(canvas,'out','png');
 }
 
 function draw() {

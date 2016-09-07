@@ -24,6 +24,9 @@ function draw() {
     }
   }
 
-  // b.savePNG('out.png');
+  var fname = File($.fileName).parent.fsName + '/' + ($.fileName.split('/')[$.fileName.split('/').length - 1]).split('.')[0] + '.indd';
+  b.println(fname);
+  doc.save(fname, false, 'basil', true);
+  b.savePNG('out.png');
 }
 b.go();

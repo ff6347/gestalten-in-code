@@ -16,6 +16,14 @@ function mouseDragged() {
   agents.push(new Particle(mouseX, mouseY));
 }
 
+function keyPressed (){
+  // console.log(keyCode);
+  if(keyCode === 83 || keyCode === 16){
+    // lower case and upper case s
+    saveCanvas(canvas, 'out','png');
+  }
+}
+
 function Particle(_x, _y) {
   this.x = _x;
   this.y = _y;

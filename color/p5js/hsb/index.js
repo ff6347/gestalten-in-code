@@ -20,6 +20,7 @@ function setup() {
   h = h + 120;
   fill(h, s, b, a);
   rect((width / 3) * 2, 0, width / 3, height);
+    // saveCanvas(canvas,'out','png');
 }
 
 

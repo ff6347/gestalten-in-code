@@ -1,5 +1,6 @@
 ---   
 layout: default
+author: Fabian Morón Zirfas
 title: Displacement Map
 tags: [processing, displacement,map,3D, form]
 permalink: /form/displacement_map/

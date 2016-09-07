@@ -1,6 +1,6 @@
 markdown: kramdown
 highlighter: rouge
-exclude: [bower_components,node_modules,about,chance,color,data,grid,gestalt,interact,playground,repeat,typography,motion,build-temp,excludes]
+exclude: [bower_components,node_modules,about,gestalt,playground,build-tmp,excludes]
 sass:
     sass_dir: assets/_scss
     style: compressed
@@ -19,3 +19,5 @@ kramdown:
   #     line_numbers: true
   #     start_line: 1
 excerpt_separator: "<!-- more -->"
+repo_url: https://github.com/fabianmoronzirfas/gestalten-in-code
+source_url: https://github.com/fabianmoronzirfas/gestalten-in-code/tree/master
