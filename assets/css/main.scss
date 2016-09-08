@@ -1,4 +1,5 @@
 ---
+meta: True
 ---
 @import 'colors', 'fonts', 'typescale','syntax', 'menu';
 
@@ -39,11 +40,15 @@ pre, code {
 }
 pre {
   background: #F1F1F1 !important;
-   white-space: pre-wrap;       /* css-3 */
- white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
- white-space: -pre-wrap;      /* Opera 4-6 */
- white-space: -o-pre-wrap;    /* Opera 7 */
- word-wrap: break-word;       /* Internet Explorer 5.5+ */
+  // white-space: nowrap;
+  // overflow-y: hidden;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+ //   white-space: pre-wrap;       /* css-3 */
+ // white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ // white-space: -pre-wrap;      /* Opera 4-6 */
+ // white-space: -o-pre-wrap;    /* Opera 7 */
+ // word-wrap: break-word;       /* Internet Explorer 5.5+ */
 
 }
 pre {
@@ -103,19 +108,33 @@ footer {
 
 .block{
   min-height:256px;
-  min-width:50%;
+  width:50%;
 
   overflow:hidden;
   margin-bottom:2em;
   padding-left:2em;
   padding-right:2em;
-  border-left: 1px solid $colGrey;
+  // border-left: 1px solid $colGrey;
   float:left;
   .thumb{
     float: left;
-    padding: 0 1em;
+    padding: 0 0.5em;
     img{
     }
+  }
+  .block-info{
+  min-height:128px;
+  h3{
+    font-size:1.2em;
+    margin-top:0;
+    span.block-title-link{
+      [class^="icon-"], [class*=" icon-"] {
+    height: 16px;
+    width: 16px;
+
+  }
+    }
+  }
   }
 }
 
@@ -132,10 +151,19 @@ footer {
   [class^="icon-"], [class*=" icon-"] {
     height: 20px;
     width: 20px;
-
+    position:relative;
+    top:2px;
   }
 }
 
+.summary-link{
+ [class^="icon-"], [class*=" icon-"] {
+    height: 16px;
+    width: 16px;
+    position:relative;
+    top:2px;
+  }
+}
  .block-page-tags{
   padding-left:1em;
   [class^="icon-"], [class*=" icon-"] {
@@ -168,6 +196,7 @@ footer {
   width:100%;
   text-align:center;
 }
+
 @media only screen
 and (max-device-width : 450px)
 and (orientation : portrait) {
@@ -186,4 +215,38 @@ and (orientation : portrait) {
   html{
     // font-size:1em;
   }
+}
+
+// -----
+
+@media only screen
+and (max-device-width : 450px)
+and (orientation : portrait) {
+/* STYLES GO HERE */
+.block{
+  padding:0;
+  width:100%;
+}
+}
+@media only screen
+and (max-width : 799px) {
+/* STYLES GO HERE */
+.block{
+  padding:0;
+  width:100%;
+}
+.block-page-tags{
+
+  }
+}
+// -----
+@media only screen
+and (min-width :800px ) {
+ pre {
+   white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+ }
 }

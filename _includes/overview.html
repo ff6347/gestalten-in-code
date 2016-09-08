@@ -3,22 +3,26 @@
 {% for tag in page.tags %}
 {% if tag == include.param %}
 <div class="block{% for t in page.tags  %}{% if t != include.param %} {{ t | downcase | replace: '.','' | replace: ' ','-'| replace:'ä','ae' | replace:'ö','oe'| replace:'ü','ue'| replace:'ß','ss' }}{% endif %}{% endfor %}">
-<h3>{{page.title}}</h3>
 <div class="thumb">
 <a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{site.baseurl}}/{{ page.path | replace:'index.md','' }}thumb.png"></a>
 </div>
-{% if page.summary %}
-<div class="summary">
-    <p>{{ page.summary }}</p>
-</div>
-<div class="block-page-tags">{% include icon-tags.html %}
+<div class="block-info">
+
+<h3>{{page.title}}</h3>
+<div class="block-page-tags font_small">{% include icon-tags.html %}
     {% for t in page.tags  %}
     {% if t != include.param %}
     <span><a href="#">{{t}}</a></span>{% unless forloop.last %}, {% endunless %}
     {% endif %}
     {% endfor %}
 </div>
-<a href="{{ page.permalink | prepend: site.baseurl }}">see the sketch →</a>
+</div>
+
+
+{% if page.summary %}
+<div class="summary">
+    <p>{{ page.summary }} <a href="{{ page.permalink | prepend: site.baseurl }}"><span class="summary-link">{% include icon-link.html %}</span></a></p>
+</div>
 </div>
 {% endif %}
 {% endif %}
