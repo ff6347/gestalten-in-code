@@ -12,8 +12,6 @@ archive: circular.zip
 
 <!-- more -->
 
-{% include out-gif.html %}
-
 ```java
 {% include_relative circular.pde %}
 ```
