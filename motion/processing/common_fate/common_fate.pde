@@ -23,7 +23,8 @@ void setup() {
 void draw() {
   background(255); // clear the background
   sys.run(); // run the system
-  //saveFrame("seq/out-####.png");
+  // saveFrame("seq/out-####.png");
+  // if(frameCount == 250) exit();
 }
 /**
  * the particle system cass

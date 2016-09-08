@@ -2,10 +2,8 @@
 layout: default
 author: Fabian Morón Zirfas
 title: Gestalten in Code
-categories:
-    - meta
-    - foo
 tags: [welcome, foo]
+meta: True
 ---  
 
 ## Gestalt | Definition of Gestalt by Merriam-Webster
@@ -63,9 +61,15 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
 {% for page in site.pages %}
-<div class="thumb" style="float:left;">
-<a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{site.baseurl}}/{{ page.path | replace:'index.md','' }}thumb.png"></a>
+{% if page.meta == nil  %}
+
+<div class="thumb" style="float:left; margin: 1em;max-width:128px;">
+<a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{site.baseurl}}/{{ page.path | replace:'index.md','' }}thumb.png">
+<div><small>{{page.title | truncate: 13,'…' | append: ' →'}}</small></div>
+</a>
+<div class="clear-float"></div>
 </div>
+{% endif %}
 {% endfor %}
 
 <div class="clear-float"></div>

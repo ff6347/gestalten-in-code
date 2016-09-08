@@ -34,7 +34,7 @@ void setup() {
     .setValue(distance);
   background(white);  // bg for startup
 
-  size(800, 500);
+  size(500, 500);
   // the starting distance for the calculation of the lines
   // create the NodeSystem with distance
   ns = new NodeSystem(distance);
@@ -66,6 +66,13 @@ void draw() {
   noStroke();
   rect(0, 0, 250, 100);
 
-  //saveFrame("images/nodes-####.jpg");
+  
   //  noLoop();
+}
+
+void keyPressed(){
+  if(key == 's' || key == 'S'){
+    saveFrame("out.png");
+  
+  }
 }

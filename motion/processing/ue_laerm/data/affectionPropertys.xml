@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  These are the propertys of the ObstacleObjects from the project TMN UE Laerm
+		the Code can be found here: http://code.google.com/p/tmn-ue-learm/ -->
+<root>
+<obstclObject id="0" name="Lightning">
+	<day>
+		<private value="2" />
+		<public value="1" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="0" />
+		<public value="1" />
+		<work value="0" ></work>
+	</nite>
+</obstclObject>
+<obstclObject id="1" name="Alarm System">
+	<day>
+		<private value="-1" />
+		<public value="-2" />
+		<work value="-1" />
+	</day>
+	<nite>
+		<private value="-1" />
+		<public value="-2" />
+		<work value="-1" />
+	</nite>
+</obstclObject>
+<obstclObject id="2" name="Construction">
+	<day>
+		<private value="-1" />
+		<public value="0" />
+		<work value="-1" />
+	</day>
+	<nite>
+		<private value="-1" />
+		<public value="0" />
+		<work value="-1" />
+	</nite>
+</obstclObject>
+<obstclObject id="3" name="Street Music">
+	<day>
+		<private value="0" />
+		<public value="2" />
+		<work value="1" />
+	</day>
+	<nite>
+		<private value="-1" />
+		<public value="1" />
+		<work value="0" />
+	</nite>
+</obstclObject>
+<obstclObject id="4" name="Traffic">
+	<day>
+		<private value="-1" />
+		<public value="0" />
+		<work value="-1" />
+	</day>
+	<nite>
+		<private value="-2" />
+		<public value="0" />
+		<work value="-1" />
+	</nite>
+</obstclObject>
+<obstclObject id="5" name="Birds">
+	<day>
+		<private value="2" />
+		<public value="2" />
+		<work value="1" />
+	</day>
+	<nite>
+		<private value="0" />
+		<public value="2" />
+		<work value="0" />
+	</nite>
+</obstclObject>
+<obstclObject id="6" name="Kids">
+	<day>
+		<private value="0" ></private>
+		<public value="1" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="-1" />
+		<public value="1" />
+		<work value="-1" />
+	</nite>
+</obstclObject>
+<obstclObject id="7" name="Dogs">
+	<day>
+		<private value="0" />
+		<public value="1" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="-1" />
+		<public value="0" />
+		<work value="-1" />
+	</nite>
+</obstclObject>
+<obstclObject id="8" name="Background Noise">
+	<day>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</nite>
+</obstclObject>
+<obstclObject id="9" name="Background Noise">
+	<day>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</nite>
+</obstclObject>
+<obstclObject id="10" name="Background Noise">
+	<day>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</nite>
+</obstclObject>
+<obstclObject id="11" name="Background Noise">
+	<day>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</nite>
+</obstclObject>
+<obstclObject id="12" name="Background Noise">
+	<day>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</nite>
+</obstclObject>
+<obstclObject id="13" name="Background Noise">
+	<day>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</day>
+	<nite>
+		<private value="0" />
+		<public value="0" />
+		<work value="0" />
+	</nite>
+</obstclObject>
+</root>
