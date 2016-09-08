@@ -10,6 +10,8 @@ archive: circular.zip
 
 <div class="hero">{{page.summary}}</div>
 
+{% include out-gif.html %}
+
 <!-- more -->
 
 ```java
