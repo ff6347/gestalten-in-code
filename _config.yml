@@ -1,6 +1,6 @@
 markdown: kramdown
 highlighter: rouge
-exclude: [bower_components,node_modules,about,gestalt,playground,build-tmp,excludes]
+exclude: [bower_components,node_modules,gestalt,playground,build-tmp,excludes]
 sass:
     sass_dir: assets/_scss
     style: compressed

@@ -16,7 +16,6 @@ meta: True
 
 {% for page in site.pages %}
 {% if page.meta == nil  %}
-
 <div class="thumb" style="float:left; margin: 1em;max-width:128px;">
 <a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{site.baseurl}}/{{ page.path | replace:'index.md','' }}thumb.png">
 <div><small>{{page.title | truncate: 13,'…' | append: ' →'}}</small></div>

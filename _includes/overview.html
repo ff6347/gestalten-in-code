@@ -1,5 +1,6 @@
 <div id="blocks">
 {% for page in site.pages %}
+{% if page.meta == nil %}
 {% for tag in page.tags %}
 {% if tag == include.param %}
 <div class="block{% for t in page.tags  %}{% if t != include.param %} {{ t | downcase | replace: '.','' | replace: ' ','-'| replace:'ä','ae' | replace:'ö','oe'| replace:'ü','ue'| replace:'ß','ss' }}{% endif %}{% endfor %}">
@@ -27,6 +28,7 @@
 {% endif %}
 {% endif %}
 {% endfor %}
+{% endif %}
 {% endfor %}
 </div>
 <div class="clear-float"></div>

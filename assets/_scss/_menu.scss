@@ -23,12 +23,13 @@ header {
 }
 nav > ul {
     // float: right;
+    max-width:800px;
 }
 
 nav > ul > li {
     text-align: center;
     line-height: 40px;
-    margin-left: 1em;
+    margin-left: 0.5em;
 }
 
 nav > ul li ul li {
@@ -134,6 +135,7 @@ label:after{
   nav > ul li ul li {
       display: block;
       float: none;
+      list-style:none;
   }
 
   nav > ul li ul {

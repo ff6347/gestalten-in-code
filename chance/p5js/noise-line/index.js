@@ -51,6 +51,6 @@ function draw() {
   p2x = p1x;
   p2y = p1y;
   if (p1x === width / 2) {
-    saveCanvas(canvas,'out','png');
+    // saveCanvas(canvas,'out','png');
   }
 }

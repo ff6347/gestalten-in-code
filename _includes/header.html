@@ -9,6 +9,17 @@
     <ul id="menu-list">
       {% for item in site.data.menu %}
         <li class="menu-item"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></li>
+     {% comment %}
+
+        {% if item.sub != nil %}
+          <ul>
+            {% for sub in item.sub %}
+              <li class="menu-item"><a href="{{site.baseurl}}{{sub.url}}">{{sub.title}}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+     {% endcomment %}
+
       {% endfor %}
     </ul>
   </nav>
