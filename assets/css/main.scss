@@ -76,6 +76,10 @@ a {
   color: darken($colLime1, 25%);
   text-decoration: none;
 }
+hr{
+  border: 1px dotted $colGrey;
+  margin-bottom:3em;
+}
 blockquote {
   font-style: italic;
   margin: 1em;
@@ -88,7 +92,19 @@ blockquote {
 // }
 footer {
   border-top: 1px solid $colGrey;
-  // width: 100vw;
+.foot{
+  margin:0 auto;
+  width: 50%;
+  p{
+    [class^="icon-"], [class*=" icon-"] {
+    height: 0.99em;
+    width: 0.99em;
+    position:relative;
+    top:2px;
+  }
+
+  }
+}
 }
 // #logo{
 //   max-width:32px;
@@ -222,6 +238,20 @@ and (orientation : portrait) {
   width:100%;
   min-height:256px;
   height:300px;
+}
+footer,{
+  padding:1em;
+   .foot{
+  margin: 0 auto;
+  width:100%;
+  }
+}
+
+.hero{
+  font-size:1.2em;
+}
+html{
+  font-size:1.1em;
 }
 }
 // @media only screen

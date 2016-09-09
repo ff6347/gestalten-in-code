@@ -9,7 +9,7 @@ meta: True
 > "program the beautiful"  
 > Max Bense  
 
-<div class="hero">What is <em>"Gestalten in Code"</em>? It is an exploration into the the depths of generative design. It is learning material for an upcoming seminar at the <a href="http://www.fh-potsdam.de/">University of Applied Sciences Potsdam (Germany)</a> by <a href="http://fabianmoronzirfas.me/">Fabian Morón Zirfas</a>. It is an attempt to apply the "Laws of Gestalt" in programming. Last but not least it is a comparison of several creative coding frameworks. To show how the same language can be applied in different contexts. Follow me while into the rabbits hole of <a href="{{site.baseurl}}/p5/">"P5"</a>.</div>  
+<div class="hero">What is <em>"Gestalten in Code"</em>?<br>It is an exploration into the the depths of generative design. It is learning material for an upcoming seminar at the <a href="http://www.fh-potsdam.de/">University of Applied Sciences Potsdam (Germany)</a> by <a href="http://fabianmoronzirfas.me/">Fabian Morón Zirfas</a>. It is an attempt to apply the "Laws of Gestalt" in programming. Last but not least it is a comparison of several creative coding frameworks. To show how the same language can be applied in different contexts. Follow me while into the rabbits hole of <a href="{{site.baseurl}}/p5/">"P5"</a>.</div>  
 
 The examples on this site are clustered in different ways. By topics like [form](/gestalten-in-code/form), [color](/gestalten-in-code/color), [typography](/gestalten-in-code/typography), by language like [Processing](/gestalten-in-code/processing), [P5.js](/gestalten-in-code/p5js), [Basil.js](/gestalten-in-code/basiljs) and also by the Laws of Gestalt like proximity, similarity or common fate _(to name a few)_. Feel free to explore them. If you run into any errors, have questions or contributions contact me on [GitHub](https://github.com/fabianmoronzirfas/gestalten-in-code/issues).  
 
@@ -35,12 +35,6 @@ In the book "2d Visual Perception: Elementary Phenomena of Two-dimensional Perce
 {% endcomment %}
 
 
-
-
-
-
-
-
 {% comment %}
 ## Gestalt | Definition of Gestalt by Merriam-Webster
 
@@ -49,7 +43,8 @@ In the book "2d Visual Perception: Elementary Phenomena of Two-dimensional Perce
 >Simple Definition of gestalt
 >psychology : something that is made of many parts and yet is somehow more than or different from the combination of its parts; broadly : the general quality or character of something  
 [source](http://www.merriam-webster.com/dictionary/gestalt)  
+
 {% endcomment %}
 
-
+<hr>
 {% include index-overview.html %}
