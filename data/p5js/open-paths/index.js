@@ -57,6 +57,7 @@ var FHP_eastlon = 13.054676055908203; // the most right point
 var locs = [];
 var json = null;
 function preload() {
+
   json = loadJSON('https://raw.githubusercontent.com/fabianmoronzirfas/gestalten-in-code/master/data/p5js/open-paths/openpaths_fabiantheblind.json');
 }
 function setup() {

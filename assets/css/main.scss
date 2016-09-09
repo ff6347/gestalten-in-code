@@ -184,7 +184,11 @@ p {
 #sketch{
   width:100%;
   text-align:center;
+  canvas{
+    object-fit:contain !important;
+  }
 }
+
 
 @media only screen
 and (max-device-width : 450px)
