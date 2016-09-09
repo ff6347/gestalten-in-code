@@ -119,6 +119,16 @@ footer {
   }
 }
 
+.page-tags{
+  padding-bottom:2em;
+   padding-left:1em;
+  [class^="icon-"], [class*=" icon-"] {
+    height: 16px;
+    width: 16px;
+    position:relative;
+    top:2px;
+  }
+}
 
 .hero{
   font-size:1.3em;
