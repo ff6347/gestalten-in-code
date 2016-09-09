@@ -2,7 +2,7 @@
 layout: default
 author: Fabian Morón Zirfas
 title: Gestalten in Code
-tags: [welcome, foo]
+tags: [welcome, foo, ]
 permalink: styles
 meta: True
 ---

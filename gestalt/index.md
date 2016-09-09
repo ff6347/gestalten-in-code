@@ -1,6 +1,6 @@
 ---
 layout: default
 author: Fabian Morón Zirfas
-tags: [gestalt, meta]
+tags: [gestalt, meta, ]
 meta: True
 ---

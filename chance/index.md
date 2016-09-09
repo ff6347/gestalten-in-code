@@ -2,7 +2,7 @@
 layout: default
 author: Fabian Morón Zirfas
 title: Chance
-tags: [basil.js, processing, P5.js]
+tags: [basil.js, processing, P5.js, ]
 summary: The chance that something happens.  
 meta: True
 ---  

@@ -2,7 +2,7 @@
 layout: default
 author: Fabian Morón Zirfas
 title: Dialog and Overflow
-tags: [Basil.js, repeat, interact, typography, unicode]
+tags: [Basil.js, repeat, interact, typography, unicode, ]
 permalink: /repeat/dialog-and-overflow/
 summary: This example creates a dialog and waits for the user to make a selection.     
 archive: dialog-and-overflow.zip

@@ -2,7 +2,7 @@
 layout: default
 author: Fabian Morón Zirfas
 title: 3D Cubes
-tags: [basil.js,3D, form, advanced]
+tags: [basil.js,3D, form, advanced, ]
 permalink: /form/cube-3d/
 summary: Creating 3D forms in InDesign
 archive: cube.zip

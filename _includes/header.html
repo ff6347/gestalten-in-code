@@ -8,31 +8,12 @@
   <a href="#" id="menu-icon"></a>
     <ul id="menu-list">
       {% for item in site.data.menu %}
-        <li class="menu-item"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></li>
-     {% comment %}
-
-        {% if item.sub != nil %}
-          <ul>
-            {% for sub in item.sub %}
-              <li class="menu-item"><a href="{{site.baseurl}}{{sub.url}}">{{sub.title}}</a></li>
-            {% endfor %}
+        <li class="menu-item"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></li>{% comment %}{% if item.sub != nil %}
+          <ul>{% for sub in item.sub %}
+              <li class="menu-item"><a href="{{site.baseurl}}{{sub.url}}">{{sub.title}}</a></li>{% endfor %}
           </ul>
-        {% endif %}
-     {% endcomment %}
-
-      {% endfor %}
+        {% endif %}{% endcomment %}{% endfor %}
     </ul>
   </nav>
 </div>
 </header>
-  {% if page.archive != "" and page.archive != nil %}
-  <div class="archive">
-  {% assign folder_name = page.path | replace: "index.md", "" | split:"/" | last %}
-  <a href="{{site.baseurl}}/{{ page.path | replace: folder_name,'' |replace: '/index.md', page.archive }}">{% include icon-download.html %}</a>
-  </div>
-  {% endif %}
-    <div class="source">
-  <a href="{{ site.source_url }}/{{page.path  | replace: 'index.md', '' }}"> {% include icon-code.html %}</a>
-  </div>
-  <h1 id="title">{{page.title}}</h1>
-  <div class="clear-float"></div>

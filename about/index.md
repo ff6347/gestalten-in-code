@@ -4,6 +4,7 @@ author: Fabian Morón Zirfas
 title: About
 meta: True
 permalink: /about/
+nosource: True
 ---  
 
 ## Processing [{% include icon-link.html %}]({{site.baseurl}}/processing/)  

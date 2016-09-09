@@ -1,6 +1,22 @@
 {% include head.html %}
 {% include header.html %}
     <section>
+      <div id="sub-header">
+        {% if page.archive != "" and page.archive != nil %}
+  <div class="archive">
+  {% assign folder_name = page.path | replace: "index.md", "" | split:"/" | last %}
+  <a href="{{site.baseurl}}/{{ page.path | replace: folder_name,'' |replace: '/index.md', page.archive }}">{% include icon-download.html %}</a>
+  </div>
+  {% endif %}
+  {% if page.nosource == nil %}
+    <div class="source">
+  <a href="{{ site.source_url }}/{{page.path  | replace: 'index.md', '' }}"> {% include icon-code.html %}</a>
+  </div>{% endif %}
+  <h1 id="title">{{page.title}}</h1>
+  <div class="clear-float"></div>
+      </div>
+    </section>
+    <section>
       <div id="main">
         {{content}}
       </div>

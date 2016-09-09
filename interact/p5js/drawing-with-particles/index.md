@@ -2,7 +2,7 @@
 layout: default
 author: Fabian Morón Zirfas
 title: Drawing with Particles
-tags: [P5.js, repeat, interact, mouse, key]
+tags: [P5.js, repeat, interact, mouse, key, ]
 permalink: /repeat/drawing-with-particles
 summary: This example shows different interaction types. Keycodes and mouse movement.
 archive: drawing-with-particles.zip

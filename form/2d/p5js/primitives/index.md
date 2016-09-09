@@ -2,7 +2,7 @@
 layout: default
 author: Fabian Morón Zirfas
 title: Primitives
-tags: [P5.js, form]
+tags: [P5.js, form, ]
 permalink: /form/primitives
 summary: just primitive shapes
 ---

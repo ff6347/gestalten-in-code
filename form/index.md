@@ -2,7 +2,7 @@
 layout: default
 author: Fabian Morón Zirfas
 title: Form
-tags: [basil.js, processing, P5.js, 2D, 3D]
+tags: [basil.js, processing, P5.js, 2D, 3D, ]
 meta: True
 ---  
 
