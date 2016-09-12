@@ -2,50 +2,59 @@
   {
     "title": "<svg class=\"icon-home\"><use xlink:href=\"/gestalten-in-code/assets/fonts/icons.svg#icon-home\"></use></svg>",
     "url": "/"
-  },
-  {
-    "title": "Form",
-    "url": "/form"
-  },
-  {
-    "title": "Color",
-    "url": "/color"
-  },
-  {
-    "title": "Typography",
-    "url": "/typography"
-  },
-  {
-    "title": "Grid",
-    "url": "/grid"
-  },
-  {
-    "title": "Chance",
-    "url": "/chance"
-  },
-  {
-    "title": "Repeat",
-    "url": "/repeat"
-  },
-  {
-    "title": "Interact",
-    "url": "/interact"
-  },
-  {
-    "title": "Motion",
-    "url": "/motion"
-  },
-  {
-    "title": "Data",
-    "url": "/data"
   },{
-    "title": "About",
-    "url":"/about",
-    "sub":[
-      {
-    "title": "Processing",
-    "url": "/processing"
+    "title":"Categories",
+    "url":"/categories"
   },
-    ]
-  }
-]
+  {"title":"Frameworks",
+    "url":"/frameworks"
+    },{
+      "title":"Laws of Gestalt",
+      "url":"/laws"
+    }
+],
+ "old":[ {
+     "title": "Form",
+     "url": "/form"
+   },
+   {
+     "title": "Color",
+     "url": "/color"
+   },
+   {
+     "title": "Typography",
+     "url": "/typography"
+   },
+   {
+     "title": "Grid",
+     "url": "/grid"
+   },
+   {
+     "title": "Chance",
+     "url": "/chance"
+   },
+   {
+     "title": "Repeat",
+     "url": "/repeat"
+   },
+   {
+     "title": "Interact",
+     "url": "/interact"
+   },
+   {
+     "title": "Motion",
+     "url": "/motion"
+   },
+   {
+     "title": "Data",
+     "url": "/data"
+   },{
+     "title": "About",
+     "url":"/about",
+     "sub":[
+       {
+     "title": "Processing",
+     "url": "/processing"
+   },
+     ]
+   }]

@@ -6,7 +6,7 @@ meta: True
   -moz-box-sizing: border-box;
   box-sizing: border-box;
     box-sizing: border-box;}
-@import 'mixins', 'colors', 'fonts', 'typescale','syntax', 'menu', 'blocks';
+@import 'mixins', 'colors', 'fonts', 'typescale','syntax', 'menu', 'blocks','link-icon';
 
 body {
 
@@ -38,14 +38,14 @@ h1, h2, h3, h4, h5, h6, strong {
   width: 100%;
 }
 em{
-  font-family:'vollkornitalic';
+  font-family:'vollkornitalic', 'Georgia', serif;
 }
 
 strong{
-  font-family:'vollkornbold';
+  font-family:'vollkornbold', 'Georgia', serif;
 }
 strong em, em strong{
-  font-family:'vollkornbold_italic';
+  font-family:'vollkornbold_italic', 'Georgia', serif;
 }
 pre, code {
   font-family: monospace;
@@ -73,7 +73,7 @@ code {
   vertical-align: text-bottom;
 }
 a {
-  color: darken($colLime1, 25%);
+  color: $colLinks;
   text-decoration: none;
 }
 hr{
@@ -81,7 +81,7 @@ hr{
   margin-bottom:3em;
 }
 blockquote {
-  font-style: italic;
+  font-family:'vollkornitalic', 'Georgia', serif;
   margin: 1em;
   font-size: 1.44em;
   border-left: 5px solid lighten($colGrey, 50%);
@@ -120,19 +120,30 @@ footer {
 }
 
 .page-tags{
-  padding-bottom:2em;
-   padding-left:1em;
+  // padding-bottom:2em;
+   // padding-left:1em;
+}
+.page-tags, .author{
   [class^="icon-"], [class*=" icon-"] {
     height: 16px;
     width: 16px;
     position:relative;
     top:2px;
   }
+  padding-left:1em;
 }
 
-.hero{
-  font-size:1.3em;
+#sub-header:last-child{
+  padding-bottom:2em;
 }
+// .page-tags + .author{
+//   padding-bottom:2em;
+
+// }
+
+// .hero{
+//   font-size:1.3em;
+// }
 
 // out.html in includes
 
@@ -251,7 +262,14 @@ and (orientation : portrait) {
   padding:1em;
   width:100%;
   min-height:256px;
-  height:300px;
+  // height:300px;
+  display:table;
+  .summary{
+    p{
+      margin-bottom:0;
+    }
+    padding-bottom:2em;
+  }
 }
 footer,{
   padding:1em;
@@ -261,9 +279,9 @@ footer,{
   }
 }
 
-.hero{
-  font-size:1.2em;
-}
+// .hero{
+//   font-size:1.2em;
+// }
 html{
   font-size:1.1em;
 }

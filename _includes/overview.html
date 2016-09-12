@@ -7,7 +7,7 @@
 <h3>{{page.title}}</h3>
   <div class="block-page-tags font_small">{% include icon-tags.html %}
     {% for t in page.tags  %}
-    <span><a href="#">{{t}}</a></span>{% unless forloop.last %}, {% endunless %}{% endfor %}
+    <span>{{t}}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}
     </div>
 </div>
 {% if page.summary %}<div class="summary">

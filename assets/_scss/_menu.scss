@@ -1,3 +1,4 @@
+@import 'colors','mixins';
 // --------- MENU -------
 // based on this codepen
 // http://codepen.io/andreasstorm/pen/lriga
@@ -27,9 +28,17 @@ nav > ul {
 }
 
 nav > ul > li {
+    text-size:40px;
     text-align: center;
     line-height: 40px;
     margin-left: 0.5em;
+  [class^="icon-"], [class*=" icon-"] {
+    height: 30px;
+    width: 30px;
+    position:relative;
+    top:10px;
+
+  }
 }
 
 nav > ul li ul li {
@@ -94,6 +103,7 @@ nav > ul li ul li > a {
       position: absolute;
       right: 0px;
       top: 0px;
+      @include rounded(0,0,0,5px);
   }
 
 label:after{
@@ -101,9 +111,9 @@ label:after{
   display: block;
   width: 30px;
   height: 5px;
-  background: #777;
+  background: $colLinks;
   margin: 7px 5px;
-  box-shadow: 0px 10px 0px #777, 0px 20px 0px #777
+  box-shadow: 0px 10px 0px $colLinks, 0px 20px 0px $colLinks
 }
 
   [type="checkbox"]:checked ~ ul {
@@ -125,7 +135,7 @@ label:after{
       width: 100%;
       text-align: left;
       background: #222;
-      text-indent: 20px;
+      text-indent: 40px;
   }
 
   nav > ul > li {

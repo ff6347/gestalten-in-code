@@ -9,9 +9,11 @@
   padding-right:1em;
   padding-top:1em;
   margin-right:2%;
-  border-left: 1px solid $colGrey;
-  border-bottom: 2px solid $colGrey;
-  @include shadow();
+  // border-left: 1px solid $colGrey;
+  // border-bottom: 2px solid $colGrey;
+    border: 2px dotted $colGrey;
+
+  // @include shadow();
   @include rounded();
   // border-left: 1px solid $colGrey;
   float:left;
@@ -45,15 +47,18 @@
     // float:left;
     text-align:center;
     // display: inline-block !important;
-    max-width:128px;
-    @include shadow();
+    // max-width:128px;
+    // @include shadow();
     @include rounded();
-    background-color:$colGrey;
+    border: 2px dotted $colGrey;
+    // background-color:$colGrey;
     margin:0.5em;
     margin-bottom:1em;
     img{
       @include rounded(5px, 5px, 0, 0);
       background:white;
+      max-width:90%;
+      margin-top:5%;
     }
     a{
     .thumb-title{
