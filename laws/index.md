@@ -28,18 +28,18 @@ Later several other laws where introduced. The Law of Common Region, the Law of 
 - the ["Law of Connected Elements"](/gestalten-in-code/law-of/connected-elements)  
 
 
-## Law of Proximity [{% include icon-link.html %}]({{site.baseurl}}/law-of/proximity/)
+## Law of Proximity [{% include icon-link.html %}]({{site.baseurl}}/law-of/proximity)
 
 {% include filtered-index-overview.html param="Law of Proximity" %}
 
 
 
-## Law of Similarity [{% include icon-link.html %}]({{site.baseurl}}/law-of/similarity/)
+## Law of Similarity [{% include icon-link.html %}]({{site.baseurl}}/law-of/similarity)
   
 {% include filtered-index-overview.html param="Law of Similarity" %}
 
 
-## Law of Prägnanz [{% include icon-link.html %}]({{site.baseurl}}/law-of/praegnanz/)
+## Law of Prägnanz [{% include icon-link.html %}]({{site.baseurl}}/law-of/praegnanz)
   
 {% include filtered-index-overview.html param="Law of Prägnanz" %}
 
@@ -48,21 +48,21 @@ Later several other laws where introduced. The Law of Common Region, the Law of 
   
 {% include filtered-index-overview.html param="Law of Continuity" %}
 
-## Law of Closure [{% include icon-link.html %}]({{site.baseurl}}/law-of/closure/)
+## Law of Closure [{% include icon-link.html %}]({{site.baseurl}}/law-of/closure)
   
 {% include filtered-index-overview.html param="Law of Closure" %}
 
 
 
-## Law of Common Fate [{% include icon-link.html %}]({{site.baseurl}}/law-of/common-fate/)
+## Law of Common Fate [{% include icon-link.html %}]({{site.baseurl}}/law-of/common-fate)
   
 {% include filtered-index-overview.html param="Law of Common Fate" %}
 
-## Law of Gestaltwechsel [{% include icon-link.html %}]({{site.baseurl}}/law-of/gestaltwechsel/)
+## Law of Gestaltwechsel [{% include icon-link.html %}]({{site.baseurl}}/law-of/gestaltwechsel)
   
 {% include filtered-index-overview.html param="Law of Gestaltwechsel" %}
 
-## Law of Connected Elements [{% include icon-link.html %}]({{site.baseurl}}/law-of/connected-elements/)
+## Law of Connected Elements [{% include icon-link.html %}]({{site.baseurl}}/law-of/connected-elements)
   
 {% include filtered-index-overview.html param="Law of Connected Elements" %}
 
