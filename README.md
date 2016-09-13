@@ -18,8 +18,6 @@ Gestalten in Code
 >Gestalt psychology or gestaltism (German: Gestalt [ɡəˈʃtalt] "shape, form") is a theory of mind of the Berlin School of experimental psychology. Gestalt psychology tries to understand the laws of our ability to acquire and maintain meaningful perceptions in an apparently chaotic world. The central principle of gestalt psychology is that the mind forms a global whole with self-organizing tendencies.
 [source](https://en.m.wikipedia.org/wiki/Gestalt_psychology)
 
-
-
 ## gestalt - Wiktionary
 
 >gestalt ‎(plural gestalts or gestalten)
@@ -35,18 +33,6 @@ What does it means to design with code? Is it a way of thinking? Is it a tool? I
 ## Disclaimer  
 
 I don't know where this will take me but there might be 🐉 and 🐛.  
-
-## TOC
-
-- chance
-- color
-- data
-- form
-- grid
-- interaction
-- iteration
-- motion
-- typography
 
 ## License (ISC)
 
