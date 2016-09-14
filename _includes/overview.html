@@ -9,6 +9,9 @@
     {% for t in page.tags  %}
     <span>{{t}}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}
     </div>
+        {% if page.author != nil %}
+      <div class="author font_small">{% include icon-pencil.html %}<span> {% if page.author-url !=nil %}<a href="{{page.author-url}}">{% endif %}{{ page.author }}{% if page.author-url !=nil %}</a>{% endif %}</span></div>
+    {% endif %}
 </div>
 {% if page.summary %}<div class="summary">
     <p>{{ page.summary }} <a href="{{ page.permalink | prepend: site.baseurl }}"><span class="summary-link">{% include icon-link.html %}</span></a></p>
