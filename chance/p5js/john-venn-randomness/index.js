@@ -169,6 +169,6 @@ function draw() {
   line(startpoint.x, startpoint.y, nextpoint.x, nextpoint.y);
   startpoint = nextpoint;
   if(frameCount === 500) {
-    saveCanvas(canvas, 'out', 'png');
+    // saveCanvas(canvas, 'out', 'png');
   }
 }
