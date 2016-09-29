@@ -6,4 +6,4 @@ permalink: basiljs
 nosource: True
 ---
 
-{% include overview.html param="Basil.js" %}
+{% include overview-single.html param="Basil.js" %}

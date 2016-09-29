@@ -6,4 +6,4 @@ permalink: extendscript
 nosource: True
 ---
 
-{% include overview.html param="extendscript" %}
+{% include overview-single.html param="extendscript" %}

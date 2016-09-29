@@ -12,7 +12,7 @@ This is a list of recommended books and publications that should be read.
 * TOC  
 {:toc}
 
-## Articles  
+## Articles/Papers  
 
 ### The Digital Computer As A Creative Medium by A. M. Noll
 
@@ -29,6 +29,12 @@ Bulletin Of The Computer Arts Society October 1971
 > (…)  
 > The discussion centers around the question "is it or is it not art?", and is heated, often extremely ignorant and prejudiced, showing virtually no progress, highly repetitive, although the few interesting new methods and the little knowledge of computers that one needs have been published several years ago. (See e.g. [4] . For a recent survey including a bibliography, see [8] ). I was involved in this development from its beginning on- ward (1964). 1 found the way the art scene reacted to the new creations interesting, pleasing and stupid. 1 stated in 1970 [6] that 1 was no longer going to take part in exhibitions. (…)  
 > [link](http://www.bbk.ac.uk/hosted/cache/archive/PAGE/PAGE18.pdf)  
+
+
+### What is generative art? by Margaret A. Boden & Ernest A. Edmonds 
+
+> There are various forms of what's sometimes called generative art, or computer art. This paper distinguishes the major categories and asks whether the appropriate aesthetic criteria—and the locus of creativity—are the same in each case.  
+> [link](https://www.researchgate.net/profile/Ernest_Edmonds2/publication/233128802_What_is_generative_art/links/00463521693ec679c8000000.pdf)  
 
 ## Books 
 
