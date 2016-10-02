@@ -3,7 +3,7 @@ layout: default
 author: Fabian Morón Zirfas
 title: Gestalten in Code
 tags: [welcome, foo, ]
-permalink: styles
+permalink: /styles/
 meta: True
 ---
 # heading 1

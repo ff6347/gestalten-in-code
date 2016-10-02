@@ -3,7 +3,7 @@ layout: default
 author: Fabian Morón Zirfas
 title: Stick Figure
 tags: [P5.js, form, ]
-permalink: /form/stick-figure
+permalink: /form/stick-figure/
 summary: A simple stick figure - heavily parameterized.
 ---
 

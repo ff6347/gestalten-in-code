@@ -3,7 +3,7 @@ layout: default
 author: Fabian Morón Zirfas
 title: HSB
 tags: [P5.js, color,hsb, ]
-permalink: /form/hsb
+permalink: /form/hsb/
 summary: using HSB
 archive: hsb.zip
 ---  

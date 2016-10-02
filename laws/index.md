@@ -3,7 +3,7 @@ title: Gestalt Laws
 meta: True
 layout: default
 summary: Foo  
-permalink: laws/
+permalink: /laws/
 nosource: True
 ---
 

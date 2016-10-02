@@ -3,7 +3,7 @@ layout: default
 author: Fabian Morón Zirfas
 title: Noise Line
 tags: [P5.js, chance, repeat, noise, ]
-permalink: /chance/noise-line
+permalink: /chance/noise-line/
 summary: Generate a line from the middle of one side of the convas to another. Similar to the sketch <a href="/gestalten-in-code/chance/noise/">Noise</a>.
 archive: noise-line.zip
 ---

@@ -4,7 +4,7 @@ author: Lucas Vogel
 author-url: http://www.vogelino.com/
 title: Network of Molecules
 tags: [P5.js, repeat, Law of Connected Elements, Law of Similarity, ]
-permalink: /grid/network-of-molecules
+permalink: /grid/network-of-molecules/
 summary: A network interconnected of molecules.  
 ---  
 

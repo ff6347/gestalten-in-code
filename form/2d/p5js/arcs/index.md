@@ -3,7 +3,7 @@ layout: default
 author: Fabian Morón Zirfas
 title: Arcs
 tags: [P5.js, form, ]
-permalink: /form/arcs
+permalink: /form/arcs/
 summary: Just some arcs
 ---  
 

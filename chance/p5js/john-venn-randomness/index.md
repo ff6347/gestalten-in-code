@@ -3,7 +3,7 @@ layout: default
 author: Fabian Morón Zirfas
 title: John Venn's Randomness
 tags: [P5.js, chance, repeat, Law of Similarity,Law of Connected Elements, grid,]
-permalink: /chance/john-venn-randomness
+permalink: /chance/john-venn-randomness/
 summary: This sketch shows the visual representation of randomness by John Venn
 archive: john-venn-randomness.zip
 ---
