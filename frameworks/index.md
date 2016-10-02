@@ -3,7 +3,7 @@ layout: default
 author: Fabian Morón Zirfas
 title: Frameworks (P5)
 meta: True
-permalink: frameworks/
+permalink: /frameworks/
 nosource: True
 ---  
 > What? P5? I thought it is Processing. Is it P5.js or what?  

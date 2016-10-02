@@ -2,7 +2,7 @@
 layout: default
 title: Processing
 meta: True
-permalink: processing
+permalink: /processing/
 nosource: True
 ---
 

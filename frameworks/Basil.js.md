@@ -2,7 +2,7 @@
 layout: default
 title: Basil.js
 meta: True
-permalink: basiljs
+permalink: /basiljs/
 nosource: True
 ---
 
