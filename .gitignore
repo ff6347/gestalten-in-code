@@ -1,3 +1,7 @@
+# Until I get feedback from the author
+# we ignore these files
+repeat/processing/schotter/
+repeat/processing/schotter.zip
 # MAC OSX
 .DS_Store
 # WIN
