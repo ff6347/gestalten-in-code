@@ -1,6 +1,11 @@
 Gestalten in Code
 =================
 
+[![Join the chat at https://gitter.im/gestalten-in-code/Lobby](https://badges.gitter.im/gestalten-in-code/Lobby.svg)](https://gitter.im/gestalten-in-code/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/fabiantheblind/gestalten-in-code)    
+[![](https://img.shields.io/badge/using-P5.js-brightgreen.svg?style=flat-square)](http://p5js.org/) [![](https://img.shields.io/badge/using-Processing-brightgreen.svg?style=flat-square)](http://processing.org/) [![](https://img.shields.io/badge/using-Basil.js-brightgreen.svg?style=flat-square)](http://basiljs.ch/) [![](https://img.shields.io/badge/using-Extendscript-brightgreen.svg?style=flat-square)](https://en.wikipedia.org/wiki/ExtendScript) [![](https://img.shields.io/badge/using-VanillaJS-brightgreen.svg?style=flat-square)](http://vanilla-js.com/)  
+![](https://img.shields.io/badge/Ages-6%2B-brightgreen.svg?style=flat-square) ![](https://img.shields.io/badge/build with-❤-brightgreen.svg?style=flat-square)  
 ## Gestalt | Definition of Gestalt by Merriam-Webster
 
 >gestalt
@@ -14,8 +19,6 @@ Gestalten in Code
 
 >Gestalt psychology or gestaltism (German: Gestalt [ɡəˈʃtalt] "shape, form") is a theory of mind of the Berlin School of experimental psychology. Gestalt psychology tries to understand the laws of our ability to acquire and maintain meaningful perceptions in an apparently chaotic world. The central principle of gestalt psychology is that the mind forms a global whole with self-organizing tendencies.
 [source](https://en.m.wikipedia.org/wiki/Gestalt_psychology)
-
-
 
 ## gestalt - Wiktionary
 
@@ -32,17 +35,6 @@ What does it means to design with code? Is it a way of thinking? Is it a tool? I
 ## Disclaimer  
 
 I don't know where this will take me but there might be 🐉 and 🐛.  
-
-## TOC
-
-- form
-- grid
-- color
-- typography
-- iteration
-- motion
-- chance
-- interaction
 
 ## License (ISC)
 
