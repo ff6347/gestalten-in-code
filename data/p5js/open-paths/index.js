@@ -75,8 +75,8 @@ function setup() {
   beginShape();
   for(var i = 0; i < json.length; i++) {
     // console.log(json[i].lat);
-    var x = width * ((DE_westlon - json[i].lon) / (DE_westlon - DE_eastlon));
-    var y = (height * ((DE_northlat - json[i].lat) / (DE_northlat - DE_southlat)));
+    var x = width * ((WORLD_westlon - json[i].lon) / (WORLD_westlon - WORLD_eastlon));
+    var y = (height * ((WORLD_northlat - json[i].lat) / (WORLD_northlat - WORLD_southlat)));
     vertex(x, y); // draw the vertex
   }
   endShape();
