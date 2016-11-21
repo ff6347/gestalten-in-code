@@ -1,5 +1,5 @@
 ---
-title: Law of Space
+title: Law of Figure and Ground
 meta: True
 layout: default
 summary: tbd  
