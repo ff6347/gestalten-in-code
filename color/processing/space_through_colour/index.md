@@ -15,7 +15,7 @@ archive: space_through_colour.zip
 {% include out.html %}
 
 ```java
-{% space_through_colour.pde %}
+{% include_relative space_through_colour.pde %}
 ```
 
 
