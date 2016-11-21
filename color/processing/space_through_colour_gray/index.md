@@ -15,7 +15,7 @@ archive: space_through_colour_gray.zip
 {% include out.html %}
 
 ```java
-{% include_relativ space_through_colour_grey.pde %}
+{% include_relative space_through_colour_grey.pde %}
 ```
 
 
