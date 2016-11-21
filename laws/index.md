@@ -26,6 +26,8 @@ Later several other laws where introduced. The Law of Common Region, the Law of 
 
 - the ["Law of Gestaltwechsel"](/gestalten-in-code/law-of/gestaltwechsel)  
 - the ["Law of Connected Elements"](/gestalten-in-code/law-of/connected-elements)  
+- the ["Law of Space"](/gestalten-in-code/law-of/space)  
+- the ["Law of Figure and Ground"](/gestalten-in-code/law-of/figure-and-ground)  
 
 
 ## Law of Proximity [{% include icon-link.html %}]({{site.baseurl}}/law-of/proximity)
