@@ -33,7 +33,6 @@ Later several other laws where introduced. The Law of Common Region, the Law of 
 {% include filtered-index-overview.html param="Law of Proximity" %}
 
 
-
 ## Law of Similarity [{% include icon-link.html %}]({{site.baseurl}}/law-of/similarity)
   
 {% include filtered-index-overview.html param="Law of Similarity" %}
@@ -65,6 +64,16 @@ Later several other laws where introduced. The Law of Common Region, the Law of 
 ## Law of Connected Elements [{% include icon-link.html %}]({{site.baseurl}}/law-of/connected-elements)
   
 {% include filtered-index-overview.html param="Law of Connected Elements" %}
+
+## Law of Space [{% include icon-link.html %}]({{site.baseurl}}/law-of/space)
+
+  
+{% include filtered-index-overview.html param="Law of Space" %}
+
+## Law of Figure and Ground [{% include icon-link.html %}]({{site.baseurl}}/law-of/figure-and-ground)
+  
+{% include filtered-index-overview.html param="Law of Figure and Ground" %}
+
 
 {% comment %}
 In the book "2d Visual Perception: Elementary Phenomena of Two-dimensional Perception. A Handbook for Artists and Designers." Moritz Zwimpfer also explores the visual perception. It is clearly based on the Laws of Gestalt even though the original laws are not mentioned anywhere. He takes these principles and orders them in a new manor. Some of his topics are: Contrasts, Groups, Figure-Ground, Movement and Time, Emotion and others.  
