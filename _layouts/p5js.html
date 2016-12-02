@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<!-- this is the p5js template -->
+<div id="sketch"></div>
+<div class="hero">{{page.summary}}</div>
+{{content}}
+
+{% capture mdcode %}
+```js
+{% include_relative index.js %}
+```
+{% endcapture %}
+{{ mdcode | markdownify }}
+
+<script type="text/javascript" src="{{site.baseurl}}/assets/js/p5.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/{{ page.path | replace:'.md','.js' }}"></script>
