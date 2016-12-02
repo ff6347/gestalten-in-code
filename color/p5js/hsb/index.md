@@ -1,6 +1,7 @@
 ---  
 layout: p5js
 author: Fabian Morón Zirfas
+author-url: http://fabianmoronzirfas.me
 title: HSB
 tags: [P5.js, color,hsb, ]
 permalink: /color/hsb/

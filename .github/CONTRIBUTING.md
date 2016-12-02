@@ -80,3 +80,5 @@ function draw() {
 }
 
 ```
+
+See the [raw source](https://raw.githubusercontent.com/fabianmoronzirfas/gestalten-in-code/master/color/p5js/hsb/index.md), the [folder on github](https://github.com/fabianmoronzirfas/gestalten-in-code/tree/master/color/p5js/hsb) and the [rendered page](https://interface.fh-potsdam.de/gestalten-in-code/form/hsb/) of the HSB example.
