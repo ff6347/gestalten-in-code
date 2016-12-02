@@ -17,6 +17,8 @@ Find the right main category for your example and add it to the according folder
 - repeat
 - typography
 
+Within these folders are subfolders for the different frameworks (processing, p5js, basiljs,…). 
+
 Possible additional sub-categories are added as tags. You also can add tags for the different laws of gestalt:   
 
 - "Law of Causality"
@@ -41,7 +43,9 @@ Possible additional sub-categories are added as tags. You also can add tags for 
 - "Law of Symmetry"
 
 
-## For P5.js needs to have the following files:  
+## P5.js
+
+A PR for P5.js has to have the following files:  
 
 - index.md (see example below)
 - index.js (with your code)
@@ -60,7 +64,24 @@ The index.md for P5.js should look like this:
     summary: A short summary of my example used for the overview pages.
     ---  
     
-    Your additional explanation or even additional images come here here!
+    Your additional explanation or even additional images come here!  
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+
+    ![](path/to/another/image.png)  
+
+Make sure that the [yaml frontmatter](https://jekyllrb.com/docs/frontmatter/) ist valid. For example wrong would be:
+
+    ---
+    layout:p5js
+    ---
+
+The right way is (just a single whitespace):  
+
+    ---
+    layout: p5js
+    ---
+
+
 
 The content of the the index.js file will be shown in a `div` called `sketch`. So a simple `index.js` could look like this:  
 
@@ -81,4 +102,17 @@ function draw() {
 
 ```
 
-See the [raw source](https://raw.githubusercontent.com/fabianmoronzirfas/gestalten-in-code/master/color/p5js/hsb/index.md), the [folder on github](https://github.com/fabianmoronzirfas/gestalten-in-code/tree/master/color/p5js/hsb) and the [rendered page](https://interface.fh-potsdam.de/gestalten-in-code/form/hsb/) of the HSB example.
+See the [raw source](https://raw.githubusercontent.com/fabianmoronzirfas/gestalten-in-code/master/color/p5js/hsb/index.md), the [folder on github](https://github.com/fabianmoronzirfas/gestalten-in-code/tree/master/color/p5js/hsb) and the [rendered page](https://interface.fh-potsdam.de/gestalten-in-code/form/hsb/) of the HSB example.  
+
+## Processing
+
+tbd  
+
+## Basil
+
+tbd
+
+## Projects
+
+tbd
+
