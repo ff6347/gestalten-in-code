@@ -17,9 +17,16 @@ Find the right main category for your example and add it to the according folder
 - repeat
 - typography
 
-Within these folders are subfolders for the different frameworks (processing, p5js, basiljs,…). 
+Within these folders are subfolders for the different frameworks (processing, p5js, basiljs,…). For example like this
 
-Possible additional sub-categories are added as tags. You also can add tags for the different laws of gestalt:   
+    .
+    ├── chance
+    │   ├── basiljs
+    │   ├── p5js
+    │   └── processing
+
+
+Possible additional sub-categories are added as tags in the yaml frontmatter of index.md (see below). You also can add tags for the different laws of gestalt:   
 
 - "Law of Causality"
 - "Law of Closure"
@@ -52,16 +59,17 @@ A PR for P5.js has to have the following files:
 - out.png (an image of the example in 500 × 500 px)
 - thumb.png (a thumbnail of the out.png in 128 × 128 px)
 
-The index.md for P5.js should look like this:  
+The index.md for P5.js should look like this (elements in square brackets should be edited):  
+
 
     ---  
     layout: p5js
-    author: Max Mustermann
-    author-url: https://my-homepage.tld
-    title: My cool example
-    tags: [P5.js,[CATEGORY], repeat, chance, "Law of Something"]
-    permalink: /[CATEGORY]/my-title/
-    summary: A short summary of my example used for the overview pages.
+    author: [Max Mustermann]
+    author-url: [https://my-homepage.tld]
+    title: [My cool example]
+    tags: [P5.js,[CATEGORY], [ADDITIONAL CATEGORIES], "Law of Something"]
+    permalink: /[CATEGORY]/[my-title]/
+    summary: [A short summary of my example used for the overview pages.]
     ---  
     
     Your additional explanation or even additional images come here!  
