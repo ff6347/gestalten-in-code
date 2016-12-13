@@ -6,10 +6,10 @@ function setup() {
 function draw() {
   background(98);
   
-  for (var y = 0; y <= 500; y += 5){
+  for (var y = 0; y <= height; y += 5){
     stroke(30);
     strokeWeight(2);
-    line(0, y, 500, y);
+    line(0, y, width, y);
   }
   
   noStroke();
