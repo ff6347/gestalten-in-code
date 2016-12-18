@@ -1,6 +1,6 @@
 layout: p5js
 author: Edmundo Mejía Galindo
-author-url: [https://github/edgalindo..........xxxxxxxx //ACHTUNG!!!: ÄNDERN!
+author-url: https://github.com/edgalindo/gestalten-in-code/tree/master/chance/p5js/chance_grid
 title: Grid
 tags: P5.js, "Law of Proximity", "Law of Connected-Elements", "Law of Proximity", "Multistable-perception" Chance, Grid
 permalink: /grid/Grid/
