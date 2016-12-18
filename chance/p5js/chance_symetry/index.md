@@ -9,4 +9,4 @@ summary: This sample shows a static grid regular distances between the arcs.
 
 The static grid is built with arc lines that are placed in two different directions. The viewer has the feeling that the grid moves like a vertigo and makes it visually at the same time dynamic.
 
-![](http://www2.pic-upload.de/img/32318237/contrast.jpg)
+![](http://www2.pic-upload.de/img/32318239/symetry.jpg)
