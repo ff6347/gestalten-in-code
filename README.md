@@ -34,6 +34,23 @@ What does it means to design with code? Is it a way of thinking? Is it a tool? I
 
 I don't know where this will take me but there might be 🐉 and 🐛.  
 
+<<<<<<< HEAD
+=======
+## TOC
+
+- chance
+- color
+- data
+- form
+- - 2D
+- - 3D
+- grid
+- interaction
+- iteration
+- motion
+- typography
+
+>>>>>>> fabianmoronzirfas/cube/edit
 ## License (ISC)
 
 (c) 2016 Fabian 'fabiantheblind' Morón Zirfas & University of Applied Sciences Potsdam (Germany)  
