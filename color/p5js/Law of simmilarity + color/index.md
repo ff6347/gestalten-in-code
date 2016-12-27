@@ -1,9 +1,9 @@
 ---  
-layout: [p5js]
-author: [Daniele Maselli]
+layout: p5js
+author: Daniele Maselli
 author-url: https://github.com/DanieleMaselli
-title: color + similarity
-tags: [P5.js, color, "Law of color+similarity "]
+title: which dot gets your attention?
+tags: [P5.js, color, Law of Color, Law of Similarity]
 permalink: /color/color-and-similarity/
-summary: creating two gestalt laws in one image.
+summary: items that are similar tend to be grouped together.
 ---  
