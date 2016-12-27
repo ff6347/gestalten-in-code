@@ -1,10 +1,14 @@
+canvas.parent('sketch');
+
 function setup() {
   
-  createCanvas (800,800);
+  
+  var canvas = createCanvas(800, 800);
   background (0);
   
-
 }
+
+
 
 function draw() {
   fill(65, 95, 98);
@@ -14,5 +18,7 @@ function draw() {
   ellipse(600,200, 100, 100);
   fill(354, 98, 95);
   ellipse(400, 400, 100, 100);
+
+
 }
 
