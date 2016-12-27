@@ -11,7 +11,7 @@ function setup() {
 	var canvas = createCanvas(CANVAS_WIDTH, CANVAS_HEIGHT);
 	canvas.parent('sketch');	
 	background(0);
-    // dots-colors
+        // dots-colors
 	var c_color  = {r: 65, g: 95, b: 98 };
 	var cc_color = {r: 255, g: 98, b: 95 };	
 	// dots-positions
