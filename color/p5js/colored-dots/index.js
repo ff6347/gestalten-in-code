@@ -1,43 +1,36 @@
-var canvas,
-	CORNER_WIDTH,
-	CORNER_HEIGHT,
-	corners,
-	c_color,
-	cc_color;
+var CANVAS_WIDTH  = 500,
+	CANVAS_HEIGHT = CANVAS_WIDTH,
+	DOT_WIDTH  = CANVAS_WIDTH * 0.2,
+	DOT_HEIGHT = CANVAS_HEIGHT * 0.2,
+	offsetX = CANVAS_WIDTH  * 0.25,
+	offsetY = CANVAS_HEIGHT * 0.25;
 
+var dots;
 function setup() {
-
-	canvas = createCanvas(800, 800);
+	// setup Canvas
+	var canvas = createCanvas(CANVAS_WIDTH, CANVAS_HEIGHT);
 	canvas.parent('sketch');	
 	background(0);
-    
-    // sizes
-	CORNER_WIDTH  = 100;
-	CORNER_HEIGHT = CORNER_WIDTH;
-
-	// positions
-	corners = [
-		{ x: 200, y: 200 }, 
-		{ x: 600, y: 600 }, 
-		{ x: 200, y: 600 }, 
-		{ x: 600, y: 200 }
+    // dots-colors
+	var c_color  = {r: 65, g: 95, b: 98 };
+	var cc_color = {r: 255, g: 98, b: 95 };	
+	// dots-positions
+	dots = [
+		{ x: 0 + offsetX, y: 0 + offsetY, color: c_color }, 
+		{ x: CANVAS_WIDTH - offsetX, y: 0 + offsetY , color: c_color },
+		{ x: 0 + offsetX, y: CANVAS_HEIGHT - offsetY, color: c_color }, 		
+		{ x: CANVAS_WIDTH - offsetX, y: CANVAS_HEIGHT - offsetY, color: c_color },
+		// center
+		{ x: CANVAS_WIDTH / 2, y: CANVAS_HEIGHT / 2, color: cc_color }
 	];
-	// colors
-	cc_color = {r: 255, g: 98, b: 95 };
-	c_color  = {r: 65, g: 95, b: 98 };	
 }
-
 
 function draw() { 
-	// corners
-	fill(c_color.r, c_color.g, c_color.b);
-	for(var i = 0; i < corners.length; i++){
- 		var current = corners[i];
- 		ellipse(current.x, current.y , CORNER_WIDTH, CORNER_HEIGHT );
+	for(var i = 0; i < dots.length; i++){
+ 		var dot = dots[i];
+		fill(dot.color.r, dot.color.g, dot.color.b); 		
+ 		ellipse(dot.x, dot.y , DOT_WIDTH, DOT_HEIGHT );
 	}
-
-  fill(cc_color.r, cc_color.g, cc_color.b);
-	ellipse(width/2 , height/2, CORNER_WIDTH, CORNER_HEIGHT);
-
 	noLoop();
 }
+
