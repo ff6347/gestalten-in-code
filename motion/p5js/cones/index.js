@@ -1,74 +1,72 @@
+const height = 60;
+const radius = 60;
+let y = 0;
+let increment = 1;
+
 function setup() {
-  createCanvas(300, 300, WEBGL)
-  frameRate(30)
+  createCanvas(300, 300, WEBGL);
+  frameRate(30);
 }
 
-const height = 60
-const radius = 60
-
 function drawCones(count, current) {
-  current = current || 1
+  current = current || 1;
 
   if (current > count) {
-    return
+    return;
   }
 
-  cone(radius, height)
+  cone(radius, height);
 
-  push()
+  push();
 
-  translate(2 * radius, 0)
-  drawCones(count, current + 1)
+  translate(2 * radius, 0);
+  drawCones(count, current + 1);
 
-  pop()
+  pop();
 }
 
 function drawRotated(count, position) {
-  push()
+  push();
 
-  rotateX(radians(90))
-  drawCones(count, position)
+  rotateX(radians(90));
+  drawCones(count, position);
 
-  pop()
+  pop();
 }
 
-let y = 0
-let increment = 1
+function draw() {
+  camera(0, 0, 300);
+  background(250);
 
-function draw_error() {
-  camera(0, 0, 300)
-  background(250)
-
-  // const locY = (mouseY / height - 0.5) * (-8);
-  // const locX = (mouseX / width - 0.5) * 8;
-
-  y = y + increment
+  y = y + increment;
 
   if (y === 0) {
-    increment = 1
+    increment = 1;
   } else if (y === height) {
-    increment = -1
+    increment = -1;
   }
+}
 
-  pointLight(250, 250, 250, y * 8, y * 8, 0)
+function draw(){
+  pointLight(250, 250, 250, y * 8, y * 8, 0);
 
-  translate(0, -4 * radius)
+  translate(0, -4 * radius);
 
-  drawRotated(1)
+  drawRotated(1);
 
-  translate(-2 * radius, 2 * radius)
+  translate(-2 * radius, 2 * radius);
 
-  drawRotated(3)
+  drawRotated(3);
 
-  translate(-2 * radius, 2 * radius)
+  translate(-2 * radius, 2 * radius);
 
-  drawRotated(5)
+  drawRotated(5);
 
-  translate(2* radius, 2 * radius)
+  translate(2* radius, 2 * radius);
 
-  drawRotated(3)
+  drawRotated(3);
 
-  translate(2 * radius, 2 * radius)
+  translate(2 * radius, 2 * radius);
 
-  drawRotated(1)
+  drawRotated(1);
 }
