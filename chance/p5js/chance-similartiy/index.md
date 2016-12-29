@@ -8,4 +8,4 @@ permalink: /chance/chance-similarity/
 summary: This creates random similarities between ellipses by varying their size and color.
 ---  
 
-![](https://raw.githubusercontent.com/josues/gestalten-in-code/master/chance/p5js/chance-similarity/out.png)  
+![](https://raw.githubusercontent.com/josues/gestalten-in-code/master/chance/p5js/chance-similartiy/out.png)  
