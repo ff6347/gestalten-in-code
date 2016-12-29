@@ -4,7 +4,7 @@ author: [Filip Czekajlo]
 author-url: [-]
 title: [colm]
 tags: [P5.js,[Color], [-], ]
-permalink:  GIC/colm 
+permalink:   gestalten-in-code/color/p5js/colm.js  
 summary: [-]
 ---  
 
