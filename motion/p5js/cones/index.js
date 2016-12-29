@@ -4,7 +4,7 @@ let y = 0;
 let increment = 1;
 
 function setup() {
-  createCanvas(300, 300, WEBGL);
+  createCanvas(500, 500, WEBGL);
   frameRate(30);
 }
 
