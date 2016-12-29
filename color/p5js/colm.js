@@ -64,7 +64,7 @@ function draw() {
      col.c3 = 33;
    }
    
-  if (p2>372){
+  if (p2>372){ // <--How do I make those magic numbers disappear so that I can add offset or a while loop so that it changes the color when it loops?
     background(57,9,85);
    // background(57,9,85);
     p2= 0;
