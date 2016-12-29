@@ -2,10 +2,8 @@
 layout: p5js
 author: Malte Völkner
 author-url: https://github.com/MalteVoelkner
-title: Colorfulcircles
+title: Colorful circles
 tags: [P5.js, chance, Law of Chance]
 permalink: /chance/colorfulcircles/
-summary: Random generation of size, color and thickness of circles
----  
-
-![](path/to/another/image.png)  
+summary: Creation of differently sized and colored circles that shrink with each loop
+---
