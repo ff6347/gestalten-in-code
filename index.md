@@ -1,61 +1,40 @@
 ---  
 layout: default
 title: Gestalten in Code
-categories:
-    - meta
-    - foo
-tags: [welcome, foo]
+meta: True
 ---  
 
-## Gestalt | Definition of Gestalt by Merriam-Webster
-
->gestalt
->noun  ge·stalt \gə-ˈstält, -ˈshtält, -ˈstȯlt, -ˈshtȯlt\
->Simple Definition of gestalt
->psychology : something that is made of many parts and yet is somehow more than or different from the combination of its parts; broadly : the general quality or character of something  
-[source](http://www.merriam-webster.com/dictionary/gestalt)  
-
-__Lorem__ ipsum dolor sit _amet_, ___consectetur___ _**adipisicing**_ elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo `consequat`. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+> "program the beautiful"  
+> Max Bense  
 
 
-```js
-console.log('hello world');
-```
+<div class="hero">What is <em>"Gestalten in Code"</em>?<br>It is an exploration into the the depths of generative design. It is learning material for an upcoming seminar at the <a href="http://www.fh-potsdam.de/">University of Applied Sciences Potsdam (Germany)</a> by <a href="http://fabianmoronzirfas.me/">Fabian Morón Zirfas</a>. It is an attempt to apply the "Laws of Gestalt" in programming. Last but not least it is a comparison of several creative coding frameworks. To show how the same language can be applied in different contexts. .</div>  
 
-1. foo
-2. bah
-3. baz
+The examples on this site are clustered in different ways. By [categories](/gestalten-in-code/categories/) like [form](/gestalten-in-code/form/), [color](/gestalten-in-code/color/), [typography](/gestalten-in-code/typography/), by [framework](/gestalten-in-code/frameworks) like [Processing](/gestalten-in-code/processing/), [P5.js](/gestalten-in-code/p5js/), [Basil.js](/gestalten-in-code/basiljs) and also by the [Laws of Gestalt](/gestalten-in-code/laws/) like the [Law of Proximity](/gestalten-in-code/law-of/proximity), the [Law of Similarity](/gestalten-in-code/law-of/similarity) or the [Law of Common Fate](/gestalten-in-code/law-of/common-fate) _(to name a few)_. Some of them might appear in different categories. Feel free to explore them. If you run into any errors, have questions or contributions contact me on [GitHub](https://github.com/fabianmoronzirfas/gestalten-in-code/issues).  
 
-- foo
-- bah
-- baz
-- - foo foo
-- bah bah
-    - baz
+<hr>
 
----  
+<div class="index-overview">
+{% include thumb-noblock.html url="/gestalten-in-code/frameworks" title="Frameworks" thumb="/gestalten-in-code/assets/images/logo-thumb.png" %}
 
-1. foo
-2. bah
-    1. bah bah
-    2. baz
-3. baz baz
+{% include thumb-noblock.html url="/gestalten-in-code/laws" title="Laws of Gestalt" thumb="/gestalten-in-code/assets/images/gest-thumb.png" %}
 
-# heading 1
+{% include thumb-noblock.html url="/gestalten-in-code/categories" title="Categories" thumb="/gestalten-in-code/assets/images/cats-thumb.png" %}
+</div>
+<div class="clear-float"></div>
 
-## heading 2
+{% comment %}
+{% capture tgs %}{% for page in site.pages %}{% for tag in page.tags %}{{ tag}},{% endfor %},{% endfor %}{% endcapture %}
+{% assign tag_words = tgs | split:',' | sort | uniq %}
+{{tgs}}
 
-### heading 3
-
-#### heading 4
-
-##### heading 5
-
-###### heading 6
-
-
-<small>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.    
-</small>
-
-<p class="font_small">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+{% for tg in tag_words %}
+{% for page in site.pages %}
+{% assign title = page.title | downcase | replace: '.','' | replace: ' ','-'| replace:'ä','ae' | replace:'ö','oe'| replace:'ü','ue'| replace:'ß','ss' %}
+{% assign tgtxt = tg | downcase | replace: '.','' | replace: ' ','-'| replace:'ä','ae' | replace:'ö','oe'| replace:'ü','ue'| replace:'ß','ss' %}
+{% if title == tgtxt %}
+found a match --> {{title}}:{{tg}} <br> 
+{% endif %}
+{% endfor %}
+{% endfor %}
+{% endcomment %}

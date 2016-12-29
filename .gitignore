@@ -1,3 +1,7 @@
+# Until I get feedback from the author
+# we ignore these files
+repeat/processing/schotter/
+repeat/processing/schotter.zip
 # MAC OSX
 .DS_Store
 # WIN
@@ -35,53 +39,14 @@ pdfs
 # After Effects
 Adobe\ After\ Effects\ Auto-Save/
 Adobe\ After\ Effects\ Auto-Speichern
-
 # Particle Photon
 *.bin
-
-# MAC OSX
-.DS_Store
-# WIN
-Thumbs.db
-# nodejs and web dev
-node_modules
-bower_components
-# sublime sftp plugin
-sftp-config.json
-# sublime
-*.sublime-project
-*.sublime-workspace
-# processing
-sketch.properties
-build-tmp
-# codekit
-.codekit-cache
-# a file with private data
-private.json
-private
-# for extendscript ID dev
-pdfs
 .idlk
-# for CRAN
-# History files
-.Rhistory
-# Example code in package build process
-*-Ex.R
-# R data files from past sessions
-.Rdata
-# RStudio files
-.Rproj.user/
-
-# GOLANG
-# After Effects
-Adobe\ After\ Effects\ Auto-Save/
-Adobe\ After\ Effects\ Auto-Speichern
-
-# Particle Photon
-*.bin
-
+# Java compilation
+*.class
+# video and gif creation
+seq/
 _site
 .sass-cache
-
 _seq
 npm-debug.log

@@ -37,6 +37,14 @@ function draw() {
   }
 }
 
+function keyPressed (){
+  // console.log(keyCode);
+  if(keyCode === 83 || keyCode === 16){
+    // lower case and upper case s
+    saveCanvas(canvas, 'out','png');
+  }
+}
+
 function randomX(_x) {
   var r = random(-5, 5);
   console.log('Random: %s', r);

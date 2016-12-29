@@ -1,0 +1,44 @@
+<div id="blocks">
+{% for page in site.pages %}{% if page.meta == nil %}{% for tag in page.tags %}{% if tag == include.param %}<div class="block{% for t in page.tags  %}{% if t != include.param %} {{ t | downcase | replace: '.','' | replace: ' ','-'| replace:'ä','ae' | replace:'ö','oe'| replace:'ü','ue'| replace:'ß','ss' }}{% endif %}{% endfor %}">
+<div class="thumb">
+<a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{site.baseurl}}/{{ page.path | replace:'index.md','' }}thumb.png"></a>
+</div>
+<div class="block-info">
+<h3>{{page.title}}</h3>
+  <div class="block-page-tags font_small">{% include icon-tags.html %}
+    {% for t in page.tags  %}
+    <span>{{t}}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}
+    </div>
+        {% if page.author != nil %}
+      <div class="author font_small">{% include icon-pencil.html %}<span> {% if page.author-url !=nil %}<a href="{{page.author-url}}">{% endif %}{{ page.author }}{% if page.author-url !=nil %}</a>{% endif %}</span></div>
+    {% endif %}
+</div>
+{% if page.summary %}<div class="summary">
+    <p>{{ page.summary }} <a href="{{ page.permalink | prepend: site.baseurl }}"><span class="summary-link">{% include icon-link.html %}</span></a></p>
+</div>
+</div>{% endif %}{% endif %}{% endfor %}{% endif %}{% endfor %}
+</div>
+<div class="clear-float"></div>
+<script type="text/javascript" src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+  console.log('ready');
+  // var arr = ['p5js','basiljs', 'processing'];
+  // var blocks = $('#blocks');
+  // var sorted = blocks.children('.block').get().sort(function(o1, o2) {
+  //   return $.inArray(o1.className, arr) - $.inArray(o2.className, arr);
+  // });
+  // $.each(sorted, function () {
+  //   $(this).appendTo(blocks);
+  // });
+  $('div.p5js').wrapAll('<div class="all-p5js" />');
+  $('div.processing').wrapAll('<div class="all-processing" />');
+  $('div.basiljs').wrapAll('<div class="all-basiljs" />');
+  $('div.extendscript').wrapAll('<div class="all-extendscript" />');
+  $('div.vanillajs').wrapAll('<div class="all-vanillajs" />');
+  $('.all-p5js').prepend('<h2>P5.js</h2>');
+  $('.all-processing').prepend('<h2>Processing</h2>');
+  $('.all-basiljs').prepend('<h2>Basil.js</h2>');
+  $('.all-extendscript').prepend('<h2>Extendscript</h2>');
+});
+</script>

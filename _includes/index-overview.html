@@ -1,0 +1,14 @@
+
+<div class="index-overview">
+{% for page in site.pages %}
+{% if page.meta == nil  %}
+<div class="thumb thumb-noblock">
+<a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{site.baseurl}}/{{ page.path | replace:'index.md','' }}thumb.png">
+<div class="thumb-title"><small>{{page.title | truncate: 10,'…' | append: ' →'}}</small></div>
+</a>
+<div class="clear-float"></div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+<div class="clear-float"></div>

@@ -73,3 +73,9 @@ void draw() {
   rect(width - 20, 0,20,20);
   noFill();
 }
+
+void keyPressed(){
+  if(key == 's' || key == 'S'){
+    saveFrame("out.png");
+  }
+}

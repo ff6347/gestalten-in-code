@@ -1,11 +1,11 @@
 /*eslint-disable*/
 var h1 = 'GESTALTEN';
 var h2 = 'IN CODE';
-var th = 144;
+var th = 72;
 var c1 = 'hsl(201, 89%, 74%)';
 var white = 'hsl(201, 0%, 100%)';
 function setup() {
-  var canvas = createCanvas(1920, 1080);
+  var canvas = createCanvas(500, 500);
   canvas.parent('sketch');
   textFont('SohoGothicStd-ExtraBold'); // you need the post script name of a font
   background(c1);
@@ -21,6 +21,7 @@ function setup() {
   strokeWeight(4);
   var w2 = textWidth(h2);
   text(h2, (width / 2) - (w2 / 2), (height / 2) + (th/2));
+  // saveCanvas(canvas,'out', 'png');
 }
 function draw() {
 

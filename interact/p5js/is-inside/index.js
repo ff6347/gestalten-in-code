@@ -35,13 +35,10 @@ var things = [];
 function setup() {
   var canvas = createCanvas(500, 500);
   canvas.parent('sketch');
-  var x = width / 2;
-  var y = height / 2;
   var diam = 20;
-
-  things.push(new Thing(x, y, diam));
-  things.push(new Thing(x, 100, diam));
-  things.push(new Thing(20, y, diam));
+for(var i = 0; i < 23;i++){
+  things.push(new Thing(random(width), random(height), random(10,30)));
+}
 }
 
 function draw() {
@@ -50,7 +47,12 @@ function draw() {
     things[i].isInside();
     things[i].display();
     things[i].update();
-
   }
-
+}
+function keyPressed (){
+  // console.log(keyCode);
+  if(keyCode === 83 || keyCode === 16){
+    // lower case and upper case s
+    saveCanvas(canvas, 'out','png');
+  }
 }

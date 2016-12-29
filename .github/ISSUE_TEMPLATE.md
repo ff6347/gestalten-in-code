@@ -1,6 +1,6 @@
-Awesome you found a bug or want to know more  
+Awesome you found a bug or want to know more!  
 
-Please provide these informations:  
+Please provide these informations if it is a bug:  
 
 ### Operating System  
 

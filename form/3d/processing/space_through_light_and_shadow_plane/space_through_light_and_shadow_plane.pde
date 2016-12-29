@@ -1,0 +1,10 @@
+background(255);
+size(500, 500);
+translate(width/2, height/2);
+int w = 100;
+int h = 100;
+rectMode(CENTER);
+rect(0,0,w,h);
+fill(0);
+triangle(w/2,h/2, w/2, h/4, (w/4) * 3,h/4);
+saveFrame("out.png");

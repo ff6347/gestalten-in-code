@@ -43,9 +43,7 @@ function setup() {
   line(x1, y1, x2, y2);
   line(x2, y1, x1, y2);
   // we ae done
-  saveCanvas(canvas,'out','png');
-
-
+  // saveCanvas(canvas,'out','png');
 }
 function draw() {
   // executed all the time

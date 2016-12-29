@@ -7,8 +7,10 @@ function setup() {
   var num = 100;
   for(var i = 0; i < num; i++){
     var w = random(0,6);
-    ellipse(x + random(-20,20),y + random(-20,20), w, w);
+    ellipse(x + random(-40,40),y + random(-40,40), w, w);
   }
+    // saveCanvas(canvas, 'out','png');
+
 }
 
 function draw() {

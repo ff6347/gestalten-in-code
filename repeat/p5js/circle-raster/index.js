@@ -24,6 +24,7 @@ function setup() {
     }
   }
   ellipse(y1, x1, size*2, size*2);
+  // saveCanvas(canvas, 'out','png');
 }
 function draw() {
   // executed all the time

@@ -10,7 +10,7 @@ var angle = 0;
 var numberOfSegments = 200;
 
 function setup() {
-  var canvas = createCanvas(400, 400);
+  var canvas = createCanvas(500, 500);
   canvas.parent('sketch');
   background(255);
 }
@@ -51,6 +51,6 @@ function draw() {
   p2x = p1x;
   p2y = p1y;
   if (p1x === width / 2) {
-    // saveCanvas("img","png");
+    // saveCanvas(canvas,'out','png');
   }
 }

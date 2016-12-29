@@ -1,4 +1,2 @@
 Awesome you want to make a PR  
-please have these things in mind  
-
-- tbd  
+please see [https://github.com/fabianmoronzirfas/gestalten-in-code/blob/master/.github/CONTRIBUTING.md](https://github.com/fabianmoronzirfas/gestalten-in-code/blob/master/.github/CONTRIBUTING.md) for further infos.  

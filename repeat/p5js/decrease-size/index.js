@@ -50,6 +50,7 @@ function setup() {
     }
   } // end i loop
 
+  // saveCanvas(canvas, 'out','png');
 
 }
 function draw() {
