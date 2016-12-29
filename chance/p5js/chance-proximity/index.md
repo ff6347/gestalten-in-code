@@ -8,4 +8,4 @@ permalink: /[CHANCE]/[chance-proximity]/
 summary: [This creates random proximities between ellipses.]
 ---  
 
-![](chance/p5js/chance-proximity/out.png)  
+![](https://raw.githubusercontent.com/josues/gestalten-in-code/master/chance/p5js/chance-proximity/out.png)  
