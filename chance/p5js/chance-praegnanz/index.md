@@ -2,9 +2,9 @@
 layout: p5js
 author: josues
 author-url: https://incom.org/profil/7029
-title: Law of Praegnanz and Chance
-tags: P5.js, CHANCE, PROXIMITY, Law of Praegnanz
-permalink: /CHANCE/chance-praegnanz/
+title: Law of praegnanz and chance
+tags: P5.js, chance, proximity, Law of praegnanz
+permalink: /chance/chance-praegnanz/
 summary: This creates random Praegnanzen between ellipses.
 ---  
 
