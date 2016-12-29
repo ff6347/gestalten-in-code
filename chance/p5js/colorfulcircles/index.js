@@ -1,7 +1,7 @@
-//Canvas-Größe
+//Canvas-GrÃ¶ÃŸe
 var canvas_size = 500;
 
-//Startgröße Kreis
+//StartgrÃ¶ÃŸe Kreis
 var circle_size = 500;
 
 //Transparenz der Kreise
@@ -15,10 +15,7 @@ var distance_to = 3;
 
 function setup() {   
   createCanvas(canvas_size, canvas_size);
-  background(
-    random(0,255),
-    random(0,255),
-    random(0,255));
+  background(255);
 }
 
 function draw() {
@@ -30,7 +27,6 @@ function draw() {
   var a = random(0, circle_size);
   
   if ( circle_size <= 0){
-    save('image.jpg');
     noLoop();
   }
   
