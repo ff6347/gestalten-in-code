@@ -17,7 +17,7 @@ function draw() {
   
 }
 function mousePressed () {
-  save ('image.jpg');
+  save ('image.png');
   
 }
 
