@@ -1,14 +1,15 @@
-//Canvas-Größe
+//size of full canvas
 var canvas_size = 500;
 
-//Startgröße Kreis
+//starting size of circles
+//works best with being the same size as canvas_size
 var circle_size = 500;
 
-//Transparenz der Kreise
+//transparency range of all circles
 var transparency_from = 50;
 var transparency_to = 100;
 
-//Abstand der Kreise
+//distance between all circles
 var distance_from = 0;
 var distance_to = 3;
 
