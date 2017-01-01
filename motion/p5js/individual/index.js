@@ -21,7 +21,6 @@ var
   destinationVector,
   velocity
 
-// noinspection JSUnresolvedFunction,JSUnresolvedVariable
 function setup() {
   createCanvas(windowWidth, windowHeight)
   background(244)
@@ -54,7 +53,9 @@ function draw() {
   fill(244,244,244,50)
   rect(0,0,windowWidth,windowHeight)
   translate(width/2,height/2)
+  
   var randomOutsider = 2
+  
   for(var i = 0; i < dots.length; i ++) {
     var d = dots[i]
     if (TICK) {
@@ -110,10 +111,11 @@ function updateAnimate() {
  *
  * @param {Integer} x The x-Position.
  * @param {Integer} y The y-Position.
- * @param size
- * @param destinationVector
- * @param color
+ * @param {Integer} size The dot Diameter.
+ * @param {Vector} destinationVector The final position of the Object.
+ * @param {Integer} color The color of the dot.
  */
+
 function Dot(x, y, size, destinationVector, color) {
   this.x = x
   this.y = y
@@ -134,11 +136,12 @@ function Dot(x, y, size, destinationVector, color) {
  *
  * @param {Integer} x The x-Position.
  * @param {Integer} y The y-Position.
- * @param width
- * @param height
- * @param destinationVector
- * @param color
+ * @param {Integer} width The Object width.
+ * @param {Integer} height The Object height.
+ * @param {Vector} destinationVector The final position of the Object.
+ * @param {Integer} color The Object color.
  */
+
 function Rectangle(x, y, width, height, destinationVector, color) {
   this.x = x
   this.y = y
