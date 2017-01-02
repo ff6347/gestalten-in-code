@@ -15,7 +15,7 @@ var distance_to = 3;
 
 
 function setup() {   
-  var caanvas = createCanvas(canvas_size, canvas_size);
+  var canvas = createCanvas(canvas_size, canvas_size);
   canvas.parent('sketch');
   background(255);
 }
