@@ -7,12 +7,13 @@ nosource: True
 ---  
 
 {% capture authors_string %}
-{% for page in site.pages %}{% if page.meta == nil  %}{{page.author}};{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.meta == nil or page.meta == False %}{{page.author}};{% endif %}{% endfor %}
 {% endcapture %}
+{% assign authors_array = authors_string | split: ";" | uniq | sort %}
 
-{% assign authors_array = authors_string | split: ";" | uniq %}
+---
 
-{% for author in authors_array %}
+{% for author in authors_array  %}
 <h2>{{ author }}</h2>  
 {% include filtered-index-author-overview.html param=author %}
 {% endfor %}
