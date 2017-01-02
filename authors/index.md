@@ -6,14 +6,15 @@ permalink: /authors/
 nosource: True
 ---  
 
+Thanks to all the fantastic contributions. Some are made directly from the students of the seminar some are found around the web.  
+
 {% capture authors_string %}
-{% for page in site.pages %}{% if page.meta == nil or page.meta == False %}{{page.author}};{% endif %}{% endfor %}
+{% for page in site.pages  %}{% if page.meta == nil or page.meta == False %}{{page.author}};{% endif %}{% endfor %}
 {% endcapture %}
-{% assign authors_array = authors_string | split: ";" | uniq | sort %}
+{% assign authors_array = authors_string | split: ";" | sort | uniq  %}
 
----
 
-{% for author in authors_array  %}
-<h2>{{ author }}</h2>  
-{% include filtered-index-author-overview.html param=author %}
+{% for author in authors_array offset: 2 %}
+<h2 class="loop">{{ author }}</h2>  
+<div class="sketches">{% include filtered-index-author-overview.html param=author %}</div>
 {% endfor %}

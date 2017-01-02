@@ -11,50 +11,8 @@
     },{
       "title":"Laws of Gestalt",
       "url":"/laws"
+    },{
+      "title":"Authors",
+      "url":"/authors"
     }
-],
- "old":[ {
-     "title": "Form",
-     "url": "/form"
-   },
-   {
-     "title": "Color",
-     "url": "/color"
-   },
-   {
-     "title": "Typography",
-     "url": "/typography"
-   },
-   {
-     "title": "Grid",
-     "url": "/grid"
-   },
-   {
-     "title": "Chance",
-     "url": "/chance"
-   },
-   {
-     "title": "Repeat",
-     "url": "/repeat"
-   },
-   {
-     "title": "Interact",
-     "url": "/interact"
-   },
-   {
-     "title": "Motion",
-     "url": "/motion"
-   },
-   {
-     "title": "Data",
-     "url": "/data"
-   },{
-     "title": "About",
-     "url":"/about",
-     "sub":[
-       {
-     "title": "Processing",
-     "url": "/processing"
-   },
-     ]
-   }]
+]
