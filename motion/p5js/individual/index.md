@@ -6,6 +6,4 @@ title: individual
 tags: [P5.js, motion, Law of Similarity]
 permalink: /motion/individual/
 summary: How motion leads to perceived similarity.
----  
-
-![Preview](./out.png)  
+---
