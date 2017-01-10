@@ -15,7 +15,3 @@ function draw() {
   ellipse(width, height/2, d, d);
     }
 }
-
-function mousePressed(){
-  save('image.jpg');
-}
