@@ -1,5 +1,6 @@
 function setup() {
-  createCanvas(500, 500);
+   var canvas = createCanvas(500, 500);
+       canvas.parent('sketch');
   background(255);
   
   for(var x = random(500); x > 0.1; x /= 1.1) {
