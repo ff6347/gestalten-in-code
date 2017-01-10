@@ -2,7 +2,8 @@ var x = y = 0;
 var a = b =  250;  
 
 function setup() {
-  createCanvas(500, 500);
+   var canvas = createCanvas(500, 500);
+       canvas.parent('sketch');
   background(0);
   smooth();
 }
