@@ -1,7 +1,8 @@
 var a = 0;
 var b = 0;
 function setup() {
-  createCanvas(500, 500);
+   var canvas = createCanvas(500, 500);
+       canvas.parent('sketch');
   background(255);  
 }
 
