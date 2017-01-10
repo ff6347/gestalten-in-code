@@ -1,7 +1,5 @@
-  var x, y, a, b;
-  x,y = 0;
-  var a  = 250;
-  var b = 250;
+var x = y = 0;
+var a = b =  250;  
 
 function setup() {
   createCanvas(500, 500);
