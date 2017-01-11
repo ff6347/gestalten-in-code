@@ -3,7 +3,7 @@ author: Edmundo Mejía Galindo
 author-url: https://github.com/edgalindo
 title: Law of clousure and Multistable-perception
 tags: [P5.js, Law of Proximity, Law of Connected-Elements, Law of Proximity, Multistable-perception, Chance, Grid]
-permalink: /grid/Grid/
+permalink: /grid/grid-closure/
 summary: This sample shows a dynamic grid, that changes the width and height of itself.  
 ---
 
