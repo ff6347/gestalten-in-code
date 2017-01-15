@@ -2,7 +2,7 @@ layout: p5js
 author: Edmundo Mejía Galindo
 author-url: https://github.com/edgalindo/
 title: Hairy Story
-tags: [P5.js, Law of Causality, Law of Connected-Elements, Law of Relativity of Properties, Form, Grid, Interaction, Repeat]
+tags: [P5.js, Law of Causality, Law of Connected Elements, Law of Relativity of Properties, form, grid, interaction, repeat]
 permalink: /Chance/Contrast/
 summary: Arcs in random position built a irregular grid.
 ---
