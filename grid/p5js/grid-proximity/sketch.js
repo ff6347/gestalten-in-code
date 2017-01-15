@@ -3,19 +3,15 @@ function setup() {
        canvas.parent('sketch');
   background(255);
   stroke(1);
-  
-  for(var i = 10; i < 500; i += 9){
+   
+  for(var i = 10; i < width; i += 9){
     stroke(1);
     strokeWeight(i/50);
-    line(i, 0, i, 550);
-    line(500, i, 0, i);
+    line(i, 0, i, width);
+    line(height, i, 0, i);
   }
 }
 
 function draw() {
   
-}
-
-function mousePressed(){
-  save('out.png');
 }
