@@ -1,7 +1,7 @@
 layout: p5js
 author: Edmundo Mejía Galindo
 author-url: https://github.com/edgalindo/
-title: Law of Casuality
+title: Hairy Story
 tags: [P5.js, Law of Causality, Law of Connected-Elements, Law of Relativity of Properties, Form, Grid, Interaction, Repeat]
 permalink: /Chance/Contrast/
 summary: Arcsin random position built a irregular grid.
