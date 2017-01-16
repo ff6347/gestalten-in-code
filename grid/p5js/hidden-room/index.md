@@ -1,7 +1,7 @@
 layout: p5js
 author: Edmundo Mejía Galindo
 author-url: https://github.com/edgalindo/
-title: Hidden room
+title: Hidden Room
 tags: [P5.js, Law of Multistable Perception, Law of Closure, Law of Figure Ground, Law of Connected Elements, Law of Symmetry, Law of Space, repeat, form, chance]
 permalink: /grid/hidden-room/
 summary: Square with diagonal lines that interact with each other in one point.
