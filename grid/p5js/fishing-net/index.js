@@ -15,7 +15,3 @@ function setup() {
 function draw() {
   
 }
-
-function mousePressed(){
-  save('out.png');
-}
