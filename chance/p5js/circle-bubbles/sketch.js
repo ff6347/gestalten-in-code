@@ -28,7 +28,3 @@ ellipse(c+300, c+300, c+300, c+300);
 function draw() {
 
 }
-
-function mousePressed(){
-  save('image.jpg');
-}
