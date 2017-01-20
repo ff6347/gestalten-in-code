@@ -6,4 +6,4 @@ authors-url: [https://example.com,https://example.com,https://example.com]
 summary: This is my super duper awesome
 ---
 
-![](./assets/images/out.png)  
+![](./assets/images/example.png)  
