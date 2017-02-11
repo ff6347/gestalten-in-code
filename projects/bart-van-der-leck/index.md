@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Bart van der Leck – Mountain view
-authors: [Edmundo Meija Galindo, Julia Hilt]
+authors: [Edmundo Mejia Galindo, Julia Hilt]
 authors-url: [https://github.com/edgalindo,https://github.com/piixelcat]
 ---
 # Deconstructing master artists
@@ -26,17 +26,15 @@ Bart Anthony van der Leck, born in the dutch city of Utrecht on the 26th of Nove
 Our intention is not to cover the whole artistic movement behind and around De Stijl but rather giving a quick overview for interested readers to make the following chapters easier to understand even without deep knowledge of art history. So just a quick word on De Stijl:
 De Stijl artists pursued an aesthetic of abstract yet geometric forms and color simplicity. The resulting functional art only uses primary colors plus white, black and the grey scales in between. The central design principles are tidiness and clarity. Natural organic forms and ornaments were scorned instead their intention was to create a new kind of art with high formal aesthetics requirements.
 
-### Work and oeuvre
-![](./assets/images/timeline.png)  
+### Work and oeuvre  
 While Bart van der Lecks early pieces of art around 1895 were shaped by his work as a glass painter he developed a more impressionistic character in his oeuvre during his university education in early 1900. Which finally lead to a transition to stylized forms and expansive application of color first seen in a painting from 1912. This transition continued until 1916 when Bart van der Leck reduced his color range to primary colors and reached its completion with the founding of De Stijl in 1917. From now on Bart van der Leck uniquely and exclusively used this newly developed language of forms.   
 
 ## Analysis
 ### Composition No. 7 - Berglandschaft (mountain view)
-![](./assets/images/timelinedestijl.png)  
 For the second part of our assignment we agreed to focus on Bart van der Lecks late De Stijl period, to be precise the time shortly before he leaves the artistic group. We chose one of his travel paintings form 1917 which he called »composition no. 7 (mountain view)«. This painting was part of a larger series Bart van der Leck produced during his journey across Algeria. Its current value lies within 367.740 € at this time.  
 
-
 ![](./assets/images/compositionno7.png)
+>[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 The difficulties in analyzing an abstract painting should not be underestimated, so in order to analyze this piece of art properly we went from the more obvious to the complex parts:
 
@@ -67,21 +65,25 @@ We also analyzed »composition no. 7« in relation to the laws of Gestalt and th
 The law of regularity says that if neighbouring objects exhibit repeating patterns, human perception perceives them as a group.
 
 ![](./assets/images/regularity.png)
+>[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 #### Law of Similarity
 The law of similarity says that human perception perceives identical objects as unit.
 
 ![](./assets/images/similarity.png)
+>[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 #### Law of Proximity
 The law of proximity says that if objects exhibit physical proximity, human perception perceives them as a group.
 
 ![](./assets/images/proximity.png)
+>[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 ### The missing grid
 Due to the geometrical and clear appearance of »composition no. 7« we assumed that a complex underlying grid creates this minimalistic expression.
 
 ![](./assets/images/grid.png)
+>[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting construction
 
 So we started to examine different possible constructions based on proportions. An initial evaluation indicated that:
 
@@ -139,7 +141,7 @@ If you want to take a closer look at how this was done you can find the code [he
 
 ## License (MIT)
 
-(c) 2017 Edmundo Meija Galindo, Julia Hilt, University of Applied Sciences Potsdam (Germany)
+(c) 2017 Edmundo Mejia Galindo, Julia Hilt, University of Applied Sciences Potsdam (Germany)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
