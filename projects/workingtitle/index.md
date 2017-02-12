@@ -1,7 +1,7 @@
 ---
 layout: project
 title: workingtitle  
-authors: [Daniele Maselli, Denys Ivanchenko, Edmundo Meija Galindo, Filip Czekajlo, Jakob von Kietzell, Jeanette Knipp, Joshua Pacheco, Julia Hilt, Julians Broocks, Ludwig Frank, Malte Völker, Marius Claßen, Natalie Schreiber, Paulina Mrksic, Theodor Hillmann]
+authors: [Daniele Maselli, Denys Ivanchenko, Edmundo Mejia Galindo, Filip Czekajlo, Jakob von Kietzell, Jeanette Knipp, Joshua Pacheco, Julia Hilt, Julian Broocks, Ludwig Frank, Malte Völkner, Marius Claßen, Natalie Schreiber, Paulina Mrksic, Theodor Hillmann]
 authors-url: [https://github.com/DanieleMaselli,https://github.com/deivanchenko,https://github.com/edgalindo,https://github.com/filipczekajlo,https://github.com/jakobvk,https://github.com/Lellahahaha,https://github.com/josues,https://github.com/piixelcat,https://github.com/hulianbrox,https://github.com/LFra,https://github.com/MalteVoelkner,https://github.com/mariusclassen,https://github.com/natascher,https://github.com/paulinalinaa,https://github.com/t0dorakis]
 summary: Exploring human movement and interaction in time and space.
 ---
