@@ -143,9 +143,6 @@ _Draw a square shape with oblique sides at the edge of the work surface and afte
 ![](./assets/images/iteration_04-1.png)
 ![](./assets/images/iteration_04-2.png)
 
-![](./assets/images/iteration_04-3.png)
-![](./assets/images/iteration_04-4.png)
-
 One last point in this iteration was corrected by Fabian Morón Zirfas (our Lecturer), because the description of the definition in a list looks more legible to the subjects:
 - Draw square shapes that touch each other
 - The length of the sides must vary
