@@ -1,10 +1,10 @@
-function cssColor(color){
+function Color(color){
   return "rgb(" + color.r + "," + color.g + "," + color.b + ")";
 }
 colors = {
-  blue:   cssColor({ r: 0, g: 38, b: 255 }) ,
-  yellow: cssColor({ r: 240, g: 250, b: 0 }) ,
-  red :   cssColor({ r: 255, g: 0, b: 0 }),
+  blue:   Color({ r: 0, g: 38, b: 255 }) ,
+  yellow: Color({ r: 240, g: 250, b: 0 }) ,
+  red :   Color({ r: 255, g: 0, b: 0 }),
 };
 
 
@@ -51,7 +51,7 @@ function draw() {
     triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y);
  
     fill(colors.yellow); // yellow
-    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, 0, CANVAS_HEIGHT * scaleFactor.x);
+    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, 0, CANVAS_HEIGHT * scaleFactor.y);
 
     // ORDER: the blue triangle is under the yellow triangle
 
@@ -73,12 +73,3 @@ function draw() {
 
 
 }
-
-
-
-
-
-
-
-
-
