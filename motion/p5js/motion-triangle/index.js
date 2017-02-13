@@ -31,7 +31,6 @@ function setup() {
 
 function draw() { 
   
-  // reset background
   background(0); 
   noStroke();
 
@@ -47,7 +46,6 @@ function draw() {
     changeVector.y = changeVector.y * -1;
   }
 
-  // draws the blue triangle when it is less than 400 on the right side. 
   if( movingVector.x > (CANVAS_WIDTH * scaleFactor.x) ){
     fill(colors.blue); // blue
     triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y);
@@ -68,7 +66,6 @@ function draw() {
     // ORDER: the yellow triangle is under the blue triangle
   }  
 
-  // if movingVector is in the upper boundry [0, 750) draw the red triangle
   if ( movingVector.y < (CANVAS_HEIGHT * scaleFactor.y) ) {
     fill(colors.red);  // red    
     triangle( 0, CANVAS_HEIGHT * scaleFactor.y, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y );    
