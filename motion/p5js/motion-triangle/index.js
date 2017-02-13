@@ -18,19 +18,20 @@ var movingVector = new p5.Vector(100, 100);
 var changeVector = new p5.Vector(5, 10);
 
 scaleFactor = {
-  a : 1/2,
-  b : 15/16
+  x : 1/2,
+  y : 15/16
 };
 
 
 function setup() {
-  var canvas = createCanvas(CANVAS_WIDTH, CANVAS_HEIGHT);     
+  var canvas = createCanvas(CANVAS_WIDTH, CANVAS_HEIGHT);   //500, 500  
   canvas.parent('sketch');
   frameRate(120);
 }
 
 function draw() { 
   
+  // reset background
   background(0); 
   noStroke();
 
@@ -46,31 +47,31 @@ function draw() {
     changeVector.y = changeVector.y * -1;
   }
 
-
-  if( movingVector.x > (CANVAS_WIDTH * scaleFactor.a) ){
+  // draws the blue triangle when it is less than 400 on the right side. 
+  if( movingVector.x > (CANVAS_WIDTH * scaleFactor.x) ){
     fill(colors.blue); // blue
-    triangle(CANVAS_WIDTH * scaleFactor.a, 0, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.b);
+    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y);
  
     fill(colors.yellow); // yellow
-    triangle(CANVAS_WIDTH * scaleFactor.a, 0, movingVector.x, movingVector.y, 0, CANVAS_HEIGHT * scaleFactor.b);
+    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, 0, CANVAS_HEIGHT * scaleFactor.x);
 
     // ORDER: the blue triangle is under the yellow triangle
 
   } else {
     // draw first the yellow triangle
     fill(colors.yellow); // yellow
-    triangle(CANVAS_WIDTH * scaleFactor.a, 0, movingVector.x, movingVector.y, 0, CANVAS_HEIGHT * scaleFactor.b);
+    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, 0, CANVAS_HEIGHT * scaleFactor.y);
     // then the blue triangle
     fill(colors.blue); // blue
-    triangle(CANVAS_WIDTH * scaleFactor.a, 0, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.b);
+    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y);
 
     // ORDER: the yellow triangle is under the blue triangle
   }  
 
-  
-  if ( movingVector.y < (CANVAS_HEIGHT * scaleFactor.b) ) {
+  // if movingVector is in the upper boundry [0, 750) draw the red triangle
+  if ( movingVector.y < (CANVAS_HEIGHT * scaleFactor.y) ) {
     fill(colors.red);  // red    
-    triangle( 0, CANVAS_HEIGHT * scaleFactor.b, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.b );    
+    triangle( 0, CANVAS_HEIGHT * scaleFactor.y, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y );    
   } else { /* dont draw the red triangle */ } 
 
 
