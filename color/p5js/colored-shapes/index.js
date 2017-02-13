@@ -2,6 +2,7 @@ var colors = [200, 100, 50, 20];
 
 function setup() {
   var canvas = createCanvas(500, 500); 
+  canvas.parent('sketch');
   background(255);
 }
   
