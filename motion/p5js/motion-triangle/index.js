@@ -24,7 +24,7 @@ scaleFactor = {
 
 
 function setup() {
-  var canvas = createCanvas(CANVAS_WIDTH, CANVAS_HEIGHT);   //500, 500  
+  var canvas = createCanvas(CANVAS_WIDTH, CANVAS_HEIGHT);   
   canvas.parent('sketch');
   frameRate(120);
 }
