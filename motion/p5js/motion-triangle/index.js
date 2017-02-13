@@ -3,7 +3,7 @@ function cssColor(color){
 }
 colors = {
   blue:   cssColor({ r: 0, g: 38, b: 255 }) ,
-  yellow: cssColor({ r: 240, g: 200, b: 0 }) ,
+  yellow: cssColor({ r: 240, g: 250, b: 0 }) ,
   red :   cssColor({ r: 255, g: 0, b: 0 }),
 };
 
