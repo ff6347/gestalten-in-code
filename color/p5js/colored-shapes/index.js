@@ -23,11 +23,11 @@ function draw() {
   scaleFactor = 50; 
   
   var x = 500;
-	var y = 500; 
+  var y = 500; 
  	// loop for the radius of the circle
   for (var i = 0, radius = 14; radius > 0; radius--, i++) {
   	// fill with color
- 		fill(0, 0, colors[i % colors.length]);
+    fill(0, 0, colors[i % colors.length]);
     ellipse( x, y, scaleFactor * radius, scaleFactor * radius);
   }
  
