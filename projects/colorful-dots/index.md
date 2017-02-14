@@ -1,8 +1,11 @@
----
+--- 
+authors: 
+  - "Julia Hilt"
+authors-url: 
+  - "https://github.com/piixelcat"
 layout: project
-title: Colorful Dots
-authors: [Julia Hilt]
-authors-url: [https://github.com/piixelcat]
+title: "Colorful Dots"
+type: project
 ---
 ![](./splash.png)
 

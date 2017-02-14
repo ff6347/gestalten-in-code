@@ -1,9 +1,13 @@
----
+--- 
+authors: 
+  - "Edmundo Mejía Galindo"
+authors-url: 
+  - "https://github.com/edgalindo"
 layout: project
 title: Fractalistics
-authors: [Edmundo Mejía Galindo]
-authors-url: [https://github.com/edgalindo]
+type: project
 ---
+
 ![](./splash.png)
 
 ## Introduction – Analog Algorithms
