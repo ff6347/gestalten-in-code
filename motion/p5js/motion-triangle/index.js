@@ -1,23 +1,17 @@
-function Color(color){
-  return "rgb(" + color.r + "," + color.g + "," + color.b + ")";
-}
-colors = {
-  blue:   Color({ r: 0, g: 38, b: 255 }) ,
-  yellow: Color({ r: 240, g: 250, b: 0 }) ,
-  red :   Color({ r: 255, g: 0, b: 0 }),
-};
-
-
 var CANVAS_WIDTH  = 500;
 var CANVAS_HEIGHT = 500;
-
+var triangleColors =  {
+  blue:   "rgb(0, 38, 255)",                          
+  yellow: "rgb(240, 250, 0)",                           
+  red :   "rgb(255, 0, 0)"                               
+};
 
 // create new Vector object
 var movingVector = new p5.Vector(100, 100);
 // create new Vector object
 var changeVector = new p5.Vector(5, 10);
 
-scaleFactor = {
+var scaleFactor = {
   x : 1/2,
   y : 15/16
 };
@@ -33,42 +27,43 @@ function draw() {
   
   background(0); 
   noStroke();
+  
 
   movingVector.add( changeVector );
 
-  if ( ( movingVector.x > CANVAS_WIDTH ) || ( movingVector.x < 0 ) ) {
+  if ( ( movingVector.x > width ) || ( movingVector.x < 0 ) ) {
     // change sign of v.x (change direction)
     changeVector.x = changeVector.x * -1;
   }
   
-  if ( ( movingVector.y > CANVAS_HEIGHT ) || ( movingVector.y < 0 ) ) {
+  if ( ( movingVector.y > height ) || ( movingVector.y < 0 ) ) {
     // change sign of v.y (change direction)
     changeVector.y = changeVector.y * -1;
   }
 
-  if( movingVector.x > (CANVAS_WIDTH * scaleFactor.x) ){
-    fill(colors.blue); // blue
-    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y);
+  if( movingVector.x > (width * scaleFactor.x) ){
+    fill(triangleColors.blue); // blue
+    triangle( width * scaleFactor.x, 0, movingVector.x, movingVector.y, width, height * scaleFactor.y);
  
-    fill(colors.yellow); // yellow
-    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, 0, CANVAS_HEIGHT * scaleFactor.y);
+    fill(triangleColors.yellow); // yellow
+    triangle( width * scaleFactor.x, 0, movingVector.x, movingVector.y, 0, height * scaleFactor.y);
 
     // ORDER: the blue triangle is under the yellow triangle
 
   } else {
     // draw first the yellow triangle
-    fill(colors.yellow); // yellow
-    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, 0, CANVAS_HEIGHT * scaleFactor.y);
+    fill(triangleColors.yellow); // yellow
+    triangle( width * scaleFactor.x, 0, movingVector.x, movingVector.y, 0, height * scaleFactor.y);
     // then the blue triangle
-    fill(colors.blue); // blue
-    triangle(CANVAS_WIDTH * scaleFactor.x, 0, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y);
+    fill(triangleColors.blue); // blue
+    triangle( width * scaleFactor.x, 0, movingVector.x, movingVector.y, width, height * scaleFactor.y);
 
     // ORDER: the yellow triangle is under the blue triangle
   }  
 
-  if ( movingVector.y < (CANVAS_HEIGHT * scaleFactor.y) ) {
-    fill(colors.red);  // red    
-    triangle( 0, CANVAS_HEIGHT * scaleFactor.y, movingVector.x, movingVector.y, CANVAS_WIDTH, CANVAS_HEIGHT * scaleFactor.y );    
+  if ( movingVector.y < (height * scaleFactor.y) ) {
+    fill(triangleColors.red);  // red    
+    triangle( 0, height * scaleFactor.y, movingVector.x, movingVector.y, width, height * scaleFactor.y );    
   } else { /* dont draw the red triangle */ } 
 
 
