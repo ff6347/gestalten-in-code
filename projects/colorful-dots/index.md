@@ -18,13 +18,17 @@ The assignment »Analog algorithm« was part of the course »Designing with code
 
 
 ## Inspiration: Yayoi Kusama
-![](./assets/images/yayoikusama.png)
->[»Artwork of Yayoi Kusama«](https://www.flickr.com/photos/infomastern/22589338477/in/photolist-Aq9gk4-nSyKmy-soPVG-bvqotp-APvRLS-91bKoR-4f4Qk9-f9Wvex-6GKitp-9yityY-fDoyxE-6rzz9j-BeiEc5-bt5VRZ-iBL67U-J5Haca-dqd1pt-Bm5dit-ymvJe8-p8gZN9-78h4pA-5pQYjm-BgCEFk-hrp6xd-6Ln92u-fBPtgq-zhjVdE-4f4PYY-8inDFT-oTC48j-brGMPL-bEBJTi-6GPnsQ-AEHTRF-Bm4ZM6-bt5VX8-5wLQDx-qfwvuV-qmv8fB-bEBGLZ-esSkoq-6GKhsx-jEyGWZ-8z71rs-6GKjUM-aRAAp-dasiob-bs699B-dhcDAs-c4cKYd) by [Susanne Nilsson](https://www.flickr.com/photos/infomastern/), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) / Adapted to image size
+
+![](./assets/images/yayoikusama.png)  
+
+###### [»Artwork of Yayoi Kusama«](https://www.flickr.com/photos/infomastern/22589338477/in/photolist-Aq9gk4-nSyKmy-soPVG-bvqotp-APvRLS-91bKoR-4f4Qk9-f9Wvex-6GKitp-9yityY-fDoyxE-6rzz9j-BeiEc5-bt5VRZ-iBL67U-J5Haca-dqd1pt-Bm5dit-ymvJe8-p8gZN9-78h4pA-5pQYjm-BgCEFk-hrp6xd-6Ln92u-fBPtgq-zhjVdE-4f4PYY-8inDFT-oTC48j-brGMPL-bEBJTi-6GPnsQ-AEHTRF-Bm4ZM6-bt5VX8-5wLQDx-qfwvuV-qmv8fB-bEBGLZ-esSkoq-6GKhsx-jEyGWZ-8z71rs-6GKjUM-aRAAp-dasiob-bs699B-dhcDAs-c4cKYd) by [Susanne Nilsson](https://www.flickr.com/photos/infomastern/), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) / Adapted to image size
 
 This project was inspired by the undisputable queen of dots: Yayoi Kusama. Her whole oeuvre is characterized by dots in every size, color, shape and medium from dots on horses, trees and pumpkins to classical polka dots and dot based patterns. Yayoi Kusamas lifelong obsession with dots is closely related to her metal illness which includes hallucinations of dots and net structures and her deep fear to vanish into dots herself.
 
-![](./assets/images/obliterationroom.png)
->[»Yayoi Kusama's Obliteration Room«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [interestedbystandr](https://www.flickr.com/photos/100739735@N06/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / Tonal correction, adapted to image size
+
+![](./assets/images/obliterationroom.png)  
+
+###### [»Yayoi Kusama's Obliteration Room«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [interestedbystandr](https://www.flickr.com/photos/100739735@N06/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / Tonal correction, adapted to image size
 
 In 2012 the Japanese artist provided a completely white room as blank canvas for the visitors of Queensland Gallery of Modern Art. Every visitor received colorful adhesive dots in various size and was encouraged to leave a trace behind by sticking a dot somewhere in the room. After several weeks a look in the so called »obliteration room« shows what it looks like when hundreds of visitors let their human playfulness run free.
 
