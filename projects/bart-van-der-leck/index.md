@@ -38,7 +38,8 @@ While Bart van der Lecks early pieces of art around 1895 were shaped by his work
 #### Composition No. 7 - Berglandschaft (mountain view)
 For the second part of our assignment we agreed to focus on Bart van der Lecks late De Stijl period, to be precise the time shortly before he leaves the artistic group. We chose one of his travel paintings form 1917 which he called »composition no. 7 (mountain view)«. This painting was part of a larger series Bart van der Leck produced during his journey across Algeria. Its current value lies within 367.740 € at this time.  
 
-![](./assets/images/compositionno7.png)
+![](./assets/images/compositionno7.png)  
+
 ###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 The difficulties in analyzing an abstract painting should not be underestimated, so in order to analyze this piece of art properly we went from the more obvious to the complex parts:
@@ -70,24 +71,29 @@ We also analyzed »composition no. 7« in relation to the laws of Gestalt and th
 The law of regularity says that if neighbouring objects exhibit repeating patterns, human perception perceives them as a group.
 
 ![](./assets/images/regularity.png)
+
 ###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 ##### Law of Similarity
 The law of similarity says that human perception perceives identical objects as unit.
 
-![](./assets/images/similarity.png)
+![](./assets/images/similarity.png)  
+
 ###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 ##### Law of Proximity
 The law of proximity says that if objects exhibit physical proximity, human perception perceives them as a group.
 
-![](./assets/images/proximity.png)
+![](./assets/images/proximity.png)  
+
 ###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 #### The missing grid
 Due to the geometrical and clear appearance of »composition no. 7« we assumed that a complex underlying grid creates this minimalistic expression.
 
-![](./assets/images/grid.png)
+![](./assets/images/grid.png)  
+
+
 ###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting construction
 
 So we started to examine different possible constructions based on proportions. An initial evaluation indicated that:
