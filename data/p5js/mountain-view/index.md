@@ -1,0 +1,13 @@
+---
+layout: p5js
+authors: [Edmundo Mejia Galindo, Julia Hilt]
+authors-url: [https://github.com/edgalindo,https://github.com/piixelcat]
+title: [Mountain view: Berchtesgaden – Nussdorf]
+tags: [P5.js,[data], [color], [form], [repeat], Law of Something]
+permalink: /[data]/[Mountain view: Berchtesgaden – Nussdorf]/
+summary: [A simple data visualization based on altitude profiles forms abstract mountain views.]
+---
+
+Part of the project »Deconstruction Master Artists«: Inspired by Bart van der Lecks artwork »composition no. 7« and altitude profiles.
+
+![](mountain-view/mountain-view-01/out.png)  
