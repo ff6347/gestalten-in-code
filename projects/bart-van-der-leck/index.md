@@ -1,8 +1,12 @@
 ---
 layout: project
 title: Bart van der Leck – Mountain view
-authors: [Edmundo Mejia Galindo, Julia Hilt]
-authors-url: [https://github.com/edgalindo,https://github.com/piixelcat]
+authors:
+  - "Edmundo Mejia Galindo"
+  - "Julia Hilt"  
+authors-url: 
+  - "https://github.com/edgalindo"
+  - "https://github.com/piixelcat"
 ---
 ## Deconstructing master artists
 ![](./splash.png)
