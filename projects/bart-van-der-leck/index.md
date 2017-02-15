@@ -1,8 +1,13 @@
----
+--- 
+authors: 
+  - "Edmundo Mejia Galindo"
+  - "Julia Hilt"
+authors-url: 
+  - "https://github.com/edgalindo"
+  - "https://github.com/piixelcat"
 layout: project
-title: Bart van der Leck – Mountain view
-authors: [Edmundo Mejia Galindo, Julia Hilt]
-authors-url: [https://github.com/edgalindo,https://github.com/piixelcat]
+title: "Bart van der Leck – Mountain view"
+type: project
 ---
 ## Deconstructing master artists
 ![](./splash.png)
@@ -33,8 +38,9 @@ While Bart van der Lecks early pieces of art around 1895 were shaped by his work
 #### Composition No. 7 - Berglandschaft (mountain view)
 For the second part of our assignment we agreed to focus on Bart van der Lecks late De Stijl period, to be precise the time shortly before he leaves the artistic group. We chose one of his travel paintings form 1917 which he called »composition no. 7 (mountain view)«. This painting was part of a larger series Bart van der Leck produced during his journey across Algeria. Its current value lies within 367.740 € at this time.  
 
-![](./assets/images/compositionno7.png)
->[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+![](./assets/images/compositionno7.png)  
+
+###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 The difficulties in analyzing an abstract painting should not be underestimated, so in order to analyze this piece of art properly we went from the more obvious to the complex parts:
 
@@ -47,7 +53,7 @@ If we look at the percentage distribution, we notice that blue is the most domin
 ![](./assets/images/basicshape.png)
 
 The basic shape is a rectangle with horizontal orientation. The different sizes are multiples from a underlying square shape, whereby the duplication of that shape defines the smallest unit. The biggest found unit matches the sevenfold of this square unit.  
-![](./assets/images/shapepercentage.png)  
+![](./assets/images/shape-percentage.png)  
 The percentage distribution reveals that middle-sized shapes are the commonest, while extremely small or huge shapes make only 7% each. The large majority this summed up 44% are consist of fourfold or fivefold of the basic square shape.  
 ![](./assets/images/orientation.png)  
 The orientation puzzled us: Besides the easily recognisable 0° and 90° angles there were lots of similar yet not identically angles around 45° which means: 43°, 46° and 47°. Also 133°, 131° and 132° angles were found. At this point of the project we assumed it was a measurement inaccuracy due the the digital reproduction of the painting.  
@@ -65,25 +71,30 @@ We also analyzed »composition no. 7« in relation to the laws of Gestalt and th
 The law of regularity says that if neighbouring objects exhibit repeating patterns, human perception perceives them as a group.
 
 ![](./assets/images/regularity.png)
->[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
+
+###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 ##### Law of Similarity
 The law of similarity says that human perception perceives identical objects as unit.
 
-![](./assets/images/similarity.png)
->[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
+![](./assets/images/similarity.png)  
+
+###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 ##### Law of Proximity
 The law of proximity says that if objects exhibit physical proximity, human perception perceives them as a group.
 
-![](./assets/images/proximity.png)
->[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
+![](./assets/images/proximity.png)  
+
+###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting individual objects
 
 #### The missing grid
 Due to the geometrical and clear appearance of »composition no. 7« we assumed that a complex underlying grid creates this minimalistic expression.
 
-![](./assets/images/grid.png)
->[»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting construction
+![](./assets/images/grid.png)  
+
+
+###### [»Dutch Constructivism«](https://www.flickr.com/photos/100739735@N06/16337581301/in/photolist-qTGnJe-ymmvWS-ob7ofP-d9R2Jd-pTKJZJ-oWQdNJ-5aa5DB-98QJby-cQ9edJ-HRJFz6-bcsNdt-z1Lnoj-5pQXWG-pBhri9-o1TVFG-q41vY-29FG9-oWT6U6-o4JLrY-oWQbF7-pBfpiD-dfMwBu-ppuKkv-o1TP9U-ppLTse-pTrJxM-pBerKf-ppvUx9-oWQdBm-dFtmhY-pBbVWc-p8hFYC-pBbXSr-iaZSu7-p8hHPm-5pQWRA-dFtkW3-dqd19i-bM6AKk-7741J8-pBhjqm-oWQ99J-ppLSxt-f9Wu5Z-o1Hxnn-jJBjtc-523MRh-pBhiG7-euzKXY-fabJk7) by [Maryellen McFadden](https://www.flickr.com/photos/20745656@N00/), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) / Highlighting construction
 
 So we started to examine different possible constructions based on proportions. An initial evaluation indicated that:
 
@@ -108,7 +119,7 @@ For a short period we thought about subsequently »geometrizing« the painting, 
 
 Fortuanetly we found out a lot about Bart van der Lecks approach by reading Emil Kiesers »Analysen von Bildern und Plastiken der Moderne« (Analysis of paintings and sculptures of Modernity) where he mentions Bart van der Leck on page 64 with the following words:
 
-»[...] however [Bart van der Lecks work] misses orientation in solder and balance and therefore the expression of truthfulness which radiates from Mondrians oeuvre. Van der Lecks arrangements appear random, non-binding and scattered at second glance. **It is rather an abstraction of a naturalistic representation** [...]«
+> »[...] however [Bart van der Lecks work] misses orientation in solder and balance and therefore the expression of truthfulness which radiates from Mondrians oeuvre. Van der Lecks arrangements appear random, non-binding and scattered at second glance. **It is rather an abstraction of a naturalistic representation** [...]«
 
 These harsh words were our eureka moment! It also shed light on some of our unanswered questions (Why did Bart van der Leck separate from De Stijl, why is there no grid in such a geometric work, etc.). We finally had a point to start from: Abstracting a commonly known naturalistic representation!
 
