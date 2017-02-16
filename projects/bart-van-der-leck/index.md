@@ -6,13 +6,23 @@ authors-url:
   - "https://github.com/edgalindo"
   - "https://github.com/piixelcat"
 layout: project
+<<<<<<< HEAD
 title: "Bart van der Leck – Mountain view"
 type: project
+=======
+title: Bart van der Leck – Mountain view
+authors:
+  - "Edmundo Mejia Galindo"
+  - "Julia Hilt"  
+authors-url: 
+  - "https://github.com/edgalindo"
+  - "https://github.com/piixelcat"
+>>>>>>> origin/deconstructing-master-artists
 ---
 ## Deconstructing master artists
 ![](./splash.png)
 
-This project discusses Bart van der Lecks painting »composition no. 7 (mountain view)« in the areas of artistic categorisation, biographical background, art-historian image analysis and their application to generative design, which means in this chase simple data visualization.
+This project discusses Bart van der Lecks painting »composition no. 7 (mountain view)« in the areas of artistic categorisation, biographical background, art-historian image analysis and their application to generative design, which means in this case simple data visualization.
 
 ### The assignment
 The initial task was to choose a designer or artist and analyze a single piece of art or a whole series from his/her oeuvre in detail. After familiarizing with the individual language of forms and the used laws of gestalt the assignment requested us to develop individual methodologies and tools to understand the underlying system and construction the artist used for his work. The knowledge obtained through this process should then be applied to reproduce or develop his/her work further.
@@ -45,7 +55,7 @@ For the second part of our assignment we agreed to focus on Bart van der Lecks l
 The difficulties in analyzing an abstract painting should not be underestimated, so in order to analyze this piece of art properly we went from the more obvious to the complex parts:
 
 #### Primary colors
-Typically for an artist shaped by the De Stijl movement we only find primary colors and black in »composition no. 7«. If you want to view the painting as a whole and include the canvas as well you could also add white to the list of colors.
+Typically for an artist shaped by the De Stijl movement we only find primary colors and black in »composition no. 7«. If you want to view the painting as a whole and include the canvas as well you could also add white to the list of colors.  
 ![](./assets/images/primarycolors.png)  
 If we look at the percentage distribution, we notice that blue is the most dominant color with 32%, followed by yellow and red in nearly equal amounts (28% and 25%), while black is in the bottom position with only 15%.
 
@@ -140,13 +150,13 @@ If you go hiking on a regular basis and also like advanced tours most hikers use
 
 ![](./assets/images/altitudeprofil.png)
 
-Anna gave us the starting point and endpoint for a few mountain tours she recently made and we used them to generate altitude diagrams. At the start we were sure to generate a data basis from the online tools we used which comes in form of a .csv file or something similar. But actually this seems to be quite unusual and instead we got diagrams and graphics with detailed scales. After several tries we found out that the best method is to measure out significant landmarks. So we got a x-value which gives us the altitude and a y-value which gives us the distance. The so gained data was then used as the base for the visualization: The coordinate pairs we gained this way defined the starting point, the endpoint and the angle of one rectangle to visualize a road section.
+Anna gave us the startingpoint and endpoint for a few mountain tours she recently made and we used them to generate altitude diagrams. At the start we were sure to generate a data basis from the online tools we used which comes in form of a .csv file or something similar. But actually this seems to be quite unusual and instead we got diagrams and graphics with detailed scales. After several tries we found out that the best method is to measure out significant landmarks. So we got a x-value which gives us the altitude and a y-value which gives us the distance. The so gained data was then used as the base for the visualization: The coordinate pairs we gained this way defined the starting point, the endpoint and the angle of one rectangle to visualize a road section.
 
 #### Map legend: How to read the diagram
 Although color coding is controversial discussed in the design community, we wanted to make best use of the language of forms and colors given to us by Bart van der Leck. With rising altitude temperature and vegetation change: Once you cross the timber line the dense pine forests disappear and the climate gets rougher and colder. We visualize this changing conditions and landscape with a simple color model made from the primary colors: The color blue is used to describe mountain peaks while yellow and red mark lower altitude levels whereby the color red characterizes mountain valleys.
 
 #### Taking a look at code
-If you want to take a closer look at how this was done you can find the code [here](./assets/code/).
+If you want to take a closer look at how this was done you can find the code [here](/gestalten-in-code/data/p5js/mountain-view/).
 
 ---------------------------------------
 
