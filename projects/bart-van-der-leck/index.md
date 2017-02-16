@@ -6,18 +6,14 @@ authors-url:
   - "https://github.com/edgalindo"
   - "https://github.com/piixelcat"
 layout: project
-<<<<<<< HEAD
 title: "Bart van der Leck – Mountain view"
 type: project
-=======
-title: Bart van der Leck – Mountain view
 authors:
   - "Edmundo Mejia Galindo"
   - "Julia Hilt"  
 authors-url: 
   - "https://github.com/edgalindo"
   - "https://github.com/piixelcat"
->>>>>>> origin/deconstructing-master-artists
 ---
 ## Deconstructing master artists
 ![](./splash.png)
@@ -56,18 +52,26 @@ The difficulties in analyzing an abstract painting should not be underestimated,
 
 #### Primary colors
 Typically for an artist shaped by the De Stijl movement we only find primary colors and black in »composition no. 7«. If you want to view the painting as a whole and include the canvas as well you could also add white to the list of colors.  
+
 ![](./assets/images/primarycolors.png)  
+
 If we look at the percentage distribution, we notice that blue is the most dominant color with 32%, followed by yellow and red in nearly equal amounts (28% and 25%), while black is in the bottom position with only 15%.
 
 #### Basic shape: orientation, size and proportions
+
 ![](./assets/images/basicshape.png)
 
 The basic shape is a rectangle with horizontal orientation. The different sizes are multiples from a underlying square shape, whereby the duplication of that shape defines the smallest unit. The biggest found unit matches the sevenfold of this square unit.  
 ![](./assets/images/shape-percentage.png)  
+
 The percentage distribution reveals that middle-sized shapes are the commonest, while extremely small or huge shapes make only 7% each. The large majority this summed up 44% are consist of fourfold or fivefold of the basic square shape.  
+
 ![](./assets/images/orientation.png)  
+
 The orientation puzzled us: Besides the easily recognisable 0° and 90° angles there were lots of similar yet not identically angles around 45° which means: 43°, 46° and 47°. Also 133°, 131° and 132° angles were found. At this point of the project we assumed it was a measurement inaccuracy due the the digital reproduction of the painting.  
+
 ![](./assets/images/orientationpercentage.png)  
+
 We did not attribute a big importance to this discovery because it revealed that the rotated shapes only make up to 19% of the painting while shapes with clear angles (0° or 90°) provide 81% in total.
 
 #### Laws of Gestalt
@@ -119,7 +123,8 @@ What was wrong? Was there no grid or were we just not able to find it?
 
 We came to the following conclusion: What looks like a geometrically constructed grid is actually a purely optical construction.
 
-### Replica
+### Replica  
+
 ![](./assets/images/replica.png)
 
 As we did not find any grid or construction behind the painting, we could just measure the coordinates and hardcode the whole piece. Our hope was that we might notice any kind of »number magic« if we view the separate components of the painting from a more numerical view. To make it short: There was no magic and we did not see anything besides colored rectangles.
@@ -136,13 +141,17 @@ These harsh words were our eureka moment! It also shed light on some of our unan
 But we were not fully satisfied yet. This last part of the assignment needed to be executed in code and as simple it is to get your hands on a photo and build an abstract version of the motive with Bart van der Lecks repertoire of forms as hard it gets if you want to teach an algorithm to do this. You need to dig deep into computer vision and this project was neither the time nor the place to do so – but we came up with something different while we thought about artistic data visualization which we have seen in Julia Laubs work (we studied her portfolio intensively for an other part of this course).
 
 ### Mountain view: Visualizing data with Bart van der Lecks language of forms
+
 ![](./assets/images/mountainview01.png)  
+
 In spirit of Bart van der Lecks oeuvre we have created abstracted mountain views which are actually simple data visualizations based on the altitude profile a hiker completed.
 
 ![](./assets/images/mountainview02.png)  
+
 Thanks to Anna, a fellow hiker, for providing her mountain tour data!
 
 ![](./assets/images/toblerone.png)  
+
 We also created an altitude profile for our favorite swiss mountain range.
 
 #### Data basis
