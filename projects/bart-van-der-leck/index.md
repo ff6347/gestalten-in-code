@@ -156,7 +156,7 @@ Anna gave us the startingpoint and endpoint for a few mountain tours she recentl
 Although color coding is controversial discussed in the design community, we wanted to make best use of the language of forms and colors given to us by Bart van der Leck. With rising altitude temperature and vegetation change: Once you cross the timber line the dense pine forests disappear and the climate gets rougher and colder. We visualize this changing conditions and landscape with a simple color model made from the primary colors: The color blue is used to describe mountain peaks while yellow and red mark lower altitude levels whereby the color red characterizes mountain valleys.
 
 #### Taking a look at code
-If you want to take a closer look at how this was done you can find the code [here](./gestalten-in-code/data/p5js/mountain-view/).
+If you want to take a closer look at how this was done you can find the code [here](/gestalten-in-code/data/p5js/mountain-view/).
 
 ---------------------------------------
 
