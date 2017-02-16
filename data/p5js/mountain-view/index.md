@@ -1,14 +1,10 @@
 ---
 layout: p5js
-authors:
-  - "Edmundo Mejia Galindo"
-  - "Julia Hilt"  
-authors-url:
- - "https://github.com/edgalindo"
- - "https://github.com/piixelcat" 
+author: Julia Hilt  
+author-url: "https://github.com/piixelcat" 
 title: Mountain view: Berchtesgaden – Nussdorf
 tags: [P5.js, data, color, form, repeat, Law of Continuity]
-permalink: /data/Mountain view: Berchtesgaden – Nussdorf/
+permalink: /data/mountain-view/
 summary: A simple data visualization based on altitude profiles forms abstract mountain views.
 ---
 
