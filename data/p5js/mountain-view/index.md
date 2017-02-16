@@ -2,6 +2,12 @@
 layout: p5js
 author: Julia Hilt  
 author-url: "https://github.com/piixelcat" 
+authors:
+  - "Edmundo Mejia Galindo"
+  - "Julia Hilt"  
+authors-url:
+ - "https://github.com/edgalindo"
+ - "https://github.com/piixelcat" 
 title: Mountain view: Berchtesgaden – Nussdorf
 tags: [P5.js, data, color, form, repeat, Law of Continuity]
 permalink: /data/mountain-view/
