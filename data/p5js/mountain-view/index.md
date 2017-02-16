@@ -16,4 +16,3 @@ summary: A simple data visualization based on altitude profiles forms abstract m
 
 Part of the project »Deconstruction Master Artists«: Inspired by Bart van der Lecks artwork »composition no. 7« and altitude profiles.
 
-![](mountain-view/mountain-view-01/out.png)  
