@@ -8,7 +8,7 @@ authors:
 authors-url:
  - "https://github.com/edgalindo"
  - "https://github.com/piixelcat" 
-title: Mountain view: Berchtesgaden – Nussdorf
+title: "Mountain view: Berchtesgaden - Nussdorf"
 tags: [P5.js, data, color, form, repeat, Law of Continuity]
 permalink: /data/mountain-view/
 summary: A simple data visualization based on altitude profiles forms abstract mountain views.
