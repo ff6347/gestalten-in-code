@@ -1,6 +1,6 @@
 var initialOffset    = 10;
 var offset           = 25;
-var globalCircleSize = 15;
+var circleSize       = 15;
 
    function setup() {
    var canvas = createCanvas(500, 500); 
@@ -15,10 +15,8 @@ function draw() {
     g: 63,
     b: 203
         
-    circleSize = globalCircleSize;
-  
 
-}
+ }
     col.r = random(100, 180);
     col.g = random(0, 63);
     col.b = random(0, 203);
