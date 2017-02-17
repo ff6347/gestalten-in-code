@@ -23,6 +23,8 @@ function draw() {
     
     for(var y = initialOffset; y < height; y = y + offset ) {
     for(var x = initialOffset; x < width; x = x + offset){
+      
+        //fill(col.r, col.g, col.b)
 
         ellipse(x, y, circleSize, circleSize);
         circleSize = Math.abs(randomGaussian(5, 10)) | 0;
