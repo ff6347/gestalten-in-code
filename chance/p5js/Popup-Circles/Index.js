@@ -18,13 +18,17 @@ function setup() {
 function draw() {
         
     circleSize = globalCircleSize;
+  
+    col.r = random(100, 180);
+    col.g = random(0, 63);
+    col.b = random(0, 203);
 
     strokeWeight(3);
     
     for(var y = initialOffset; y < height; y = y + offset ) {
     for(var x = initialOffset; x < width; x = x + offset){
       
-        //fill(col.r, col.g, col.b)
+        fill(col.r, col.g, col.b)
 
         ellipse(x, y, circleSize, circleSize);
         circleSize = Math.abs(randomGaussian(5, 10)) | 0;
