@@ -2,8 +2,8 @@
 layout: p5js
 author: Daniele Maselli
 author-url: https://github.com/DanieleMaselli 
-title: Popup-Circles 
-tags: /Chance/Repeat/Law of Similarity/Random
-permalink: /chance/Popup-Circles/
-summary: Crackling random circles. Psychedelic show!  
+title: PopupCircles 
+tags: /chance/repeat/Law of Similarity/random
+permalink: /chance/Popup_Circles/
+summary: Crackling circles. Psychedelic show!  
 ---
