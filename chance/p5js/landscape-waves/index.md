@@ -3,7 +3,7 @@ layout: default
 author: Edmundo Mejía Galindo
 author-url: https://github.com/edgalindo/
 title: Landscape waves
-tags: [P5.js, Law of Multistable-perception, Law of Relativity of Properties, Law of Emotion, data, form, grid, motion]
+tags: [P5.js, Law of Multistable-perception, Law of Emotion, form, grid, motion]
 permalink: /chance/landscape-waves/
 summary: Random lines with different grey scale colors built a landscape.
 ---
