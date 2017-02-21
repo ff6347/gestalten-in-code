@@ -3,7 +3,7 @@ layout: p5js
 author: Edmundo Mejía Galindo
 author-url: https://github.com/edgalindo
 title: Law of Symetry and chance
-tags: [P5.js, Law of Connected Elements, Law of Regularity, Law of Symmetry, chance, symmetry]
+tags: [P5.js, Law of Connected Elements, Law of Symmetry, grid, symmetry]
 permalink: /grid/grid-symetry/
 summary: This sample shows a static grid regular distances between the arcs.
 ---

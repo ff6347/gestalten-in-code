@@ -3,7 +3,7 @@ layout: p5js
 author: Edmundo Mejía Galindo
 author-url: https://github.com/edgalindo/
 title: Circles bubbles
-tags: [P5.js, Law of Closure, Law of Connected Elements, Law of Continuity, Law of Similarity, Law of Space, interaction, contrast, repeat, form]
+tags: [P5.js, Law of Connected Elements, Law of Similarity, contrast, repeat, form]
 permalink: /chance/circles-bubbles/
 summary: Different size of Circles and their interaction show Space and Volume.
 ---
