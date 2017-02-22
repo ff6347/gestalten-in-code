@@ -20,7 +20,7 @@ The first project in the seminar was called analog algorithm. The main task was 
 ##Algorithm part 1.
 
 
-![](./assets:images/algo-1.png)
+![](./assets:image/algo-1.png)
 
 
 ####_“Draw round shapes in vertical and horizontal which differ from the diameter. Create lines that merge into different points”._ 
@@ -35,7 +35,7 @@ for the upcoming executed algorithm.
 
 
 
-![](./assets:images/algo-2.png)
+![](./assets:image/algo-2.png)
 
 
 ####_“Draw circles of various sizes throughout the sheet distant each other. Trace straight lines which intersect but do not touch the circles._ 
@@ -49,7 +49,7 @@ The choice of the material was free, which also included objects. I found intere
 ##Algorithm part 3.
 
 
-![](./assets:images/algo-3.png)
+![](./assets:image/algo-3.png)
 
 ####_Draw twenty filled circles of different sizes._
 ####_Circles connect with a straight line._ 
@@ -59,7 +59,7 @@ The choice of the material was free, which also included objects. I found intere
 
 The third part of my algorithm was set by an amount of circle to draw and a rule for crossing each lines at least once. The material used was selected in advance to create a more controlled result. The performers had available a brush and ink on rough paper. After getting all the results, I choose some of my favorite drawings and recognize that I had to take more and more in the hands of the algorithm and the material on which it runs. 
 
-![](./assets:images/algo-4.png)
+![](./assets:image/algo-4.png)
 
 I choose one specific draw, which gave me the idea for creating more visual depth and a percentage of circles, instead of a defined number of circle.  
 
@@ -67,7 +67,7 @@ I choose one specific draw, which gave me the idea for creating more visual dept
 
 ##Conclusion
 
-![](./assets:images/algo-5.png)
+![](./assets:image/algo-5.png)
 
 ####_Draw a circle consisting of 20 to 30 filled circles that do not touch each other._ 
 ####_Circles are reduced in proximity to the center._ 
@@ -77,7 +77,7 @@ I choose one specific draw, which gave me the idea for creating more visual dept
 
 The third and last algorithm was my final attempt. This time I took more control about the drawings, with different colors according to contrast and combination. The text was more accurate and understandable for the executor. I've got the results that I desired by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. 
 
-![](./assets:images/algo-end.png)
+![](./assets:image/algo-end.png)
 
 After all the drawings that I got from every person, I was inspired for making a composition with all the different results that I got from, so I used my second choice drawings to create a frame for my end results and to enhance the design. 
 
