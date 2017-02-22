@@ -13,7 +13,7 @@ The current documentation shows the results of the course â€œgestalten in codeâ€
 ---
 
 
-![](./assets:images/splash.png)
+![](./splash.png)
 
 The first project in the seminar was called analog algorithm. The main task was to provide a rule in text form that drives a person for doing a certain thing, like an algorithm for a machine but instead for a human person. Each person had to think an algorithm that has to be simple and easy to understand in words in one sentence and it has to be controlled by the person who gives the instruction, like using different material or a set of defined parameters and constants.
 
