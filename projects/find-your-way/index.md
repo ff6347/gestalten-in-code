@@ -69,7 +69,7 @@ After getting all the results, by choosing some of my favorite drawings, it was 
 
 ![](./assets/images/algo-4.png)
 
-I choose one specific draw, which gave me the idea for creating more visual depth and a percentage of circles, instead of a defined number of circle.  
+The choice was focused one specific draw, which gave the idea for creating more visual depth and a percentage of circles, instead of a defined number of circle.  
 
 
 
@@ -83,7 +83,7 @@ I choose one specific draw, which gave me the idea for creating more visual dept
 
 ---
 
-The third and last algorithm was my final attempt. This time I took more control about the drawings, with different colors according to contrast and combination. The text was more accurate and understandable for the executor. I've got the results that I desired by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. 
+The third and last algorithm was the final attempt. This time I took more control about the drawings, with different colors according to contrast and combination. The text was more accurate and understandable for the executor. I've got the desired results by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. 
 
 ![](./assets/images/algo-end.png)
 
