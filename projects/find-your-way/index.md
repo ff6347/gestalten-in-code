@@ -20,7 +20,7 @@ The first project in the seminar was called analog algorithm. The main task was 
 ##Algorithm part 1.
 
 
-![](./assets:image/algo-1.png)
+![](./assets/images/algo-1.png)
 
 
 ####_“Draw round shapes in vertical and horizontal which differ from the diameter. Create lines that merge into different points”._ 
