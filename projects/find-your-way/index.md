@@ -17,7 +17,7 @@ The current documentation shows the results of the course â€œgestalten in codeâ€
 
 
 The first project of the University seminar gestalten in code was titled 'analog algorithm'. 
-The main task of the project was to provide a set of instructions in a human language emulating algorithms in machines. The instructions had to be in one sentence,simple to understand and could be composed with parameters or constants.
+The main task of the project was to provide a set of instructions in a human language emulating algorithms in machines. The instructions had to be in one sentence, simple to understand and could be composed with parameters or constants.
 
 ##Algorithm part 1.
 
@@ -87,7 +87,7 @@ The third and last algorithm was my final attempt. This time I took more control
 
 ![](./assets/images/algo-end.png)
 
-After all the drawings that I got from every person, I was inspired for making a composition with all the different results that I got from, so I used my second choice drawings to create a frame for my end results and to enhance the design. 
+After receiving the executed algorithm from each person with different color combination, it seemed a pity not to enhance the contrast of colors. For that reason it was created a following frame with all the different received results and to enhance the design for the main algorithm that was my final choice.
 
 ---------------------------------------
 
