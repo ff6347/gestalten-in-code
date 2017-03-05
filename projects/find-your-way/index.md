@@ -15,7 +15,9 @@ The current documentation shows the results of the course “gestalten in code�
 
 ![](./splash.png)
 
-The first project in the seminar was called analog algorithm. The main task was to provide a rule in text form that drives a person for doing a certain thing, like an algorithm for a machine but instead for a human person. Each person had to think an algorithm that has to be simple and easy to understand in words in one sentence and it has to be controlled by the person who gives the instruction, like using different material or a set of defined parameters and constants.
+
+The first project of the University seminar gestalten in code was titled 'analog algorithm'. 
+The main task of the project was to provide a set of instructions in a human language emulating algorithms in machines. The instructions had to be of one sentence simple and easy to understand and could be composed with parameters or constants.
 
 ##Algorithm part 1.
 
@@ -26,8 +28,10 @@ The first project in the seminar was called analog algorithm. The main task was 
 ####_“Draw round shapes in vertical and horizontal which differ from the diameter. Create lines that merge into different points”._ 
 ---
 
-The first day of the seminar I wrote my first line of algorithm and found immediately a good inspiration for my upcoming algorithm and work flow thanks to a creative classmate. The output changed a lot from person to person, so I picked the one that I liked most and worked on it to create a better control and comprehension
-for the upcoming executed algorithm.  
+The seminar began with the task of carrying out the first line of algorithm, with the result of having found the first source of inspiration and work flow for the upcoming executed algorithm thanks to a creative classmate.
+
+The choice was based on a design that has been especially helpful for the subsequent actions that influenced the comprehension for the upcoming executed algorithm.
+ 
 
 
 ##Algorithm part 2.
@@ -42,9 +46,11 @@ for the upcoming executed algorithm.
 
 ---
 
-My second attempt for an analogue algorithm was more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it. I didn't wont to create a text that scares the reader or make him think too much for concluding an action. It was really important to phrase the instruction clear to prevent any misunderstandings. 
+The second attempt for an analogue algorithm was more accurate on the description. Even it was explained very well, most of the people draw something out of my expectations. The purpose wasn't to create a text that scares the reader or make him think too much for concluding an action. For that reason it was really important to phrase the instruction clear to prevent any misunderstandings.
 
-The choice of the material was free, which also included objects. I found interesting the different visual tension giving from a circle and a line to create some sort of grid. While looking on different drawings, we can recognize that every person gives a different touch and express them self in different way by just using a circle and a line. The problems for creating my expectation for this work, was more on getting the people covering the whole paper. 
+The choice of the material was free, which also included objects. The interesting thing about the output was set by the different visual tension giving from a circle and a line to create some sort of grid.
+
+While looking on different drawings, it is recognizible that every person gives a different touch and express them self in different way by just using a circle and a line. The problems for creating my expectation for this work, was more on getting the people covering the whole paper.
 
 ##Algorithm part 3.
 
@@ -57,7 +63,9 @@ The choice of the material was free, which also included objects. I found intere
 
 ---
 
-The third part of my algorithm was set by an amount of circle to draw and a rule for crossing each lines at least once. The material used was selected in advance to create a more controlled result. The performers had available a brush and ink on rough paper. After getting all the results, I choose some of my favorite drawings and recognize that I had to take more and more in the hands of the algorithm and the material on which it runs. 
+The third part of my algorithm was set by an amount of circle to draw and a rule for crossing each lines at least once. The material used was selected in advance to create a more controlled result. The performers had available a brush and ink on rough paper.
+
+After getting all the results, by choosing some of my favorite drawings, it was immediatly recognizable that it has to be more controlled by the material on which it runs. 
 
 ![](./assets/images/algo-4.png)
 
