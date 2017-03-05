@@ -8,7 +8,7 @@ title: Find your way
 type: project
 ---
 
-The current documentation shows the results of the course “gestalten in code” in the winter semester at the university of applied science in Potsdam, supervised by Fabian Morón Zirfas. The course provides an introduction of basic programming in P5.Js and Processing with a focus on gestalt psychology and a workshop on physical computing.
+The current documentation shows the results of the course “gestalten in code” in the winter semester at the university of applied science in Potsdam, supervised by Fabian Morón Zirfas. The course provides an introduction of basic programming in P5.js and Processing with a focus on gestalt psychology and a workshop on physical computing.
 
 ---
 
