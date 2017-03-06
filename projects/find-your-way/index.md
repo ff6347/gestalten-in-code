@@ -66,12 +66,12 @@ The problems for creating my expectation for this work, was more on getting the 
 
 The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each lines at least once. The material selected for the performers, was a brush and ink on rough paper.
 
-The choice was made by choosing the most suitable result of all my favourite drawings, it was immediatly recognizable that it has to be more controlled by the material on which it runs. 
 
 ![](./assets/images/algo-4.png)
 
-The choice was focused one specific draw, which gave the idea for creating more visual depth and a percentage of circles, instead of a defined number of circle.  
 
+It was immediatly recognizable that it has to be more controlled by the material on which it runs. 
+The choice was made by choosing the most suitable result of all my favourite drawings, which gave an idea for creating more visual depth and a percentage of circles, instead of a defined number of circle.
 
 
 ##Conclusion
@@ -84,11 +84,14 @@ The choice was focused one specific draw, which gave the idea for creating more 
 
 ---
 
-The third and last algorithm was the final attempt. This time I took more control about the drawings, with different colors according to contrast and combination. The text was more accurate and understandable for the executor. I've got the desired results by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. 
+The third and last algorithm was the final attempt. This time it was controlled by other settings based on each performer selected, every material was selected to accost colors according to contrast and combination. 
+
+I've got the desired results by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center.
+The text was more accurate and understandable for the executor, giving me a wider choice for my final result. 
 
 ![](./assets/images/algo-end.png)
 
-After receiving the executed algorithm from each person with different color combination, it seemed a pity not to enhance the contrast of colors. For that reason it was created a following frame with all the different received results and to enhance the design for the main algorithm that was my final choice.
+After receiving the executed algorithm from each person with different color combination, it seemed a pity not to enhance the contrast of colors. For that reason it was created a following frame with all the different received results and to enhance the design for the final selected algorithm. 
 
 ---------------------------------------
 
