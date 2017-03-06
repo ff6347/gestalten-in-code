@@ -28,10 +28,9 @@ The main task of the project was to provide a set of instructions in a human lan
 ####_“Draw round shapes in vertical and horizontal which differ from the diameter. Create lines that merge into different points”._ 
 ---
 
-The seminar began with the task of carrying out the first line of algorithm, with the result of receiving the first source of inspiration and work flow for the upcoming executed algorithm thanks to a creative classmate.
 
-The choice was based on a design that has been especially helpful for the subsequent actions that influenced the comprehension for the upcoming executed algorithm.
- 
+The seminar began with the task of carrying out the first line of algorithm. The selection was based on a specific design between all the other algorithm created by the comrades students of the seminary, which was a source of inspiration for the subsequent actions, as well the working method that influenced the comprehension for the upcoming executed algorithm and the first steps in the project implementation.
+
 
 
 ##Algorithm part 2.
@@ -48,7 +47,7 @@ The choice was based on a design that has been especially helpful for the subseq
 
 The second attempt for an analogue algorithm was more accurate on the description. Even it was explained very well, most of the people draw something out of my expectations. The purpose wasn't to create a text that scares the reader or makes him think too much for concluding an action. For that reason it was really important to phrase the instruction clear to prevent any misunderstandings.
 
-While looking on different drawings, it is recognizible that every person gives a different touch and express them self in different ways by just using a circle and a line.
+While looking on different drawings, it is recognizable that every person gives a different touch and express them self in different ways by just using a circle and a line.
 The choice of the material was free, which also included objects. The interesting thing about the output was set by the different visual tension giving from a circle and a line to create some sort of grid.
 
 The problems for creating my expectation for this work, was more on getting the people covering the whole paper.
