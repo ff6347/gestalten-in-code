@@ -63,7 +63,7 @@ The problems for creating my expectation for this work, was more on getting the 
 
 ---
 
-The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each lines at least once. The material selected for the performers, was a brush and ink on rough paper.
+The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each lines at least once. The material selected for the performers, where a brush and ink on rough paper.
 
 
 ![](./assets/images/algo-4.png)
