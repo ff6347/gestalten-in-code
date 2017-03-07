@@ -29,7 +29,7 @@ The main task of the project was to provide a set of instructions in a human lan
 ---
 
 
-The seminar began with the task of carrying out the first line of algorithm. The selection was based on a specific design between all the other algorithm created by the comrades students of the seminary, which was a source of inspiration for the subsequent actions, as well as the working method that influenced the comprehension for the upcoming executed algorithm and the first steps in the project implementation.
+The seminar began with the task of writing the first line of algorithm. The inspiration and consequent work flow for the subsequent actions where influenced by the results from a creative class mate, as well as the comprehension for the upcoming executed algorithm and the first steps in the project implementation. 
 
 
 
