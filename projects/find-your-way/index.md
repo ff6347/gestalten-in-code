@@ -29,7 +29,7 @@ The main task of the project was to provide a set of instructions in a human lan
 ---
 
 
-TThe seminar began with the task of writing the first line of an analogue algorithm. The inspiration and consequent work flow are influenced by the results from a creative class mate, as well as the comprehension for the upcoming executed algorithm and the first steps in the project implementation.
+The seminar began with the task of writing the first line of an analogue algorithm. The inspiration and consequent work flow are influenced by the results from a creative class mate, as well as the comprehension for the upcoming executed algorithm and the first steps in the project implementation.
 
 
 
