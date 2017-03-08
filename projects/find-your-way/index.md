@@ -29,7 +29,8 @@ The main task of the project was to provide a set of instructions in a human lan
 ---
 
 
-The seminar began with the task of writing the first line of algorithm. The inspiration and consequent work flow for the subsequent actions where influenced by the results from a creative class mate, as well as the comprehension for the upcoming executed algorithm and the first steps in the project implementation. 
+TThe seminar began with the task of writing the first line of an analogue algorithm. The inspiration and consequent work flow are influenced by the results from a creative class mate, as well as the comprehension for the upcoming executed algorithm and the first steps in the project implementation.
+
 
 
 
@@ -45,10 +46,10 @@ The seminar began with the task of writing the first line of algorithm. The insp
 
 ---
 
-The second attempt for an analogue algorithm was more accurate on the description. Even it was explained very well, most of the people draw something out of my expectations. The purpose wasn't to create a text that scares the reader or makes him think too much for concluding an action. For that reason it was really important to phrase the instruction clear to prevent any misunderstandings.
+The second attempt for an analogue algorithm, was more accurate on the description to obtain a similar result of the previously choosen work. 
+Even it was explained very well, most of the people draw something out of my expectations. The purpose wasn't to create a text that scares the reader or makes him think too much for concluding an action. For that reason it was really important to phrase the instruction clear to prevent any misunderstandings.
 
-While looking on different drawings, it is recognizable that every person gives a different touch and express them self in different ways by just using a circle and a line.
-The choice of the material was free, which also included objects. The interesting thing about the output was set by the different visual tension giving from a circle and a line to create some sort of grid.
+While looking on different drawings, it is recognizable that every person gives a different touch and express them self in different ways by just using a circle and a line. The choice of the material was free, which also included objects. The interesting thing about the output was set by the different visual tension giving from a circle and a line to create some sort of grid.
 
 The problems for creating my expectation for this work, was more on getting the people covering the whole paper.
 
@@ -63,14 +64,14 @@ The problems for creating my expectation for this work, was more on getting the 
 
 ---
 
-The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each lines at least once. The material selected for the performers, where a brush and ink on rough paper.
+The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material selected in advance for the performers, where a brush and ink on rough paper for a better control of the final result.
 
 
 ![](./assets/images/algo-4.png)
 
 
-It was immediatly recognizable that it has to be more controlled by the material on which it runs. 
-The choice was made by choosing the most suitable result of all my favourite drawings, which gave an idea for creating more visual depth and a percentage of circles, instead of a defined number of circle.
+By noting the individual result of the performers, it was immediately recognizable that it has to be more controlled by the material on which it runs. The choice was made by choosing the most suitable result of all my favourite drawings, which gave an idea for creating more visual depth and a percentage of circles, instead of a defined number of circles.
+
 
 
 ##Conclusion
@@ -83,14 +84,14 @@ The choice was made by choosing the most suitable result of all my favourite dra
 
 ---
 
-The third and last algorithm was the final attempt. This time it was controlled by other settings based on each performer selected, every material was selected to accost colors according to contrast and combination. 
 
-I've got the desired results by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center.
-The text was more accurate and understandable for the executor, giving me a wider choice for my final result. 
+The third and last algorithm was the final attempt. This time it was controlled by other settings based on each performer selected, every material where selected to combine color, according to contrast and combination. Each perfomer had his own setting for the execution.   
+
+I've got the desired results by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. The text was more accurate and understandable for the executor, giving me a wider choice for my final result. 
 
 ![](./assets/images/algo-end.png)
 
-After receiving the executed algorithm from each person with different color combination, it seemed a pity not to enhance the contrast of colors. For that reason it was created a following frame with all the different received results and to enhance the design for the final selected algorithm. 
+After receiving the executed algorithm from each person with different color combination, it seemed a pity not to enhance the contrast of colors. For that reason it was created a following frame with all the different received results and to enhance the design of the final selected algorithm.
 
 ---------------------------------------
 
