@@ -64,13 +64,13 @@ The problems for creating my expectation for this work, was more on getting the 
 
 ---
 
-The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material selected in advance for the performers, where a brush and ink on rough paper for a better control of the final result.
+The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material selected in advance for the performers to achieve a more controlled result, where a brush and ink on rough paper.
 
 
 ![](./assets/images/algo-4.png)
 
 
-By noting the individual result of the performers, it was immediately recognizable that it has to be more controlled by the material on which it runs. The choice was made by choosing the most suitable result of all my favourite drawings, which gave an idea for creating more visual depth and a percentage of circles, instead of a defined number of circles.
+By noting the individual result of the performers, it was immediately recognizable that it has to be more controlled by the material on which it runs. The choice was made by selecting the most suitable result of all my favourite drawings, which gave an idea for creating more visual depth and a percentage of circles, instead of a defined number of circles.
 
 
 
