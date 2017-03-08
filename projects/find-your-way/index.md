@@ -16,7 +16,7 @@ The current documentation shows the results of the course â€œgestalten in codeâ€
 ![](./splash.png)
 
 
-The first project of the University seminar gestalten in code was titled 'analog algorithm'. 
+The first project of the University seminar gestalten in code was titled "analog algorithm". 
 The main task of the project was to provide a set of instructions in a human language emulating algorithms in machines. The instructions had to be in one sentence, simple to understand and could be composed with parameters or constants.
 
 ##Algorithm part 1.
