@@ -42,7 +42,7 @@ The seminar began with the task of writing the first line of an analogue algorit
 ![](./assets/images/algo-2.png)
 
 
-####_“Draw circles of various sizes throughout the sheet distant each other. Trace straight lines which intersect but do not touch the circles._ 
+#### _“Draw circles of various sizes throughout the sheet distant each other. Trace straight lines which intersect but do not touch the circles._ 
 
 ---
 
