@@ -19,13 +19,13 @@ The current documentation shows the results of the course “gestalten in code�
 The first project of the University seminar gestalten in code was titled "analog algorithm". 
 The main task of the project was to provide a set of instructions in a human language emulating algorithms in machines. The instructions had to be in one sentence, simple to understand and could be composed with parameters or constants.
 
-##Algorithm part 1.
+## Algorithm part 1.
 
 
 ![](./assets/images/algo-1.png)
 
 
-####_“Draw round shapes in vertical and horizontal which differ from the diameter. Create lines that merge into different points”._ 
+#### _“Draw round shapes in vertical and horizontal which differ from the diameter. Create lines that merge into different points”._ 
 ---
 
 
@@ -34,7 +34,7 @@ The seminar began with the task of writing the first line of an analogue algorit
 
 
 
-##Algorithm part 2.
+## Algorithm part 2.
 
 
 
