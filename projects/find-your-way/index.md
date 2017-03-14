@@ -53,14 +53,14 @@ While looking on different drawings, it is recognizable that every person gives 
 
 The problems for creating my expectation for this work, was more on getting the people covering the whole paper.
 
-##Algorithm part 3.
+## Algorithm part 3.
 
 
 ![](./assets/images/algo-3.png)
 
-####_Draw twenty filled circles of different sizes._
-####_Circles connect with a straight line._ 
-####_Connections must cross at least once._
+#### _Draw twenty filled circles of different sizes._
+#### _Circles connect with a straight line._ 
+#### _Connections must cross at least once._
 
 ---
 
@@ -74,13 +74,13 @@ By noting the individual result of the performers, it was immediately recognizab
 
 
 
-##Conclusion
+## Conclusion
 
 ![](./assets/images/algo-5.png)
 
-####_Draw a circle consisting of 20 to 30 filled circles that do not touch each other._ 
-####_Circles are reduced in proximity to the center._ 
-####_Create a path with a continuous straight line that connects all circles, and each line crosses an existing line and once passes through the center of each circle._
+#### _Draw a circle consisting of 20 to 30 filled circles that do not touch each other._ 
+#### _Circles are reduced in proximity to the center._ 
+#### _Create a path with a continuous straight line that connects all circles, and each line crosses an existing line and once passes through the center of each circle._
 
 ---
 
