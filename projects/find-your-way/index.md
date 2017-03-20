@@ -47,11 +47,12 @@ The seminar began with the task of writing the first line of an analogue algorit
 ---
 
 The second attempt for an analogue algorithm, was more accurate on the description to obtain a similar result of the previously choosen work. 
-Even it was explained very well, most of the people draw something out of my expectations. The purpose wasn't to create a text that scares the reader or makes him think too much for concluding an action. For that reason it was really important to phrase the instruction clear to prevent any misunderstandings.
 
-While looking on different drawings, it is recognizable that every person gives a different touch and express them self in different ways by just using a circle and a line. The choice of the material was free, which also included objects. The interesting thing about the output was set by the different visual tension giving from a circle and a line to create some sort of grid.
+Even if the instructions to be performed have been written more clearly, most of the results were out of every expectation. The purpose wasn't to create a text that scares the reader or makes him think too much for concluding an action. For that reason it was really important to phrase the instruction clear to prevent any misunderstandings.
 
-The problems for creating my expectation for this work, was more on getting the people covering the whole paper.
+While looking on different drawings, it is recognizable that every person gives a different touch and express them self in different ways by just using a circle and a line. The choice of the material was free, which also included objects. 
+
+The interesting thing about the output was set by the different visual tension giving from a circle and a line to create a grid. The problems, instaed, was to cover the entire surface for each algorithm performed.
 
 ## Algorithm part 3.
 
@@ -64,13 +65,13 @@ The problems for creating my expectation for this work, was more on getting the 
 
 ---
 
-The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material selected in advance for the performers to achieve a more controlled result, where a brush and ink on rough paper.
+The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material where selected in advance for the performers to achieve a more controlled result, where a brush and ink on rough paper.
 
 
 ![](./assets/images/algo-4.png)
 
 
-By noting the individual result of the performers, it was immediately recognizable that it has to be more controlled by the material on which it runs. The choice was made by selecting the most suitable result of all my favourite drawings, which gave an idea for creating more visual depth and a percentage of circles, instead of a defined number of circles.
+By noting the individual result of the performers, it was immediately recognizable that it has to be more controlled by the material on which it runs. The choice was made by selecting the most suitable result of all the executed algorithm, which gave an idea for creating more visual depth and a percentage of circles, instead of a defined number of circles.
 
 
 
@@ -85,9 +86,10 @@ By noting the individual result of the performers, it was immediately recognizab
 ---
 
 
-The third and last algorithm was the final attempt. This time it was controlled by other settings based on each performer selected, every material where selected to combine color, according to contrast and combination. Each perfomer had his own setting for the execution.   
+The third and last algorithm was the final attempt. This time it was controlled by other settings based on each performer selected. Every material where selected to combine color, according to contrast and combination. 
+Each perfomer had his own setting for the execution.   
 
-I've got the desired results by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. The text was more accurate and understandable for the executor, giving me a wider choice for my final result. 
+The desired results have been achieved by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. The text instruction where more accurate and understandable for the executor, and a wide selection to choose for the final project.
 
 ![](./assets/images/algo-end.png)
 
