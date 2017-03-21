@@ -65,6 +65,8 @@ With the help of computer programs, it has been recreated some of his works to b
 The analyzed color in Sol LeWitt's work, keeps the same used standard as the repetition of the geometric form. The color used in his art work creates a mesmerizing vision for the viewer. Analyzing it is visible that the color used are mostly primary colors and the repetition are of the same diameter throughout the canvas. 
 For a better comprehension, it was created a color palette with each color represented.
 
+![](./assets/images/dma-color.png)
+
 ## Law of gestalt: Geometric shapes - color 
 
 We examined the series of works in connection with the Gestalt psychology. 
