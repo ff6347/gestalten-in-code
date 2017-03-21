@@ -1,1 +1,1 @@
- ![](./assets/images/bands.png)
+![](./assets/images/bands.png)
