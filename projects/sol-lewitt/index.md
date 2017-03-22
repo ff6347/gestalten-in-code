@@ -48,3 +48,89 @@ http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm
 
 
 Color Bands is a series of eight prints in which enthralling curves and lines play on the optical effects. For Color Bands, Sol lewitt composed a set of drawings and measurements that were executed by a master printmaker.
+
+## Analyze: Geometric shapes
+ 
+
+
+The first step were made by analyzing the studies behind the geometric shapes. Observing the various works of the series, it recognizable that his work is based on simple geometric shapes and his infinite possibilities. 
+
+By taking the prints we develop his work without the use of color to show the purity of the geometric forms.
+
+![](./assets/images/dma-3.png)
+
+With the help of computer programs, it has been recreated some of his works to be then analyzed in its details. When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. Sol LeWitt's art served more as a concept rather than be a valuable object.
+
+
+![](./assets/images/dma1.png)
+
+The artwork without the use of color is represented as a ordered grid calculated in every detail. Dividing the contour into its parts, we notice how each ellipse are positioned on the corner and intersect for creating an additional grid. 
+
+![](./assets/images/dma-2.png)
+
+![](./assets/images/dma-4.png)
+
+
+## Analyze: Color
+
+
+The analyzed color in Sol LeWitt's work, keeps the same used standard as the repetition of the geometric form. The color used in his art work creates a mesmerizing vision for the viewer. Analyzing it is visible that the color used are mostly primary colors and the repetition are of the same diameter throughout the canvas. 
+For a better comprehension, it was created a color palette with each color represented.
+
+![](./assets/images/dma-color.png)
+
+
+## Law of gestalt
+
+
+We examined the series of works in connection with the Gestalt psychology. 
+
+![](./assets/images/gestalt.png)
+
+
+
+### Law of Good Continuation
+
+We have a tendency to group and organize lines or curves that follow an established direction.
+
+
+
+ 
+
+![](./assets/images/gestalt-2.png)
+
+
+### Law of Prägnanz 
+
+People will attempt to organize the image into the simplest form possible. 
+
+
+
+
+
+
+
+## Sol LeWitt's art in P5.js 
+
+After familiarizing with the work method and studys behind Sol LeWitt's art, it was time to practice his vision by coding it in P5.js. 
+
+![](./assets/images/dma-codeimg.png)
+
+
+The artwork creates modulated shapes usign the same basic construct. Each geometry is composed of a loop which, throghout each iteration creates anested like structure. This structure uses a counter updated on each iteration to calculate the size, with basic arithmetic and the color, calculating
+the index in an array of colors using the modulo operator, emulating a cycle.⁠⁠⁠⁠
+
+You can take a look at the code [here.](https://interface.fh-potsdam.de/gestalten-in-code/color/geometric-shapes/)
+
+
+
+## License (MIT)
+
+(c) 2017 Daniele Maselli, Denys Ivanchenko, University of Applied Sciences Potsdam (Germany)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+See also http://www.opensource.org/licenses/mit-license.php
+
