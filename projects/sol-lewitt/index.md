@@ -41,8 +41,8 @@ In his article for the magazine Artforum in 1967, Sol LeWitt gave a definition o
 Levitt infrequently created paintings. His most famous works - "Red square, white letters" - refers to 1963. Since the 1970s Levitt began working on an early graphics - screen printing. Then, in the artist's work includes in-depth engraving and later - engraving and other techniques.
 
 ## Sol Lewitt: Color Bands 
-![](./assets/images/colorbands.png)
-
+![](./assets /images/colorbands.png)
+ 
 
 http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm
 
