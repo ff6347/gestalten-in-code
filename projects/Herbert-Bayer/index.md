@@ -19,4 +19,6 @@ The task was to choose an artist/designer and analyse their art style in order t
 Herbert Bayer is 
 
 ## Life
-His art career began as he started an education in an art industry atelier specialising in architecture. After that he studied in the Weimar Bauhaus (1921 - 1925) in which he was eduacted by some very popular artists like Johannes Itten, Paul Klee and Wassily Kandinsky. Moving on, he became the leader of the newly formed printing and advertisement department in Bauhaus Dessau.
+His art career began as he started an education in an art industry atelier specialising in architecture. After that he studied in the Weimar Bauhaus (1921 - 1925) in which he was eduacted by some very popular artists like Johannes Itten, Paul Klee and Wassily Kandinsky. Moving on, he became the leader of the newly formed printing and advertisement department in Bauhaus Dessau. There he made some very important decisions like introducing print-paper in DIN and popularizing lowercase letters. Those things were some fundamentally essential steps for creation of the creation of graphic design. In 1928 he left Bauhaus, moved to Berlin. By becoming Art Director for the Vogue he continued his focus on advertisement but he also took interest in photography and painting. Since 1933 he used his advertisement skills to spread Nazi propaganda.
+
+
