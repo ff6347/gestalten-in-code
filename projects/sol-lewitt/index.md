@@ -43,6 +43,8 @@ Levitt infrequently created paintings. His most famous works - "Red square, whit
 ## Sol Lewitt: Color Bands 
 
 ![](./assets/images/colorbands.png)
+
+
 http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm
 
 
