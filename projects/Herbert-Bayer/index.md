@@ -9,3 +9,5 @@ type: project
 authors:
   - "Filip Czekajlo"  
 ---
+## Deconstructing Master Artists
+![](./splash.png)
