@@ -19,6 +19,9 @@ The following project shows the result of the seminar project "deconstructing ma
 
 
 ![](./assets/images/sol-dma.png)
+
+https://upload.wikimedia.org/wikipedia/en/3/36/Sol_LeWitt.jpg
+
 ## Sol LeWitt - Creation
 
 Le Witt had a strong influence Russian avant-garde and constructivist. We can say that as an artist, Sol LeWitt came out of the "Black Square" by Malevich. Cube LeWitt called his "base unit". It then truncates the verge of turning the cube in the lattice, then multiply cubes, creating chaos.
