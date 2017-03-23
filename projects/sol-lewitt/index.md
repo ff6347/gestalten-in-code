@@ -30,7 +30,7 @@ In 1992, an exhibition of Sol LeWitt Drawings 1958-1992 in the Netherlands, whic
 In 1996 the Museum of Modern Art in New York organized an exhibition of Sol LeWitt Prints: 1970-1995.
 In 2007, he died in New York City, the cause of death was cancer.
 
-## CREATION
+## Creation
 Le Witt had a strong influence Russian avant-garde and constructivist.
 We can say that as an artist, Sol LeWitt came out of the "Black Square" by Malevich.
 Cube LeWitt called his "base unit". It then truncates the verge of turning the cube in the lattice, then multiply cubes, creating chaos.
@@ -51,16 +51,14 @@ LeWitt infrequently created paintings. His most famous works - "Red square, whit
 http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm
 
 
-Color Bands is a series of eight prints in which enthralling curves and lines play on the optical effects. For Color Bands, Sol lewitt composed a set of drawings and measurements that were executed by a master printmaker.
+Color Bands is a series of eight prints in which colored curves and lines play on the optical effects. For Color Bands, Sol lewitt composed a set of drawings and measurements that were executed by a master printmaker.
 
 ## Analyze: Geometric shapes
  
 The first step was made by analyzing the studies behind the geometric shapes in his composition. 
-After observing the various prints of the series, we came across with the first impressions. 
+With the help of computer programs, it has been recreated two prints of his works to be then analyzed in its details. 
 
-With the help of computer programs, it has been recreated two prints of his works to be then analyzed in its details. We develop his work without the use of color, to show the purity of the geometric forms and to have a better comprehension what is behind the color. His work method is composed with simple and repeated geometric shapes and his infinite possibilities that can be created with them.
-
-By taking a closure look at the geometric shapes, we realized that the origin of the forms are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black line. This in order to separate the concentration of the various forms represented for the eye of a viewer. 
+We develop his work without the use of color, this in order to show the purity of the geometric forms and to have a better comprehension what is behind the color. His work method is composed with simple and repeated geometric shapes that changes one to another with different combination. By taking a closure look at the geometric shapes, we realized that the origin of the forms are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black line. This in order to separate the concentration of the various forms represented from the eye of a viewer. 
 
 #### "Sol LeWitt's art served more as a concept rather than be a valuable object".
 
