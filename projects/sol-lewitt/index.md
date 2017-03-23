@@ -57,7 +57,7 @@ Color Bands is a series of eight prints in which enthralling curves and lines pl
 
 
 The first step was made by analyzing the studies behind the geometric shapes in his composition. 
-Observing the various prints of the series, it is visible that his work method is composed with simple and repeated geometric shapes and his infinite possibilities that can be created with them. 
+Observing the various prints of the series, it is visible that his work method is composed with simple and repeated geometric shapes and the infinite possibilities that can be created with them. 
 
 By taking the prints we develop his work without the use of color to show the purity of the geometric forms and to have a better comprehension what is behind the color.
 
