@@ -53,19 +53,21 @@ Color Bands is a series of eight prints in which enthralling curves and lines pl
  
 
 
-The first step were made by analyzing the studies behind the geometric shapes on the exposed prints. 
-Observing the various works of the series, it recognizable that his work is based on simple geometric shapes and his infinite possibilities. 
+The first step were made by analyzing the studies behind the geometric shapes. 
+Observing the various works of the series, it is visible that his work method is composed with simple geometric shapes and his infinite possibilities. 
 
 By taking the prints we develop his work without the use of color to show the purity of the geometric forms.
 
 ![](./assets/images/dma-3.png)
 
-With the help of computer programs, it has been recreated some of his works to be then analyzed in its details. When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. Sol LeWitt's art served more as a concept rather than be a valuable object.
+With the help of computer programs, it has been recreated some of his works to be then analyzed in its details. When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. 
+
+Sol LeWitt's art served more as a concept rather than be a valuable object.
 
 
 ![](./assets/images/dma-1.png)
 
-The artwork without the use of color is represented as a ordered grid calculated in every detail. Dividing the contour into its parts, we notice how each ellipse are positioned on the corner and intersect for creating an additional grid. 
+The artwork without the use of color is represented as a ordered grid calculated in every detail. Dividing the contour into its parts, we notice how each ellipse, or other basic gemometric shapes, are positioned on the corner and intersect for creating an additional grid. 
 
 ![](./assets/images/dma-2.png)
 
