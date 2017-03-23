@@ -56,7 +56,7 @@ We develop his work without the use of color, this in order to show the purity o
 
 ![](./assets/images/dma-1.png)
 
-The artwork without the use of color is represented as an ordered grid calculated in every detail. Dividing the contour into its parts, it can be noted how each circle, or other basic illustrated geometric shapes, are positioned on the corner and intersect for creating an additional grid.
+The artwork without the use of color is represented as an ordered grid calculated in every detail. Dividing the contour into its parts, it can be noted how each circle, is positioned on the corner and the lines, instaed, are measured inside the canvas and intersect for creating an additional grid with the circle. 
 
 ![](./assets/images/dma-2.png)
 
@@ -66,8 +66,7 @@ The artwork without the use of color is represented as an ordered grid calculate
 ## Analyze: Color
 
 
-The analyzed color in Sol LeWitt's work, keeps the same used standard as the repetition of the geometric form. The color used in his art work creates a mesmerizing vision for the viewer. Analyzing it is visible that the color used are mostly primary colors and the repetition are of the same diameter throughout the canvas. 
-For a better comprehension, it was created a color palette with each color represented.
+The analyzed color in Sol LeWitt's work, keeps the same used standard as the repetition of the geometric form, for that reason the color in combine with the geometric shapes, creates a mesmerizing vision for the viewer. Analyzing it is visible that the color used are mostly primary and secondary colours and the repetition are of the same diameter throughout the canvas. For a better comprehension, it was created a color palette with each color represented.
 
 ![](./assets/images/dma-color.png)
 
@@ -83,7 +82,7 @@ We examined the series of works in connection with the Gestalt psychology.
 
 ### Law of Good Continuation
 
-We have a tendency to group and organize lines or curves that follow an established direction.
+We have a tendency to group and organize lines or curves that follow an established direction. In this case the performance of the circles pushes the eye to follow
 
 
 
@@ -94,7 +93,7 @@ We have a tendency to group and organize lines or curves that follow an establis
 
 ### Law of Prägnanz 
 
-People will attempt to organize the image into the simplest form possible. 
+People will attempt to organize the image into the simplest form possible. At first sight is not noticeable the infinity within them. 
 
 
 
