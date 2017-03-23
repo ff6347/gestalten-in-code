@@ -17,6 +17,7 @@ Right at the beginning of this course we had a practical part.
 We should think to ourselves how to write a good set of rules.
 
 **Inspiration**
+
 My inspiration was a pattern which I had sketched some years ago. I modified it, I also tried it to simplify and not to use too much text at the same time. In my head I had a picture and I tried to describe this as accurate as possible.
 
 **This was my set of rules:**
