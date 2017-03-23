@@ -132,8 +132,9 @@ within the circle
 ## Code
 
 ![](assets/images/colour-kandinsky.png)￼
-
 >###### Source: http://lokeshdhakar.com/projects/color-thief/ 
+
+
 
 ![](assets/images/code.png)￼
 
