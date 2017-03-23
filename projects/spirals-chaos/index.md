@@ -21,9 +21,11 @@ We should think to ourselves how to write a good set of rules.
 My inspiration was a pattern which I had sketched some years ago. I modified it, I also tried it to simplify and not to use too much text at the same time. In my head I had a picture and I tried to describe this as accurate as possible.
 
 **This was my set of rules:**
+
 Draw a rectangle (not too broadly) and draw from the upper left corner down to the bottom right corner a diagonal line. Paint the right triangle and repeat this endlessly. While you line up the rectangles. The pencil makes no difference.
 
 **Result**
+
 After 5 flows with our fellow students we have had a small presentation in which we have briefly read out our set of rules and have given then a conclusion to the result. Moreover, we should choose our favourite and reason this.
 Sometimes were tips given to the better understanding and criticism were expressed.
 
