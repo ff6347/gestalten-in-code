@@ -55,8 +55,7 @@ Color Bands is a series of eight prints in which colored curves and lines play o
 
 ## Analyze: Geometric shapes
  
-The first step was made by analyzing the studies behind the geometric shapes in his composition. 
-With the help of computer programs, it has been recreated two prints of his works to be then analyzed in its details. 
+The first step was made by analyzing the studies behind the geometric shapes in his composition. With the help of computer programs, it has been recreated two prints of his works to be then analyzed in its details. 
 
 We develop his work without the use of color, this in order to show the purity of the geometric forms and to have a better comprehension what is behind the color. His work method is composed with simple and repeated geometric shapes that changes one to another with different combination. By taking a closure look at the geometric shapes, we realized that the origin of the forms are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black line. This in order to separate the concentration of the various forms represented from the eye of a viewer. 
 
