@@ -34,6 +34,7 @@ In 2007, he died in New York City, the cause of death was cancer.
 Le Witt had a strong influence Russian avant-garde and constructivist.
 We can say that as an artist, Sol LeWitt came out of the "Black Square" by Malevich.
 Cube LeWitt called his "base unit". It then truncates the verge of turning the cube in the lattice, then multiply cubes, creating chaos.
+
 The artist experimented with form and color of objects, working with simple geometric shapes, mostly in black and white technique. In the later stages of creativity LeWitt created the sculpture and graphic series, doing murals. His works are in major collections of contemporary art.
 
 In the early 1960s, Sol LeWitt creates a certain amount of wall reliefs, which he calls "the wall structure." These reliefs exiting the plane of the wall space in the viewer's residence, are based on the interaction of various geometric shapes: cubes, squares, parallelepipeds and including one figure to another. Famous "modular structures" Sol LeWitt - three-dimensional lattice, built on repetition-cube module.
@@ -54,21 +55,16 @@ Color Bands is a series of eight prints in which enthralling curves and lines pl
 
 ## Analyze: Geometric shapes
  
-
-
 The first step was made by analyzing the studies behind the geometric shapes in his composition. 
-Observing the various prints of the series, it is visible that his work method is composed with simple and repeated geometric shapes and the infinite possibilities that can be created with them. 
+After observing the various prints of the series, we came across with the first impressions. 
 
-By taking the prints we develop his work without the use of color to show the purity of the geometric forms and to have a better comprehension what is behind the color.
+With the help of computer programs, it has been recreated two prints of his works to be then analyzed in its details. We develop his work without the use of color, to show the purity of the geometric forms and to have a better comprehension what is behind the color. His work method is composed with simple and repeated geometric shapes and his infinite possibilities that can be created with them.
 
-![](./assets/images/dma-3.png)
-
-With the help of computer programs, it has been recreated some of his works to be then analyzed in its details. 
-
-When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black box. This in order to separate the concentration of the various forms represented for the eye of the viewer. 
+By taking a closure look at the geometric shapes, we realized that the origin of the forms are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black line. This in order to separate the concentration of the various forms represented for the eye of a viewer. 
 
 #### "Sol LeWitt's art served more as a concept rather than be a valuable object".
 
+![](./assets/images/dma-3.png)
 
 ![](./assets/images/dma-1.png)
 
