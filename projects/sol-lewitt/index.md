@@ -63,14 +63,14 @@ By taking the prints we develop his work without the use of color to show the pu
 
 With the help of computer programs, it has been recreated some of his works to be then analyzed in its details. 
 
-When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point.
+When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black box. This in order to separate the concentration of the various forms represented for the eye of the viewer. 
 
-#### Sol LeWitt's art served more as a concept rather than be a valuable object.
+#### "Sol LeWitt's art served more as a concept rather than be a valuable object".
 
 
 ![](./assets/images/dma-1.png)
 
-The artwork without the use of color is represented as an ordered grid calculated in every detail. Dividing the contour into its parts, it can be noted how each circle, or other basic illustrated geometric shapes, are positioned on the corner and intersect for creating an additional grid. 
+The artwork without the use of color is represented as an ordered grid calculated in every detail. Dividing the contour into its parts, it can be noted how each circle, or other basic illustrated geometric shapes, are positioned on the corner and intersect for creating an additional grid.
 
 ![](./assets/images/dma-2.png)
 
