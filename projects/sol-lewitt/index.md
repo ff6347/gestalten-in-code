@@ -18,7 +18,7 @@ type: project
 The following project shows the result of the seminar project "deconstructing master artist" at the university of applied science in Potsdam supervised by Fabian Morón Zirfas. The course provides an introduction of basic programming in P5.js and Processing with a focus on gestalt psychology and a workshop on physical computing.
 
 
- 
+![](./assets/images/sol-dma.png)
 ## About Sol LeWitt
 
 Born in 1928 in the city of Hartford (USA, Connecticut), the son of Jewish immigrants from Russia.
