@@ -17,6 +17,7 @@ type: project
 
 The following project shows the result of the seminar project "deconstructing master artist" at the university of applied science in Potsdam supervised by Fabian Morón Zirfas. The course provides an introduction of basic programming in P5.js and Processing with a focus on gestalt psychology and a workshop on physical computing.
 
+
  
 ## About Sol LeWitt
 
@@ -31,7 +32,7 @@ In 1996 the Museum of Modern Art in New York organized an exhibition of Sol LeWi
 In 2007, he died in New York City, the cause of death was cancer.
 
 ## CREATION
-At Le Witt had a strong influence Russian avant-garde and constructivist.
+Le Witt had a strong influence Russian avant-garde and constructivist.
 We can say that as an artist, Sol LeWitt came out of the "Black Square" by Malevich.
 Cube LeWitt called his "base unit". It then truncates the verge of turning the cube in the lattice, then multiply cubes, creating chaos.
 The artist experimented with form and color of objects, working with simple geometric shapes, mostly in black and white technique. In the later stages of creativity LeWitt created the sculpture and graphic series, doing murals. His works are in major collections of contemporary art.
@@ -53,16 +54,18 @@ Color Bands is a series of eight prints in which enthralling curves and lines pl
  
 
 
-The first step were made by analyzing the studies behind the geometric shapes. 
-Observing the various works of the series, it is visible that his work method is composed with simple geometric shapes and his infinite possibilities. 
+The first step was made by analyzing the studies behind the geometric shapes in his composition. 
+Observing the various prints of the series, it is visible that his work method is composed with simple and repeated geometric shapes and his infinite possibilities that can be created with them. 
 
-By taking the prints we develop his work without the use of color to show the purity of the geometric forms.
+By taking the prints we develop his work without the use of color to show the purity of the geometric forms and to have a better comprehension what is behind the color.
 
 ![](./assets/images/dma-3.png)
 
-With the help of computer programs, it has been recreated some of his works to be then analyzed in its details. When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. 
+With the help of computer programs, it has been recreated some of his works to be then analyzed in its details. 
 
-###### Sol LeWitt's art served more as a concept rather than be a valuable object.
+When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point.
+
+#### Sol LeWitt's art served more as a concept rather than be a valuable object.
 
 
 ![](./assets/images/dma-1.png)
