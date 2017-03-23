@@ -19,18 +19,8 @@ The following project shows the result of the seminar project "deconstructing ma
 
 
 ![](./assets/images/sol-dma.png)
-## About Sol LeWitt
+## Sol LeWitt - Creation
 
-Born in 1928 in the city of Hartford (USA, Connecticut), the son of Jewish immigrants from Russia.
-From 1945 to 1949 he studied art history at Syracuse University, after graduation traveled to Europe.
-In 1951 he participated in the Korean War: served first in California and then in Japan and Korea. He moved to New York in 1950, where he studied at the School of Visual Arts, working in parallel in the journal. Later he worked as a designer at an architect IM Pei.
-Since 1960 he has worked at the Museum of Modern Art (MoMA). He took part in the projects of conceptual art and land art.
-In 1978-1979, the Museum of Modern Art in New York City hosted the first retrospective of Le Witt.
-In 1992, an exhibition of Sol LeWitt Drawings 1958-1992 in the Netherlands, which then traveled for three years in museums the UK, Germany, France, Spain, USA.
-In 1996 the Museum of Modern Art in New York organized an exhibition of Sol LeWitt Prints: 1970-1995.
-In 2007, he died in New York City, the cause of death was cancer.
-
-## Creation
 Le Witt had a strong influence Russian avant-garde and constructivist. We can say that as an artist, Sol LeWitt came out of the "Black Square" by Malevich. Cube LeWitt called his "base unit". It then truncates the verge of turning the cube in the lattice, then multiply cubes, creating chaos.
 
 The artist experimented with form and color of objects, working with simple geometric shapes, mostly in black and white technique. In the later stages of creativity LeWitt created the sculpture and graphic series, doing murals. His works are in major collections of contemporary art.
