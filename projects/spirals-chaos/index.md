@@ -44,6 +44,7 @@ Firstly read through everything
 • connect that anew resulted quadrangles with each other
 
 ![](assets/images/2ergebnis.png)￼
+
 ![](assets/images/2ergebnis2.png)￼
 
 ## 1.2 Postprocessing - ordered chaos
