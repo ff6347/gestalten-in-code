@@ -65,7 +65,7 @@ The interesting thing about the output was set by the different visual tension g
 
 ---
 
-The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material where selected in advance for the performers to achieve a more controlled result, where a brush and ink on rough paper.
+The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material selected in advance was a brush and ink on rough paper. This will ensure a more controlled result at the end. 
 
 
 ![](./assets/images/algo-4.png)
