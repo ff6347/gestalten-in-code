@@ -8,7 +8,7 @@ title: "spirals chaos"
 type: project
 ---
 
-![spirals-chaos](media/14885733187047/spirals-chaos.png)￼
+![](splash.png)￼
 
 
 
