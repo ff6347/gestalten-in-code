@@ -20,7 +20,7 @@ We should think to ourselves how to write a good set of rules.
 
 My inspiration was a pattern which I had sketched some years ago. I modified it, I also tried it to simplify and not to use too much text at the same time. In my head I had a picture and I tried to describe this as accurate as possible.
 
-**This was my set of rules:**
+**This was my set of rules**
 
 Draw a rectangle (not too broadly) and draw from the upper left corner down to the bottom right corner a diagonal line. Paint the right triangle and repeat this endlessly. While you line up the rectangles. The pencil makes no difference.
 
