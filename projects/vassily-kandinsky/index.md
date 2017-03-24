@@ -13,14 +13,14 @@ type: project
 # Vassily Kandinsky 
 ![](splash.png)￼
 
->###### Source: http://curiator.com/art/wassily-kandinsky/self-portrait-1 | cutout from original | adapted to image size
+###### Source: http://curiator.com/art/wassily-kandinsky/self-portrait-1 | cutout from original | adapted to image size
 
 ## Part 1 - Task 
 - In groups of two we should decide us for an artist / designer. 
 - We should decide either on a work (deeply) or on a series (broadly). 
 - For the presentation we should do a short summary of the elected person. 
 
-## First Presentation
+## Biography
 I have decided on the Artist Vassily Kandinsky who I was remembered in the excursion to the Bauhaus archive we have made. Before that he has interested me personally very much as well. Because no one else was interested to Vassily Kandinsky I have made the presentation all alone. 
 
 ![](assets/images/biografie.png)￼
@@ -49,12 +49,13 @@ In **1911** he and Franz Marc had founded *The blue rider* and organised interna
 
 During the **First World War** he lived in Russia where he had taught and organised other art exhibitions. 
 In **1921** he returned to Germany and started to taught at the Bauhaus school in Weimar. 
-Kandinsky published in **1926** his work *"point and line to plane"*. In it he propagates for an abstract *absolute* painting art. This work becomes an other important basis for the creative process within the abstract art. 
+Kandinsky published in **1926** his work *'point and line to plane'*. In it he propagates for an abstract *absolute* painting art. This work becomes an other important basis for the creative process within the abstract art. 
 His time ends there in **1933** with the closing of the school by the National Socialists. 
 
+## Inspiration
 After the Bauhaus period Kandinsky moves to France. There he lives and paints up to his death in **1944** in a Paris suburb. He had become a member of the Parisians artist's group Abstraction-Création. From the National Socialists Kandinskys pictures were devaluated, like from many other artists in this time, they had become „degenerated art“. Many of his pictures are exiled in **1937** from the German museums.
 
-**"point and line to plane"** 
+**'Point and line to plane'** 
 In this varied work he describes the psychological effects of the colour and the resemblances between painting and music. This book had become a fundamental importance for the abstract painting. In the most important chapter „Forms and colour language“ he develops his theory that form can exist in contrast to colour independently. 
 That means that the form influences the colour substantially. 
  
@@ -74,7 +75,7 @@ In the beginning **this book** was my basis, nevertheless, finally I have decide
 ## Analysis - Circles in a Circle 1923
 ![](assets/images/circles-in-a-circle.png)￼
 
->###### Source: http://www.wassilykandinsky.net/work-247.php | adapted to image size
+###### Source: http://www.wassilykandinsky.net/work-247.php | adapted to image size
 
 *"The contents of a piece of art are the sum of his tensions."*
 
@@ -103,7 +104,7 @@ In this work he has used two sharp **diagonal lines**. From the bottom left to t
 The second **diagonal line** runs from the bottom right to the top left corner this loses tension by the touch of the basic form (edge) like the other one. This direction looks unharmonious and he chose a mixture from green and blue, it's a quiet colour. 
 Vassily generates by these both cutting diagonal lines a perspective and shifted the focus point through the crossroads into the circle, this is the gestalt law of space through colour.
 
-![](assets/images/circles-in-a-circle.png)￼
+![](assets/images/circles-and-lines.png)￼
 
 
 
@@ -124,23 +125,22 @@ The single colours, be it those of the circles or the diagonal lines in the back
 1. Background yellow / white 
 2. two coloured diagonal lines
 3. big black outlined circle, in the middle of the picture 
+
 within the circle 
+
 4. 26 circles = 12 red (1 with inner circle), 6 blue, 3 yellow, 3 greens, 1 grey  
 5. overlapping = addition of both colours 
 6. 12 short and 15 long randomly distributed lines
 
-## Code
+## Code Result
 
 ![](assets/images/colour-kandinsky.png)￼
->###### Source: http://lokeshdhakar.com/projects/color-thief/ 
-
-
-
+###### Source: http://lokeshdhakar.com/projects/color-thief/ 
 
 
 ![](assets/images/code.png)￼
 
-Here is the [Link](https://github.com/paulinalinaa)
+Here is the [Link](https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082) of this code.
 
 
 - - -
