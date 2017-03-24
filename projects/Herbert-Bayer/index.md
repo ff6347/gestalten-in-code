@@ -27,6 +27,7 @@ Bayers has a wide variety of different types of art pieces, but his colorful, ge
 
 
 ![](./assets/images/ct-splash.png)
+
 Chrom
 
 
