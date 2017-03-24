@@ -3,7 +3,7 @@ layout: p5js
 author: "Paulina Mrksic"
 author-url: "https://github.com/paulinalinaa"
 title: "Law of closure and contrast"
-tags: [P5.js, Law of Symmetry, closure and contrast, symmetry, simplicity]
+tags: [P5.js, Law of Symmetry, Law of closure, Law of contrast, symmetry, simplicity]
 permalink: form/2d/
 summary: This sample shows a cross with a square in the middle.
 ---
