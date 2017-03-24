@@ -48,7 +48,7 @@ Color Bands is a series of eight prints in which colored curves and lines play o
  
 The first step was made by analyzing the studies behind the geometric shapes in his composition, and with the help of computer programs, it has been recreated two prints of his works to be then analyzed in its details. 
 
-We develop his work without the use of color, this in order to show the purity of the geometric forms and to have a better comprehension what is behind the color. His work method is composed with simple and repeated geometric shapes that changes one to another with different combination. By taking a closure look at the geometric shapes, we realized that the origin of the forms are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black line. This in order to separate the concentration of the various forms represented from the eye of a viewer. 
+We develop his work without the use of color, this in order to show the purity of the geometric forms and to have a better comprehension what is behind the color. His work method is composed with simple and repeated geometric shapes that changes one to another with different combination. By taking a closure look at the geometric shapes, we realized that the origin of the forms are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black line. This in order to separate the concentration of the various forms represented through the viewer's vision. 
 
 #### "Sol LeWitt's art served more as a concept rather than be a valuable object".
 
@@ -56,7 +56,7 @@ We develop his work without the use of color, this in order to show the purity o
 
 ![](./assets/images/dma-1.png)
 
-The artwork without the use of color is represented as an ordered grid calculated in every detail. Dividing the contour into its parts, it can be noted how each circle, is positioned on the corner and the lines, instaed, are measured inside the canvas and intersect for creating an additional grid with the circle. 
+The artwork without the use of color is illustrated as an ordered grid calculated in every detail. Dividing the contour into its parts, it can be noted how each circle, is positioned on the corner and the lines, instaed, are measured inside the canvas and intersect for creating an additional grid with the circle. 
 
 ![](./assets/images/dma-2.png)
 
