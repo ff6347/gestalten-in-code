@@ -30,6 +30,7 @@ After 5 flows with our fellow students we have had a small presentation in which
 Sometimes were tips given to the better understanding and criticism were expressed.
 
 ![](assets/images/1ergebnis.png)￼
+
 ![](assets/images/1ergebnis2.png)￼
 
 ## 1. 1 Reworking algorithm 
