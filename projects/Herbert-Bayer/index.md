@@ -27,6 +27,6 @@ Bayers has a wide variety of different types of art pieces, but his colorful, ge
 
 
 ![](./assets/images/ct-splash.png)  
------------------------
+-------------------------------------------
 ![](./assets/images/sc3-splash.png)  
 
