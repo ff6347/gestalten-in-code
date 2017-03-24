@@ -24,5 +24,6 @@ His art career began as he started an education in an art industry atelier speci
 
 ## Analysis
 Bayers has a wide variety of different types of art pieces, but his colorful, geometrical and abstract works have the most structure, hence those will be analysed in this project. 
+![](./assets/images/ct-splash.png)  
 
 
