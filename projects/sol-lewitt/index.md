@@ -108,7 +108,7 @@ After familiarizing with the work method and studys behind Sol LeWitt's art, it 
 ![](./assets/images/dma-codeimg.png)
 
 
-The artwork creates modulated shapes usign the same basic construct. Each geometry is composed of a loop which, throghout each iteration creates anested like structure. This structure uses a counter updated on each iteration to calculate the size, with basic arithmetic and the color, calculating
+The artwork creates modulated shapes using the same basic construct. Each geometry is composed of a loop which, throughout each iteration creates a nested like structure. This structure uses a counter updated on each iteration to calculate the size, with basic arithmetic and the color, calculating
 the index in an array of colors using the modulo operator, emulating a cycle.⁠⁠⁠⁠
 
 You can take a look at the code [here.](https://interface.fh-potsdam.de/gestalten-in-code/color/geometric-shapes/)
