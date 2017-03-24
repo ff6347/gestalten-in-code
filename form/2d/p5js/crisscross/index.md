@@ -2,12 +2,12 @@
 layout: p5js
 author: "Paulina Mrksic"
 author-url: "https://github.com/paulinalinaa"
-title: "Law of closure and chance"
-tags: [P5.js, Law of Connected Elements, Law of Symmetry, grid, symmetry]
-permalink: form/2d/p5js/
-summary: This sample shows a static grid regular distances between the arcs.
+title: "Law of closure and contrast"
+tags: [P5.js, Law of Symmetry, closure and contrast, symmetry, simplicity]
+permalink: form/2d/
+summary: This sample shows a cross with a square in the middle.
 ---
-The static grid is built with arc lines that are placed in two different directions. The viewer has the feeling that the grid moves like a vertigo and makes it visually at the same time dynamic.
+The cross is built with two big lines that are placed in the middle of the pictures above them is a medium-sized sqaure. If you look into the middle of the picture the black corners begin to move they get bigger. Through the contrast of black and white it is static and dynamic at the same time.
 
 
 
