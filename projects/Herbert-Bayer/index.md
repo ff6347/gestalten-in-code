@@ -40,6 +40,10 @@ All shown images are mad out of simple 2-Dimensional shapes. Allthough, by arran
 
 His colors are very vibrant (allthough softer and lighter color tones are occasionally used as background colors)
 
+![](./assets/images/st-splash.png) 
+
+There is always some reification. One can always see forms which actually don't exist.
+
 ![](./assets/images/hbc-splash.png) 
 
 
