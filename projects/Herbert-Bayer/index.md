@@ -43,5 +43,5 @@ His colors are very vibrant (allthough softer and lighter color tones are occasi
 ![](./assets/images/hbc-splash.png) 
 
 
-There are no soft color gradients and they always change in one diraction of the color spectrum.
+There are no soft color gradients and they always change in one direction of the color spectrum.
 
