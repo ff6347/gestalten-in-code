@@ -97,6 +97,7 @@ At the end of this task I have noticed that extremely different results have com
 - Reproduction can be a part of the result (different cuttings)
 
 **Set of rules**
+
 Draw in the standing position from the middle of the sheet a spiral about the whole sheet without removing the pencil. Draw randomly distributed circles on the sheet which the spiral cuts and paints the forms in the end.
 
 ![](assets/images/8result.png)￼
