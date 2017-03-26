@@ -40,12 +40,13 @@ Sometimes were tips given to the better understanding and criticism were express
 With the second attempt I have written down the sentences in key points and have tried that all quadrangles have the same size and are lined up side by side. I wanted to be able to compare the results even better and have limited the format to A5.
 
 **Set of rules**
+
 Firstly read through everything
-• draw a quadrangle (not too big)
-• draw a line from the upper left corner down to the bottom right corner
-• hatch the right half
-• repeat this down and on the right in each case 4x in the same size of the first quadrangle
-• connect that anew resulted quadrangles with each other
+- draw a quadrangle (not too big)
+- draw a line from the upper left corner down to the bottom right corner
+- hatch the right half
+- repeat this down and on the right in each case 4x in the same size of the first quadrangle
+- connect that anew resulted quadrangles with each other
 
 ![](assets/images/2ergebnis.png)￼
 
