@@ -10,7 +10,7 @@ title: "Sol Lewitt - Geometric shapes"
 type: project
 ---
 
-## Deconstructing Master Artist: Sol Lewitt 
+## Deconstructing Master Artist: Sol LeWitt 
 
 ![](./splash.png)
 
