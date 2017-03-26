@@ -52,9 +52,9 @@ In **1921** he returned to Germany and started to taught at the Bauhaus school i
 Kandinsky published in **1926** his work *'point and line to plane'*. In it he propagates for an abstract *absolute* painting art. This work becomes an other important basis for the creative process within the abstract art. 
 His time ends there in **1933** with the closing of the school by the National Socialists. 
 
-## Inspiration
 After the Bauhaus period Kandinsky moves to France. There he lives and paints up to his death in **1944** in a Paris suburb. He had become a member of the Parisians artist's group Abstraction-Création. From the National Socialists Kandinskys pictures were devaluated, like from many other artists in this time, they had become „degenerated art“. Many of his pictures are exiled in **1937** from the German museums.
 
+## Inspiration
 **'Point and line to plane'** 
 In this varied work he describes the psychological effects of the colour and the resemblances between painting and music. This book had become a fundamental importance for the abstract painting. In the most important chapter „Forms and colour language“ he develops his theory that form can exist in contrast to colour independently. 
 That means that the form influences the colour substantially. 
