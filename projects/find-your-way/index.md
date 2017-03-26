@@ -86,14 +86,14 @@ By noting the individual result of the performers, it was immediately recognizab
 ---
 
 
-The third and last algorithm was the final attempt. This time it was controlled by other settings based on each performer selected. Every material where selected to combine color, according to contrast and combination. 
+The third and last algorithm was the final attempt. This time it was controlled by other settings based on each performer selected. Every material was selected to combine color, according to contrast and combination. 
 Each perfomer had his own setting for the execution.   
 
-The desired results have been achieved by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. The text instruction where more accurate and understandable for the executor, and a wide selection to choose for the final project.
+The desired results have been achieved by setting an amount of possibilities in the algorithm, like a set of number and rule that gives the final output some space and depth by reducing the sizes of the circle near the center. The text instructions are more accurate and understandable for the executor, and giving a wide selection to choose for the final project.
 
 ![](./assets/images/algo-end.png)
 
-After receiving the executed algorithm from each person with different color combination, it seemed a pity not to enhance the contrast of colors. For that reason it was created a following frame with all the different received results and to enhance the design of the final selected algorithm.
+After receiving the executed algorithm from each person with different color combination, it seemed a pity not to increase the contrast of colors. For that reason it was created a following frame with all the different received results and to enhance the design of the final selected algorithm.
 
 ---------------------------------------
 
