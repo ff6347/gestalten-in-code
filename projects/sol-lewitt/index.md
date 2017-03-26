@@ -42,7 +42,7 @@ LeWitt infrequently created paintings. His most famous works - "Red square, whit
 http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm
 
 
-Color Bands is a series of eight prints in which colored curves and lines play on the optical effects. For Color Bands, Sol lewitt composed a set of drawings and measurements that were executed by a master printmaker.
+Color Bands is a series of eight prints in which colored curves and lines play on the optical effects. For Color Bands, Sol LeWitt composed a set of drawings and measurements that were executed by a master printmaker.
 
 ## Analyze: Geometric shapes
  
@@ -66,7 +66,7 @@ The artwork without the use of color is illustrated as an ordered grid calculate
 ## Analyze: Color
 
 
-The analyzed color in Sol LeWitt's work, keeps the same used standard as the repetition of the geometric form, for that reason the color in combine with the geometric shapes, creates a mesmerizing vision for the viewer. Analyzing it is visible that the color used are mostly primary and secondary colours and the repetition are of the same diameter throughout the canvas. For a better comprehension, it was created a color palette with each color represented.
+The analyzed color in Sol LeWitt's work, keeps the same used standard as the repetition of the geometric form, for that reason the color in combine with the geometric shapes, creates a mesmerizing vision for the viewer. Analyzing it is visible that the color used are mostly primary and secondary colours and the repetition are of the same diameter throughout the canvas. For a better comprehension, it was created a color palettes with each color represented.
 
 ![](./assets/images/dma-color.png)
 
