@@ -3,7 +3,7 @@
 authors: 
   - "Jakob von Kitzell"
   - "Julian Broocks"
- </br> 
+
 authors-url: 
   - "https://github.com/hulianbrox"
   - "https://github.com/jakobvk"
