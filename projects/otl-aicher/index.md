@@ -46,3 +46,6 @@ The founding of the analysis was not what we expected - we expected a clear and 
 A part of the given assignment was to transfer the insights of the analysis into a new environment. In our project we tried to implement the guidelines into an editor written in **P5.js**. The original plan was to build an editor with pre-given objects that would allow the user to create his own pictograms in a matter of seconds. We used a library called [p5.play](http://p5play.molleindustria.org/) to realize our idea. The code can be found [here](https://github.com/MalteVoelkner/gestalten-in-code/projects/otl-aicher/assets/p5.play-master.rar). This is the final interface we programmed:
 
 ![P5Script](https://github.com/MalteVoelkner/gestalten-in-code/blob/master/projects/otl-aicher/assets/images/P5Script.png)
+
+## Conclusion
+Analysing Otl Aichers work was a great introduction into the laws of gestalt. Taking a deeper look into an excerpt of a series provided us with a great understanding on how pictograms are made and what they need to work as intended. Our main insight was that even though pictograms look alike each is different and works with their own set of rules.
