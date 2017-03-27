@@ -49,3 +49,16 @@ A part of the given assignment was to transfer the insights of the analysis into
 
 ## Conclusion
 Analysing Otl Aichers work was a great introduction into the laws of gestalt. Taking a deeper look into an excerpt of a series provided us with a great understanding on how pictograms are made and what they need to work as intended. Our main insight was that even though pictograms look alike each is different and works with their own set of rules.
+
+---
+
+## License (MIT)
+
+© 2017 • [Marius Claßen](https://github.com/mariusclassen) & [Malte Völkner](https://github.com/MalteVoelkner)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
