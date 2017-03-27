@@ -35,3 +35,6 @@ Our focus was based on three factors: **similarities**, **differences** and **po
 + Same gap between upper and lower body
 + Only 45°/90°/135°-angles
 
+A big insight was, that besides the above listed rules - every pictogram is different. They are not aligned on a template-grid, they do not always have the same proportion-size, they do not have the same gaps between external items (like the sword for fencing). An example for the missing grid is below.
+
+![Grid](https://github.com/MalteVoelkner/gestalten-in-code/blob/master/projects/otl-aicher/assets/images/Grid.png)
