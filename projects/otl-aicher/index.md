@@ -1,6 +1,6 @@
 --- 
 authors: 
-  - "Malte Völkner"
+  - "Malte Völkner" "Marius Claßen"
 authors-url: 
   - "https://github.com/MalteVoelkner"
 layout: project
