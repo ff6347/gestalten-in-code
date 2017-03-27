@@ -1,5 +1,15 @@
 --- 
 authors: 
+  - "Malte Völkner"
+authors-url: 
+  - "https://github.com/MalteVoelkner"
+layout: project
+title: PunktPunktStrich / ..-
+summary: A introduction into computer generated art
+---
+
+--- 
+authors: 
   - "Marius Claßen"
   - "Malte Völkner"
 authors-url:
