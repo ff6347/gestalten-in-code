@@ -15,19 +15,21 @@ In the beginning of the 20th century a group of german psychologist formed, base
 
 Based on this Wertheimer defined six laws.  
 
-- the ["Law of Proximity"](/gestalten-in-code/law-of/proximity)  
-- the ["Law of Similarity"](/gestalten-in-code/law-of/similarity)  
-- the "Law of Good Gestalt" or also called ["Law of Prägnanz"](/gestalten-in-code/law-of/praegnanz)  
-- the ["Law of Continuity"](/gestalten-in-code/law-of/continuity)
-- the ["Law of Closure"](/gestalten-in-code/law-of/closure)
-- the ["Law of Common Fate"](/gestalten-in-code/law-of/common-fate)  
+- the ["Law of Proximity"]({{site.baseurl}}/law-of/proximity)  
+- the ["Law of Similarity"]({{site.baseurl}}/law-of/similarity)  
+- the "Law of Good Gestalt" or also called ["Law of Prägnanz"]({{site.baseurl}}/law-of/praegnanz)  
+- the ["Law of Continuity"]({{site.baseurl}}/law-of/continuity)
+- the ["Law of Closure"]({{site.baseurl}}/law-of/closure)
+- the ["Law of Common Fate"]({{site.baseurl}}/law-of/common-fate)  
 
 Later several other laws where introduced. The Law of Common Region, the Law of Simultaneity, the Law of Connected Elements, the Law of Figure and Ground and many more. There is no official "list" that tells us which these laws are. One might say there is an (in)finite number of them. In the spirit of Gestalt we can define laws by combining the existing ones into new ones to create something other then the sum of the parts.  
 
-- the ["Law of Gestaltwechsel"](/gestalten-in-code/law-of/gestaltwechsel)  
-- the ["Law of Connected Elements"](/gestalten-in-code/law-of/connected-elements)  
-- the ["Law of Space"](/gestalten-in-code/law-of/space)  
-- the ["Law of Figure and Ground"](/gestalten-in-code/law-of/figure-and-ground)  
+- the ["Law of Gestaltwechsel"]({{site.baseurl}}/law-of/gestaltwechsel)  
+- the ["Law of Connected Elements"]({{site.baseurl}}/law-of/connected-elements)  
+- the ["Law of Space"]({{site.baseurl}}/law-of/space)  
+- the ["Law of Figure and Ground"]({{site.baseurl}}/law-of/figure-and-ground)  
+- the ["Law of Direction of Reading"]({{site.baseurl}}/law-of/direction-of-reading)  
+- the ["Law of Simplicity"]({{site.baseurl}}/law-of/simplicity)  
 
 
 ## Law of Proximity [{% include icon-link.html %}]({{site.baseurl}}/law-of/proximity)
@@ -76,6 +78,13 @@ Later several other laws where introduced. The Law of Common Region, the Law of 
   
 {% include filtered-index-overview.html param="Law of Figure and Ground" %}
 
+## Law of Direction of Reading [{% include icon-link.html %}]({{site.baseurl}}/law-of/direction-of-reading)
+  
+{% include filtered-index-overview.html param="Law of Direction of Reading" %}
+
+## Law of Simplicity [{% include icon-link.html %}]({{site.baseurl}}/law-of/simplicity)
+  
+{% include filtered-index-overview.html param="Law of Simplicity" %}
 
 {% comment %}
 In the book "2d Visual Perception: Elementary Phenomena of Two-dimensional Perception. A Handbook for Artists and Designers." Moritz Zwimpfer also explores the visual perception. It is clearly based on the Laws of Gestalt even though the original laws are not mentioned anywhere. He takes these principles and orders them in a new manor. Some of his topics are: Contrasts, Groups, Figure-Ground, Movement and Time, Emotion and others.  

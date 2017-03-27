@@ -67,7 +67,7 @@ The index.md for P5.js should look like this (elements in square brackets should
     author: [Max Mustermann]
     author-url: [https://my-homepage.tld]
     title: [My cool example]
-    tags: [P5.js,[CATEGORY], [ADDITIONAL CATEGORIES], "Law of Something"]
+    tags: [P5.js,[CATEGORY], [ADDITIONAL CATEGORIES], Law of Something]
     permalink: /[CATEGORY]/[my-title]/
     summary: [A short summary of my example used for the overview pages.]
     ---  
@@ -96,8 +96,8 @@ The content of the the index.js file will be shown in a `div` called `sketch`. S
 ```js
 var x = 0;
 function setup() {
-  var canvas = createCanvas(100, 100);
-  canvas.parent('sketch');
+  var canvas = createCanvas(500, 500); // !this is important
+  canvas.parent('sketch'); // !this as well
 }
 
 function draw() {

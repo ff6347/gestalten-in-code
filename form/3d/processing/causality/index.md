@@ -1,6 +1,6 @@
 ---
 layout: default
-author: morphogen
+author: Fabian Morón Zirfas
 author-url: http://www.openprocessing.org/user/11641
 title: Causality
 tags: [processing, form, Law of Causality ]
