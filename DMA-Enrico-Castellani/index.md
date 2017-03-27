@@ -1,3 +1,5 @@
+
+-----
 authors: 
   - "Jeanette Knipp, Natalie Schreiber"
 authors-url: 
@@ -5,7 +7,7 @@ authors-url:
 layout: project
 title: "Deconstructing Master Artists - Enrico Castellani"
 type: project
-
+-----
 
 # Deconstructing Master Artists
 
