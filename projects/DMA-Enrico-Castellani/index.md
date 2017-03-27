@@ -11,9 +11,7 @@ type: project
 ---
 
 ![](./assets/castellani.png) 
-
 # Deconstructing Master Artists
-
 The center of this seminar was engaged by the laws of design - to collect them, to analyze them and to use code to create demonstrating or even complementing examples. Those laws are often used by artists and designers; they make their work seempurposely and not haphazardly. The laws of design take advantage of visual phenomenons and the laws of physics whereby they fascinate the observer consciously or unknowingly. Then again, it can be interesting to break those laws - if you know enough about them. So what is there to unvail regarding the creations of famous, mostly vanguard artists? Arbitrariness or calculus? It is time to disassemble the great creative minds.
 
 ## Enrico Castellani
@@ -31,19 +29,14 @@ Enrico Castellani’s work is special because is very different from the typical
 
 ### Castellani’s laws of design
 
-The most frequently disposed laws of design in Castellani’s works are *the law of closure, the law of space through shadows and the law of proximity*.
+The most frequently disposed laws of design in Castellani’s works are *the law of closure, law of proximity and the law of space through shadows*.
 
 ***Law of Closure***
 
+![](./assets/superficie_bianca.png) 
 ![](./assets/closure.png) 
 
 The shown objects (in this case, the „dots“ of the nails and furthermore the play of light and shadow) visually create closed shapes. In this example, you should be able to see a square where there actually is none.
-
-***Law of Space through Shadows***
-
-![](./assets/spacethroughlightandshadow.png) 
-
-The location of the shown objects and their colours (the light and shadow in this image) produce the impression of space or even an entire three dimensional room within an (almost) flat surface.
 
 ***Law of Proximity***
 
@@ -51,16 +44,25 @@ The location of the shown objects and their colours (the light and shadow in thi
 
 Similar objects that are close to each other appear as a unit, devided from other units by space or by differently shaped objects.
 
+***Law of Space through Shadows***
+
+![](./assets/superficie_aluminio.png)
+![](./assets/continuity.png) 
+
+The location of the shown objects and their colours (the light and shadow in this image) produce the impression of space or even an entire three dimensional room within an (almost) flat surface.
+
+
 But there are even more laws of design that deploy their effects in Castellani’s works:
 
 ***Law of Continuity***
 
-![](./assets/continuity.png) 
+![](./assets/spacethroughlightandshadow.png) 
 
 Lines, curves, simple forms or familiar shapes can still effortlessly be distinguished although they are interrupted at some points as long as the majority of the illustrated object is traced continuously. 
 
 ***Law of Space through Angles***
 
+![](./assets/superficie_rosso.png) 
 ![](./assets/spacethroughangles.png) 
 
 The free space between two or more objects can evoke the impression of three-dimensionality depending on the angle between the objects.
