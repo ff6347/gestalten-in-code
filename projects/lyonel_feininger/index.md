@@ -1,6 +1,6 @@
 --- 
 authors: 
-  - "Jakob von Kitzell"
+  - "Jakob von Kietzell"
   - "Julian Broocks"
 authors-url: 
   - "https://github.com/hulianbrox"
