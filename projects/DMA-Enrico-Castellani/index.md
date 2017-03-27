@@ -1,14 +1,14 @@
-
 --- 
 authors: 
-  - "Julia Hilt"
+  - "Jeanette Knipp"
+  - "Natalie Schreiber"
 authors-url: 
-  - "https://github.com/piixelcat"
+  - "https://github.com/lellahahaha"
+  - "https://github.com/natascher"
 layout: project
-title: "Colorful Dots"
+title: "Deconstructing Master Artists - Enrico Castellani"
 type: project
 ---
-![](./splash.png)
 
 # Deconstructing Master Artists
 
