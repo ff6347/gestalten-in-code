@@ -33,13 +33,14 @@ The most frequently disposed laws of design in Castellani’s works are *the law
 
 ***Law of Closure***
 
-![](./assets/superficie_bianca.png) 
+![](./assets/superficie_bianca2.png) 
 ![](./assets/closure.png) 
 
 The shown objects (in this case, the „dots“ of the nails and furthermore the play of light and shadow) visually create closed shapes. In this example, you should be able to see a square where there actually is none.
 
 ***Law of Proximity***
 
+![](./assets/superficie_bianca.png)
 ![](./assets/proximity.png) 
 
 Similar objects that are close to each other appear as a unit, devided from other units by space or by differently shaped objects.
