@@ -1,4 +1,10 @@
-
+authors: 
+  - "Jeanette Knipp, Natalie Schreiber"
+authors-url: 
+  - "https://github.com/lellahahaha, https://github.com/natascher"
+layout: project
+title: "Deconstructing Master Artists - Enrico Castellani"
+type: project
 
 
 # Deconstructing Master Artists
