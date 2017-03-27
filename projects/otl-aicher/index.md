@@ -26,4 +26,4 @@ Before we dive into the analysis we want to give a short summary of Otl Aicher: 
 ## Analysis
 For our analysis we picked the best known project of Otl Aicher: his pictograms, firstly made for the Olympic Games in 1972, later extracted into hundreds of pictograms for completely different industries. A pictogram is *an icon that conveys its meaning through its pictorial resemblence to a physical object* ([Source](https://en.wikipedia.org/wiki/Pictogram)). We picked two of the original pictograms to analyse them further.
 
-![Pictograms](https://github.com/MalteVoelkner/gestalten-in-code/blob/master/projects/otl-aicher/assets/images/Pictogram.png)
+![Pictograms](https://github.com/MalteVoelkner/gestalten-in-code/blob/master/projects/otl-aicher/assets/images/Pictograms.png)
