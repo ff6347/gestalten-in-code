@@ -1,19 +1,12 @@
 --- 
 authors: 
-  - "Edmundo Mejia Galindo"
-  - "Julia Hilt"
+  - "Marius Claßen"
+  - "Malte Völkner"
 authors-url: 
-  - "https://github.com/edgalindo"
-  - "https://github.com/piixelcat"
+  - "https://github.com/mariusclassen"
+  - "https://github.com/MalteVoelkner"
 layout: project
-title: "Bart van der Leck – Mountain view"
-type: project
-authors:
-  - "Edmundo Mejia Galindo"
-  - "Julia Hilt"  
-authors-url: 
-  - "https://github.com/edgalindo"
-  - "https://github.com/piixelcat"
+title: "Deconstructing Master Artists: Otl Aicher"
 ---
 
 ![splash picture](https://github.com/MalteVoelkner/gestalten-in-code/blob/master/projects/otl-aicher/splash.png)
