@@ -51,6 +51,12 @@ Part of the initial algorithm were lines, which originated from one point on the
 
 It was very important two conduct more iterations. First of all to improve the description of the algorithm to avoid misunderstandings and to improve the output. At this stage this was my favourite : ![Favourite](assets/gut.png)
 
+<h2>Final algorithm</h2>
+Based on my feedback I decided to get rid of the triangles and to focus only on the lightning-style lines. Two very dominate shapes were too much and reducing the noise made the output look much more harmonious. The new algorithm reminded me of planets or a visualisation of the brain. That’s why I inverted the colours to give room for these kind of interpretations. 
+</br>
+
+![Favourite](assets/ball.png)
+
 
 <h2>License (MIT)</h2> 
 
