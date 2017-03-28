@@ -6,6 +6,35 @@ The assignment was to create an algorithm that had to be sketched on paper by 10
 
 „Analog algorithm“ was the first assignment of »Designing with code – the basic of generative design« by Fabian Morón Zirfas at the University of Applied Sciences Potsdam.
 
+<h2>My inspiration</h2>
+I was inspired by the shapes of lightning which can be recreated with paper by crumpling it. Furthermore, I drew inspiration from an artwork by Anders Hoff, who published a study of generative algorithms. The centralized arrangement of the elements in the picture really appealed to me. So I wanted to implement this aspect into my algorithm. 
+
+(assets/images/inspiration.png)
+(source http://inconvergent.net/) 
+
+<h2>The algorithm</h2>
+
+<h3> Material and tools</h3>
+a white piece of paper: »background layer«
+a tracing paper: »drawing layer«
+tools: 3 pens of different thickness
+
+
+<h3>Background layer</h3>
+Thick pen: Draw an oval or circle which is almost as big as the drawing surface. This is your auxiliary line. Divide this line in 2 - 4 parts. There are gaps between these parts which are as wide as 2 - 5 fingers. 
+
+<h3>On the tracing paper</h3>
+Crumple the paper and flatten it again. Put it on top of the background layer. 
+
+Now trace the rigid lines which came from crumpling the paper. 
+Thick Pen: Trace the rigid lines along the auxiliary line.  
+Medium-size pen: Draw one to three branches from each line into the centre of the oval/circle.
+Thin pen: Repeat the previous step one to two times. 
+
+
+<h3>Digitalising</h3>
+The two papers are scanned and colours are reverted.
+
 
 <h2>License (MIT)</h2> 
 
