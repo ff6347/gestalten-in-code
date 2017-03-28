@@ -36,6 +36,19 @@ Thin pen: Repeat the previous step one to two times.
 The two papers are scanned and colours are reverted.
 
 
+<h2>First iterations<h2>
+![Favourite](assets/algorithm01.png)
+
+Part of the initial algorithm were lines, which originated from one point on the paper and along which the test persons were supposed to draw triangles. I played around with the algorithm by changing the parameters:
+*material like aluminium, toilet paper, oranges
+*shape of the drawing surface like circle and triangle
+*size, style and amount of triangles on the line 
+*circles instead of triangles
+*colors
+
+It was very important two conduct more iterations. First of all to improve the description of the algorithm to avoid misunderstandings and to improve the output. At this stage this was my favourite : ![Favourite](assets/gut.png)
+
+
 <h2>License (MIT)</h2> 
 
 (c) 2017 Julian Broocks, University of Applied Sciences Potsdam (Germany)
