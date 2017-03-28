@@ -4,7 +4,8 @@
     var speed = 0.25;
     
     function setup() {
-      createCanvas(500, 500);
+      var canvas = createCanvas(500, 500);
+      canvas.parent('sketch');
       colorMode(HSB, 260, 100, 100, 100);
       background (120, 25, 70, 100);
       stroke(255);
