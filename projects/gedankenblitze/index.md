@@ -41,11 +41,13 @@ The two papers are scanned and colours are reverted.
 ![Algorithm](assets/algorithm01.png)
 
 Part of the initial algorithm were lines, which originated from one point on the paper and along which the test persons were supposed to draw triangles. I played around with the algorithm by changing the parameters:
-*material like aluminium, toilet paper, oranges
-*shape of the drawing surface like circle and triangle
-*size, style and amount of triangles on the line 
-*circles instead of triangles
-*colors
+<ul>
+<li>material like aluminium, toilet paper, oranges</li>
+<li>shape of the drawing surface like circle and triangle</li>
+<li>size, style and amount of triangles on the line </li>
+<li> circles instead of triangles</li>
+<li>colors</li>
+</ul>
 
 It was very important two conduct more iterations. First of all to improve the description of the algorithm to avoid misunderstandings and to improve the output. At this stage this was my favourite : ![Favourite](assets/gut.png)
 
