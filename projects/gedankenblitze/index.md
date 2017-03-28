@@ -9,7 +9,7 @@ The assignment was to create an algorithm that had to be sketched on paper by 10
 <h2>My inspiration</h2>
 I was inspired by the shapes of lightning which can be recreated with paper by crumpling it. Furthermore, I drew inspiration from an artwork by Anders Hoff, who published a study of generative algorithms. The centralized arrangement of the elements in the picture really appealed to me. So I wanted to implement this aspect into my algorithm. 
 
-(inspiration.png)
+![Inspiration](assets/inspiration.png)
 (source http://inconvergent.net/) 
 
 <h2>The algorithm</h2>
