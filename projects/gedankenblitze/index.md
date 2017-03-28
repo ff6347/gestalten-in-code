@@ -15,8 +15,8 @@ I was inspired by the shapes of lightning which can be recreated with paper by c
 <h2>The algorithm</h2>
 
 <h3> Material and tools</h3>
-a white piece of paper: »background layer«
-a tracing paper: »drawing layer«
+a white piece of paper: »background layer«</br>
+a tracing paper: »drawing layer«</br>
 tools: 3 pens of different thickness
 
 
@@ -26,9 +26,9 @@ Thick pen: Draw an oval or circle which is almost as big as the drawing surface.
 <h3>On the tracing paper</h3>
 Crumple the paper and flatten it again. Put it on top of the background layer. 
 
-Now trace the rigid lines which came from crumpling the paper. 
-Thick Pen: Trace the rigid lines along the auxiliary line.  
-Medium-size pen: Draw one to three branches from each line into the centre of the oval/circle.
+Now trace the rigid lines which came from crumpling the paper. </br>
+Thick Pen: Trace the rigid lines along the auxiliary line. </br> 
+Medium-size pen: Draw one to three branches from each line into the centre of the oval/circle.</br>
 Thin pen: Repeat the previous step one to two times. 
 
 
