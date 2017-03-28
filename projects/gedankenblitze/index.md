@@ -1,3 +1,12 @@
+--- 
+authors: 
+  - "Julian Broocks"
+authors-url: 
+  - "https://github.com/hulianbrox"
+layout: project
+title: "Gedankenblitze"
+type: project
+---
 ![Gedankenblitze](splash.png)
 
 <h2>The assignment</h2>
