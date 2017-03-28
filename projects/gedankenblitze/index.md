@@ -1,4 +1,4 @@
-![Gedankenblitze](/splash.png)
+![Gedankenblitze](splash.png)
 
 <h2>The Assignment</h2>
 
