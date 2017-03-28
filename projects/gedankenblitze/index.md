@@ -57,7 +57,7 @@ Based on my feedback I decided to get rid of the triangles and to focus only on 
 
 ![Favourite](assets/ball.png)
 
-
+<hr />
 <h2>License (MIT)</h2> 
 
 (c) 2017 Julian Broocks, University of Applied Sciences Potsdam (Germany)
