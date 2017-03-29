@@ -9,8 +9,12 @@ type: Project
 authors:
   - "Filip Czekajlo"  
 ---
-## Fractal Lines
+
 ![](./splash.png)
+
+## The Task
+
+The Task is to create an algorithm in german which is executed by humans and outputs generative art. The goal is to get aestheticand similar results from different participants.
 
 
 [here](https://postimg.org/gallery/if0is1lq/)
