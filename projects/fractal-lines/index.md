@@ -21,8 +21,8 @@ The Task is to create an algorithm in german which is executed by humans and out
 
 The first algorithm is very simple. It barely consists of rules
 
-*skdm
-* sds
+* only straight lines
+*wdf
 
 
 [here](https://postimg.org/gallery/if0is1lq/)
