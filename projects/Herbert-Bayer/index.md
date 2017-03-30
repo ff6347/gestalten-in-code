@@ -49,7 +49,10 @@ There is always some reification. One can always see forms which actually don't 
 
 There are no soft color gradients and they always change in one direction of the color spectrum.
 
-The latter image is the main inspiration to the project. Using this as a baseline combined with colors from his other images it shows curves of different magnitude.
+The latter image is the main inspiration to the project. Using this as a baseline combined with colors from his other images it shows curves of different magnitude. 
+
+
+![](./assets/images/r-splash.png) 
 
 
 
