@@ -10,6 +10,8 @@ title: "Lyonel Feininger"
 type: project
 ---
 
+![Vogelwolke](splash.png)
+
 
 <hr />
 <h2>License (MIT)</h2> 
