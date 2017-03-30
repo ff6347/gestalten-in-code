@@ -15,8 +15,8 @@ authors:
 ## The Task
 The task is to choose an artist/designer and analyse their art style in order to find recurring rules and variables which then need to be recreated in Javascript using P5. The idea is to create a script which outputs generative art pieces resembling the artists art style.
 
-## Herbert Bayer (15.04.1900 - 30.09.1985)
-Herbert Bayer is 
+## Herbert Bayer 
+Herbert Bayer was an Austrian Graphic Designer and Artist who was born in 15.04.1900 and died in 30.09.1985. He was born in Austria but moved to Germany and later on to the USA.
 
 ## Art/Design Career
 His art career began as he started an education in an art industry atelier specialising in architecture. After that he studied in the Weimar Bauhaus (1921 - 1925) in which he was eduacted by some very popular artists like Johannes Itten, Paul Klee and Wassily Kandinsky. Moving on, he became the leader of the newly formed printing and advertisement department in Bauhaus Dessau. There he made some very important decisions like introducing print-paper in DIN and popularizing lowercase letters. Those things were some fundamentally essential steps for creation of the creation of graphic design. In 1928 he left Bauhaus, moved to Berlin. By becoming Art Director for the Vogue he continued his focus on advertisement but he also took interest in photography and painting. Since 1933 he used his advertisement skills to spread Nazi propaganda.
@@ -54,7 +54,7 @@ The latter image is the main inspiration to the project. Using this as a baselin
 ![](./assets/images/r-splash.png) 
 
 
-Using the given rules one can create randomly generated images like the ones shown above. 
+Using the given rules one can create randomly generated images like the ones shown above.
 
 
 
