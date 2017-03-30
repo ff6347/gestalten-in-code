@@ -34,7 +34,7 @@ Bayers has a wide variety of different types of art pieces, but his colorful, ge
 ![](./assets/images/sc3-splash.png) 
 
 
-All shown images are mad out of simple 2-Dimensional shapes. Allthough, by arrangement, they may create a 3-Dimensional illusion.
+All shown images are mad out of simple 2-Dimensional shapes. Allthough, by arrangement, they may create a 3-Dimensional illusion. They may overlap each other but they never merge together.
 
 ![](./assets/images/bcr-splash.png) 
 
@@ -49,10 +49,11 @@ There is always some reification. One can always see forms which actually don't 
 
 There are no soft color gradients and they always change in one direction of the color spectrum.
 
-The latter image is the main inspiration to the project. Using this as a baseline combined with colors from his other images it shows curves of different magnitude. 
-
+The latter image is the main inspiration to the project. Using this as a baseline combined with colors from his other images it shows curves of different magnitude. The hardest part is to create an algorithm that is random enough to make bars of different thickness, but at the same time doesn't distort the proportions of the image. By making them all independent of each other this problem becomes fairly managable.
 
 ![](./assets/images/r-splash.png) 
+
+
 
 
 
