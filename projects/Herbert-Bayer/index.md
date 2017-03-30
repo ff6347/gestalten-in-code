@@ -54,7 +54,7 @@ The latter image is the main inspiration to the project. Using this as a baselin
 ![](./assets/images/r-splash.png) 
 
 
-Using the given rules one can create randomly generated images like the ones shown above.
+Using the given rules one can create randomly generated images like the ones shown above. They all use an image of Bayer as a baseline but randomize the size of the shape a bit and use other color gradients which are derived from his other color schemes.
 
 
 
