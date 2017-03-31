@@ -23,7 +23,7 @@ You discover what stays constant and what is variable, you understand which elem
 1. *Draw a great square in the center of your sheet of paper.*
 1. *Devide this square into four equally sized, smaller squares using one horizontal and one vertical line.*
 1. *Write down one word in each square. (verb, noun or adjective)*
-1. *Draw your associations concerning those words outside around the big square.
+1. *Draw your associations concerning those words outside around the big square.*
 1. *Sign your creation.*
 
 ![](./assets/algo1.png)
