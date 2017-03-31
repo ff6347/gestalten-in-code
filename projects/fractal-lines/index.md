@@ -68,7 +68,7 @@ The fourth algorithm takes all functioning rules from before, but instead of the
 * only straight, non touching lines
 * Only two types of lines: at least ten 135° lines and at least ten 45° lines
 * At least seven must have regular ocurring spaces, that are not bigger then 5mm
-* Same distance to each other (vertical and horizontal)
+* Same distance to each other, that can't be larger then 1cm (vertical and horizontal)
 * Ruler must be used to draw the lines
 * Only black or blue pens must be used
 
