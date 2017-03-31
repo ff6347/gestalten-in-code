@@ -73,7 +73,7 @@ The fourth algorithm takes all functioning rules from before, but instead of the
 * Only black or blue pens must be used
 
 
-![](./assets/images/a4-splash.png)
+![](./assets/images/a4-Splash.png)
 
 
 The end results look by far the best from all experiments. They all look clean, minimalistic with consistent results but they all have something unique to them.
