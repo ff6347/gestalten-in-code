@@ -56,6 +56,9 @@ The third algorithm uses the same basic rules as the previous ones but it also a
 * Same distance to each other (vertical and horizontal)
 * Ruler must be used to draw the lines
 
+![](./assets/images/a3-splash.png)
+
+
 Because of the bright crayon colors and size limitations the end results can't be shown on this site. Pictures in full resolutions can be found [here](https://postimg.org/gallery/if0is1lq/)
 
 Since most participants use thick crayons the colorful results tend to look childish. The thin, black and filigran lines with short spaces from the results before look much more and professional. However a ruler definitely must be used in the next test.
