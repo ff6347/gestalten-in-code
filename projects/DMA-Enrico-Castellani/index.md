@@ -19,7 +19,7 @@ The center of this seminar was engaged by the laws of design - to collect them, 
 ![](./assets/castellani1.png) 
 
 Enrico Castellani (*1930) is a highly noted modern italian artist. In his conversant works he especially occupies the „colour“ white through distinguishing her absence. His technique is to pull and stretch the canvas using nails to create a landscape of light and shadow where there is still only white. Depending on the location of the observer, the canvas creates illusions and always appears differently.
-In the 50s, he exposed his work on a touring exhibition oft he ZERO arts collective which was founded by Heinz Mack and Otto Piene in 1958 in Düsseldorf. The contributing artists did not see art as something flat and sacred that had to live through colour, but rather as something three dimensional which focused on its materials, its environment and its surrounding or self-induced angles. In this connection, optical illusions influenced a majority of the creations.
+.In the 50s, he exposed his work on a touring exhibition oft he ZERO arts collective which was founded by Heinz Mack and Otto Piene in 1958 in Düsseldorf. The contributing artists did not see art as something flat and sacred that had to live through colour, but rather as something three dimensional which focused on its materials, its environment and its surrounding or self-induced angles. In this connection, optical illusions influenced a majority of the creations.
 
 ![](./assets/castellani3.png) ![](./assets/castellani4.png) 
 
@@ -80,4 +80,4 @@ If similar objects are being lined up and contracted towards one side, this appe
 We tried to express the laws used by Castellani in code to create generative art. This is the result:
 
 
-![](./assets/castellanicode
+![](./assets/castellanicode.png)
