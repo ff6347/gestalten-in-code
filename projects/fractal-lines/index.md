@@ -26,8 +26,7 @@ The first algorithm is very simple. It barely consists of NUMBER!!!! rules
 
 Given those simple rules, the results don't look as promising.
 
-IMAGE HERE!!!!!
-
+![](./assets/images/a1-splash.png)
 
 
 ## Second Algorithm
@@ -38,6 +37,8 @@ The second algorithm is a little bit more advanced. It goes as follows:
 * Lines must be diagonal
 * At least five must have regular ocurring spaces
 * Same distance to each other (vertical and horizontal)
+
+![](./assets/images/a2-splash.png)
 
 The results are much more consistent in this one then in the first. They all follow the same rules, yet they all look different to each other. Even though there is a huge step up from the first attempt there is still room for improvement. Since there are no hardware requirements given, most participants don't use a ruler thus leading to an untidy result. There also needs to be more experimentation done. 
 
