@@ -13,7 +13,8 @@ type: project
 
 ![](./assets/keinblatt.png) 
 
-To understand how algorithms work, it’s best to create one yourself. This way you get to figure out essential components: you discover what stays constant and what is variable, you understand which elements you need to change or even eliminate to get different results - to get as close to your desired outcome as possible.
+To understand how algorithms work, it’s best to create one yourself. This way you get to figure out essential components:
+You discover what stays constant and what is variable, you understand which elements you need to change or even eliminate to get different results - to get as close to your desired outcome as possible.
 
 ----------
 
