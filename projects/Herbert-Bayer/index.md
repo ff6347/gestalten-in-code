@@ -26,7 +26,6 @@ His art career began as he started an education in an art industry atelier speci
 Bayers has a wide variety of different types of art pieces, but his colorful, geometrical and abstract works have the most structure, hence those will be analysed in this project. 
 
 
-![](./assets/images/ct-splash.png)
 
 "Chromatic Twist" is a very popular image made by Bayer. It is is an abstract portrayal of different colors. Upon looking into similar images  one will notice a lot of parallels which make make up this unique art style.
 
