@@ -1,7 +1,20 @@
+--- 
+authors: 
+  - "Jeanette Knipp"
+  - "Natalie Schreiber"
+authors-url: 
+  - "https://github.com/lellahahaha"
+  - "https://github.com/natascher"
+layout: project
+title: "Deconstructing Master Artists - Enrico Castellani"
+type: project
+---
 
 --- 
-authors: - "Jeanette Knipp"
-authors-url:   - "https://github.com/lellahahaha"
+authors:
+  - "Jeanette Knipp"
+authors-url:  
+  - "https://github.com/lellahahaha"
 layout: project
 title: "This is not a Leaf"
 type: project
