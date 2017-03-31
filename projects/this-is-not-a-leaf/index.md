@@ -44,7 +44,6 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 
 1. *Crisscross, in different sizes, as close as possible whilst still not touching!*
 1. *Fill some of them with hatchures, others with tiny dots and leave others empty.*
-
 *You do not have to fill the entire sheet!*
 
 In this case, the only constant is the shape oft he objects. Variables are the sheet format, the colour oft he chosen pencil, the number of drawed shapes, their exact location on the sheet, their exact size and, conditionally, the filling of each shape. As you will learn, to get your algorithm to be unmistakable it should be the other way around: the constants should predominate, the variables should be fewer and more precise:
@@ -53,7 +52,7 @@ In this case, the only constant is the shape oft he objects. Variables are the s
 ![](./assets/ergebnis6.png)
 ![](./assets/ergebnis7.png)
 
-1The results show that this instruction often persuades subjects to draw entire leafs instead of the described leaf-like shapes.
+The results show that this instruction often persuades subjects to draw entire leafs instead of the described leaf-like shapes.
 Therefore, another approach is to change the first sentence like this:
 
 *Draw ovals that thin to the tails.*
@@ -81,6 +80,8 @@ So the second point has to be changed:
 
 This way you get a wider range of possible correct outcomes while increasing the space for creativity.
 
+![](./assets/ergebnis9.png)
+
 ----------
 
 ### The Revised Second Algorithm
@@ -96,21 +97,31 @@ Since the algorithm is nearly unambiguous now that we have eliminated some varia
 
 How about changing the leaf-like shapes to clouds, hearts and stars?
 
-
+![](./assets/ergebnis11.png)
+![](./assets/ergebnis12.png)
+![](./assets/ergebnis13.png)
 
 As you can see, with this new algorithm it still works out. All correct results! But a little corny now. So let’s stay with the pseudo-leafs and change the canvas! No regular sheets of paper allowed anymore. But instead - wrapping paper, an egg, even skin.
 
-
+![](./assets/ergebnis10.png)
+![](./assets/ei.png)
+![](./assets/skin.png)
 
 The outcomes are interesting but still „only“ art. So let’s try to make something useful. Lanterns for example?
 
-
+![](./assets/ergebnis16.png)
+![](./assets/ergebnis15.png)
 
 Nice try, but unfortunately it does not look that professional after all. So what about painting on shirts, envelopes, glass, porcellain?
 
-
+![](./assets/shirt2.png)
+![](./assets/shirt.png)
+![](./assets/brief1.png)
+![](./assets/brief2.png)
+![](./assets/glass.png)
+![](./assets/teller1.png)
+![](./assets/teller2.png)
 
 Yassss!
 
 This has been a journy through creating a flawed algorithm and analyzing, changing and defining it until it’s become faultless. It took a lot of time to get to really understand its functionality but in the end this knowledge could be used like a creative weapon.
-In the end there was SUCCESS!
