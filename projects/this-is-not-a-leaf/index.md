@@ -2,8 +2,7 @@
 --- 
 authors: 
   - "Jeanette Knipp"
-authors-url: 
-  - "https://github.com/lellahahaha"
+authors-url:   - "https://github.com/lellahahaha"
 layout: project
 title: "This is not a Leaf"
 type: project
@@ -14,7 +13,6 @@ type: project
 
 
 ![](./assets/keinblatt.png) 
-
 To understand how algorithms work, it’s best to create one yourself. This way you get to figure out essential components: you discover what stays constant and what is variable, you understand which elements you need to change or even eliminate to get different results - to get as close to your desired outcome as possible.
 
 ----------
@@ -24,8 +22,7 @@ To understand how algorithms work, it’s best to create one yourself. This way 
 1. *Draw a great square in the center of your sheet of paper.*
 1. *Devide this square into four equally sized, smaller squares using one horizontal and one vertical line.*
 1. *Write down one word in each square. (verb, noun or adjective)*
-1. *Draw your associations concerning those words outside around the big square.*
-1. *Sign your creation.*
+1. *Draw your associations concerning those words outside around the big square.*1. *Sign your creation.*
 
 ![](./assets/algo1.png)
 ![](./assets/algo2.png)
@@ -33,6 +30,7 @@ To understand how algorithms work, it’s best to create one yourself. This way 
 ![](./assets/algo4.png)
 
 ---------
+
 
 This first examplary task has been fullfilled correctly in almost all of the four cases. It has many constants and few, clear variables. But what made one person write down words outside of the square instead of drawing associations? It’s called inattention. A capricious factor when creating an algorithm. Because no matter how precise you are with your phrasing, if your subjects are not concentrating, the task may have way different results than expected. But now that the basics have been explained, let’s hop to the second attempt…
 
@@ -53,14 +51,15 @@ In this case, the only constant is the shape oft he objects. Variables are the s
 ![](./assets/ergebnis6.png)
 ![](./assets/ergebnis7.png)
 
-The results show that this instruction often persuades subjects to draw entire leafs instead of the described leaf-like shapes.
+1The results show that this instruction often persuades subjects to draw entire leafs instead of the described leaf-like shapes.
 Therefore, another approach is to change the first sentence like this:
 
 *Draw ovals that thin to the tails.*
 
 This eliminates the thought of leafs from the subjects‘ mind and lets him focus on the described form.
 
-
+![](./assets/ergebnis5.png)
+![](./assets/ergebnis8.png)
 
 But still, people tend to draw the shapes comparative widely spread from each other. Hence, the first point in the instruction has to be changed - for example like this:
 
@@ -68,6 +67,8 @@ But still, people tend to draw the shapes comparative widely spread from each ot
 
 Now, the subjects do not focus on the shapes not touching but rather on them being drawn closely.
 
+![](./assets/ergebnis3.png)
+![](./assets/ergebnis1.png)
 
 
 Also, the filling of the shapes has often been neither dotted, nor hatched, nor let empty. But in this case it’s important to focus on what you want as outcome. Do you really want the results to be all the same?
