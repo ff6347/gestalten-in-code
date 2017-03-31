@@ -5,5 +5,5 @@ author-url: https://github.com/filipczekajlo
 title: colm
 tags: [P5.js, color]
 permalink: /color/colm
-summary: LInear changing color gradients.
+summary: Linear changing color gradients.
 ---  
