@@ -1,3 +1,4 @@
+
 --- 
 authors: 
   - "Jeanette Knipp"
@@ -25,6 +26,7 @@ To understand how algorithms work, it’s best to create one yourself. This way 
 1. *Write down one word in each square. (verb, noun or adjective)*
 1. *Draw your associations concerning those words outside around the big square.*
 1. *Sign your creation.*
+
 ![](./assets/algo1.png)
 ![](./assets/algo2.png)
 ![](./assets/algo3.png) 
