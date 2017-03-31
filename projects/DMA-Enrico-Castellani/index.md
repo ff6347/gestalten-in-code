@@ -27,6 +27,7 @@ Enrico Castellani’s work is special because is very different from the typical
 
 ![](./assets/castellani2.png) 
 
+
 ### Castellani’s laws of design
 
 The most frequently disposed laws of design in Castellani’s works are *the law of closure, law of proximity and the law of space through shadows*.
@@ -73,3 +74,10 @@ The free space between two or more objects can evoke the impression of three-dim
 ![](./assets/foreshortening.png) 
 
 If similar objects are being lined up and contracted towards one side, this appears optically as a crushed movement.
+
+------
+
+We tried to express the laws used by Castellani in code to create generative art. This is the result:
+
+
+![](./assets/castellanicode
