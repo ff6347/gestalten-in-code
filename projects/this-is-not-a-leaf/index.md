@@ -80,8 +80,6 @@ So the second point has to be changed:
 
 This way you get a wider range of possible correct outcomes while increasing the space for creativity.
 
-![](./assets/ergebnis9.png)
-
 ----------
 
 ### The Revised Second Algorithm
@@ -115,9 +113,7 @@ The outcomes are interesting but still „only“ art. So let’s try to make so
 Nice try, but unfortunately it does not look that professional after all. So what about painting on shirts, envelopes, glass, porcellain?
 
 ![](./assets/shirt2.png)
-![](./assets/shirt.png)
 ![](./assets/brief1.png)
-![](./assets/brief2.png)
 ![](./assets/glass.png)
 ![](./assets/teller1.png)
 ![](./assets/teller2.png)
