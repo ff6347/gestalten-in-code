@@ -14,7 +14,6 @@ type: project
 
 ![](./assets/keinblatt.png) 
 
-
 To understand how algorithms work, it’s best to create one yourself. This way you get to figure out essential components: you discover what stays constant and what is variable, you understand which elements you need to change or even eliminate to get different results - to get as close to your desired outcome as possible.
 
 ----------
@@ -26,6 +25,10 @@ To understand how algorithms work, it’s best to create one yourself. This way 
 1. *Write down one word in each square. (verb, noun or adjective)*
 1. *Draw your associations concerning those words outside around the big square.*
 1. *Sign your creation.*
+![](./assets/algo1.png)
+![](./assets/algo2.png)
+![](./assets/algo3.png) 
+![](./assets/algo4.png)
 
 ---------
 
@@ -44,7 +47,9 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 
 In this case, the only constant is the shape oft he objects. Variables are the sheet format, the colour oft he chosen pencil, the number of drawed shapes, their exact location on the sheet, their exact size and, conditionally, the filling of each shape. As you will learn, to get your algorithm to be unmistakable it should be the other way around: the constants should predominate, the variables should be fewer and more precise:
 
-
+![](./assets/ergebnis2.png)
+![](./assets/ergebnis6.png)
+![](./assets/ergebnis7.png)
 
 The results show that this instruction often persuades subjects to draw entire leafs instead of the described leaf-like shapes.
 Therefore, another approach is to change the first sentence like this:
