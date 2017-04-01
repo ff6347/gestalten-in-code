@@ -144,6 +144,7 @@ The algorithm was still long and too complicated to execute. It took people taki
 Although it took people long, every output is comparable and I already really liked the looks. 
  
   <hr />
+  
 ## 2nd iteration
 
 To shorten the algorithm in this iteration there is no numbered tasks. The people taking part only got the text. <br />
@@ -157,6 +158,7 @@ To shorten the algorithm in this iteration there is no numbered tasks. The peopl
 Although the algorithm was shorter it was more difficult to understand. Two people didn't continue. The other outputs are not what I expected. 
 
  <hr />
+ 
 ## 3rd iteration
 
 >Before executing the code, please fully read it. 
@@ -183,6 +185,8 @@ Open what pens and colour is chosen <br />
 Open where the rectangle is put <br />
 
 ## evaluation 
+
+
  
 ![](./assets/images/005_splash.png)
 ![](./assets/images/006_splash.png)
