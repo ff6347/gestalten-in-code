@@ -7,63 +7,40 @@ function setup() {
 
 function drawLines(count, distance) {
   distance = distance || 20;
-  
+
   for (var i = 0; i < count; i++) {
      var x = i * distance;
-    
+
     line(x, 0, x, 500);
   }
+}
+
+function drawEllipsis(height) {
+  strokeWeight(10);
+  stroke(255, 255, 255);
+  noFill();
+  ellipse(250, 250, height);
 }
 
 function draw() {
   stroke(0);
   strokeWeight(2);
   drawLines(100, dis);
-  
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, 100);
-  
+
+  drawEllipsis(100)
+
   fill(255);
   ellipse(250, 250, 35);
-  
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, 150);
-  
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, 240);
-  
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, 300);
-  
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, 340);
-  
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, 400);
-  
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, 440);
-  
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, 500);
+
+  drawEllipsis(150);
+  drawEllipsis(240);
+  drawEllipsis(300);
+  drawEllipsis(340);
+  drawEllipsis(400);
+  drawEllipsis(440);
+  drawEllipsis(500);
 }
- 
+
  function mouseClicked(){
   save('Law of Connected Elements - Lines.png');
 }
