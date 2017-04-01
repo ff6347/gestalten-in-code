@@ -42,6 +42,7 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 
 The people taking part only got the sheet of paper with the description of the algorithm, no additional tools or materials. The first step of the algorithm asks them to get the relevant material, needed for executing the code, so that the materials picked are comparable but not the same for all the people.  
  
+>
 >You need:
 >* three text/ painting tools
 > * 1. thick and dark
@@ -88,7 +89,7 @@ There always are  two seperated areas with three branched out objects, that most
  
 ## 1st iteration
 
->material
+>**material**
 >work surface: sheet of paper bigger than DIN A4 or a tissue
 >pen1: a thick pen
 >pen 2: a thin pen
