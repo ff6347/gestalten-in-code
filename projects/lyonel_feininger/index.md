@@ -22,7 +22,7 @@ The project was developed for the class “Gestalten in Code – Die Grundlagen 
 Due to his works at Bauhaus 1919, Lyonel Feininger is one of the most eminent artist of the period of the “Classical Modernity”. 
 Lyonel Feininger was born 1871 in New York City. When he came to Europe 1887 he studied in Hamburg, Berlin and then Paris, France. 1919 he was called to Bauhaus University by Walter Gropius to be the first school master for painting and graphics. 
 
-![Lyonel-Feininger](001_lyonel_feininger.png)
+![Lyonel-Feininger](assets/001_lyonel_feininger.png)
 
 He mostly pictured cities, gothic buildings and the sea, coastlines and sailing ships.
 Being influenced by the Cubism and Orphism, he calls his style “Prismaism”. His art is famous for sceneries flooded with light, geometricization to focus on the essentials and shapes being duplicated many times. Always, intense and detailed nature studies are being made before starting a painting. A new, inner reality is being created by breaking away from the outer reality.
@@ -35,7 +35,7 @@ Lyonel Feininger once said “And it is always like that, whatever I draw – it
 
 The painting “Vogelwolke” from 1924 was drawn in the middle of Lyonel Feiningers productive years.
 
-![Vogelwolke](004_Vogelwolke.png) 
+![Vogelwolke](assets/004_Vogelwolke.png) 
 
 <h3>Why did we pick it?</h3>
 When looking for an artist and pieces of art for this project, we enjoyed the style of Lyonel Feiningers paintings because they, on the one hand side, appear to be only abstract shapes, but on the other hand still portray nature.
@@ -46,7 +46,7 @@ We felt like it is possible to reduce the painting on a set of rules and try to 
 Before painting the final oil painting named “Vogelwolke” in the year 1926, Lyonel Feininger made two nature studies at the coast of the Baltic Sea 1924, one with pencil, the other with watercolour. 
 A cloud is moving towards a curved coastline, in the background there is mountains. The formal structure was changed for the painting 1926, where the cloud is standing and there’s no coastline, just a person standing at the beach. 
 
-![composition](005_composition.png)
+![composition](assets/005_composition.png)
 
 
 In the following the painting was analyzed by composition, size, brightness, transparency, shapes, colors and lines.
@@ -67,7 +67,7 @@ In the foreground there is a small person.
 Or
 [1:2] Earth – Sky
 
-![nature-studies](006_nature_studies.png)
+![nature-studies](assets/006_nature_studies.png)
 
 
 <h3>brightness</h3>
@@ -86,28 +86,28 @@ Open triangles with tone shading of colour merge into the background. Lyonel Fei
 
 <h3>Farbbereich</h3>
 
-![colours](008_colours.png)
+![colours](assets/008_colours.png)
 
 
 <h3>Linien</h3>
 
 Most of the lines are horizontal. Many lines are parallel.  
 
-![horizontal-lines](009_horizontal_lines.png)
-![parallel-lines](010_parallel_lines.png)
+![horizontal-lines](assets/009_horizontal_lines.png)
+![parallel-lines](assets/010_parallel_lines.png)
 
 
 Lines in a slightly different angle that are moved up or down give an impression of movement. 
 
-![lines](011_lines.png)
+![lines](assets/011_lines.png)
 
 There is a cross in the sand. In combination with some vertical lines the cross gives an impression of depth.
 
 
-![lines](012_lines.png)
-![lines](013_lines.png)
-![lines](014_lines.png)
-![lines](015_lines.png)
+![lines](assets/012_lines.png)
+![lines](assets/013_lines.png)
+![lines](assets/014_lines.png)
+![lines](assets/015_lines.png)
 
 
 <h2>Gestalt Laws</h2>
@@ -120,19 +120,19 @@ The feathers of the cloud appear to belong together because the shapes show the 
 
 The painting seems to be deep because of the cross in the middle of the picture in combination with vertical lines.
  
-![lines](013_lines.png)
+![lines](assets/013_lines.png)
 
 <h3>Raum  </h3>  
 Warm colours seem to be close, cold colours seem to be far. The beach appears closer than the sky. 
 
-![law-of-space](016_law_of_space_through_colour.png)
+![law-of-space](assets/016_law_of_space_through_colour.png)
 
 <h3>Law of contrast </h3> 
 Areas are divided through contrast. The pretty dark sea stands out from the beach. The light cloud stands out from the sky. The dark sea seperates the beach and the sky. 
 
-![law_of_contrast](017_law_of_contrast.png)
-![law_of_contrast](018_law_of_contrast.png)
-![law_of_contrast](019_law_of_contrast.png)
+![law_of_contrast](assets/017_law_of_contrast.png)
+![law_of_contrast](assets/018_law_of_contrast.png)
+![law_of_contrast](assets/019_law_of_contrast.png)
 
 <h2>Code</h2>
 
@@ -143,9 +143,9 @@ Grey and white shapes in different gradation of transparencies are laying over t
 
 The Output is variations of the basic shapes of Lyonel Feiningers “Vogelwolke”. 
 
-![output1](020_output1.png)
-![output2](021_output2.png)
-![output3](022_output3.png)
+![output1](assets/020_output1.png)
+![output2](assets/021_output2.png)
+![output3](assets/022_output3.png)
 
 
 <h2>Conclusion and future prospects</h2>
