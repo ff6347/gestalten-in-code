@@ -10,7 +10,7 @@ type: project
 
 # Interlinked Intricate Network
 
-![](./assets/images/008_splash.png)
+![](./assets/images/009_splash.png)
 
 
 ## Analog Algorithms
