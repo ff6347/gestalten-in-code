@@ -42,12 +42,12 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 
 The people taking part only got the sheet of paper with the description of the algorithm, no additional tools or materials. The first step of the algorithm asks them to get the relevant material, needed for executing the code, so that the materials picked are comparable but not the same for all the people.  
  
->
 >You need:
 >* three text/ painting tools
 > * 1. thick and dark
 > * 2. less thick and dark than 1.
 > * 3. less thick and dark than 2.
+>
 >
 >* One work surfaces DIN A4 or bigger
 >
@@ -95,23 +95,18 @@ There always are  two seperated areas with three branched out objects, that most
 >pen 2: a thin pen
 > 
 >One.
-
 >Draw a triangle with a size of about an eighth of your work surface with pen 1. Draw one triangle each on the outside of the sides of the triangle with pen 2. Continue this with pen 2 for all the triangles you’re drawing until the stroke width is too big.
 >
 >Two.
-
 >Draw another triangle with half of the size of your first triangle of step one at the corner of this triangle. Repeat step one for this triangle.
 >
 >Three. 
-
 >Repeat step two for the triangle with half of the size of the first triangle and continue until the stroke width is too big.
 >
 >Four.
-
 >Draw a triangle at the corner of the triangle you drew last with double the size of that triangle. Repeat step one.
 >
 >Five.
-
 >Repeat step four until you reach the edge of your work surface. 
  
 ### constant parameters
