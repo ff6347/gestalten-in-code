@@ -8,14 +8,14 @@ title: Interlinked Intricate Network
 type: project
 ---
 
-#Interlinked Intricate Network
-##Analog Algorithms
+# Interlinked Intricate Network
+## Analog Algorithms
  
 For this project an algorithm was developed that can be executed by humans – in other words: analog. The function pattern was repeatedly evaluated and optimized iteratively.
  
 The project was developed for the class “Gestalten in Code – Die Grundlagen Generativer Gestaltung” by Fabian Morón Zirfas at the University of Applied Sciences Potsdam, Faculty of Design.
  
-##First Algorithm
+## First Algorithm
 
 The first algorithm was only allowed to be up to 5 sentences long and created in 5 minutes. 
 These were the results. 
@@ -24,9 +24,9 @@ These were the results.
  
 abb. 001
 
-##New Algorithm
+## New Algorithm
 
-###Inspiration
+### Inspiration
 The first algorithm was very open and a little hard to read because of the messy handwriting in a hurry. The results didn’t meet my expectations at all and were very different to one another so I decided to start all over. 
  
 The new thought was to have two separated areas on one work surface. In these areas there are three mushroom-like, living, recursive, smaller and smaller objects each. An undefined open shape crossed by lines, that are defined by objects, so that the two areas are connected. The source for this thought was a conversation about fractals. The output of the algorithm should be some object that consists of lots of smaller copies of itself. 
@@ -36,15 +36,15 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 ![example_fractals] (http://fractalfoundation.wolfesongs.com/wp-content/uploads/2009/01/sierpinski-zoom41.gif)
 [Source: Website Fractal] (http://fractalfoundation.org/resources/what-are-fractals/)
  
-###execution
+### execution
 
 The people taking part only got the sheet of paper with the description of the algorithm, no additional tools or materials. The first step of the algorithm asks them to get the relevant material, needed for executing the code, so that the materials picked are comparable but not the same for all the people.  
  
  >You need:
 >*three text/ painting tools
->**1. thick and dark
->**2. less thick and dark than 1.
->**3. less thick and dark than 2.
+>-*1. thick and dark
+>-*2. less thick and dark than 1.
+>-*3. less thick and dark than 2.
 >
 >*One work surfaces DIN A4 or bigger
 >
@@ -61,7 +61,7 @@ The people taking part only got the sheet of paper with the description of the a
 >11. Draw straight lines with text/ paint tool no 2., that are each on the one hand side >connected with the corners of the triangles drawn in step 3 and on the other hand side >with the free corner of the triangle drawn in step 3 facing the other one.
 >12. Continue drawing the lines until you reach the edge of the work surface.
  
-###constant parameters
+### constant parameters
  
 One work surface
 Three areas
@@ -69,11 +69,11 @@ Each connected twice with the edge of the work surface
 Three triangles that are branched out recursively
 18 lines 
  
-###variable parameters
+### variable parameters
  
 All of the other parameters were to a certain extent interpretable, partly as well to be able to execute the algorithm with only a few devices. Especially the size of the work surface and how it was subdivided was interesting for me. 
  
-###evaluation
+### evaluation
 #### What went wrong?
  
 When defining the algorithm it was hard to unequivocally define and still leave space for interpretation.
@@ -84,7 +84,7 @@ The expression “two connections to the edge of the work surface” wasn’t un
 
 There always are  two seperated areas with three branched out objects, that mostly are connected with the other areas.  
  
-##1st iteration
+## 1st iteration
 
 >material
 >work surface: sheet of paper bigger than DIN A4 or a tissue
@@ -106,16 +106,16 @@ There always are  two seperated areas with three branched out objects, that most
 >Five.
 >Repeat step four until you reach the edge of your work surface. 
  
-###constant parameters
+### constant parameters
  
 One work surface
 A chain of triangles with recursively smaller and smaller triangles on the sides
  
-###variable parameters
+### variable parameters
  
 All of the other parameters were to a certain extent interpretable, partly as well to be able to execute the algorithm with only a few devices. Especially the size of the work surface and how it was subdivided was interesting for me. 
  
-###evaluation
+### evaluation
 
 In this iteration the algorithm got rid of the three areas and focussed on the recursive triangles. 
 
@@ -127,23 +127,23 @@ The algorithm was still long and too complicated to execute. It took people taki
 
 Although it took people long, every output is comparable and I really liked the looks. 
  
-##2nd iteration
+## 2nd iteration
 
 >Draw a triangle with a size of approx. an eighth of your work surface. This is your base >triangle. Draw triangles outside on the sides of the base triangle and continue doing >that for all the new triangles until the stroke width is too big. Draw a triangle at one >corner of the base triangle, that is smaller than it and now do the same as you did with >the base triangle. Continue drawing triangles on the corners until your base triangle is >too small. Then continue with bigger and bigger base triangles.
 
-###constant parameters
+### constant parameters
  
 One work surface
 Each connected twice with the edge of the work surface
 Three triangles that are branched out recursively
 18 lines 
  
-###variable parameters
+### variable parameters
  
 All of the other parameters were to a certain extent interpretable, partly as well to be able to execute the algorithm with only a few devices. Especially the size of the work surface and how it was subdivided was interesting for me. 
  
 
-##evaluation 
+## evaluation 
  
 
  
