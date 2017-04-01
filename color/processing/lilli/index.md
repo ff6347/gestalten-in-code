@@ -1,6 +1,6 @@
 ---
 layout: default
-author: Juri Wolf?
+author: Juri Wolf
 title: lilli
 tags: [processing, color, repeat, ]
 permalink: /color/lilli/

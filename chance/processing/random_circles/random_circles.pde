@@ -3,7 +3,7 @@ int y = 5;
 float scaler = 0;
 
 void setup () {
-  size(400, 400);
+  size(500, 500);
 }
 
 void draw() {

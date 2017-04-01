@@ -6,12 +6,15 @@ permalink: /authors/
 nosource: True
 ---  
 
-## Julia Hilt  
+Thanks to all the fantastic contributions. Some are made directly from the students of the seminar some are found around the web.  
 
-{% include filtered-index-author-overview.html param="Julia Hilt" %}  
+{% capture authors_string %}
+{% for page in site.pages  %}{% if page.meta == nil or page.meta == False %}{{page.author}};{% endif %}{% endfor %}
+{% endcapture %}
+{% assign authors_array = authors_string | split: ";" | sort | uniq  %}
 
-## Fabian Morón Zirfas  
 
-{% include filtered-index-author-overview.html param="Fabian Morón Zirfas" %}
-
-{% for page in site.pages %}{% if page.meta == nil  %}{{page.author}}{% endif %}{% endfor %}
+{% for author in authors_array offset: 2 %}
+<h2 class="loop">{{ author }}</h2>  
+<div class="sketches">{% include filtered-index-author-overview.html param=author %}</div>
+{% endfor %}
