@@ -35,7 +35,7 @@ Lyonel Feininger once said “And it is always like that, whatever I draw – it
 
 The painting “Vogelwolke” from 1924 was drawn in the middle of Lyonel Feiningers productive years.
 
-![Vogelwolke](assets/004_Vogelwolke.png) 
+![Vogelwolke](assets/004_vogelwolke.png) 
 
 <h3>Why did we pick it?</h3>
 When looking for an artist and pieces of art for this project, we enjoyed the style of Lyonel Feiningers paintings because they, on the one hand side, appear to be only abstract shapes, but on the other hand still portray nature.
