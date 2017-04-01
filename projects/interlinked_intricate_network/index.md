@@ -38,16 +38,16 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 
 [Source: Website Fractal Foundation](http://fractalfoundation.org/resources/what-are-fractals/)
  
+
 ### execution
 
 The people taking part only got the sheet of paper with the description of the algorithm, no additional tools or materials. The first step of the algorithm asks them to get the relevant material, needed for executing the code, so that the materials picked are comparable but not the same for all the people.  
  
 >   **You need:**
->* three text/ painting tools
-> * 1. thick and dark
-> * 2. less thick and dark than 1.
-> * 3. less thick and dark than 2.
->
+>* three text/ painting tools 
+>   1. thick and dark
+>   2. less thick and dark than 1.
+>   3. less thick and dark than 2.
 >
 >* One work surfaces DIN A4 or bigger
 >
@@ -80,8 +80,8 @@ All of the other parameters were to a certain extent interpretable, partly as we
 ### evaluation
 #### What went wrong?
  
-When defining the algorithm it was hard to unequivocally define and still leave space for interpretation.
-The algorithm was too long and too complicated to execute. The people taking part didn’t enjoy. 
+When defining the algorithm it was hard to unequivocally define and still leave space for interpretation.<br />
+The algorithm was too long and too complicated to execute. The people taking part didn’t enjoy. <br />
 The expression “two connections to the edge of the work surface” wasn’t unequivocal. The additional information that two areas should not touch would have been enough.
  
 #### What worked out?
@@ -91,28 +91,28 @@ There always are  two seperated areas with three branched out objects, that most
 ## 1st iteration
 
 >**material**
->work surface: sheet of paper bigger than DIN A4 or a tissue
->pen1: a thick pen
->pen 2: a thin pen
+>work surface: sheet of paper bigger than DIN A4 or a tissue<br />
+>pen1: a thick pen<br />
+>pen 2: a thin pen<br />
 > 
->One.
+>One.<br />
 >Draw a triangle with a size of about an eighth of your work surface with pen 1. Draw one triangle each on the outside of the sides of the triangle with pen 2. Continue this with pen 2 for all the triangles you’re drawing until the stroke width is too big.
 >
->Two.
+>Two.<br />
 >Draw another triangle with half of the size of your first triangle of step one at the corner of this triangle. Repeat step one for this triangle.
 >
->Three. 
+>Three. <br />
 >Repeat step two for the triangle with half of the size of the first triangle and continue until the stroke width is too big.
 >
->Four.
+>Four.<br />
 >Draw a triangle at the corner of the triangle you drew last with double the size of that triangle. Repeat step one.
 >
->Five.
+>Five.<br />
 >Repeat step four until you reach the edge of your work surface. 
  
 ### constant parameters
  
-One work surface
+One work surface<br />
 A chain of triangles with recursively smaller and smaller triangles on the sides
  
 ### variable parameters
@@ -137,13 +137,10 @@ Although it took people long, every output is comparable and I really liked the 
 
 ### constant parameters
  
-One work surface
-
-Each connected twice with the edge of the work surface
-
-Three triangles that are branched out recursively
-
-18 lines 
+One work surface<br />
+Each connected twice with the edge of the work surface<br />
+Three triangles that are branched out recursively<br />
+18 lines <br />
  
 ### variable parameters
  
