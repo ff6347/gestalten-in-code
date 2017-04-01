@@ -18,6 +18,8 @@ type: project
 For this project an algorithm was developed, that can be executed by humans – in other words: analog. The function pattern was repeatedly evaluated and optimized iteratively.
  
 The project was developed for the class “Gestalten in Code – Die Grundlagen Generativer Gestaltung” by Fabian Morón Zirfas at the University of Applied Sciences Potsdam, Faculty of Design.
+
+<hr />
  
 ## First Algorithm
 
@@ -33,6 +35,7 @@ These were the results.
 The first algorithm was very open and a little hard to read because of the messy handwriting in a hurry. The results didn’t meet my expectations at all and were very different to one another.
 
 <hr />
+
 ## New Algorithm
 
 ### Inspiration
@@ -53,7 +56,7 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 
 The people taking part only got the sheet of paper with the description of the algorithm, no additional tools or materials. The first step of the algorithm asks them to get the relevant material, needed for executing the code, so that the materials picked are comparable but not the same for all the people.  
  
->   **You need:**
+>   **you need:**
 >* three text/ painting tools 
 >   1. thick and dark
 >   2. less thick and dark than 1.
@@ -61,7 +64,7 @@ The people taking part only got the sheet of paper with the description of the a
 >
 >* One work surfaces DIN A4 or bigger
 >
->**algorithm**
+>**the algorithm**
 >1. Subdivide your work surface into three parts, so that each part got at least two >connections to the edge of the work surface.
 >2. Mark the two of them that are not connected with text/ painting tool no. 1
 >3. Draw three triangles with text/ painting tool no. 3 within these areas
@@ -101,6 +104,7 @@ But there always are two seperated areas with three branched out objects, that m
 ![](./assets/images/003_splash.png)
  
   <hr />
+  
 ## 1st iteration
 
 >**material**<br />
@@ -161,13 +165,20 @@ Although the algorithm was shorter it was more difficult to understand. Two peop
  
 ## 3rd iteration
 
+>**material**
+>a square piece of paper made out of a DIN A4 sheet
+>a DIN A4 Paper cut in half and stuck together to a long strip
+>a pen
+>a coloured pen in a colour that fits to your mood
+>
+>**the algorithm**
 >Before executing the code, please fully read it. 
-
-* Draw [n] equilateral triangles in different sizes. (n>5)
-* Two corners of these triangles each are connected to each one corner of one other triangle.
-* On every side of a triangle, there is another triangle. On each of the sides of that triangle there is another one. etc.. 
-* Use 60-80% of the work surface
-* Draw a rectangle filled with a colour that fits to your mood on top of the area that you like most. 
+>
+>* Draw [n] equilateral triangles in different sizes. (n>5)
+>* Two corners of these triangles each are connected to each one corner of one other triangle.
+>* On every side of a triangle, there is another triangle. On each of the sides of that triangle there is another one. etc.. 
+>* Use 60-80% of the work surface
+>* Draw a rectangle filled with a colour that fits to your mood on top of the area that you like most. 
 
 ### constant parameters
  
@@ -186,7 +197,7 @@ Open where the rectangle is put <br />
 
 ## evaluation 
 
-
+The last algorithm was rather a set of rules than a strict task what to do. 
  
 ![](./assets/images/005_splash.png)
 ![](./assets/images/006_splash.png)
