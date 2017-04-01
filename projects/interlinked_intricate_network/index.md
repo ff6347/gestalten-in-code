@@ -26,7 +26,7 @@ These were the results.
 
 >Draw a circle in the center of your sheet of paper. This circle is surrounded by further circles in same distances that are evenly subdivided into pieces. There’s no gap at the same line in the circle that is further away from the centre. 
  
-![](./assets/images/001_normal.png)
+![](./assets/images/001_splash.png)
 
 ## New Algorithm
 
