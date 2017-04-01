@@ -28,8 +28,8 @@ He mostly pictured cities, gothic buildings and the sea, coastlines and sailing 
 Being influenced by the Cubism and Orphism, he calls his style “Prismaism”. His art is famous for sceneries flooded with light, geometricization to focus on the essentials and shapes being duplicated many times. Always, intense and detailed nature studies are being made before starting a painting. A new, inner reality is being created by breaking away from the outer reality.
 Lyonel Feininger once said “And it is always like that, whatever I draw – it is confirmed by nature itself.” (Lyonel Feininger, 1924) which is an interesting statement for us, as ongoing generative artists, because his paintings seem to have a very logic and regulated background, but are, concerning him, only created by nature.
 
-![Sailing-Boats](002_sailing_boats.png)
-![gothic-buildings](003_gothic_buildings.png)
+![Sailing-Boats](assets/002_sailing_boats.png)
+![gothic-buildings](assets/003_gothic_buildings.png)
 
 <h2>“Vogelwolke” 1924 </h2>
 
