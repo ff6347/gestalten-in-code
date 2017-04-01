@@ -9,6 +9,10 @@ type: project
 ---
 
 # Interlinked Intricate Network
+
+![](./assets/images/000_thumbnail.png)
+
+
 ## Analog Algorithms
  
 For this project an algorithm was developed that can be executed by humans – in other words: analog. The function pattern was repeatedly evaluated and optimized iteratively.
@@ -22,7 +26,7 @@ These were the results.
 
 >Draw a circle in the center of your sheet of paper. This circle is surrounded by further circles in same distances that are evenly subdivided into pieces. There’s no gap at the same line in the circle that is further away from the centre. 
  
-abb. 001
+![](./assets/images/001_normal.png)
 
 ## New Algorithm
 
@@ -64,6 +68,8 @@ The people taking part only got the sheet of paper with the description of the a
 >10. Read the following step completely before executing
 >11. Draw straight lines with text/ paint tool no 2., that are each on the one hand side connected with the corners of the triangles drawn in step 3 and on the other hand side with the free corner of the triangle drawn in step 3 facing the other one.
 >12. Continue drawing the lines until you reach the edge of the work surface.
+
+![](./assets/images/002_normal.png)
  
 ### constant parameters
  
@@ -86,7 +92,9 @@ The expression “two connections to the edge of the work surface” wasn’t un
  
 #### What worked out?
 
-There always are  two seperated areas with three branched out objects, that mostly are connected with the other areas.  
+There always are  two seperated areas with three branched out objects, that mostly are connected with the other areas.
+
+![](./assets/images/003_splash.png)
  
 ## 1st iteration
 
@@ -109,6 +117,8 @@ There always are  two seperated areas with three branched out objects, that most
 >
 >Five.<br />
 >Repeat step four until you reach the edge of your work surface. 
+
+![](./assets/images/004_splash.png)
  
 ### constant parameters
  
@@ -149,7 +159,8 @@ All of the other parameters were to a certain extent interpretable, partly as we
 
 ## evaluation 
  
-
+![](./assets/images/005_splash.png)
+![](./assets/images/006_splash.png)
  <hr />
 <h2>License (MIT)</h2> 
 
