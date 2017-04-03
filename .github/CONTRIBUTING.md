@@ -96,7 +96,7 @@ The content of the the index.js file will be shown in a `div` called `sketch`. S
 ```js
 var x = 0;
 function setup() {
-  var canvas = createCanvas(100, 100); // !this is important
+  var canvas = createCanvas(500, 500); // !this is important
   canvas.parent('sketch'); // !this as well
 }
 

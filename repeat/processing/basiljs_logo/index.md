@@ -1,6 +1,6 @@
 ---   
 layout: default
-author: Unknown
+author: ffd8
 title: Basil.js Logo
 tags: [processing, Basil.js, repeat, chance,Law of Closure,]
 permalink: /repeat/basiljs-logo/

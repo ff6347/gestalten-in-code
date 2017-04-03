@@ -11,7 +11,7 @@
     "url": "git+https://github.com/fabianmoronzirfas/gestalten-in-code.git"
   },
   "author": "Fabian 'fabiantheblind' Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fabianmoronzirfas/gestalten-in-code/issues"
   },
