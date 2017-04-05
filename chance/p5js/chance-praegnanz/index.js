@@ -10,7 +10,8 @@ var widthoff;
 var positions = [];
 
 function setup(){
-  createCanvas(500, 500);
+  var canvas = createCanvas(500, 500); // !this is important
+  canvas.parent('sketch'); // !this as well
   background(252);
 
   rows = 15;
