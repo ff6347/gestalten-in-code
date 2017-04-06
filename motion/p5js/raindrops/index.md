@@ -2,11 +2,11 @@
 layout: p5js
 author: Julian Broocks
 author-url: https://github.com/hulianbrox
-title: raindrops
+title: Raindrops
 tags: 
   - P5.js
   - motion
-  - law of similarity
+  - Law of Similarity
 permalink: /motion/raindrops/
 summary: Elements of same speed towards same direction are seen as grouped together.
 --- 
