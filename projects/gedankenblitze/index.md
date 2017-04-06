@@ -35,10 +35,10 @@ Thick pen: Draw an oval or circle which is almost as big as the drawing surface.
 ### On the tracing paper 
 Crumple the paper and flatten it again. Put it on top of the background layer. 
 
-Now trace the rigid lines which came from crumpling the paper. </br>
-Thick Pen: Trace the rigid lines along the auxiliary line. </br> 
-Medium-size pen: Draw one to three branches from each line into the centre of the oval/circle.</br>
-Thin pen: Repeat the previous step one to two times. 
+> Now trace the rigid lines which came from crumpling the paper.  
+> Thick Pen: Trace the rigid lines along the auxiliary line.   
+> Medium-size pen: Draw one to three branches from each line into the centre of the oval/circle.  
+> Thin pen: Repeat the previous step one to two times. 
 
 
 ### Digitalising 
