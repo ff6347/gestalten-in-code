@@ -27,7 +27,6 @@ var d1 = 8;
 
 var rectX;
 var rectH;
-var x = 0;
 
 function setup() {
    createCanvas(500,500);
