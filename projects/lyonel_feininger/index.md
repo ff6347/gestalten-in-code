@@ -12,13 +12,13 @@ type: project
 
 ![Vogelwolke](splash.png)
 
-## Deconstructing Master Artists
+## Deconstructing Master Artists##
 
 This project is an extensive analysis of artist Lyonel Feininger's painting “Vogelwolke” from 1924. By using the gestalt laws and self-developed new methods and tools, a set of rules and regulations was developed and applied on code to create generative art based on this old existing piece of art.
 
 The project was developed for the class “Gestalten in Code – Die Grundlagen Generativer Gestaltung” by Fabian Morón Zirfas at the University of Applied Sciences Potsdam, Faculty of Design.
 
-## Who is he? 
+## Who is he? ##
 Due to his works at Bauhaus 1919, Lyonel Feininger is one of the most eminent artist of the period of the “Classical Modernity”. 
 Lyonel Feininger was born 1871 in New York City. When he came to Europe 1887 he studied in Hamburg, Berlin and then Paris, France. 1919 he was called to Bauhaus University by Walter Gropius to be the first school master for painting and graphics. 
 
@@ -31,7 +31,7 @@ Lyonel Feininger once said “And it is always like that, whatever I draw – it
 ![Sailing-Boats](assets/002_sailing_boats.png)
 ![gothic-buildings](assets/003_gothic_buildings.png)
 
-##“Vogelwolke” 1924
+## “Vogelwolke” 1924
 
 The painting “Vogelwolke” from 1924 was drawn in the middle of Lyonel Feiningers productive years.
 
@@ -41,7 +41,7 @@ The painting “Vogelwolke” from 1924 was drawn in the middle of Lyonel Feinin
 When looking for an artist and pieces of art for this project, we enjoyed the style of Lyonel Feiningers paintings because they, on the one hand side, appear to be only abstract shapes, but on the other hand still portray nature.
 We felt like it is possible to reduce the painting on a set of rules and try to recreate sth similar with code. It seemed interesting to find out about calculations Lyonel Feininger developed for his paintings.
 
-##Analysis
+## Analysis
 
 Before painting the final oil painting named “Vogelwolke” in the year 1926, Lyonel Feininger made two nature studies at the coast of the Baltic Sea 1924, one with pencil, the other with watercolour. 
 A cloud is moving towards a curved coastline, in the background there is mountains. The formal structure was changed for the painting 1926, where the cloud is standing and there’s no coastline, just a person standing at the beach. 
@@ -51,7 +51,7 @@ A cloud is moving towards a curved coastline, in the background there is mountai
 
 In the following the painting was analyzed by composition, size, brightness, transparency, shapes, colors and lines.
 
-##composition
+## composition
 
 Three zones
 *yellow beach
@@ -61,7 +61,7 @@ Three zones
 There is horizontal and vertical colour-shapes. The lines and shapes of the cloud and its shadow on the beach cut the three zones into smaller shapes. 
 In the foreground there is a small person. 
 
-###size/ratio
+### size/ratio
 
 [1:1:4] Beach – Sea – Sky
 Or
@@ -70,26 +70,26 @@ Or
 ![nature-studies](assets/006_nature_studies.png)
 
 
-###brightness
+### brightness
 
 The middle of the cloud is the brightest point of the painting, followed by the upper part of the yellow beach. The transition between beach and sea is the darkest area as it is nearly black. The light-dark contrast, which divides the painting into its different areas is very characteristic for itself. 
 
-###transparency
+### transparency
 
 Overlaying shapes with gradation of transparency from light to dark/ dark to light. The sky is lighter at the bottom than at the top, the earth is lighter at the top than at the bottom. 
 
 
-###Shapes
+### shapes
 
 There is no clear and closed shapes. Rectangles appear as basic shapes. Some shapes sharply stand out against others, some overlay and some shine through one another. 
 Open triangles with tone shading of colour merge into the background. Lyonel Feiningers style is called Prismaism. 
 
-###Farbbereich
+### colours
 
 ![colours](assets/008_colours.png)
 
 
-###Linien
+### lines
 
 Most of the lines are horizontal. Many lines are parallel.  
 
@@ -110,31 +110,31 @@ There is a cross in the sand. In combination with some vertical lines the cross 
 ![lines](assets/015_lines.png)
 
 
-##Gestalt Laws
+## Gestalt Laws
 
-###Law of Similarity 
+### Law of Similarity 
 
 The feathers of the cloud appear to belong together because the shapes show the same style of gradation of the transparency. 
 
-###Law of Space through overlapping lines
+### Law of Space through overlapping lines
 
 The painting seems to be deep because of the cross in the middle of the picture in combination with vertical lines.
  
 ![lines](assets/013_lines.png)
 
-###Raum  
+### Raum  
 Warm colours seem to be close, cold colours seem to be far. The beach appears closer than the sky. 
 
 ![law-of-space](assets/016_law_of_space_through_colour.png)
 
-###Law of contrast
+### Law of contrast
 Areas are divided through contrast. The pretty dark sea stands out from the beach. The light cloud stands out from the sky. The dark sea seperates the beach and the sky. 
 
 ![law_of_contrast](assets/017_law_of_contrast.png)
 ![law_of_contrast](assets/018_law_of_contrast.png)
 ![law_of_contrast](assets/019_law_of_contrast.png)
 
-##Code
+## Code
 
 The code focusses on composition, sizes and shapes, as well as overlapping and transparency. 
 The size of the canvas is fixed to 780x500. It is separated into three areas that are coloured in the average three main colours in the ratio 1:1:4.
@@ -148,7 +148,7 @@ The Output is variations of the basic shapes of Lyonel Feiningers “Vogelwolke�
 ![output3](assets/022_output3.png)
 
 
-##Conclusion and future prospects
+## Conclusion and future prospects
 
 The variations of the Output of our code are similar to one another but are each providing a basis for a new individual “Vogelwolke” painting. If lines and tone shading are added according to the rules we developed, the cloud is shifting in the sky/ the upper two thirds of the picture. 
 
@@ -157,7 +157,7 @@ It can definitely be said that Lyonel Feininger was inspired by nature and didn�
 
 
 - - -
-###License (MIT)###
+### License (MIT)
 
 (c) 2017 Jakob von Kietzell and Julian Broocks, University of Applied Sciences Potsdam (Germany)
 
