@@ -31,6 +31,8 @@ var rectH;
 
 function setup() {
    createCanvas(500,500);
+   var canvas = createCanvas(500, 500); 
+   canvas.parent('sketch');
    colorMode(HSB, 360, 100, 100, 100);
   
   circleX = width*0.25;
@@ -125,7 +127,3 @@ if (circleY5 >= height) {
  // Klammer End Draw 
 }
 
-function mousePressed () {
-  save ('image.jpg');
-  
-}
