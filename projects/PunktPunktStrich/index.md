@@ -36,7 +36,7 @@ You have five minutes to complete this task.
 
 The executors were all given a DIN A5-sized paper (148 by 210mm, squared grid) and the same pen, a black marker with a medium thickness. Besides the abovementioned instructions no other information were given. These were the first results I got back:
 
-![First Version](./first_version.png)
+![First Version](./assets/images/first_version.png)
 
 Almost everyone had a different approach to the given task, so I quickly realized that my instructions were not clear enough. Giving enough room for interpretation was part of the initial assignment but the results were to different for me to compare them with each other.
 
@@ -60,7 +60,7 @@ You have five minutes to complete this task.
 ### 3ʳᵈ Iteration
 The next iteration was a try-out that was later removed from the algorithm. To create a more exciting and lively picture I added the following instruction to the abovementioned directives: `The lines of two consecutive rows cannot start at the same vertical level.` As expected, the pictures were suspenseful but not what I was looking for in the changes. This is an example from the 3rd iteration:
 
-![Third Version](./third_version.png)
+![Third Version](./assets/images/third_version.png)
 
 ## 4ᵗʰ and final Iteration
 After the third try was reset I looked for different ways to create more fascinating pictures. One of the tested attempts added another dimension to the assignment the executors were given. The following instructions were handed out; again, the >-symbol signalizes a change in the instructions.
@@ -81,8 +81,8 @@ y has to be the same throughout the whole page.
 
 Caused by the instructions to have doubled the performer got a few more minutes to complete the task. The results were, as I hoped, more interesting than the previos iterations. Showy patterns were created, some of which were completely different than the first iteration. The two following pictures were my favorites of the results by the fourth iteration.
 
-![Fourth Version - 1](./fourth_version_1.png)
-![Fourth Version - 2](./fourth_version_2.png)
+![Fourth Version - 1](./assets/images/fourth_version_1.png)
+![Fourth Version - 2](./assets/images/fourth_version_2.png)
 
 ---
 
