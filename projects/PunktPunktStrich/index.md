@@ -19,7 +19,7 @@ The assignment was part of the course [Gestalten in Code – Die Grundlagen Gene
 The native assignment was to create a simple, analog algorithm. The algorithm was supposed to be executed by fellow students and to be improved based on their feedback. Further conditions stated that the algorithm needs to be doable on paper, as well as taking a maximum of five minutes to be executed. An additional term was a strict definition of the used hardware (*for example the type of paper used*).
 
 ## Inspiration
-The project was inspired Morse code and its alphabet. Morse code is a method of transmitting text as a series of on- or off-signals (*with the best-known being “SOS”: ••• — — — •••*). Morse code is a great comparison to analog and digital algorithms: a human input changes its form into a computer-readable input while keeping the same message. Written code has a fascinating look and got me to persuade it as my perception of computer generated art.
+The project was inspired by Morse code and its alphabet. Morse code is a method of transmitting text as a series of on- or off-signals (*with the best-known being “SOS”: ••• — — — •••*). Morse code is a great comparison to analog and digital algorithms: a human input changes its form into a computer-readable input while keeping the same message. Written code has a fascinating look and got me to persuade it as my perception of computer generated art.
 
 
 ## 1ˢᵗ Iteration
