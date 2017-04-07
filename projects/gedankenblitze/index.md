@@ -17,9 +17,7 @@ The assignment was to create an algorithm that had to be sketched on paper by 10
 
 ## My inspiration 
 Inspiration came from the shapes of lightning, which can be recreated with paper by crumpling it, and from an artwork by Anders Hoff, who published a study of generative algorithms. The centralized arrangement of the elements in the picture were really appealing. So this aspect was implemented into the algorithm. 
-
-![Inspiration](../inspiration.png) </br>
-[source](http://inconvergent.net/"inconvergent") 
+[To the artwork by Anders Hoff](http://inconvergent.net/generative/differential-mesh-3d/"inconvergent") 
 
 ## The algorithm 
 
@@ -47,7 +45,7 @@ The two papers are scanned and colours are reverted.
 
 ## First iterations 
 
-![Algorithm](assets/algorithm01.png)
+![Algorithm](assets/images/algorithm01.png)
 
 Part of the initial algorithm were lines, which originated from one point on the paper and along which the test persons were supposed to draw triangles. Playing around with the algorithm by changing the following parameters:
 <ul>
@@ -64,7 +62,7 @@ It was very important two conduct more iterations. First of all to improve the d
 Based on the feedback the next step was to get rid of the triangles and to focus only on the lightning-style lines. Two very dominate shapes were too much and reducing the noise made the output look much more harmonious. The new algorithm reminded one of planets or a visualisation of the brain. That’s why the desicion was made to invert colours to give room for these kind of interpretations. 
 </br>
 
-![Favourite](assets/ball.png)
+![Favourite](assets/images/ball.png)
 
 - - - 
 ## License (MIT) 
