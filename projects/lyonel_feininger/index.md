@@ -22,14 +22,14 @@ The project was developed for the class “Gestalten in Code – Die Grundlagen 
 Due to his works at Bauhaus 1919, Lyonel Feininger is one of the most eminent artist of the period of the “Classical Modernity”. 
 Lyonel Feininger was born 1871 in New York City. When he came to Europe 1887 he studied in Hamburg, Berlin and then Paris, France. 1919 he was called to Bauhaus University by Walter Gropius to be the first school master for painting and graphics. 
 
-![Lyonel-Feininger](assets/001_lyonel_feininger.png)
+![Lyonel-Feininger](assets/images/001_lyonel_feininger.png)
 
 He mostly pictured cities, gothic buildings and the sea, coastlines and sailing ships.
 Being influenced by the Cubism and Orphism, he calls his style “Prismaism”. His art is famous for sceneries flooded with light, geometricization to focus on the essentials and shapes being duplicated many times. Always, intense and detailed nature studies are being made before starting a painting. A new, inner reality is being created by breaking away from the outer reality.
 Lyonel Feininger once said “And it is always like that, whatever I draw – it is confirmed by nature itself.” (Lyonel Feininger, 1924) which is an interesting statement for us, as ongoing generative artists, because his paintings seem to have a very logic and regulated background, but are, concerning him, only created by nature.
 
-![Sailing-Boats](assets/002_sailing_boats.png)
-![gothic-buildings](assets/003_gothic_buildings.png)
+![Sailing-Boats](assets/images/002_sailing_boats.png)
+![gothic-buildings](assets/images/003_gothic_buildings.png)
 
 ## “Vogelwolke” 1924
 
