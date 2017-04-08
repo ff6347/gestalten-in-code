@@ -11,7 +11,8 @@ var addf = 62;
 var zero = 0;
 function setup() {
   colorMode(HSB);
-createCanvas(500,500);
+var canvas = createCanvas(500, 500);
+  canvas.parent('sketch');
 background(57,9,85);
 }
 
