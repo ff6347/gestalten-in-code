@@ -8,22 +8,22 @@ title: "Spiral Chaos"
 type: project
 ---
 
-![](/splash.png)￼
+![](splash.png)￼
 
 
 
 ## First Algorithm
 This course had started with a practical part in which the task was to think about how to write a good set of rules.
 
-###Inspiration
+### Inspiration
 
 The Inspiration for the set of rules was a pattern which I had sketched some years ago. It was black and white and very geometrical. After some thoughts the idea was a bit modified and the set of rules was done. It was important to make the set of rules as short and also as simple as possible.
 
-###This was my set of rules
+### This was my set of rules
 
 >Draw a rectangle (not too broadly) and draw from the upper left corner down to the bottom right corner a diagonal line. Paint the right triangle and repeat this endlessly. While you line up the rectangles. The pencil makes no difference.
 
-###Result
+### Result
 
 After 5 flows with our fellow students we have had a small presentation in which we have briefly read out our set of rules and have given then a conclusion to the result. Moreover, we should choose our favourite and reason this.
 Sometimes were tips given to the better understanding and criticism were expressed.
@@ -38,7 +38,7 @@ Sometimes were tips given to the better understanding and criticism were express
 
 With the second attempt I have written down the sentences in key points and have tried that all quadrangles have the same size and are lined up side by side. I wanted to be able to compare the results even better and have limited the format to A5.
 
-###Set of rules
+### Set of rules
 
 >Firstly read through everything
 - draw a quadrangle (not too big)
@@ -59,7 +59,7 @@ With the second attempt I have written down the sentences in key points and have
 - Find an exciting name for your project
 - Determine material and bring the originals to the presentation
 
-###Examples of the new set of rules
+### Examples of the new set of rules
 
 ![](assets/images/3circles.png)￼
 
@@ -95,7 +95,7 @@ At the end of this task I have noticed that extremely different results have com
 - A connected series should be the result
 - Reproduction can be a part of the result (different cuttings)
 
-###Set of rules
+### Set of rules
 
 >Draw in the standing position from the middle of the sheet a spiral about the whole sheet without removing the pencil. Draw randomly distributed circles on the sheet which the spiral cuts and paints the forms in the end.
 
