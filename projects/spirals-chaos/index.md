@@ -4,27 +4,26 @@ authors:
 authors-url: 
   - "https://github.com/paulinalinaa"
 layout: project
-title: "spirals chaos"
+title: "Spiral Chaos"
 type: project
 ---
 
-![](splash.png)￼
+![](/splash.png)￼
 
 
 
-# First Algorithm
-Right at the beginning of this course we had a practical part.
-We should think to ourselves how to write a good set of rules.
+## First Algorithm
+This course had started with a practical part in which the task was to think about how to write a good set of rules.
 
-**Inspiration**
+###Inspiration
 
-My inspiration was a pattern which I had sketched some years ago. I modified it, I also tried it to simplify and not to use too much text at the same time. In my head I had a picture and I tried to describe this as accurate as possible.
+The Inspiration for the set of rules was a pattern which I had sketched some years ago. It was black and white and very geometrical. After some thoughts the idea was a bit modified and the set of rules was done. It was important to make the set of rules as short and also as simple as possible.
 
-**This was my set of rules**
+###This was my set of rules
 
-Draw a rectangle (not too broadly) and draw from the upper left corner down to the bottom right corner a diagonal line. Paint the right triangle and repeat this endlessly. While you line up the rectangles. The pencil makes no difference.
+>Draw a rectangle (not too broadly) and draw from the upper left corner down to the bottom right corner a diagonal line. Paint the right triangle and repeat this endlessly. While you line up the rectangles. The pencil makes no difference.
 
-**Result**
+###Result
 
 After 5 flows with our fellow students we have had a small presentation in which we have briefly read out our set of rules and have given then a conclusion to the result. Moreover, we should choose our favourite and reason this.
 Sometimes were tips given to the better understanding and criticism were expressed.
@@ -33,15 +32,15 @@ Sometimes were tips given to the better understanding and criticism were express
 
 ![](assets/images/1ergebnis2.png)￼
 
-## 1. 1 Reworking algorithm 
+### 1. 1 Reworking algorithm 
 **Task**
 - Rework the algorithm or sketch a new one. Let them draw from at least 10 people.
 
 With the second attempt I have written down the sentences in key points and have tried that all quadrangles have the same size and are lined up side by side. I wanted to be able to compare the results even better and have limited the format to A5.
 
-**Set of rules**
+###Set of rules
 
-Firstly read through everything
+>Firstly read through everything
 - draw a quadrangle (not too big)
 - draw a line from the upper left corner down to the bottom right corner
 - hatch the right half
@@ -52,7 +51,7 @@ Firstly read through everything
 
 ![](assets/images/2ergebnis2.png)￼
 
-## 1.2 Postprocessing - ordered chaos
+### 1.2 Postprocessing - Ordered Chaos
 **Task**
 - Identify the parameters and the constants
 - Allow carrying out reworking of the algorithm after feedback and this again by 10 people
@@ -60,7 +59,7 @@ Firstly read through everything
 - Find an exciting name for your project
 - Determine material and bring the originals to the presentation
 
-**Examples of the new set of rules**
+###Examples of the new set of rules
 
 ![](assets/images/3circles.png)￼
 
@@ -89,22 +88,22 @@ Firstly read through everything
 
 At the end of this task I have noticed that extremely different results have come out and the most exciting one was for me with the spiral. I have completely removed from my set of rules from the beginning, but sometimes you get through doing things great results.
 
-## 1. 3 Postprocessing - spirals chaos
+### 1. 3 Postprocessing - Spiral Chaos
 **Task**
 - Rework the set of rules after other feedback
 - No Step-by-Step instructions, formulate a right set of rules
 - A connected series should be the result
 - Reproduction can be a part of the result (different cuttings)
 
-**Set of rules**
+###Set of rules
 
-Draw in the standing position from the middle of the sheet a spiral about the whole sheet without removing the pencil. Draw randomly distributed circles on the sheet which the spiral cuts and paints the forms in the end.
+>Draw in the standing position from the middle of the sheet a spiral about the whole sheet without removing the pencil. Draw randomly distributed circles on the sheet which the spiral cuts and paints the forms in the end.
 
 ![](assets/images/8result.png)￼
 
 
 
-## 1.4 Conclusion
+### 1.4 Conclusion
 Funnily much of the people had fear of the white sheet of paper, so I gave them as a tip to close their eyes.
 Because I have worked with Indian ink and some colour, every test person has drawn a spiral and afterwards they had got from me another sheet for the rest of the set of rules.
 The colour blue was in comparison to the other tested the best on.
@@ -116,7 +115,7 @@ On the whole it was a pleasure and the results look also great so I think that m
 - - -
 
 # License (MIT)
-*© 2017 | Paulina Mrksic - 3. Semester Kommunikationsdesign | WS16/17 | Fh Potsdam - University of applied sciences |  Grundlagen Generative Gestaltung | Fabian Morón Zirfas*
+*© 2017 | Paulina Mrksic | Fh Potsdam - University of applied sciences | Grundlagen Generative Gestaltung | Fabian Morón Zirfas*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
