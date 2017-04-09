@@ -4,16 +4,16 @@ authors:
 authors-url: 
   - "https://github.com/paulinalinaa"
 layout: project
-title: "Vassily Kandinsky"
+title: "Vassily Kandinsky - Cirlces in a Cirlce"
 type: project
 ---
 
 
 
-# Vassily Kandinsky 
-![](splash.png)￼
 
-###### Source: http://curiator.com/art/wassily-kandinsky/self-portrait-1 | cutout from original | adapted to image size
+![](splash.png)￼
+[Link](https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082)
+[Source](http://curiator.com/art/wassily-kandinsky/self-portrait-1) | cutout from original | adapted to image size
 
 ## Part 1 - Task 
 - In groups of two we should decide us for an artist / designer. 
@@ -21,9 +21,9 @@ type: project
 - For the presentation we should do a short summary of the elected person. 
 
 ## Biography
-I have decided on the Artist Vassily Kandinsky who I was remembered in the excursion to the Bauhaus archive we have made. Before that he has interested me personally very much as well. Because no one else was interested to Vassily Kandinsky I have made the presentation all alone. 
+This project is about Vassily Kandinsky and one of his artwork - Circles in a Circle. Within this course we made an excursion to the Bauhaus archive where Vassily Kandinsky had teached during his life time. Before that excursion he had interested me personally very much as well. Because no one else was interested to Vassily Kandinsky I have made the presentation all alone. 
 
-![](assets/images/biografie.png)￼
+![](./assets/images/biografie.png)￼
 
 Vassily Kandinsky was a russian painter and is known and famous as one of the pioneers of the abstract painting and the abstract expressionism. 
 By his pictures and theoretical works he exerted a big influence on the development of the modern art. 
@@ -73,9 +73,9 @@ In the beginning **this book** was my basis, nevertheless, finally I have decide
 - According to the analysis we should formulate a set of rules and apply it in code.
  
 ## Analysis - Circles in a Circle 1923
-![](assets/images/circles-in-a-circle.png)￼
+![](./assets/images/circles-in-a-circle.png)￼
 
-###### Source: http://www.wassilykandinsky.net/work-247.php | adapted to image size
+[Source](http://www.wassilykandinsky.net/work-247.php) | adapted to image size
 
 *"The contents of a piece of art are the sum of his tensions."*
 
@@ -86,7 +86,7 @@ For example, the **format** plays an important role, because it influences the p
 *Primarily the picture exists out of circles, but which meanings had them for Vassily? In his view the circle had a cosmic meaning, it is the uncoloured quiet and the result of two always steadily working forces.*
 Therefore the circle does not know the forcible of the angle and the most central point is the most perfect quiet of the not anymore isolated point.
 
-![](assets/images/black-circle.png)￼
+![](./assets/images/black-circle.png)￼
 
 
 
@@ -95,7 +95,7 @@ This gigantic circle encourages us to concentrate us upon the internal interacti
 
 Kandinsky has spoken a lot of **tensions** in the picture. They could be formed from a direction, an angle or from the colour themselves. 
 
-![](assets/images/diagonal-lines.png)￼
+![](./assets/images/diagonal-lines.png)￼
 
 
 
@@ -104,7 +104,7 @@ In this work he has used two sharp **diagonal lines**. From the bottom left to t
 The second **diagonal line** runs from the bottom right to the top left corner this loses tension by the touch of the basic form (edge) like the other one. This direction looks unharmonious and he chose a mixture from green and blue, it's a quiet colour. 
 Vassily generates by these both cutting diagonal lines a perspective and shifted the focus point through the crossroads into the circle, this is the gestalt law of space through colour.
 
-![](assets/images/circles-and-lines.png)￼
+![](./assets/images/circles-and-lines.png)￼
 
 
 
@@ -135,18 +135,18 @@ within the circle
 ## Code Result
 
 ![](assets/images/colour-kandinsky.png)￼
-###### Source: http://lokeshdhakar.com/projects/color-thief/ 
+###### [Source](http://lokeshdhakar.com/projects/color-thief/) 
 
 
-![](assets/images/code.png)￼
+![](./assets/images/code.png)￼
 
 Here is the [Link](https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082) of this code.
 
 
-- - -
+---
 
 # License (MIT)
-*© 2017 | Paulina Mrksic - 3. Semester Kommunikationsdesign | WS16/17 | Fh Potsdam - University of applied sciences |  Grundlagen Generative Gestaltung | Fabian Morón Zirfas*
+*© 2017 | Paulina Mrksic | Fh Potsdam - University of applied sciences | Grundlagen Generative Gestaltung | Fabian Morón Zirfas*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
