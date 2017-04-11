@@ -20,7 +20,7 @@ The Task is to create an algorithm in german which is executed by humans and out
 
 ## First Algorithm
 
-The first algorithm is very simple. It barely consists of NUMBER!!!! rules
+The first algorithm is very simple. It barely consists of three rules.
 
 * only straight, non touching lines
 * Same distance to each other (vertical and horizontal)
