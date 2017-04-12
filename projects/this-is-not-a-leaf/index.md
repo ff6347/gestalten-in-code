@@ -22,12 +22,11 @@ You discover what stays constant and what is variable, you understand which elem
 
 ### The First Algorithm
 
-1. *Draw a great square in the center of your sheet of paper.*
-1. *Devide this square into four equally sized, smaller squares using one horizontal and one vertical line.*
+> 1. Draw a great square in the center of your sheet of paper.
+> 1. Devide this square into four equally sized, smaller squares using one horizontal and one vertical line.
 1. *Write down one word in each square. (verb, noun or adjective)*
 1. *Draw your associations concerning those words outside around the big square.*
 1. *Sign your creation.*
-
 ![](./assets/algo1.png)
 ![](./assets/algo2.png)
 ![](./assets/algo3.png) 
@@ -42,9 +41,9 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 
 ### The Second Algorithm
 
-*Draw leaf-like forms (ovals that thin to the tails).*
+<Draw leaf-like forms (ovals that thin to the tails).*
 
-1. *Crisscross, in different sizes, as close as possible whilst still not touching!*
+1. *Crisscross, in different sizes, as close as possible whilst still not touching!
 1. *Fill some of them with hatchures, others with tiny dots and leave others empty.*
 *You do not have to fill the entire sheet!*
 
