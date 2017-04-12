@@ -41,11 +41,11 @@ With the second attempt I have written down the sentences in key points and have
 ### Set of rules
 
 >Firstly read through everything
-draw a quadrangle (not too big)
-draw a line from the upper left corner down to the bottom right corner
-hatch the right half
-repeat this down and on the right in each case 4x in the same size of the first quadrangle
-connect that anew resulted quadrangles with each other
+>draw a quadrangle (not too big)
+>draw a line from the upper left corner down to the bottom right corner
+>hatch the right half
+>repeat this down and on the right in each case 4x in the same size of the first quadrangle
+>connect that anew resulted quadrangles with each other
 
 ![](./assets/images/2ergebnis.png)￼
 
