@@ -70,4 +70,4 @@ In a last iteration of the code, the ouptput was much more variable, creating a 
 ![](./assets/visuals/doku-ms.030.jpeg)
 ![](./assets/visuals/doku-ms.031.jpeg)
 
-The code can be reviewed [here](https://gist.github.com/t0dorakis/0f3210240047aa7d61515d515f49bc95).
+The code can be reviewed [here](https://github.com/josues/deconstructing-storr-code).
