@@ -37,6 +37,7 @@ You discover what stays constant and what is variable, you understand which elem
 
 
 This first examplary task has been fullfilled correctly in almost all of the four cases. It has many constants and few, clear variables. But what made one person write down words outside of the square instead of drawing associations? It’s called inattention. A capricious factor when creating an algorithm. Because no matter how precise you are with your phrasing, if your subjects are not concentrating, the task may have way different results than expected. But now that the basics have been explained, let’s hop to the second attempt…
+
 ----------
 
 ### The Second Algorithm
@@ -63,7 +64,7 @@ This eliminates the thought of leafs from the subjects‘ mind and lets him focu
 ![](./assets/ergebnis5.png)
 ![](./assets/ergebnis8.png)
 
-mBut still, people tend to draw the shapes comparative widely spread from each other. Hence, the first point in the instruction has to be changed - for example like this:
+But still, people tend to draw the shapes comparative widely spread from each other. Hence, the first point in the instruction has to be changed - for example like this:
 
 > crisscross, in different sizes, almost touching.
 
