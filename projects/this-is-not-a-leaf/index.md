@@ -43,7 +43,6 @@ This first examplary task has been fullfilled correctly in almost all of the fou
 ### The Second Algorithm
 
 > Draw leaf-like forms (ovals that thin to the tails).
-
 > Crisscross, in different sizes, as close as possible whilst still not touching!
 > Fill some of them with hatchures, others with tiny dots and leave others empty.
 > You do not have to fill the entire sheet!
