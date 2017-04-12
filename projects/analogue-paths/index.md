@@ -57,14 +57,14 @@ Restart the process at least another three times, starting from a border or an e
 The paths may never cut each other. 
 As soon as you are done, shortly hold the paper into the provided water.
 
-![](./assets/visuals/inspiration/endpres.017.jpeg)
-![](./assets/visuals/inspiration/endpres.018.jpeg)
-![](./assets/visuals/inspiration/endpres.019.jpeg)
-![](./assets/visuals/inspiration/endpres.025.jpeg)
+![](./assets/visuals/it4/endpres.017.jpeg)
+![](./assets/visuals/it4/endpres.018.jpeg)
+![](./assets/visuals/it4/endpres.019.jpeg)
+![](./assets/visuals/it4/endpres.025.jpeg)
 
 The satisfying results especially opened new rooms and spaces when put and alined together.
 The varying intensity of the leaking colour provided the drawings with another layer of random depth and movement.
 
-![](./assets/visuals/inspiration/endpres.026.jpeg)
-![](./assets/visuals/inspiration/endpres.027.jpeg)
-![](./assets/visuals/inspiration/endpres.028.jpeg)
+![](./assets/visuals/it4/endpres.026.jpeg)
+![](./assets/visuals/it4/endpres.027.jpeg)
+![](./assets/visuals/it4/endpres.028.jpeg)
