@@ -11,7 +11,9 @@ type: project
 ---
 
 ![](./assets/castellani.png) 
-# Deconstructing Master Artists
+
+Deconstructing Master Artists
+
 The center of this seminar was engaged by the laws of design - to collect them, to analyze them and to use code to create demonstrating or even complementing examples. Those laws are often used by artists and designers; they make their work seempurposely and not haphazardly. The laws of design take advantage of visual phenomenons and the laws of physics whereby they fascinate the observer consciously or unknowingly. Then again, it can be interesting to break those laws - if you know enough about them. So what is there to unvail regarding the creations of famous, mostly vanguard artists? Arbitrariness or calculus? It is time to disassemble the great creative minds.
 
 ## Enrico Castellani
