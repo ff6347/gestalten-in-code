@@ -45,7 +45,7 @@ The two papers are scanned and colours are reverted.
 
 ## First iterations 
 
-![Algorithm](assets/images/algorithm01.png)
+![Algorithm](./assets/images/algorithm01.png)
 
 Part of the initial algorithm were lines, which originated from one point on the paper and along which the test persons were supposed to draw triangles. Playing around with the algorithm by changing the following parameters:
 <ul>
@@ -56,13 +56,13 @@ Part of the initial algorithm were lines, which originated from one point on the
 <li>colors</li>
 </ul>
 
-It was very important two conduct more iterations. First of all to improve the description of the algorithm to avoid misunderstandings and to improve the output. At this stage this was my favourite : ![Favourite](assets/gut.png)
+It was very important two conduct more iterations. First of all to improve the description of the algorithm to avoid misunderstandings and to improve the output. At this stage this was my favourite : ![Favourite](./assets/images/gut.png)
 
 ## Final algorithm 
 Based on the feedback the next step was to get rid of the triangles and to focus only on the lightning-style lines. Two very dominate shapes were too much and reducing the noise made the output look much more harmonious. The new algorithm reminded one of planets or a visualisation of the brain. That’s why the desicion was made to invert colours to give room for these kind of interpretations. 
 </br>
 
-![Favourite](assets/images/ball.png)
+![Favourite](./assets/images/ball.png)
 
 - - - 
 ## License (MIT) 
