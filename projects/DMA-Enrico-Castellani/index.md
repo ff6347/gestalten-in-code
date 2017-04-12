@@ -1,3 +1,6 @@
+
+Deconstructing Master Artists
+
 --- 
 authors: 
   - "Jeanette Knipp"
