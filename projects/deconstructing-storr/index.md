@@ -9,8 +9,6 @@ title: "Deconstructing Master Artists: Marcel Storr"
 type: project
 ---
 
-## Deconstructing Master Artists: Marcel Storr
-
 This work is part of a class at the University of Applied Sciences Potsdam. The project aims to replicate an artists work using processing code.
 
 ![](./assets/visuals/doku-ms.002.jpeg)
@@ -32,7 +30,7 @@ The second period, reaching from 1964 to 1969, is abundant in large sized drawin
 End of the 1960s Storr’s wife used his absence to introduce the work to the collectors Liliane and Bertrand Kempf. She showed them his pictures, which he had hidden under the kitchen table. Since then the Kempfs traced his work even though he categorically rejected to sell his works. It lasted until 2001 until Storr’s work was shown to the public for the first time.
 
 
-### Deconstructing:
+## Deconstructing:
 
 First approaches to deconstructing Marcel Storr’s work were taken by searching for patterns in its color palette. Therefore the dominant color and the color palettes of individual art works was determined using lokeshdhakar.com/projects/color-thief. The determined RGB color values were compared within different artworks and then assigned to there place in the color circle, using color.adobe.com, to unsuccessfully look for similar patterns within his works.
 ![](./assets/visuals/doku-ms.011.jpeg)
@@ -47,7 +45,7 @@ After the search for correlating colors did not come to an end, formal and struc
 ![](./assets/visuals/doku-ms.017.jpeg)
 
 
-### Reconstruction:
+## Reconstruction:
 
 The codes first iteration used the color palette of one of Storr’s pictures. The result are filled and overlaying sine curves. The second iteration aimed to imitate the pictures fractal components by multiplying the sine curves.
 
