@@ -20,7 +20,7 @@ The following project shows the result of the seminar project "deconstructing ma
 
 ![](./assets/images/sol-dma.png)
 
-[»Source«] (https://upload.wikimedia.org/wikipedia/en/3/36/Sol_LeWitt.jpg), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[»Source«](https://upload.wikimedia.org/wikipedia/en/3/36/Sol_LeWitt.jpg), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Sol LeWitt - Creation
 
@@ -39,7 +39,7 @@ LeWitt infrequently created paintings. His most famous works - "Red square, whit
 ![](./assets/images/colorbands.png)
  
 
-[»Source«] (http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[»Source«](http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
 
