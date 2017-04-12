@@ -6,6 +6,8 @@ authors-url:
 layout: project
 title: "PunktPunktStrich / ..-"
 summary: A introduction into computer generated art
+type: project
+
 ---
  
 ![Title picture](./splash.png)

@@ -7,6 +7,8 @@ authors-url:
   - "https://github.com/MalteVoelkner"
 layout: project
 title: "Deconstructing Master Artists: Otl Aicher"
+type: project
+
 ---
 
 ![splash picture](./splash.png)
