@@ -8,7 +8,7 @@ title: "Spiral Chaos"
 type: project
 ---
 
-![](splash.png)￼
+![](./splash.png)￼
 
 
 
@@ -28,9 +28,9 @@ The Inspiration for the set of rules was a pattern which I had sketched some yea
 After 5 flows with our fellow students we have had a small presentation in which we have briefly read out our set of rules and have given then a conclusion to the result. Moreover, we should choose our favourite and reason this.
 Sometimes were tips given to the better understanding and criticism were expressed.
 
-![](assets/images/1ergebnis.png)￼
+![](./assets/images/1ergebnis.png)￼
 
-![](assets/images/1ergebnis2.png)￼
+![](./assets/images/1ergebnis2.png)￼
 
 ### 1. 1 Reworking algorithm 
 **Task**
@@ -41,15 +41,15 @@ With the second attempt I have written down the sentences in key points and have
 ### Set of rules
 
 >Firstly read through everything
-- draw a quadrangle (not too big)
-- draw a line from the upper left corner down to the bottom right corner
-- hatch the right half
-- repeat this down and on the right in each case 4x in the same size of the first quadrangle
-- connect that anew resulted quadrangles with each other
+draw a quadrangle (not too big)
+draw a line from the upper left corner down to the bottom right corner
+hatch the right half
+repeat this down and on the right in each case 4x in the same size of the first quadrangle
+connect that anew resulted quadrangles with each other
 
-![](assets/images/2ergebnis.png)￼
+![](./assets/images/2ergebnis.png)￼
 
-![](assets/images/2ergebnis2.png)￼
+![](./assets/images/2ergebnis2.png)￼
 
 ### 1.2 Postprocessing - Ordered Chaos
 **Task**
@@ -61,27 +61,27 @@ With the second attempt I have written down the sentences in key points and have
 
 ### Examples of the new set of rules
 
-![](assets/images/3circles.png)￼
+![](./assets/images/3circles.png)￼
 
 
 >Draw a small circle in the middle of the sheet. Draw circles in arbitrarily sizes all around without touching the other circles. Repeat this a few more times. Draw then many small circles in the space between the others and paint them completely.
 
-![](assets/images/4triangle.png)￼
+![](./assets/images/4triangle.png)￼
 
 
 >Draw a triangle. Draw besides another one. Draw under, beside and above the triangles many new ones. Halve all resulted triangles in the middle and hatch the right half.
 
-![](assets/images/6circle-sqaure.png)￼
+![](./assets/images/6circle-sqaure.png)￼
 
 
 >Draw in the left corner only circles. Firstly small and then greater and greater without touching each other. Draw in the right corner only quadrangles. Again only small and then greater and greater without touching. Do that until the sheet is full and hatch randomly some circles and quadrangles. 
 
-![](assets/images/7mixed-forms.png)￼
+![](./assets/images/7mixed-forms.png)￼
 
 
 >Add different forms side by side, so that they touch and overlap each other. Paint the overlapping.
 
-![](assets/images/5spiral.png)￼
+![](./assets/images/5spiral.png)￼
 
 
 >Draw from the middle of the sheet a spiral about the whole sheet. Draw randomly distributed circles, quadrangles and triangles all over the sheet. Hatch this in the end. 
@@ -99,7 +99,7 @@ At the end of this task I have noticed that extremely different results have com
 
 >Draw in the standing position from the middle of the sheet a spiral about the whole sheet without removing the pencil. Draw randomly distributed circles on the sheet which the spiral cuts and paints the forms in the end.
 
-![](assets/images/8result.png)￼
+![](./assets/images/8result.png)￼
 
 
 
@@ -109,10 +109,10 @@ Because I have worked with Indian ink and some colour, every test person has dra
 The colour blue was in comparison to the other tested the best on.
 On the whole it was a pleasure and the results look also great so I think that many nice things have come out.
 
-![](assets/images/9favourite.png)￼
+![](./assets/images/9favourite.png)￼
 
 
-- - -
+---
 
 # License (MIT)
 *© 2017 | Paulina Mrksic | Fh Potsdam - University of applied sciences | Grundlagen Generative Gestaltung | Fabian Morón Zirfas*
