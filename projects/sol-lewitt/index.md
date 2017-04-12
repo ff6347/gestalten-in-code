@@ -20,7 +20,7 @@ The following project shows the result of the seminar project "deconstructing ma
 
 ![](./assets/images/sol-dma.png)
 
-https://upload.wikimedia.org/wikipedia/en/3/36/Sol_LeWitt.jpg
+[»Source«] (https://upload.wikimedia.org/wikipedia/en/3/36/Sol_LeWitt.jpg), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Sol LeWitt - Creation
 
@@ -33,24 +33,25 @@ In the early 1960s, Sol LeWitt creates a certain amount of wall reliefs, which h
 The American artist has won its fame thanks to the invention of complex compositions, composed of a deceptively simple geometric shapes and colors. These views Le Witt played a decisive role in the formation of new radical aesthetics of the 1960s, which completely eliminates the narrative in art. In this case, the goal of the artist is not to tell a story and evoke an emotional response from the viewer.
 In his article for the magazine Artforum in 1967, Sol LeWitt gave a definition of conceptual art: "When an artist uses a conceptual form of art, it means that all the planning is done in advance, all decisions are made beforehand and the execution takes place formally, superficial, shallow ... the purpose of the artist engaged in conceptual art, - to do their job intellectually interesting for the viewer, and thus not affecting his soul. "
 
-LeWitt infrequently created paintings. His most famous works - "Red square, white letters" - refers to 1963. Since the 1970s Levitt began working on an early graphics - screen printing. Then, in the artist's work includes in-depth engraving and later - engraving and other techniques.
+LeWitt infrequently created paintings. His most famous works - "Red square, white letters" - refers to 1963. Since the 1970s LeWitt began working on an early graphics - screen printing. Then, in the artist's work includes in-depth engraving and later - engraving and other techniques.
 
 ## Sol Lewitt: Color Bands 
 ![](./assets/images/colorbands.png)
  
 
-http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm
+[»Source«] (http://baeditions.com/sol-lewitt-artwork/sol-lewitt-color-bands.htm), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 
 Color Bands is a series of eight prints in which colored curves and lines play on the optical effects. For Color Bands, Sol LeWitt composed a set of drawings and measurements that were executed by a master printmaker.
 
 ## Analyze: Geometric shapes
  
-The first step was made by analyzing the studies behind the geometric shapes in his composition, and with the help of computer programs, it has been recreated two prints of his works to be then analyzed in its details. 
+The first step was completed by analyzing the studies behind the geometric shapes in his composition and then with the help of computer programs it was recreated into two prints of his works to be further analyzed for its details. 
 
-We develop his work without the use of color, this in order to show the purity of the geometric forms and to have a better comprehension what is behind the color. His work method is composed with simple and repeated geometric shapes that changes one to another with different combination. By taking a closure look at the geometric shapes, we realized that the origin of the forms are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings, the separation that occurs between one geometry to another, is closed inside a black line. This in order to separate the concentration of the various forms represented through the viewer's vision. 
+We then developed his work without the use of color in order to show the purity of the geometric forms and to have a better comprehension of what is behind the color. His work method is composed with simple and repeated geometric shapes that transition between each other with different combinations. By taking a closer look at the geometric shapes, we realized that the origin of the forms are always deriving from the same source and then repeating itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point. In most of his drawings the separation that occurs between one geometry to another is closed inside a black line. This is in order to separate the concentration of the various forms represented within the viewers vision. 
 
-#### Sol LeWitt's art served more as a concept rather than be a valuable object.
+* Sol LeWitt's art served more as a concept rather than be a valuable object.
 
 ![](./assets/images/dma-3.png)
 
