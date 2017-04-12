@@ -46,10 +46,11 @@ Almost every proband had a different approach to the given task, which was a res
 ## 2ⁿᵈ and 3ʳᵈ Iteration
 The following two iterations were based on the feedback from the first instructions that were handed out. The most common feedback was that the instructions were not definitive enough – there was too much room for the testers own interpretation. 
 
-### 2ⁿᵈ  Iteration
+### 2ⁿᵈ Iteration
  The second change in the instructions were mostly clearer and easier to understand instructions. Changes have been marked with a > in front of the row. As you may notice, the use of paper was more conditioned as well as a difference between the length of the line and the length of the distance between two rows. These changes did not affect the outcome very much but closed the gap of differences between two different results.
 
-```> Black lines in a squared, dotted grid only.
+```text
+> Black lines in a squared, dotted grid only.
 Solely horizontal lines, only from dot to dot.
 
 Each row has to begin with a line with the length “x”.
@@ -60,15 +61,18 @@ Each row has to begin with a line with the length “x”.
 
 You have five minutes to complete this task.
 ```
+
 ### 3ʳᵈ Iteration
 The next iteration was a try-out that was later removed from the algorithm. To create a more exciting and lively picture the following instruction were added to the abovementioned directives: `The lines of two consecutive rows cannot start at the same vertical level.` As expected, the pictures were suspenseful but not the planned result. This is an example from the 3rd iteration:
 
 ![Third Version](./assets/images/third_version.png)
 
 ## 4ᵗʰ and final Iteration
+
 After the third try was reset different ways to create more fascinating pictures were explored. One of the tested attempts added another dimension to the assignment the executors were given. The following instructions were handed out; again, the >-symbol signalizes a change in the instructions.
 
-```Black lines in a squared, dotted grid only.
+```text
+Black lines in a squared, dotted grid only.
 > Start in one corner and only draw horizontally.
 > Turn the paper by atleast 90° at a moment of your choice.
 > Start over the instructions from the new selected corner.
