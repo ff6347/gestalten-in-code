@@ -8,7 +8,7 @@ title: Find your way
 type: project
 ---
 
-The current documentation shows the results of the course “gestalten in code” in the winter semester at the university of applied science in Potsdam, supervised by Fabian Morón Zirfas. The course provides an introduction of basic programming in P5.js and Processing with a focus on gestalt psychology and a workshop on physical computing.
+The current documentation shows the results of the course “gestalten in code” in the winter semester at the Uiversity of Applied Science Potsdam (Germany), supervised by Fabian Morón Zirfas. The course provides an introduction of basic programming in P5.js and Processing with a focus on gestalt psychology and a workshop on physical computing.
 
 ---
 
@@ -24,8 +24,9 @@ The main task of the project was to provide a set of instructions in a human lan
 
 ![](./assets/images/algo-1.png)
 
-
-#### _“Draw round shapes in vertical and horizontal which differ from the diameter. Create lines that merge into different points”._ 
+---
+ * Draw round shapes in vertical and horizontal which differ from the diameter. 
+ * Create lines that merge into different points.
 ---
 
 
@@ -41,9 +42,9 @@ The seminar began with the task of writing the first line of an analogue algorit
 
 ![](./assets/images/algo-2.png)
 
-
-#### _“Draw circles of various sizes throughout the sheet distant each other. Trace straight lines which intersect but do not touch the circles._ 
-
+---
+* Draw circles of various sizes throughout the sheet distant each other. 
+* Trace straight lines which intersect but do not touch the circles.
 ---
 
 The second attempt for an analogue algorithm, was more accurate on the description to obtain a similar result of the previously choosen work. 
@@ -59,10 +60,10 @@ The interesting thing about the output was set by the different visual tension g
 
 ![](./assets/images/algo-3.png)
 
-#### _Draw twenty filled circles of different sizes._
-#### _Circles connect with a straight line._ 
-#### _Connections must cross at least once._
-
+---
+* Draw twenty filled circles of different sizes.
+* Circles connect with a straight line.
+* Connections must cross at least once.
 ---
 
 The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material selected in advance was a brush and ink on rough paper. This will ensure a more controlled result at the end. 
@@ -79,10 +80,10 @@ By noting the individual result of the performers, it was immediately recognizab
 
 ![](./assets/images/algo-5.png)
 
-#### _Draw a circle consisting of 20 to 30 filled circles that do not touch each other._ 
-#### _Circles are reduced in proximity to the center._ 
-#### _Create a path with a continuous straight line that connects all circles, and each line crosses an existing line and once passes through the center of each circle._
-
+---
+* Draw a circle consisting of 20 to 30 filled circles that do not touch each other.
+* Circles are reduced in proximity to the center.
+* Create a path with a continuous straight line that connects all circles, and each line crosses an existing line and once passes through the center of each circle.
 ---
 
 
