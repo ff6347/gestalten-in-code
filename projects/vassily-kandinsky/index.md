@@ -11,7 +11,7 @@ type: project
 
 
 
-![](splash.png)￼
+![](./splash.png)￼
 [Link](https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082)
 [Source](http://curiator.com/art/wassily-kandinsky/self-portrait-1) | cutout from original | adapted to image size
 
@@ -134,7 +134,7 @@ within the circle
 
 ## Code Result
 
-![](assets/images/colour-kandinsky.png)￼
+![](./assets/images/colour-kandinsky.png)￼
 ###### [Source](http://lokeshdhakar.com/projects/color-thief/) 
 
 
