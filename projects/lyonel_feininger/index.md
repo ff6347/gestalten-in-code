@@ -22,20 +22,20 @@ The project was developed for the class “Gestalten in Code – Die Grundlagen 
 Due to his works at Bauhaus 1919, Lyonel Feininger is one of the most eminent artist of the period of the “Classical Modernity”. 
 Lyonel Feininger was born 1871 in New York City. When he came to Europe 1887 he studied in Hamburg, Berlin and then Paris, France. 1919 he was called to Bauhaus University by Walter Gropius to be the first school master for painting and graphics. 
 
-![Lyonel-Feininger](assets/images/001_lyonel_feininger.png)
+![Lyonel-Feininger](./assets/images/001_lyonel_feininger.png)
 
 He mostly pictured cities, gothic buildings and the sea, coastlines and sailing ships.
 Being influenced by the Cubism and Orphism, he calls his style “Prismaism”. His art is famous for sceneries flooded with light, geometricization to focus on the essentials and shapes being duplicated many times. Always, intense and detailed nature studies are being made before starting a painting. A new, inner reality is being created by breaking away from the outer reality.
 Lyonel Feininger once said “And it is always like that, whatever I draw – it is confirmed by nature itself.” (Lyonel Feininger, 1924) which is an interesting statement for us, as ongoing generative artists, because his paintings seem to have a very logic and regulated background, but are, concerning him, only created by nature.
 
-![Sailing-Boats](assets/images/002_sailing_boats.png)
-![gothic-buildings](assets/images/003_gothic_buildings.png)
+![Sailing-Boats](./assets/images/002_sailing_boats.png)
+![gothic-buildings](./assets/images/003_gothic_buildings.png)
 
 ## “Vogelwolke” 1924
 
 The painting “Vogelwolke” from 1924 was drawn in the middle of Lyonel Feiningers productive years.
 
-![Vogelwolke](assets/images/004_vogelwolke.png) 
+![Vogelwolke](./assets/images/004_vogelwolke.png) 
 
 ##Why did we pick it?
 When looking for an artist and pieces of art for this project, we enjoyed the style of Lyonel Feiningers paintings because they, on the one hand side, appear to be only abstract shapes, but on the other hand still portray nature.
@@ -46,7 +46,7 @@ We felt like it is possible to reduce the painting on a set of rules and try to 
 Before painting the final oil painting named “Vogelwolke” in the year 1926, Lyonel Feininger made two nature studies at the coast of the Baltic Sea 1924, one with pencil, the other with watercolour. 
 A cloud is moving towards a curved coastline, in the background there is mountains. The formal structure was changed for the painting 1926, where the cloud is standing and there’s no coastline, just a person standing at the beach. 
 
-![composition](assets/images/005_composition.png)
+![composition](./assets/images/005_composition.png)
 
 
 In the following the painting was analyzed by composition, size, brightness, transparency, shapes, colors and lines.
@@ -67,7 +67,7 @@ In the foreground there is a small person.
 Or
 [1:2] Earth – Sky
 
-![nature-studies](assets/images/006_nature_studies.png)
+![nature-studies](./assets/images/006_nature_studies.png)
 
 
 ### brightness
@@ -86,28 +86,28 @@ Open triangles with tone shading of colour merge into the background. Lyonel Fei
 
 ### colours
 
-![colours](assets/images/008_colours.png)
+![colours](./assets/images/008_colours.png)
 
 
 ### lines
 
 Most of the lines are horizontal. Many lines are parallel.  
 
-![horizontal-lines](assets/images/009_horizontal_lines.png)
-![parallel-lines](assets/images/010_parallel_lines.png)
+![horizontal-lines](./assets/images/009_horizontal_lines.png)
+![parallel-lines](./assets/images/010_parallel_lines.png)
 
 
 Lines in a slightly different angle that are moved up or down give an impression of movement. 
 
-![lines](assets/images/011_lines.png)
+![lines](./assets/images/011_lines.png)
 
 There is a cross in the sand. In combination with some vertical lines the cross gives an impression of depth.
 
 
-![lines](assets/images/012_lines.png)
-![lines](assets/images/013_lines.png)
-![lines](assets/images/014_lines.png)
-![lines](assets/images/015_lines.png)
+![lines](./assets/images/012_lines.png)
+![lines](./assets/images/013_lines.png)
+![lines](./assets/images/014_lines.png)
+![lines](./assets/images/015_lines.png)
 
 
 ## Gestalt Laws
@@ -120,7 +120,7 @@ The feathers of the cloud appear to belong together because the shapes show the 
 
 The painting seems to be deep because of the cross in the middle of the picture in combination with vertical lines.
  
-![lines](assets/images/013_lines.png)
+![lines](./assets/images/013_lines.png)
 
 ### Raum  
 Warm colours seem to be close, cold colours seem to be far. The beach appears closer than the sky. 
@@ -130,9 +130,9 @@ Warm colours seem to be close, cold colours seem to be far. The beach appears cl
 ### Law of contrast
 Areas are divided through contrast. The pretty dark sea stands out from the beach. The light cloud stands out from the sky. The dark sea seperates the beach and the sky. 
 
-![law_of_contrast](assets/images/017_law_of_contrast.png)
-![law_of_contrast](assets/images/018_law_of_contrast.png)
-![law_of_contrast](assets/images/019_law_of_contrast.png)
+![law_of_contrast](./assets/images/017_law_of_contrast.png)
+![law_of_contrast](./assets/images/018_law_of_contrast.png)
+![law_of_contrast](./assets/images/019_law_of_contrast.png)
 
 ## Code
 
@@ -143,9 +143,9 @@ Grey and white shapes in different gradation of transparencies are laying over t
 
 The Output is variations of the basic shapes of Lyonel Feiningers “Vogelwolke”. 
 
-![output1](assets/images/020_output1.png)
-![output2](assets/images/021_output2.png)
-![output3](assets/images/022_output3.png)
+![output1](./assets/images/020_output1.png)
+![output2](./assets/images/021_output2.png)
+![output3](./assets/images/022_output3.png)
 
 
 ## Conclusion and future prospects
