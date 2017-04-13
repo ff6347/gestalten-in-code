@@ -3,7 +3,7 @@ Gestalten in Code
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/gestalten-in-code/Lobby)   
 [![](https://img.shields.io/badge/using-P5.js-brightgreen.svg?style=flat-square)](http://p5js.org/) [![](https://img.shields.io/badge/using-Processing-brightgreen.svg?style=flat-square)](http://processing.org/) [![](https://img.shields.io/badge/using-Basil.js-brightgreen.svg?style=flat-square)](http://basiljs.ch/) [![](https://img.shields.io/badge/using-Extendscript-brightgreen.svg?style=flat-square)](https://en.wikipedia.org/wiki/ExtendScript) [![](https://img.shields.io/badge/using-VanillaJS-brightgreen.svg?style=flat-square)](http://vanilla-js.com/)  
-![](https://img.shields.io/badge/Ages-6%2B-brightgreen.svg?style=flat-square) ![](https://img.shields.io/badge/build with-❤-brightgreen.svg?style=flat-square)  
+![](https://img.shields.io/badge/Ages-6%2B-brightgreen.svg?style=flat-square) ![](https://img.shields.io/badge/build%20with-%E2%9D%A4%EF%B8%8F-brightgreen.svg?style=flat-square)  
 ## Gestalt | Definition of Gestalt by Merriam-Webster
 
 >gestalt
