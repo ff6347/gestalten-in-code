@@ -6,7 +6,7 @@ authors-url:
   - "https://github.com/edgalindo"
   - "https://github.com/piixelcat"
 layout: project
-title: "Bart van der Leck – Mountain view"
+title: "Deconstructing master artists: Bart van der Leck – Mountain view"
 type: project
 authors:
   - "Edmundo Mejia Galindo"
@@ -15,7 +15,7 @@ authors-url:
   - "https://github.com/edgalindo"
   - "https://github.com/piixelcat"
 ---
-## Deconstructing master artists
+
 ![](./splash.png)
 
 This project discusses Bart van der Lecks painting »composition no. 7 (mountain view)« in the areas of artistic categorisation, biographical background, art-historian image analysis and their application to generative design, which means in this case simple data visualization.
