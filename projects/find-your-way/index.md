@@ -8,7 +8,7 @@ title: Find your way
 type: project
 ---
 
-The current documentation shows the results of the course “gestalten in code” in the winter semester at the Uiversity of Applied Science Potsdam (Germany), supervised by Fabian Morón Zirfas. The course provides an introduction of basic programming in P5.js and Processing with a focus on gestalt psychology and a workshop on physical computing.
+The current documentation shows the results of the course “Gestalten in Code” in the winter semester at the Uiversity of Applied Science Potsdam (Germany), supervised by Fabian Morón Zirfas. The course provides an introduction of basic programming in P5.js and Processing with a focus on gestalt psychology and a workshop on physical computing.
 
 ---
 
@@ -16,7 +16,7 @@ The current documentation shows the results of the course “gestalten in code�
 ![](./splash.png)
 
 
-The first project of the University seminar gestalten in code was titled "analog algorithm". 
+The first project of the University seminar Gestalten in Code was titled "analog algorithm". 
 The main task of the project was to provide a set of instructions in a human language emulating algorithms in machines. The instructions had to be in one sentence, simple to understand and could be composed with parameters or constants.
 
 ## Algorithm part 1.
@@ -24,10 +24,10 @@ The main task of the project was to provide a set of instructions in a human lan
 
 ![](./assets/images/algo-1.png)
 
----
- * Draw round shapes in vertical and horizontal which differ from the diameter. 
- * Create lines that merge into different points.
----
+
+> * Draw round shapes in vertical and horizontal which differ from the diameter. 
+> * Create lines that merge into different points.
+
 
 
 The seminar began with the task of writing the first line of an analogue algorithm. The inspiration and consequent work flow are influenced by the results from a creative class mate, as well as the comprehension for the upcoming executed algorithm and the first steps in the project implementation.
@@ -42,10 +42,10 @@ The seminar began with the task of writing the first line of an analogue algorit
 
 ![](./assets/images/algo-2.png)
 
----
-* Draw circles of various sizes throughout the sheet distant each other. 
-* Trace straight lines which intersect but do not touch the circles.
----
+
+> * Draw circles of various sizes throughout the sheet distant each other.  
+> * Trace straight lines which intersect but do not touch the circles.
+
 
 The second attempt for an analogue algorithm, was more accurate on the description to obtain a similar result of the previously choosen work. 
 
@@ -60,11 +60,11 @@ The interesting thing about the output was set by the different visual tension g
 
 ![](./assets/images/algo-3.png)
 
----
-* Draw twenty filled circles of different sizes.
-* Circles connect with a straight line.
-* Connections must cross at least once.
----
+
+> * Draw twenty filled circles of different sizes.
+> * Circles connect with a straight line.
+> * Connections must cross at least once.
+
 
 The third part of the algorithm was set by an amount of circle to draw and a rule for crossing each line at least once. The material selected in advance was a brush and ink on rough paper. This will ensure a more controlled result at the end. 
 
@@ -80,11 +80,11 @@ By noting the individual result of the performers, it was immediately recognizab
 
 ![](./assets/images/algo-5.png)
 
----
-* Draw a circle consisting of 20 to 30 filled circles that do not touch each other.
-* Circles are reduced in proximity to the center.
-* Create a path with a continuous straight line that connects all circles, and each line crosses an existing line and once passes through the center of each circle.
----
+
+> * Draw a circle consisting of 20 to 30 filled circles that do not touch each other.
+> * Circles are reduced in proximity to the center.
+> * Create a path with a continuous straight line that connects all circles, and each line crosses an existing line and once passes through the center of each circle.
+
 
 
 The third and last algorithm was the final attempt. This time it was controlled by other settings based on each performer selected. Every material was selected to combine color, according to contrast and combination. 
