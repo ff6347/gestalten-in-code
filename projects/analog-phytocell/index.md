@@ -2,29 +2,26 @@
 authors:
   - "Natalie Schreiber"
 layout: project
-title: "Projekt 1 | Algorithmus | Phytocell"
+title: "Phytocell"
 type: project
 ---
 
-![Cover](splash.png)
+![Cover](./splash.png)
 
-# Analog Algorithm | PhytoCell
+#
 
 ## General
 
-_Algorithms? That reminds me of confusing and therefore boring math lessons in school.
-I'm done with it._
-
-You're not.
+If algorithms only remind you of confusing and therefore boring math lessons in school actually you will be surprised how omnipresent and awesome they really are.
 
 The whole world consists of Mathematics: music, tax declarations or the mother nature itself.
 In most cases it is not obvious but it's there.
 Sometimes mathematics seems to be very complex and at first sight beyond our comprehension but it will never get boring.
 No, quite the contrary: if we understand it and know how to leverage it we can create amazing things!
 
-![Picture of fern](assets/images/fern.png)
+![Picture of fern](./assets/images/fern.png)
 
-## Nature of algorithms and generative design
+## Nature of Algorithms and Generative Design
 
 Algorithms make up an important part of mathematics.
 That's not only since the beginning of the digital era.
@@ -33,25 +30,23 @@ Everyone who once admired the precise structure of a snowflake appreciates desig
 They are exact iterations in structures, enhancing themselves, building on top of another, moving away from each other, intertwining and amount as a whole to something completely new and superior.
 Well, what can be more exciting for a designer than using this ordinary template, understanding, doing research into, experimenting, and adapting it - by coding?
 
-![Sketch](assets/images/nature_code.png)
+![Sketch](./assets/images/nature_code.png)
 
-## Getting in touch - the analog algorithm
+## Getting in Touch - the Analog Algorithm
 
-Our experience so far and from our sciolism is that we suspect that algorithms mostly deal with coding. But...what exactly?
+Our experience so far and from our sciolism is that we suspect that algorithms mostly deal with coding. The question is, what are they exactly?
+
 Werner Stangl, an Austrian psychologist describes an algorithm as _a systematic, logic rule or approach which leads to the solution of the problem in hand._ [1]
 
-Aha.
-Well then?
+Therefore we approached the answer to this question playfully in the first part of the seminar.
 
-Therefore we approached the answer to this question playfully in the first part of the seminar. Each student should come up with an assignment and write it down on a piece of paper. If you exactly follow the instructions you would get a certain (abstract) figure or drawing as a result - a simple analog algorithm.
-We swapped the assignments with one another and everyone had 3 minutes to fulfill the task within the scope of the predefined rules.
-After the 3 minutes were up we swapped again and so on and so forth.
+Everyone should write down a little assignment which instructions the other students had to follow. The results were abstract figures or drawings of these simple analog algorithms.
 
-## Output - specification and variance
+## Output - Specification and Variance
 
-After 6 iterations we had the results: most of the pictures deviated from the initial one that you had in mind when setting the task.
+The 6 iterations reveal that most of the pictures deviated from the initial ones which you had in mind when setting the task.
 
-![Output1](assets/images/results1.png)
+![Output1](./assets/images/results1.png)
 
 That is because of different reasons.
 On the one hand the assignment was too complex to understand it correctly. This might be one explanation why there are some random results.
@@ -60,88 +55,90 @@ Sometimes the "new" results were much more interesting than the original one you
 So the thin line between precise specification and variance is an exciting and difficult point within algorithm game.
 
 ## 1st Iteration - Experiments
-
-As a first step I wanted to play further more with the different algorithms to establish a line between exact and quite free instructions. As part of the assignment I also combined them with different materials for the implementation.
+As a first step the new and totally different algorithms try to establish a line between exact and quite free instructions. As part of the assignment they are combined with different materials for the implementation.
 
 ### Time to say goodbye to simple pieces of paper and pen
-The algorithm stated that the test person should experiment a bit with the given material. So I installed 4 several sites at home. For each I created a specific algorithm and provided the tools like lipstick and mirror, rice and slate, crayon etc.
+The algorithms state that the test person shall experiment a bit with the given material. So there were installed 4 several sites. For each it was created a specific algorithm and some tools like lipstick and mirror, rice and slate, crayon etc. were provided, too.
 
-![Four sites](assets/images/iteration1_sites.png)
+![Four sites](./assets/images/iteration1_sites.png)
 
 ### Inspiration
-For the different algorithms I got my inspiration from structures, patterns and shapes in my environment, like the imprint of a leaf on a ceramic platter.
+The inspiration for the different algorithms comes from structures, patterns and shapes in my environment, like the imprint of a leaf on a ceramic platter.
 
-![Ceramic platter](assets/images/inspiration.png)
+![Ceramic platter](./assets/images/inspiration.png)
 
-The fine veins and structures of the cells had the potential to display the classic natural structure in various ways.
+The fine veins and structures of the cells has the potential to display the classic natural structure in various ways.
 
-The algorithm was:
+The wording of the algorithm is:
 1. Work with the provided materials/tools.
 2. Draw at least one thick stroke. Radiant from this, draw as many as 3 more lines. From these as many as 5 more fine lines anon.
 3. Fill the spaces in between with round shapes.
 
-![Iteration 1 results](assets/images/iteration1_results.png)
+![Iteration 1 results](./assets/images/iteration1_results.png)
 
-The results of this one I liked best in comparison with the others. Nevertheless I wanted to improve the specification of the materials. I had provided black, rough paper and white pencils with different stroke widths. But this selection didn't convince me.
+The results of this one are the best in comparison with the others. Nevertheless, the specification of the materials has to be improved. Therefore it was provided black, rough paper and white pencils with different stroke widths. But this selection was not convincing indeed.
 
 ## 2nd Iteration - The PhytoCell-Algorithm
 
-In one of the other algorithms the used rice grains caused a strong contrast and their shape reminded me a bit of cells in an organism. Moreover, if the rice would be boiled, you can experiment in the three-dimensional space with it and additionally colorize it. My lecturer Fabian Morón Zirfas gave me this hint. Maybe this would provide exciting opportunities combining it with the PhytoCell-algorithm?
+In one of the other algorithms the used rice grains caused a strong contrast and the shape of rice grains reminds a bit of cells in an organism. Moreover, if the rice would be boiled, you can experiment in the three-dimensional space with it and additionally colorize it. My lecturer Fabian Morón Zirfas gave me this hint. Maybe this would provide exciting opportunities combining it with the PhytoCell-algorithm?
 
 ### Parameters, variables, constants
 
-But for the moment I wanted to concentrate on the PhytoCell-Algorithm itself. How can I achieve that the outputs differ more from each other?
-Therefore I elicited the parameters, variables and constants: Shapes, strokes, lines, width and quantity.
-I modified the rules and had them draw with different numbers of finer and thicker strokes. Additionally you can also change how the "cells" are drawn. This ranges from circles to more oval or angular shapes, from large to small, from filled to empty, and from tightly packed to lightly distributed.
-Thus I ran the next stage - but not yet with the rice. Simply with white paper which was partly squared.
+But to focus on the PhytoCell-Algorithm itself, another question is much more important:
+How can you achieve that the outputs differ more from each other?
+Therefore you have to elicit the parameters, variables and constants: Shapes, strokes, lines, width and quantity.
+The rules are modified and fitted with different numbers of finer and thicker strokes. Additionally you can also change how the "cells" are drawn. This ranges from circles to more oval or angular shapes, from large to small, from filled to empty, and from tightly packed to lightly distributed.
+Thus a new level was reached - but not yet with the rice. Simply with white paper which was partly squared.
 
-![Output 2](assets/images/iteration2_output2.png)
+![Output 2](./assets/images/iteration2_output2.png)
 
-![Output 1](assets/images/iteration2_output1.png)
+![Output 1](./assets/images/iteration2_output1.png)
 
 ### New ideas, new chapters
-I was very confident of the results and those on the squared paper gave me a new idea concerning the material: Why shouldn't I choose book pages? The pages or figuratively leaves of a book - the connection between the organic paper and the leaf-inspired algorithm!
-But would the test persons be so courageous to paint the printed book pages? Including the structure and playing with words?
+The results were very satisfying and those on the squared paper evoked a new idea concerning the material: Maybe book pages are the right answer.
 
-## 3rd Iteration - Wild rice
+The pages or figuratively leaves of a book - the connection between the organic paper and the leaf-inspired algorithm.
+But the question was, if the test persons are that courageous to paint the printed book pages and to play around with structures and words.
 
-![Colored rice](assets/images/iteration3_wild_rice.png)
+## 3rd Iteration - Wild Rice
 
-Nonetheless I tried the experiment with the rice - and left it at that.
+![Colored rice](./assets/images/iteration3_wild_rice.png)
+
+Nonetheless the experiment with the rice was pending.
 For short: Forming the shapes took forever and it was a mess.
 
 **I thought of something like this:**
 
-![Colored rice](assets/images/iteration3_rice1.png)
+![Colored rice](./assets/images/iteration3_rice1.png)
 
 
-![Colored rice](assets/images/iteration3_rice2.png)
+![Colored rice](./assets/images/iteration3_rice2.png)
 
-For all food savers: of course I ate up all the rice, because I had colorized it with natural colors.
+For all food savers: of course all the rice was ate up, because it has been colorized with natural colors.
 
-## 4th Iteration - Blank pages get written
-Next: the book. As I assumed, the test persons were a bit afraid to paint the pages at first. Although I took an old page-turner which wasn't near and dear to me at all. The outputs were sometimes more, sometimes less courageous. However, the differences between pleased me.
+## 4th Iteration - Blank Pages Get Written
+Next: the book. As it was assumed, the test persons are a bit afraid to paint the pages at first - although taking an old page-turner which wasn't near and dear to me at all. The outputs were sometimes more, sometimes less courageous. However, the differences between pleased me.
 
-![Outputs](assets/images/iteration4_outputs.png)
+![Outputs](./assets/images/iteration4_outputs.png)
 **A selection of the best**
 
-![Outputs](assets/images/iteration4_1.png)
+![Outputs](./assets/images/iteration4_1.png)
 
-![Outputs](assets/images/iteration4_2.png)
+![Outputs](./assets/images/iteration4_2.png)
 
-![Outputs](assets/images/iteration4_3.png)
+![Outputs](./assets/images/iteration4_3.png)
 
-![Outputs](assets/images/iteration4_4.png)
+![Outputs](./assets/images/iteration4_4.png)
 
-![Outputs](assets/images/iteration4_5.png)
+![Outputs](./assets/images/iteration4_5.png)
 
 ### Little herbarium
-To achieve a better link among the content of the book and the algorithm, I bought a little booklet about plants from a second-hand bookshop. It includes some scientific illustrations that show the structure of plant cells and their mode of action and chemistry. I visualized how wonderfully you could assimilate the execution of the algorithm with them!
+To achieve a better link among the content of the book and the algorithm, the book had to change into a little booklet about plants, what was found in a second-hand bookshop. It includes some scientific illustrations that show the structure of plant cells and their mode of action and chemistry. Maybe you can visualize how wonderfully you could assimilate the execution of the algorithm with them!
 
-![Herbarium book](assets/images/herbarium_book.png)
+![Herbarium book](./assets/images/herbarium_book.png)
 
 But I didn't dare to touch it.
-Using the simple book for testing, I realized that the ink of the black pen bleeds so much that you can see it on the back page. I still haven't found a satisfying solution or good pen for it. One idea would be to insert transparent paper for the drawings.
+Using the simple book for testing, it showed that the ink of the black pen bleeds so much that you can see it on the back page. I still haven't found a satisfying solution or good pen for it. One idea would be to insert transparent paper for the drawings.
 
 ## Conclusion
 Whatever the case may be, the assignment accompanies me beyond. I'm taking the test-book with me and from time to time I put it and the algorithm into someones hand and see what happens. Eventually I want to accumulate the results and transcribe the best outputs into the plant book - another way of a plant collection.
