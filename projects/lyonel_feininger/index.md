@@ -17,7 +17,7 @@ This project is an extensive analysis of artist Lyonel Feininger's painting “V
 The project was developed for the class “Gestalten in Code – Die Grundlagen Generativer Gestaltung” by Fabian Morón Zirfas at the University of Applied Sciences Potsdam, Faculty of Design.
 
 ## Who is he? ##
-![lyonel-feininger](./assets/images/lyonel.png)
+![lyonel-feininger](./assets/images/lyonel.png) </br>
 Due to his works at Bauhaus 1919, Lyonel Feininger is one of the most eminent artist of the period of the “Classical Modernity”. 
 Lyonel Feininger was born 1871 in New York City. When he came to Europe 1887 he studied in Hamburg, Berlin and then Paris, France. 1919 he was called to Bauhaus University by Walter Gropius to be the first school master for painting and graphics. 
 
