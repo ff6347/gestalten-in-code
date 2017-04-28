@@ -15,7 +15,7 @@ This project is an extensive analysis of artist Lyonel Feininger's painting “V
 
 The project was developed for the class “Gestalten in Code – Die Grundlagen Generativer Gestaltung” by Fabian Morón Zirfas at the University of Applied Sciences Potsdam, Faculty of Design.
 
-## Who is he? 
+## Who is Lyonel Feininger? 
 ![lyonel-feininger](./assets/images/lyonel.png)  
 Due to his works at Bauhaus 1919, Lyonel Feininger is one of the most eminent artist of the period of the “Classical Modernity”. 
 Lyonel Feininger was born 1871 in New York City. When he came to Europe 1887 he studied in Hamburg, Berlin and then Paris, France. 1919 he was called to Bauhaus University by Walter Gropius to be the first school master for painting and graphics. 
@@ -56,7 +56,7 @@ Three zones
 There is horizontal and vertical colour-shapes. The lines and shapes of the cloud and its shadow on the beach cut the three zones into smaller shapes. 
 In the foreground there is a small person. 
 
-### Size/ratio
+### Size/Ratio
 
 [1:1:4] Beach – Sea – Sky
 Or
@@ -92,18 +92,18 @@ Most of the lines are horizontal. Many lines are parallel. Lines in a slightly d
 
 The feathers of the cloud appear to belong together because the shapes show the same style of gradation of the transparency. 
 
-### Law of Space through overlapping lines
+### Law of Space through Overlapping Lines
 
 The painting creates the impression of depth because of the cross in the middle of the picture in combination with vertical lines.
  
 ![lines](./assets/images/013_lines.png)
 
-### Law of space  
+### Law of Space  
 Warm colours seem to be close, cold colours seem to be far. The beach appears closer than the sky. 
 
 ![law-of-space](assets/images/016_law_of_space_through_colour.png)
 
-### Law of contrast
+### Law of Contrast
 Areas are divided through contrast. The pretty dark sea stands out from the beach. The light cloud stands out from the sky. The dark sea seperates the beach and the sky. 
 
 ![law_of_contrast](./assets/images/017_law_of_contrast.png)
@@ -123,7 +123,7 @@ The results are variations of the basic shapes of Lyonel Feiningers “Vogelwolk
 ![output3](./assets/images/022_output3.png)
 
 
-## Conclusion and future prospects
+## Conclusion and Future Prospects
 The variations of the output of our program are similar to one another but each provids a basis for a new individual “Vogelwolke” painting. If lines and tone shading are added according to the rules we developed, the cloud is shifting in the the upper two thirds of the picture. 
 
 It can definitely be said that Lyonel Feininger was inspired by nature and didn’t focus much on creating an algorithm before painting. Still he somehow paid attention on the direction of lines, sizes and subdivision of the painting. It is not possible to fully transfer the “Vogelwolke” into code because most of the painting was drawn freely and randomly.
