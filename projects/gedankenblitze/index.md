@@ -25,20 +25,18 @@ Inspiration came from the shapes of lightning, which can be recreated with paper
 > * a white piece of paper: »background layer«   
 > * a tracing paper: »drawing layer«   
 > * tools: 3 pens of different thickness
-
-
+> 
 > ### Background Layer 
 > Thick pen: Draw an oval or circle which is almost as big as the drawing surface. This is your auxiliary line. Divide this line in 2 - 4 > parts. There are gaps between these parts which are as wide as 2 - 5 fingers. 
-
+> 
 > ### On the Tracing Paper 
 > Crumple the paper and flatten it again. Put it on top of the background layer. 
-
+> 
 > * Now trace the rigid lines which came from crumpling the paper.  
 > * Thick Pen: Trace the rigid lines along the auxiliary line.   
 > * Medium-size pen: Draw one to three branches from each line into the centre of the oval/circle.  
 > * Thin pen: Repeat the previous step one to two times. 
-
-
+> 
 > ### Digitalising 
 > The two papers are scanned and colours are reverted.
 
