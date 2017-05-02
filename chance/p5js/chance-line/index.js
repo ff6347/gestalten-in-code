@@ -6,7 +6,7 @@ var col = {
   b: 103
 }
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 500);
   for (var i = 0; i < distribution.length; i++) {
     distribution[i] = floor(randomGaussian(0,100));
   }
