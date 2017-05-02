@@ -30,4 +30,3 @@ function draw() {
     curve(0, dist, dist, 10,10, dist, dist, dist);
   }
 }
- 
