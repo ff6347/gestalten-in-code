@@ -7,7 +7,8 @@ var col = {
 
 function setup() {
   var a;
-  createCanvas(400,400);
+  createCanvas(500,500);
+  canvas.parent('sketch');
   }
 
 function draw() {
