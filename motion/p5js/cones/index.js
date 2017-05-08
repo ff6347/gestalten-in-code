@@ -1,58 +1,51 @@
-const height = 60;
-const radius = 60;
-let y = 0;
+const myHeight = 30;
+const radius = 30;
+
+const light_r = light_g = light_b = 250;
+const light_a = 255;
+
+let counter = 0;
 let increment = 1;
 
 function setup() {
-  var canvas = createCanvas(500, 500, WEBGL);
-  frameRate(30);
+  var canvas = createCanvas(300, 300, WEBGL);
   canvas.parent('sketch');
 }
 
-function drawCones(count, current) {
-  current = current || 1;
-
-  if (current > count) {
-    return;
-  }
-
-  cone(radius, height);
+function drawACone(_x, _y) {
   push();
-  translate(2 * radius, 0);
-  drawCones(count, current + 1);
-  pop();
-}
-
-function drawRotated(count, position) {
-  push();
+  translate(_x, _y);
   rotateX(radians(90));
-  drawCones(count, position);
+  cone(radius, myHeight);
   pop();
-}
-
-function draw() {
-  camera(0, 0, 300);
-  background(250);
-
-  y = y + increment;
-
-  if (y === 0) {
-    increment = 1;
-  } else if (y === height) {
-    increment = -1;
-  }
 }
 
 function draw(){
-  pointLight(250, 250, 250, y * 8, y * 8, 0);
-  translate(0, - 4 * radius);
-  drawRotated(1);
-  translate(-2 * radius, 2 * radius);
-  drawRotated(3);
-  translate(-2 * radius, 2 * radius);
-  drawRotated(5);
-  translate(2* radius, 2 * radius);
-  drawRotated(3);
-  translate(2 * radius, 2 * radius);
-  drawRotated(1);
+  counter += increment;
+
+  if (counter === 0) {
+    increment = 1;
+  } else if (counter === height) {
+    increment = -1;
+  }
+
+  var light_x = sin(radians(counter)) * radius;
+  var light_y = cos(radians(counter)) * radius;
+  var light_z = counter;
+
+  pointLight(light_r, light_g, light_b, light_a, light_x, light_y, light_z);
+
+  drawACone(0, 0);
+  drawACone(0, radius * 2);
+  drawACone(0, -radius * 2);
+  drawACone(-radius * 2, 0);
+  drawACone(radius * 2, 0);
+  drawACone(radius * 2, radius * 2);
+  drawACone(-radius * 2, -radius * 2);
+  drawACone(radius * 2, -radius * 2);
+  drawACone(-radius * 2, radius * 2);
+  drawACone(0, -radius * 4);
+  drawACone(0, radius * 4);
+  drawACone(radius * 4, 0);
+  drawACone(-radius * 4, 0);
 }
