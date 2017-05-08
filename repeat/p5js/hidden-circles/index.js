@@ -1,4 +1,6 @@
-var dis = 20;
+var distance = 20;
+var n = 80;
+var radius = 100;
 
 function setup() {
   var canvas = createCanvas(500, 500);
@@ -6,9 +8,7 @@ function setup() {
   canvas.parent('sketch');
 }
 
-function drawLines(count, distance) {
-  distance = distance || 20;
-
+function drawLines(count) {
   for (var i = 0; i < count; i++) {
      var x = i * distance;
 
@@ -16,28 +16,21 @@ function drawLines(count, distance) {
   }
 }
 
-function drawEllipsis(height) {
-  strokeWeight(10);
-  stroke(255, 255, 255);
-  noFill();
-  ellipse(250, 250, height);
-}
-
 function draw() {
+  noLoop();
   stroke(0);
   strokeWeight(2);
-  drawLines(100, dis);
+  drawLines(200);
 
-  drawEllipsis(100)
+  for(var i = n; i < 500; i++) {
+    radius = (radius + i) * 0.9;
 
-  fill(255);
-  ellipse(250, 250, 35);
+    fill(255);
+    ellipse(250, 250, 35);
 
-  drawEllipsis(150);
-  drawEllipsis(240);
-  drawEllipsis(300);
-  drawEllipsis(340);
-  drawEllipsis(400);
-  drawEllipsis(440);
-  drawEllipsis(500);
+    strokeWeight(12);
+    stroke(255);
+    noFill();
+    ellipse(250, 250, radius);
+  }
 }
