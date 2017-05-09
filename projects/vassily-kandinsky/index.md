@@ -12,8 +12,6 @@ type: project
 
 
 ![](./splash.png)￼
-[Link](https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082)
-[Source](http://curiator.com/art/wassily-kandinsky/self-portrait-1) | cutout from original | adapted to image size
 
 ## Part 1 - Task 
 - In groups of two we should decide us for an artist / designer. 
@@ -21,7 +19,7 @@ type: project
 - For the presentation we should do a short summary of the elected person. 
 
 ## Biography
-This project is about Vassily Kandinsky and one of his artwork - Circles in a Circle. Within this course we made an excursion to the Bauhaus archive where Vassily Kandinsky had teached during his life time. Before that excursion he had interested me personally very much as well. Because no one else was interested to Vassily Kandinsky I have made the presentation all alone. 
+This project is about Vassily Kandinsky and one of his artwork - Circles in a Circle. Within this course we visited the Bauhaus archive in Berlin whereby my decision was decisively influenced.
 
 ![](./assets/images/biografie.png)￼
 
@@ -73,9 +71,8 @@ In the beginning **this book** was my basis, nevertheless, finally I have decide
 - According to the analysis we should formulate a set of rules and apply it in code.
  
 ## Analysis - Circles in a Circle 1923
-![](./assets/images/circles-in-a-circle.png)￼
 
-[Source](http://www.wassilykandinsky.net/work-247.php) | adapted to image size
+[Link to the picture](http://www.wassilykandinsky.net/work-247.php) 
 
 *"The contents of a piece of art are the sum of his tensions."*
 
@@ -86,8 +83,6 @@ For example, the **format** plays an important role, because it influences the p
 *Primarily the picture exists out of circles, but which meanings had them for Vassily? In his view the circle had a cosmic meaning, it is the uncoloured quiet and the result of two always steadily working forces.*
 Therefore the circle does not know the forcible of the angle and the most central point is the most perfect quiet of the not anymore isolated point.
 
-![](./assets/images/black-circle.png)￼
-
 
 
 The **big black circle** in the middle of the picture works like the second frame of the picture, this would be the gestalt law of the Conciseness and the contrast.
@@ -95,16 +90,12 @@ This gigantic circle encourages us to concentrate us upon the internal interacti
 
 Kandinsky has spoken a lot of **tensions** in the picture. They could be formed from a direction, an angle or from the colour themselves. 
 
-![](./assets/images/diagonal-lines.png)￼
-
 
 
 In this work he has used two sharp **diagonal lines**. From the bottom left to the top right corner which loses tension according to his rules because the line touches the basic form (edge). Nevertheless, this direction course looks rather harmonious. He selected the colour yellow which inner meaning is rather garish.
 
 The second **diagonal line** runs from the bottom right to the top left corner this loses tension by the touch of the basic form (edge) like the other one. This direction looks unharmonious and he chose a mixture from green and blue, it's a quiet colour. 
 Vassily generates by these both cutting diagonal lines a perspective and shifted the focus point through the crossroads into the circle, this is the gestalt law of space through colour.
-
-![](./assets/images/circles-and-lines.png)￼
 
 
 
@@ -140,10 +131,10 @@ within the circle
 
 ![](./assets/images/code.png)￼
 
-Here is the [Link](https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082) of this code.
+Here is the [Link](https://github.com/paulinalinaa/vassily-kandinsky-circles-in-a-circle) of this code.
 
 
----
+- - -
 
 # License (MIT)
 *© 2017 | Paulina Mrksic | Fh Potsdam - University of applied sciences | Grundlagen Generative Gestaltung | Fabian Morón Zirfas*
