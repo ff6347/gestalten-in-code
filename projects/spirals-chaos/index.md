@@ -13,11 +13,11 @@ type: project
 
 
 ## First Algorithm
-This course had started with a practical part in which the task was to think about how to write a good set of rules.
+Right at the beginning of the course was a practical part and the task was to thought about how to write a good set of rules.
 
 ### Inspiration
 
-The Inspiration for the set of rules was a pattern which I had sketched some years ago. It was black and white and very geometrical. After some thoughts the idea was a bit modified and the set of rules was done. It was important to make the set of rules as short and also as simple as possible.
+The inspiration was a black and white pattern which is similar to a chess board. The text of the set of rules was written down briefly.
 
 ### This was my set of rules
 
@@ -25,8 +25,8 @@ The Inspiration for the set of rules was a pattern which I had sketched some yea
 
 ### Result
 
-After 5 flows with our fellow students we have had a small presentation in which we have briefly read out our set of rules and have given then a conclusion to the result. Moreover, we should choose our favourite and reason this.
-Sometimes were tips given to the better understanding and criticism were expressed.
+After 5 flows with our fellow students a small presentation was made. In this presentation everybody had shortly read out his own set of rules and then had given a conclusion to the result. Moreover, our personal favourite should be chosen and be founded.
+Tips were also sometimes given to the better understanding and criticism was expressed.
 
 ![](./assets/images/1ergebnis.png)￼
 
@@ -36,7 +36,7 @@ Sometimes were tips given to the better understanding and criticism were express
 **Task**
 - Rework the algorithm or sketch a new one. Let them draw from at least 10 people.
 
-With the second attempt I have written down the sentences in key points and have tried that all quadrangles have the same size and are lined up side by side. I wanted to be able to compare the results even better and have limited the format to A5.
+With the help of the feedback of our fellow students the set of rules was changed in sting points and all quadrangles should be lined up commensurate and side by side. The results should become more comparable, so that the format was limited to A5.
 
 ### Set of rules
 
@@ -86,7 +86,7 @@ With the second attempt I have written down the sentences in key points and have
 
 >Draw from the middle of the sheet a spiral about the whole sheet. Draw randomly distributed circles, quadrangles and triangles all over the sheet. Hatch this in the end. 
 
-At the end of this task I have noticed that extremely different results have come out and the most exciting one was for me with the spiral. I have completely removed from my set of rules from the beginning, but sometimes you get through doing things great results.
+At the end of this project very different results came out. From the construction was the most exciting one this with the spiral, so that this project went on in this direction. Although it had differed from the first set of rules very much, also about detours comes an interesting result.
 
 ### 1. 3 Postprocessing - Spiral Chaos
 **Task**
@@ -104,10 +104,11 @@ At the end of this task I have noticed that extremely different results have com
 
 
 ### 1.4 Conclusion
-Funnily much of the people had fear of the white sheet of paper, so I gave them as a tip to close their eyes.
-Because I have worked with Indian ink and some colour, every test person has drawn a spiral and afterwards they had got from me another sheet for the rest of the set of rules.
-The colour blue was in comparison to the other tested the best on.
-On the whole it was a pleasure and the results look also great so I think that many nice things have come out.
+Many were afraid of the white sheet, so they got the tip to close theirs eyes. On this occasion, many nice and interesting things have come out. 
+This project was drawn with Indian ink and colour. Every test person had drawn a spiral, this had to dry. So every test person got the spiral of another test person to sign further.
+After some colours were tested in the approach, the decision was taken for a strong blue. 
+
+On the whole it has given pleasure and the results speak for themselves.
 
 ![](./assets/images/9favourite.png)￼
 
