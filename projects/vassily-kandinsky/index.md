@@ -4,7 +4,7 @@ authors:
 authors-url: 
   - "https://github.com/paulinalinaa"
 layout: project
-title: "Vassily Kandinsky - Cirlces in a Cirlce"
+title: "Vassily Kandinsky - Circles in a Circle"
 type: project
 ---
 
@@ -19,11 +19,11 @@ type: project
 - For the presentation we should do a short summary of the elected person. 
 
 ## Biography
-This project is about Vassily Kandinsky and one of his artwork - Circles in a Circle. Within this course we visited the Bauhaus archive in Berlin whereby my decision was decisively influenced.
+This project is about Vassily Kandinsky and one of his artwork - **Circles in a Circle**. Within this course we visited the Bauhaus archive in Berlin whereby my decision was decisively influenced.
 
 ![](./assets/images/biografie.png)￼
 
-Vassily Kandinsky was a russian painter and is known and famous as one of the pioneers of the abstract painting and the abstract expressionism. 
+**Vassily Kandinsky** was a russian painter and is known and famous as one of the pioneers of the abstract painting and the abstract expressionism. 
 By his pictures and theoretical works he exerted a big influence on the development of the modern art. 
 
 In **1866** Kandinsky was born in Moscow and he learned to play the piano and cello in early years. 
@@ -33,12 +33,12 @@ After he visited a French impressionistic art exhibition in **1895** he moved to
 
 He studied the impressionistic style as well as the jugendstil. Especially he discussed with the works from Franz of Stucks. 
 
-He painted his first pictures mainly in the impressionistic style, however, his painting style changed soon to the *abstraction*. His interest in „fantastic motives“ is expressed in this time clearly in his pictures. With the painting styles which Kandinsky had got to know in Munich he was increasingly discontented. They looked expressionless on him and dull. 
+He painted his first pictures mainly in the impressionistic style, however, his painting style changed soon to the *abstraction*. His interest in *fantastic motives* is expressed in this time clearly in his pictures. With the painting styles which Kandinsky had got to know in Munich he was increasingly discontented. They looked expressionless on him and dull. 
 
 In **1900 till 1910** he traveled a lot. He had visited Paris where he had got in touch with Paul Gauguin and through him with the neoexpressionism (the Fauvismus). 
 Also he traveled to Germany and founded the artist's group *Phalanx*. He had got to know the expressionist artist *Gabriele Münter* and married her a short time later. This marriage holds till **1916**. 
 In **1909** he traveled to Munich and founded the *new artist's union Munich*. In **1910** he had painted his first abstract picture with watercolors. 
-A year later he painted the picture „composition of V“.
+A year later he painted the picture - composition of V.
 
 Still in the same year this picture is rejected by the jury of the *new artist's union* for an exhibition. The judgment of the jury is: too abstract. 
 As a result from it Kandinsky leaves his own founded artist's group together with Franz Marc, Gabriele Münter and Alfred Kubin. 
@@ -50,11 +50,11 @@ In **1921** he returned to Germany and started to taught at the Bauhaus school i
 Kandinsky published in **1926** his work *'point and line to plane'*. In it he propagates for an abstract *absolute* painting art. This work becomes an other important basis for the creative process within the abstract art. 
 His time ends there in **1933** with the closing of the school by the National Socialists. 
 
-After the Bauhaus period Kandinsky moves to France. There he lives and paints up to his death in **1944** in a Paris suburb. He had become a member of the Parisians artist's group Abstraction-Création. From the National Socialists Kandinskys pictures were devaluated, like from many other artists in this time, they had become „degenerated art“. Many of his pictures are exiled in **1937** from the German museums.
+After the Bauhaus period Kandinsky moves to France. There he lives and paints up to his death in **1944** in a Paris suburb. He had become a member of the Parisians artist's group Abstraction-Création. From the National Socialists Kandinskys pictures were devaluated, like from many other artists in this time, they had become *degenerated art*. Many of his pictures are exiled in **1937** from the German museums.
 
 ## Inspiration
 **'Point and line to plane'** 
-In this varied work he describes the psychological effects of the colour and the resemblances between painting and music. This book had become a fundamental importance for the abstract painting. In the most important chapter „Forms and colour language“ he develops his theory that form can exist in contrast to colour independently. 
+In this varied work he describes the psychological effects of the colour and the resemblances between painting and music. This book had become a fundamental importance for the abstract painting. In the most important chapter 'Forms and colour language' he develops his theory that form can exist in contrast to colour independently. 
 That means that the form influences the colour substantially. 
  
 This work had woken up immediately my interest. They are so simple and as well so appropriate, although it concerns things which are rather unconsciously and true. 
@@ -76,7 +76,7 @@ In the beginning **this book** was my basis, nevertheless, finally I have decide
 
 *"The contents of a piece of art are the sum of his tensions."*
 
-In a letter from 1931 Kandinsky wrote about the picture Circles in a Circle: „It is the first picture of me which places special emphasis on the subject of the circles.“ He describes many aspects and rules about paintings in his book *"point and line to plane"*.
+In a letter from 1931 Kandinsky wrote about the picture Circles in a Circle: „It is the first picture of me which places special emphasis on the subject of the circles.“ He describes many aspects and rules about paintings in his book *'point and line to plane'*.
 
 For example, the **format** plays an important role, because it influences the picture in his decisively effect. In this painting he has used a square form what is coldly and warmly at the same time, the tensions in the picture are relatively compensated.
 
