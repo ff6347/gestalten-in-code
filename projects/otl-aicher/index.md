@@ -62,3 +62,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+## Copyright-Hinweis
+
+The shown pictograms are protected by copyright law. The shown pictograms are probihibited to be duplicated or edited or alienated. Printing the pictograms requires an approval by attoma Berlin GmbH, Helmholtzstraße 2-9, 108578 Berlin, Germany. The copyright owner is ERCO GMbH, Brockhauser Weg 80-82, 58507 Lüdenscheid, Germany. www.otl-aicher-piktogramme.de
