@@ -91,5 +91,7 @@ void draw() {
     if (randDrop>90)continue;
     line(myX[myNoise[n]]*leafGrow, myY[myNoise[n]]*leafGrow, myX[myNoise[n+1]]*leafGrow, myY[myNoise[n+1]]*leafGrow);
   }
-  saveFrame("out.png");
+  if (frameCount == 0) {
+    saveFrame("out.png");
+  }
 }
