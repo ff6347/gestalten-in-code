@@ -23,16 +23,12 @@ In this embodiment, the parameters were burn them directly to paint not only the
 Materials in this embodiment were also changed. To achieve more realistic results, it was decided to change the plain paper on black. Black color represents the cosmos. But from the available options for drawing on black and colored pencils were of colored pencils pencils were chosen warm colors, which correspond to a reality.
 The results obtained went quite good and was close to the expected result.
 The algorithm is given that that was necessary. These prominences turned out similar to the present. But, unfortunately, the structure itself, the color gradient and the force which can be seen in the prominences, the result is not shown. It has been a question of materials.
-![zwp-denys-ivanchenko-protuberanzen3](https://cloud.githubusercontent.com/assets/26521639/24083213/adabddbe-0cd3-11e7-9193-f3025ac3e3e9.png)
 ![zwp-denys-ivanchenko-protuberanzen3](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen3-thumb.png)
-
-![zwp-denys-ivanchenko-protuberanzen32](https://cloud.githubusercontent.com/assets/26521639/24083239/ae19f6f0-0cd3-11e7-821e-bf290d68eab5.png)
 ![zwp-denys-ivanchenko-protuberanzen32](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen32-thumb.png)
 
 # Search materials
 Whatever is achieved in a more realistic result, I had to try many kinds of colors and materials that can be painted.
 In the final result, the choice was stopped on the blue watercolors and plain white office paper. Below, I will explain why the colors were selected data.
-![zwp-denys-ivanchenko-protuberanzen13](https://cloud.githubusercontent.com/assets/26521639/24083215/adbe625e-0cd3-11e7-84fd-34c6a3bf06a4.png)
 ![zwp-denys-ivanchenko-protuberanzen13](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen13-thumb.png)
 
 
@@ -40,7 +36,6 @@ The result was surprising and showed exactly what you need.
 Unfortunately acceptable colors that we could draw on the black material, I was not.
 On this, my white paper and blue watercolor.
 Of course the sun with blue protuberances can be observed in reality, it is necessary to take advantage of ultra-violet filter.
-![zwp-denys-ivanchenko-protuberanzen10](https://cloud.githubusercontent.com/assets/26521639/24083214/adbb6c98-0cd3-11e7-9780-ce0a639a38bb.png)
 ![zwp-denys-ivanchenko-protuberanzen10](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen10-thumb.png)
 
 *Source: http://www.astronoo.com/images/soleil/soleil-protuberance-spicule_medium.jpg*
@@ -58,20 +53,3 @@ The obtained results, then I think could come close to the real prominences.
 ![zwp-denys-ivanchenko-protuberanzen16-258](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-258-thumb.png)
 ![zwp-denys-ivanchenko-protuberanzen16-259](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-259-thumb.png)
 ![zwp-denys-ivanchenko-protuberanzen16-2510](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-2510-thumb.png)
-
-
-
-
-
-![zwp-denys-ivanchenko-protuberanzen16-25](https://cloud.githubusercontent.com/assets/26521639/24083219/adc279b6-0cd3-11e7-9e77-52f399fffc9e.png)
-![zwp-denys-ivanchenko-protuberanzen16-252](https://cloud.githubusercontent.com/assets/26521639/24083221/add6be8a-0cd3-11e7-90b2-d5c655bb8edc.png)
-![zwp-denys-ivanchenko-protuberanzen16-253](https://cloud.githubusercontent.com/assets/26521639/24083222/add85a74-0cd3-11e7-9cc8-dd6eb8fca63f.png)
-![zwp-denys-ivanchenko-protuberanzen16-254](https://cloud.githubusercontent.com/assets/26521639/24083224/add97378-0cd3-11e7-9eb6-34ff41f4216f.png)
-![zwp-denys-ivanchenko-protuberanzen16-255](https://cloud.githubusercontent.com/assets/26521639/24083227/adecafec-0cd3-11e7-9794-f35fd4a10f00.png)
-![zwp-denys-ivanchenko-protuberanzen16-256](https://cloud.githubusercontent.com/assets/26521639/24083231/adf10808-0cd3-11e7-82c6-1c54ea826ba4.png)
-![zwp-denys-ivanchenko-protuberanzen16-257](https://cloud.githubusercontent.com/assets/26521639/24083229/adefbb60-0cd3-11e7-94cc-3430471a384d.png)
-![zwp-denys-ivanchenko-protuberanzen16-258](https://cloud.githubusercontent.com/assets/26521639/24083233/ae026f44-0cd3-11e7-980e-f20e68e37032.png)
-![zwp-denys-ivanchenko-protuberanzen16-259](https://cloud.githubusercontent.com/assets/26521639/24083235/ae06de12-0cd3-11e7-8782-d42e5f0bbba0.png)
-![zwp-denys-ivanchenko-protuberanzen16-2510](https://cloud.githubusercontent.com/assets/26521639/24083237/ae0da7b0-0cd3-11e7-8d72-48a341719e8d.png)
-
-
