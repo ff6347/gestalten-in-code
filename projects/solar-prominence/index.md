@@ -2,8 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ |
 | Denys Ivanchenko | https://github.com/deivanchenko | projekt | Solar prominence | projekt |
 
-
-//![zwp-denys-ivanchenko-protuberanzen](https://cloud.githubusercontent.com/assets/26521639/24083269/50dfe228-0cd4-11e7-9658-bbe0ce6b438b.png)
+\\![zwp-denys-ivanchenko-protuberanzen](https://cloud.githubusercontent.com/assets/26521639/24083269/50dfe228-0cd4-11e7-9658-bbe0ce6b438b.png)
 ![zwp-denys-ivanchenko-protuberanzen](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/thumb.png)
 
 
