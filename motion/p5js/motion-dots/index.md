@@ -5,5 +5,5 @@ author-url: https://github.com/deivanchenko
 title: colored balls
 tags: [P5.js, chance, repeat]
 permalink: /motion/motion-dots/
-summary: colored balls that change size
+summary: Color balls that change color and size fill the entire area of the frame.
 ---
