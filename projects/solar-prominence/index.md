@@ -4,6 +4,7 @@
 
 
 ![zwp-denys-ivanchenko-protuberanzen](https://cloud.githubusercontent.com/assets/26521639/24083269/50dfe228-0cd4-11e7-9658-bbe0ce6b438b.png)
+![](C:\Users\Denys\Documents\GitHub\gestalten-in-code-1\projects\solar-prominence\thumb)
 
 *The aim of this project was to create an analog algorithm, in which the important role played by the human factor.*
 
