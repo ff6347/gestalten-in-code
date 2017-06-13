@@ -17,7 +17,9 @@ The assignment was to create an algorithm that had to be sketched on paper by 10
 
 ## My Inspiration 
 Inspiration came from the shapes of lightning, which can be recreated with paper by crumpling it, and from an artwork by Anders Hoff, who published a study of generative algorithms. The centralized arrangement of the elements in the picture were really appealing. So this aspect was implemented into the algorithm. 
-[To the artwork by Anders Hoff](http://inconvergent.net/generative/differential-mesh-3d/"inconvergent") 
+
+![Differnitalmesh3D](./assets/images/inconvergent.png)
+copyrighted by [http://inconvergent.net](http://inconvergent.net/) 
 
 ## The Algorithm 
 
@@ -42,7 +44,7 @@ Inspiration came from the shapes of lightning, which can be recreated with paper
 
 ## First Iterations 
 
-![Algorithm](./assets/images/algorithm01.png)
+![Algorithm](./assets/images/ball.png)
 
 Part of the initial algorithm were lines, which originated from one point on the paper and along which the test persons were supposed to draw triangles. Playing around with the algorithm by changing the following parameters:
 
