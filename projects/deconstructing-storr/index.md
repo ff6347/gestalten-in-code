@@ -25,34 +25,34 @@ End of the 1960s Storr’s wife used his absence to introduce the work to the co
 ## Deconstructing:
 
 First approaches to deconstructing Marcel Storr’s work were taken by searching for patterns in its color palette. Therefore the dominant color and the color palettes of individual art works was determined using lokeshdhakar.com/projects/color-thief. The determined RGB color values were compared within different artworks and then assigned to there place in the color circle, using color.adobe.com, to unsuccessfully look for similar patterns within his works.
-![](./assets/visuals/doku-ms.012.jpeg)
+![](./assets/images/doku-ms.012.jpeg)
 
 After the search for correlating colors did not come to an end, formal and structural patterns were observed: the buildings' strong upwards growing, their fractal unfolding, the noisy background and the detailed slenderness of the buildings’ components.
 
-![](./assets/visuals/doku-ms.017.jpeg)
+![](./assets/images/doku-ms.017.jpeg)
 
 
 ## Reconstruction:
 
 The codes first iteration used the color palette of one of Storr’s pictures. The result are filled and overlaying sine curves. The second iteration aimed to imitate the pictures fractal components by multiplying the sine curves.
 
-![](./assets/visuals/doku-ms.019.jpeg)
-![](./assets/visuals/doku-ms.020.jpeg)
+![](./assets/images/doku-ms.019.jpeg)
+![](./assets/images/doku-ms.020.jpeg)
 
 The codes third iteration was actually building small fractal ‚houses’. The fourth adopted the idea of fractal, growing ‘houses‘ but replicated them in a assignable width and height. Putting several of the multiplied fractal ‚houses’ into one picture created the impression of one of Storr’s cathedrals.
 
-![](./assets/visuals/doku-ms.021.jpeg)
-![](./assets/visuals/doku-ms.022.jpeg)
-![](./assets/visuals/doku-ms.024.jpeg)
+![](./assets/images/doku-ms.021.jpeg)
+![](./assets/images/doku-ms.022.jpeg)
+![](./assets/images/doku-ms.024.jpeg)
 
 The code so far was rather static and created very similar output.
 In a last iteration of the code, the ouptput was much more variable, creating a new ensemble of buildings every time.
 
-![](./assets/visuals/doku-ms.025.jpeg)
-![](./assets/visuals/doku-ms.027.jpeg)
-![](./assets/visuals/doku-ms.028.jpeg)
-![](./assets/visuals/doku-ms.029.jpeg)
-![](./assets/visuals/doku-ms.030.jpeg)
-![](./assets/visuals/doku-ms.031.jpeg)
+![](./assets/images/doku-ms.025.jpeg)
+![](./assets/images/doku-ms.027.jpeg)
+![](./assets/images/doku-ms.028.jpeg)
+![](./assets/images/doku-ms.029.jpeg)
+![](./assets/images/doku-ms.030.jpeg)
+![](./assets/images/doku-ms.031.jpeg)
 
 The code can be reviewed [here](https://github.com/josues/deconstructing-storr-code).
