@@ -10,7 +10,7 @@ tags:
   - interact
   - Law of Connected Elements
   - Law of Common Fate
-permalink: /color/my-cool-example/
+permalink: /motion/p5js/conObjects/
 summary: Connected balls attracted by the mouse
 ---
 
