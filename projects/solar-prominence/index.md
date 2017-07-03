@@ -32,7 +32,7 @@ The algorithm is given that it is necessary. These prominences turned out to be 
 ![zwp-denys-ivanchenko-protuberanzen32](./assets/images/Protuberanzen32-thumb.png)
 
 ## Search materials
-Whatever was achieved in a more realistic result, I had to try many kinds of colors and materials that I can draw.
+Whatever was achieved in a more realistic result, I had to try many kinds of colors and materials that.
 In the end, the choice was stopped on blue watercolors and plain white office paper. Below is an explanation of why such colors were chosen.
 ![zwp-denys-ivanchenko-protuberanzen13](./assets/images/Protuberanzen13-thumb.png)
 
