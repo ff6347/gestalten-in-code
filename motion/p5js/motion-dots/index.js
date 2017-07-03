@@ -6,8 +6,7 @@ var col = {
 }
 
 function setup() {
-  var a;
-  createCanvas(500,500);
+  var canvas = createCanvas(500,500);
   canvas.parent('sketch');
   }
 
@@ -16,7 +15,7 @@ function draw() {
   col.r = random(0, 255);
   col.g = random(0, 255);
   col.b = random(0, 255);
-   
+
   fill(col.r,col.g,col.b);
   background(0);
   var a = frameCount% width;

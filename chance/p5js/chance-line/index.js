@@ -1,12 +1,12 @@
 var distribution = new Array(360);
 var col = {
-  
+
   r: 155,
   g: 40,
   b: 103
 }
 function setup() {
-  createCanvas(500, 500);
+  var canvas = createCanvas(500, 500);
   canvas.parent('sketch');
   for (var i = 0; i < distribution.length; i++) {
     distribution[i] = floor(randomGaussian(0,100));
@@ -15,7 +15,7 @@ function setup() {
 
 function draw() {
   background(0);
-  
+
   col.r = random(100, 155);
   col.g = random(0, 40);
   col.b = random(0, 103);
