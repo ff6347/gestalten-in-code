@@ -8,42 +8,45 @@
 *The aim of this project was to create an analog algorithm, in which the important role played by the human factor.*
 
 #  Search algorithm
-Initially, it was necessary to create an analog algorithm, which subsequently had to perform not less than 10 people. On my first algorithm, I was inspired by bees. That's how they do their job of collecting honey. But already in the first stages of the algorithm was revised idea of analog algorithm. But later it was decided to take a completely different idea.
-The basis of my new ideas, I took the solar prominences. I was inspired by their unusual structure, how they appear on the surface of the sun and of course their diversity, variation and repeatability.
-In the first stage, I only using an algorithm to convey the essence of the prominences, their origin and various location. In this the first stage has thrown the idea of any possible ancillary facilities to create the desired result. But early results showed that only the text is not enough. In this initial list of essential items such as: pen and paper. There were as experimentation complemented liner, marker and pencil. This embodiment wanted to give freedom to man and later a free and predictable appearance of protuberances themselves, on the number of constants has been reduced to one. This was a constant size, did not say what size, but it was said that the dimensions were approximately similar.
+​
+nitially, it was necessary to create an analog algorithm, which was then supposed to be performed by at least 10 people. The first algorithm was taken on the example of bees. That's how they do their job of collecting honey. But already at the first stages of the algorithm, the idea of ​​an analog algorithm was revised. But later it was decided to adopt a completely different idea. At the heart of new ideas were solar prominences. They inspired them with an unusual structure, as they appear on the surface of the sun and, of course, their diversity, variety and repeatability. At the first stage there was an attempt to transfer the essence of prominences, their origin and different locations. In this, at the first stage, the idea arose of any possible auxiliary means to create the desired result. But early results showed that only text is not enough. In this initial list of basic subjects, such as: pen and paper. There were experiments, supplemented by liner, marker and pencil. This version of the embodiment wanted to give a person freedom, and then a free and unpredictable appearance of the projections themselves, the number of constants was reduced to one. It was a constant size, did not say what size, but it was said that the dimensions were about the same.
 
 ![zwp-denys-ivanchenko-protuberanzen2](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen2-thumb.png)
 
 # The revised algorithm
-Although the first test did not produce the expected result. The results obtained are all exactly surprised, as revealed by how much the human factor can make proofs.
-The next step was to refine the algorithm again to perform the algorithm 10 people. But in this case it was necessary to add a variation of the parameters for an individual parameter. Adder in the first two results, it was decided to change the algorithm. Since at this stage did not want to change the structure and appearance of prominences my varying parameter was the size. Repetition size, the specific size, or complete freedom in choosing the size. But the first two results made it clear that it is necessary to rethink the algorithm. And it was decided to try to pass themselves are not spontaneous appearance of prominences, and their diversity on the surface of the sun. Since the algorithm gave an interesting result, but it was far from the actual prominence.
-Accordingly, it was necessary to revise the idea more thoroughly examine themselves prominences.
-The new search more inspired by the very structure of prominences and it wanted to convey. But I found one error that I led in the wrong direction. All my previous attempts to pass unusualness prominences, was aimed at the prominence that should be out of the sun.
-But on paper it was just a circle and line out. And thereby it was difficult to give them unusual, as in this case, when the circle is the sun of the line (prominences) must be inside.
-In this embodiment, the parameters were burn them directly to paint not only the prominence outside the circle, but also in the inside. Hence the parameters that I had not only the size of the circles themselves but also the direction of the lines. And was also added on a wish, what would the thickness of the line itself (prominence) varied. Thus it is achieved that an attempt is inherent needs structural prominences.
-Materials in this embodiment were also changed. To achieve more realistic results, it was decided to change the plain paper on black. Black color represents the cosmos. But from the available options for drawing on black and colored pencils were of colored pencils pencils were chosen warm colors, which correspond to a reality.
-The results obtained went quite good and was close to the expected result.
-The algorithm is given that that was necessary. These prominences turned out similar to the present. But, unfortunately, the structure itself, the color gradient and the force which can be seen in the prominences, the result is not shown. It has been a question of materials.
+​
+​
+Although the first test did not lead to the expected result. The results obtained are all exactly amazed, which shows how human evidence can be done.
+The next step was to refine the algorithm to perform the algorithm of 10 people. But in this case it was necessary to add a variation of the parameters for an individual parameter. On the first two results, it was decided to change the algorithm. Since at this stage we did not want to change the structure and appearance of the prominences, the parameter was changed. The size of the repetition, the specific size or the total freedom of choice of size. But the first two results made it clear that it is necessary to revise the algorithm. And it was decided to try to pass by themselves, are not spontaneous appearance of prominences and their variety on the surface of the sun. Because the algorithm gave an interesting result, but it was far from the actual attention.
+Accordingly, it was necessary to revise the idea of ​​more thoroughly studying the prominences themselves.
+The new search was inspired by the very structure of prominences.
+On paper it was just a circle and a line. And thus it was difficult to give them unusual, since in this case, when the circle is the sun of the line (prominences), it must be inside.
+In this embodiment, the parameters burned them directly to draw not only a prominence outside the circle, but also inside. Hence the parameters that had not only the size of the circles themselves, but also the direction of the lines. And it was also added at will, that would change the thickness of the line (prominence). Thus, it is achieved that the attempt is inherent in the requirements of structural prominences.
+Materials in this version have also been changed. To achieve more realistic results, it was decided to change the ordinary paper to black. Black represents the cosmos. But from the available drawing options on black and colored pencils there were colored pencils, pencils were chosen warm colors that correspond to reality.
+The results were not bad and were close to the expected result.
+The algorithm is given that it is necessary. These prominences turned out to be similar to the present. But, unfortunately, the structure itself, the color gradient and the force that is visible in the prominences, the result is not shown. It's about the materials.
 ![zwp-denys-ivanchenko-protuberanzen3](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen3-thumb.png)
 ![zwp-denys-ivanchenko-protuberanzen32](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen32-thumb.png)
 
 # Search materials
-Whatever is achieved in a more realistic result, I had to try many kinds of colors and materials that can be painted.
-In the final result, the choice was stopped on the blue watercolors and plain white office paper. Below, I will explain why the colors were selected data.
+Whatever was achieved in a more realistic result, many kinds of colors and materials were tested.
+In the end, the choice was stopped on blue watercolors and plain white office paper. Below is an explanation of why such colors were chosen.
 ![zwp-denys-ivanchenko-protuberanzen13](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen13-thumb.png)
 
 
-The result was surprising and showed exactly what you need.
-Unfortunately acceptable colors that we could draw on the black material, I was not.
-On this, my white paper and blue watercolor.
-Of course the sun with blue protuberances can be observed in reality, it is necessary to take advantage of ultra-violet filter.
+​
+The result was unexpected and showed what was needed.
+Unfortunately, there were no acceptable colors that could be drawn on black paper.
+For this, white paper and blue watercolor were chosen.
+Of course, the sun with blue projections can actually be observed, it is necessary to use an ultraviolet filter.
 ![zwp-denys-ivanchenko-protuberanzen10](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen10-thumb.png)
 
 *Source: http://www.astronoo.com/images/soleil/soleil-protuberance-spicule_medium.jpg*
 
-But with minimal intervention Photoshop, namely team "ctrl + i" invert the colors.
-It turned out to achieve the desired result.
-The obtained results, then I think could come close to the real prominences.
+​
+But with minimal interference from Photoshop, namely the command "ctrl + i" inverts the colors.
+It turned out that he had achieved the desired result.
+The results obtained can approximate real prominences.
 ![zwp-denys-ivanchenko-protuberanzen16-25](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-25-thumb.png)
 ![zwp-denys-ivanchenko-protuberanzen16-252](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-252-thumb.png)
 ![zwp-denys-ivanchenko-protuberanzen16-253](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-253-thumb.png)
