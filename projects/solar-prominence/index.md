@@ -1,19 +1,23 @@
-| authors | authors-url | layout | title | type |
-| ------ | ------ | ------ | ------ | ------ |
-| Denys Ivanchenko | https://github.com/deivanchenko | projekt | Solar prominence | projekt |
++---
+ +authors: Denys Ivanchenko
+ +authors-url: https://github.com/deivanchenko
+ +layout: project
+ +title: Solar prominence
+ +type: project
+ +---
 
-![zwp-denys-ivanchenko-protuberanzen](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/thumb.png)
+![zwp-denys-ivanchenko-protuberanzen](splash.png)  
 
 
 *The aim of this project was to create an analog algorithm, in which the important role played by the human factor.*
 
-#  Search algorithm
+## Search algorithm
 ​
 nitially, it was necessary to create an analog algorithm, which was then supposed to be performed by at least 10 people. The first algorithm was taken on the example of bees. That's how they do their job of collecting honey. But already at the first stages of the algorithm, the idea of ​​an analog algorithm was revised. But later it was decided to adopt a completely different idea. At the heart of new ideas were solar prominences. They inspired them with an unusual structure, as they appear on the surface of the sun and, of course, their diversity, variety and repeatability. At the first stage there was an attempt to transfer the essence of prominences, their origin and different locations. In this, at the first stage, the idea arose of any possible auxiliary means to create the desired result. But early results showed that only text is not enough. In this initial list of basic subjects, such as: pen and paper. There were experiments, supplemented by liner, marker and pencil. This version of the embodiment wanted to give a person freedom, and then a free and unpredictable appearance of the projections themselves, the number of constants was reduced to one. It was a constant size, did not say what size, but it was said that the dimensions were about the same.
 
-![zwp-denys-ivanchenko-protuberanzen2](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen2-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen2](./assets/images/Protuberanzen2-thumb.png)
 
-# The revised algorithm
+## The revised algorithm
 ​
 ​
 Although the first test did not lead to the expected result. The results obtained are all exactly amazed, which shows how human evidence can be done.
@@ -25,13 +29,13 @@ In this embodiment, the parameters burned them directly to draw not only a promi
 Materials in this version have also been changed. To achieve more realistic results, it was decided to change the ordinary paper to black. Black represents the cosmos. But from the available drawing options on black and colored pencils there were colored pencils, pencils were chosen warm colors that correspond to reality.
 The results were not bad and were close to the expected result.
 The algorithm is given that it is necessary. These prominences turned out to be similar to the present. But, unfortunately, the structure itself, the color gradient and the force that is visible in the prominences, the result is not shown. It's about the materials.
-![zwp-denys-ivanchenko-protuberanzen3](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen3-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen32](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen32-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen3](./assets/images/Protuberanzen3-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen32](./assets/images/Protuberanzen32-thumb.png)
 
-# Search materials
+## Search materials
 Whatever was achieved in a more realistic result, many kinds of colors and materials were tested.
 In the end, the choice was stopped on blue watercolors and plain white office paper. Below is an explanation of why such colors were chosen.
-![zwp-denys-ivanchenko-protuberanzen13](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen13-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen13](./assets/images/Protuberanzen13-thumb.png)
 
 
 ​
@@ -39,21 +43,21 @@ The result was unexpected and showed what was needed.
 Unfortunately, there were no acceptable colors that could be drawn on black paper.
 For this, white paper and blue watercolor were chosen.
 Of course, the sun with blue projections can actually be observed, it is necessary to use an ultraviolet filter.
-![zwp-denys-ivanchenko-protuberanzen10](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen10-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen10](./assets/images/Protuberanzen10-thumb.png)
 
-*Source: http://www.astronoo.com/images/soleil/soleil-protuberance-spicule_medium.jpg*
+*Source: [www.astronoo.com](http://www.astronoo.com/images/soleil/soleil-protuberance-spicule_medium.jpg)*
 
 ​
-But with minimal interference from Photoshop, namely the command "ctrl + i" inverts the colors.
-It turned out that he had achieved the desired result.
-The results obtained can approximate real prominences.
-![zwp-denys-ivanchenko-protuberanzen16-25](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-25-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-252](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-252-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-253](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-253-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-254](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-254-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-255](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-255-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-256](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-256-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-257](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-257-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-258](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-258-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-259](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-259-thumb.png)
-![zwp-denys-ivanchenko-protuberanzen16-2510](https://github.com/deivanchenko/gestalten-in-code-1/blob/master/projects/solar-prominence/assets/images/Protuberanzen16-2510-thumb.png)
+But with minimal interference from Photoshop, namely the command "ctrl + i" inverts the colors. 
+It turned out that he had achieved the desired result. 
+The results obtained can approximate real prominences. 
+![zwp-denys-ivanchenko-protuberanzen16-25](./assets/images/Protuberanzen16-25-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-252](./assets/images/Protuberanzen16-252-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-253](./assets/images/Protuberanzen16-253-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-254](./assets/images/Protuberanzen16-254-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-255](./assets/images/Protuberanzen16-255-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-256](.s/solar-prominence/assets/images/Protuberanzen16-256-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-257](./assets/images/Protuberanzen16-257-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-258](./assets/images/Protuberanzen16-258-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-259](./assets/images/Protuberanzen16-259-thumb.png)
+![zwp-denys-ivanchenko-protuberanzen16-2510](./assets/images/Protuberanzen16-2510-thumb.png)
