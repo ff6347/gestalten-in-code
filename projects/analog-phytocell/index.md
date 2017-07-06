@@ -32,7 +32,7 @@ Well, what can be more exciting for a designer than using this ordinary template
 
 Our experience so far and from our sciolism is that we suspect that algorithms mostly deal with coding. The question is, what are they exactly?
 
-Werner Stangl, an Austrian psychologist describes an algorithm as _a systematic, logic rule or approach which leads to the solution of the problem in hand._ [1]
+Werner Stangl, an Austrian psychologist describes an algorithm as _a systematic, logic rule or approach which leads to the solution of the problem in hand._ [1](http://lexikon.stangl.eu/3027/algorithmus-algorythmus-algorhythmus/ "Werner Stangl: Algorithmus; lexikon.stangl.eu; (30.03.2017)")
 
 Therefore we approached the answer to this question playfully in the first part of the seminar.
 
@@ -143,4 +143,3 @@ Using the simple book for testing, it showed that the ink of the black pen bleed
 
 Whatever the case may be, the assignment accompanies me beyond. I'm taking the test-book with me and from time to time I put it and the algorithm into someones hand and see what happens. Eventually I want to accumulate the results and transcribe the best outputs into the plant book - another way of a plant collection.
 
-[1]: http://lexikon.stangl.eu/3027/algorithmus-algorythmus-algorhythmus/ "Werner Stangl: Algorithmus; lexikon.stangl.eu; (30.03.2017)"
