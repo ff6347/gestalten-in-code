@@ -1,11 +1,11 @@
-const myHeight = 30;
-const radius = 30;
+var myHeight = 30;
+var radius = 30;
 
-const light_r = light_g = light_b = 250;
-const light_a = 255;
+var light_r = light_g = light_b = 250;
+var light_a = 255;
 
-let counter = 0;
-let increment = 1;
+var counter = 0;
+var increment = 1;
 
 function setup() {
   var canvas = createCanvas(300, 300, WEBGL);
@@ -20,7 +20,7 @@ function drawACone(_x, _y) {
   pop();
 }
 
-function draw(){
+function draw() {
   counter += increment;
 
   if (counter === 0) {

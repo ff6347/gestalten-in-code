@@ -8,16 +8,12 @@ type: project
 
 ![Cover](./splash.png)
 
-#
 
 ## General
 
-If algorithms only remind you of confusing and therefore boring math lessons in school actually you will be surprised how omnipresent and awesome they really are.
-
-The whole world consists of Mathematics: music, tax declarations or the mother nature itself.
-In most cases it is not obvious but it's there.
-Sometimes mathematics seems to be very complex and at first sight beyond our comprehension but it will never get boring.
-No, quite the contrary: if we understand it and know how to leverage it we can create amazing things!
+If algorithms only remind you of confusing and therefore boring math lessons in school actually you will be surprised how omnipresent and awesome they really are.  
+The whole world consists of Mathematics: music, tax declarations or the mother nature itself. In most cases it is not obvious but it's there.
+Sometimes mathematics seems to be very complex and at first sight beyond our comprehension but it will never get boring. No, quite the contrary: if we understand it and know how to leverage it we can create amazing things!
 
 ![Picture of fern](./assets/images/fern.png)
 
@@ -55,14 +51,17 @@ Sometimes the "new" results were much more interesting than the original one you
 So the thin line between precise specification and variance is an exciting and difficult point within algorithm game.
 
 ## 1st Iteration - Experiments
+
 As a first step the new and totally different algorithms try to establish a line between exact and quite free instructions. As part of the assignment they are combined with different materials for the implementation.
 
 ### Time to say goodbye to simple pieces of paper and pen
+
 The algorithms state that the test person shall experiment a bit with the given material. So there were installed 4 several sites. For each it was created a specific algorithm and some tools like lipstick and mirror, rice and slate, crayon etc. were provided, too.
 
 ![Four sites](./assets/images/iteration1_sites.png)
 
 ### Inspiration
+
 The inspiration for the different algorithms comes from structures, patterns and shapes in my environment, like the imprint of a leaf on a ceramic platter.
 
 ![Ceramic platter](./assets/images/inspiration.png)
@@ -133,14 +132,15 @@ Next: the book. As it was assumed, the test persons are a bit afraid to paint th
 ![Outputs](./assets/images/iteration4_5.png)
 
 ### Little herbarium
+
 To achieve a better link among the content of the book and the algorithm, the book had to change into a little booklet about plants, what was found in a second-hand bookshop. It includes some scientific illustrations that show the structure of plant cells and their mode of action and chemistry. Maybe you can visualize how wonderfully you could assimilate the execution of the algorithm with them!
 
 ![Herbarium book](./assets/images/herbarium_book.png)
 
-But I didn't dare to touch it.
-Using the simple book for testing, it showed that the ink of the black pen bleeds so much that you can see it on the back page. I still haven't found a satisfying solution or good pen for it. One idea would be to insert transparent paper for the drawings.
+Using the simple book for testing, it showed that the ink of the black pen bleeds so much that you can see it on the back page. (I still haven't found a satisfying solution or good pen for it. One idea would be to insert transparent paper for the drawings.)
 
 ## Conclusion
+
 Whatever the case may be, the assignment accompanies me beyond. I'm taking the test-book with me and from time to time I put it and the algorithm into someones hand and see what happens. Eventually I want to accumulate the results and transcribe the best outputs into the plant book - another way of a plant collection.
 
 [1]: Werner Stangl: Algorithmus; lexikon.stangl.eu; http://lexikon.stangl.eu/3027/algorithmus-algorythmus-algorhythmus/ (30.03.2017)

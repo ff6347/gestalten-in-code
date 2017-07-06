@@ -10,7 +10,7 @@ function setup() {
 
 function drawLines(count) {
   for (var i = 0; i < count; i++) {
-     var x = i * distance;
+    var x = i * distance;
 
     line(x, 0, x, 500);
   }
