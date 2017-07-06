@@ -11,24 +11,24 @@ type: project
 
 
 
-![](./splash.png)￼
+![](./splash.png)  
 
 ## Part 1 - Task 
+
 - In groups of two we should decide us for an artist / designer. 
 - We should decide either on a work (deeply) or on a series (broadly). 
 - For the presentation we should do a short summary of the elected person. 
 
 ## Biography
+
 This project is about Vassily Kandinsky and one of his artwork - **Circles in a Circle**. Within this course we visited the Bauhaus archive in Berlin whereby my decision was decisively influenced.
 
-![](./assets/images/biografie.png)￼
+![](./assets/images/biografie.png)  
 
 **Vassily Kandinsky** was a russian painter and is known and famous as one of the pioneers of the abstract painting and the abstract expressionism. 
-By his pictures and theoretical works he exerted a big influence on the development of the modern art. 
-
-In **1866** Kandinsky was born in Moscow and he learned to play the piano and cello in early years. 
-The music had played a big role in his art and life. 
-**1886** he studied economic policy in Moscow where he worked as a lecturer at the university. 
+By his pictures and theoretical works he exerted a big influence on the development of the modern art.  
+In **1866** Kandinsky was born in Moscow and he learned to play the piano and cello in early years. The music had played a big role in his art and life. 
+**1886** he studied economic policy in Moscow where he worked as a lecturer at the university.  
 After he visited a French impressionistic art exhibition in **1895** he moved to Munich and had learned the basic technologies of the painting. 
 
 He studied the impressionistic style as well as the jugendstil. Especially he discussed with the works from Franz of Stucks. 
@@ -52,7 +52,8 @@ His time ends there in **1933** with the closing of the school by the National S
 
 After the Bauhaus period Kandinsky moves to France. There he lives and paints up to his death in **1944** in a Paris suburb. He had become a member of the Parisians artist's group Abstraction-Création. From the National Socialists Kandinskys pictures were devaluated, like from many other artists in this time, they had become *degenerated art*. Many of his pictures are exiled in **1937** from the German museums.
 
-## Inspiration
+## Inspiration  
+
 **'Point and line to plane'** 
 In this varied work he describes the psychological effects of the colour and the resemblances between painting and music. This book had become a fundamental importance for the abstract painting. In the most important chapter 'Forms and colour language' he develops his theory that form can exist in contrast to colour independently. 
 That means that the form influences the colour substantially. 
@@ -66,6 +67,7 @@ This attribute, of the sound and the glare, fits perfectly to the sharp triangle
 In the beginning **this book** was my basis, nevertheless, finally I have decided to take a certain work for the analysis (deeply). It is the painting *Circles in a Circle* of 1923. This was one of his first paintings in which he had occupied only with the circle.
 
 ## Part 2 - Task
+
 - Analyse the artist after categories and gestalt laws. 
 - Besides, we should sketch methodologies and tools for the analysis.
 - According to the analysis we should formulate a set of rules and apply it in code.
@@ -125,11 +127,11 @@ within the circle
 
 ## Code Result
 
-![](./assets/images/colour-kandinsky.png)￼
+![](./assets/images/colour-kandinsky.png)  
 ###### [Source](http://lokeshdhakar.com/projects/color-thief/) 
 
 
-![](./assets/images/code.png)￼
+![](./assets/images/code.png)  
 
 Here is the [Link](https://github.com/paulinalinaa/vassily-kandinsky-circles-in-a-circle) of this code.
 
@@ -137,7 +139,7 @@ Here is the [Link](https://github.com/paulinalinaa/vassily-kandinsky-circles-in-
 - - -
 
 # License (MIT)
-*© 2017 | Paulina Mrksic | Fh Potsdam - University of applied sciences | Grundlagen Generative Gestaltung | Fabian Morón Zirfas*
+*© 2017 | Paulina Mrksic, Fh Potsdam - University of applied sciences & Fabian Morón Zirfas*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
