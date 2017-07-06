@@ -2,8 +2,8 @@
 layout: p5js
 author: Denys Ivanchenko
 author-url: https://github.com/deivanchenko
-title: chance line
+title: Chance Line
 tags: [P5.js, chance, repeat]
 permalink: /chance/chance-line/
-summary: casualty lines creating the effect of an infinite tunnel. 
+summary: Casualty lines creating the effect of an infinite tunnel. 
 ---
