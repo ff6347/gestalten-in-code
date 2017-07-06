@@ -143,4 +143,4 @@ Using the simple book for testing, it showed that the ink of the black pen bleed
 
 Whatever the case may be, the assignment accompanies me beyond. I'm taking the test-book with me and from time to time I put it and the algorithm into someones hand and see what happens. Eventually I want to accumulate the results and transcribe the best outputs into the plant book - another way of a plant collection.
 
-[1]: Werner Stangl: Algorithmus; lexikon.stangl.eu; http://lexikon.stangl.eu/3027/algorithmus-algorythmus-algorhythmus/ (30.03.2017)
+[1]: http://lexikon.stangl.eu/3027/algorithmus-algorythmus-algorhythmus/ "Werner Stangl: Algorithmus; lexikon.stangl.eu; (30.03.2017)"
