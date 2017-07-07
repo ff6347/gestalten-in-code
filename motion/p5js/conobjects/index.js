@@ -6,6 +6,7 @@ var csize = 500;
 
 function setup(){
   createCanvas(csize,csize);
+  canvas.parent('sketch'); 
   for(var i = 0; i < movers.length; i++){
   movers[i] = new Mover(places[i],places[i]);
   }
