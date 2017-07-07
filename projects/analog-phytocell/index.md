@@ -1,6 +1,8 @@
 ---
 authors:
   - "Natalie Schreiber"
+authors-url:
+  - "https://github.com/natascher"
 layout: project
 title: "Phytocell"
 type: project
@@ -32,7 +34,9 @@ Well, what can be more exciting for a designer than using this ordinary template
 
 Our experience so far and from our sciolism is that we suspect that algorithms mostly deal with coding. The question is, what are they exactly?
 
-Werner Stangl, an Austrian psychologist describes an algorithm as _a systematic, logic rule or approach which leads to the solution of the problem in hand._ [1](http://lexikon.stangl.eu/3027/algorithmus-algorythmus-algorhythmus/ "Werner Stangl: Algorithmus; lexikon.stangl.eu; (30.03.2017)")
+Werner Stangl, an Austrian psychologist describes an algorithm as 
+
+>a systematic, logic rule or approach which leads to the solution of the problem in hand. [1](http://lexikon.stangl.eu/3027/algorithmus-algorythmus-algorhythmus/ "Werner Stangl: Algorithmus; lexikon.stangl.eu; (30.03.2017)")
 
 Therefore we approached the answer to this question playfully in the first part of the seminar.
 
@@ -62,16 +66,14 @@ The algorithms state that the test person shall experiment a bit with the given 
 
 ### Inspiration
 
-The inspiration for the different algorithms comes from structures, patterns and shapes in my environment, like the imprint of a leaf on a ceramic platter.
+The inspiration for the different algorithms comes from structures, patterns and shapes in my environment, like the imprint of a leaf on a ceramic platter. The fine veins and structures of the cells has the potential to display the classic natural structure in various ways.
 
 ![Ceramic platter](./assets/images/inspiration.png)
 
-The fine veins and structures of the cells has the potential to display the classic natural structure in various ways.
-
-The wording of the algorithm is:
-1. Work with the provided materials/tools.
-2. Draw at least one thick stroke. Radiant from this, draw as many as 3 more lines. From these as many as 5 more fine lines anon.
-3. Fill the spaces in between with round shapes.
+The wording of the algorithm is:  
+>1. Work with the provided materials/tools.
+>2. Draw at least one thick stroke. Radiant from this, draw as many as 3 more lines. From these as many as 5 more fine lines anon.
+>3. Fill the spaces in between with round shapes.  
 
 ![Iteration 1 results](./assets/images/iteration1_results.png)
 
@@ -94,17 +96,14 @@ Thus a new level was reached - but not yet with the rice. Simply with white pape
 ![Output 1](./assets/images/iteration2_output1.png)
 
 ### New ideas, new chapters
-The results were very satisfying and those on the squared paper evoked a new idea concerning the material: Maybe book pages are the right answer.
 
-The pages or figuratively leaves of a book - the connection between the organic paper and the leaf-inspired algorithm.
-But the question was, if the test persons are that courageous to paint the printed book pages and to play around with structures and words.
+The results were very satisfying and those on the squared paper evoked a new idea concerning the material: Maybe book pages are the right answer. The pages or figuratively leaves of a book - the connection between the organic paper and the leaf-inspired algorithm. But the question was, if the test persons are that courageous to paint the printed book pages and to play around with structures and words.
 
 ## 3rd Iteration - Wild Rice
 
 ![Colored rice](./assets/images/iteration3_wild_rice.png)
 
-Nonetheless the experiment with the rice was pending.
-For short: Forming the shapes took forever and it was a mess.
+Nonetheless the experiment with the rice was pending. For short: Forming the shapes took forever and it was a mess.
 
 **I thought of something like this:**
 
@@ -116,6 +115,7 @@ For short: Forming the shapes took forever and it was a mess.
 For all food savers: of course all the rice was ate up, because it has been colorized with natural colors.
 
 ## 4th Iteration - Blank Pages Get Written
+
 Next: the book. As it was assumed, the test persons are a bit afraid to paint the pages at first - although taking an old page-turner which wasn't near and dear to me at all. The outputs were sometimes more, sometimes less courageous. However, the differences between pleased me.
 
 ![Outputs](./assets/images/iteration4_outputs.png)

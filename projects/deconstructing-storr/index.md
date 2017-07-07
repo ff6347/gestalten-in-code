@@ -4,6 +4,7 @@ authors:
   - Theodor Hillmann
 authors-url:
   - "https://incom.org/profil/7029"
+  - "http://invitrocolor.com"
 layout: project
 title: "Deconstructing Master Artists: Marcel Storr"
 type: project
@@ -48,8 +49,7 @@ The codes third iteration was actually building small fractal „houses“. The 
 ![](./assets/images/doku-ms.022.jpeg)
 ![](./assets/images/doku-ms.024.jpeg)
 
-The code so far was rather static and created very similar output.
-In a last iteration of the code, the ouptput was much more variable, creating a new ensemble of buildings every time.
+The code so far was rather static and created very similar output. In a last iteration of the code, the ouptput was much more variable, creating a new ensemble of buildings every time.
 
 ![](./assets/images/doku-ms.025.jpeg)
 ![](./assets/images/doku-ms.027.jpeg)
