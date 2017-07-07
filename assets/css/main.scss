@@ -89,9 +89,9 @@ hr{
 }
 blockquote {
   font-family:'vollkornitalic', 'Georgia', serif;
-  color:lighten($colGrey, 80%);
+  color:lighten($colGrey, 20%);
   margin: 1em;
-  border-left: 5px dotted lighten($colGrey, 80%);
+  border-left: 5px dotted lighten($colGrey, 20%);
   padding-left:1em;
    ul{
       list-style: none;
@@ -103,7 +103,7 @@ blockquote {
     }
       li:before{
          content: "• ";
-         color:lighten($colGrey, 80%);
+         color:lighten($colGrey, 20%);
       }
   }
 }
