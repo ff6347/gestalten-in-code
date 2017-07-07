@@ -31,14 +31,16 @@ Fractals are interesting and fascinating structures, that can be found in the na
 The basic idea was to concatenate simple basic shapes, which should change their size in succession. The subjects could independently decide how to draw the surfaces in their length, but also the size and direction of the display and the concatenation should be a part of the final artwork. Fifteen subjects drawn an artwork with the description of the algorithm described in the 1. iteration.
 
 ## 1. Iteration
-The instructions for the first iteration were described as a short list with clearer statements to make the iteration more understandable and easier for resolving the new variables:
-1. Use a piece of paper in any size you like (white, black, in different colors, with lines, etc.)
-2. Draw a circle with at least 5mm in diameter at any point of the side on the paper
-3. Draw a square about 5mm larger than the circle area you have already drawn before. The square and the circle must touch each other at any tangent, side or corner.
-4. Draw a triangle (equilateral, square or isosceles). The surface of the triangle should be approximately 5 mm larger than the area of the square. The triangle must touch the square at any side or corner.
-5. Draw a pentagon, which should be 5 mm larger than the triangle. The pentagon has to touch the triangle also at any side or corner that you prefer.
-6. Repeat steps 1 to 5 till you finish an own artwork composition. Notice that the pentagon is now the starting point for the repetition because this shape was the last drawn area.
-7. Fill out some of the shapes as you wish (colorful or black and white).
+
+The instructions for the first iteration were described as a short list with clearer statements to make the iteration more understandable and easier for resolving the new variables:  
+
+>1. Use a piece of paper in any size you like (white, black, in different colors, with lines, etc.)
+>2. Draw a circle with at least 5mm in diameter at any point of the side on the paper
+>3. Draw a square about 5mm larger than the circle area you have already drawn before. The square and the circle must touch each other at any tangent, side or corner.
+>4. Draw a triangle (equilateral, square or isosceles). The surface of the triangle should be approximately 5 mm larger than the area of the square. The triangle must touch the square at any side or corner.
+>5. Draw a pentagon, which should be 5 mm larger than the triangle. The pentagon has to touch the triangle also at any side or corner that you prefer.
+>6. Repeat steps 1 to 5 till you finish an own artwork composition. Notice that the pentagon is now the starting point for the repetition because this shape was the last drawn area.
+>7. Fill out some of the shapes as you wish (colorful or black and white).
 
 ## Materials
 The task for the artwork was to choice the paper, drawing materials (pencils, pens, crayons, markers, etc.) and also such as ruler, compass, and other different materials for drawing. An overview of the diversity of the designed drawings are shown below. All artworks were consistently chosen in an A4 (297mm x 210mm) format.
@@ -62,13 +64,15 @@ The results of the subjects were well done, however, all geometric surfaces shou
 The vocabulary for definition and description for notes (readability and legibility) and guidance of an order within a project should contain brief, "very simple" and clear words. The subjective perception of the subjects and their attention during reading also plays a strong role here. The investigation of the aspects mentioned is subverted in the psychology of perception in various ways. Book recommendation: Visual perception by Jürg Nänni.
 
 ## 2. Iteration
+
 The critical aspects of the first iteration were important to rethink and redefine a clearer, shorter and more accurate description to make the artwork with the targeted description. Some of these aspects were:
-1. Free choice of work surface (material characteristics)
-2. Free choice of drawing materials
-3. The series of produced artworks makes it difficult to find comparisons
-4. Mathematical size - difficult to calculate
-5. Work steps too complex and long described
-6. Open time limit in the execution of tasks
+
+>1. Free choice of work surface (material characteristics)
+>2. Free choice of drawing materials
+>3. The series of produced artworks makes it difficult to find comparisons
+>4. Mathematical size - difficult to calculate
+>5. Work steps too complex and long described
+>6. Open time limit in the execution of tasks
 
 ## New Variables/Constants/parameters
 The constants were defined for this step using only black cardboard
@@ -82,61 +86,61 @@ With the above informations could be described a new definition for the second i
 
 **01. Alternative**
 
-![](./assets/images/iteration_03-1.png)
+![](./assets/images/iteration_03-1.png)  
 
-1. Please read the instructions first (processing time max. 15 minutes)
-2. Draw a square shape with oblique sides at the edge of the paper
-3. Place the pencil at the vertex of one side length and draw 3 more sides, so that beside the first square another new one is drawn.
-4. Repeat the third step, varying the side lengths (large and small) drawing new shapes until you reach two corners of the opposite side of the paper. You can draw new squares choosing a random side of the other squares that are already drawn before.
+>1. Please read the instructions first (processing time max. 15 minutes)
+>2. Draw a square shape with oblique sides at the edge of the paper
+>3. Place the pencil at the vertex of one side length and draw 3 more sides, so that beside the first square another new one is drawn.
+>4. Repeat the third step, varying the side lengths (large and small) drawing new shapes until you reach two corners of the opposite side of the paper. You can draw new squares choosing a random side of the other squares that are already drawn before.
 
 **02. Alternative**
 
 ![](./assets/images/iteration_03-2.png)
 
-1. Please read the instructions first (processing time max. 15 minutes)
-2. Fold the sheet vertically into two equal parts
-3. Fold the folded sheet horizontally back into two equal parts
-4. Fold the sheet as in steps 2 and 3 again
-5. Open the sheet and select one of the resulting rectangles (fold lines)
-6. Draw the fold lines with the pencil
-7. Divide the drawn rectangle into 4 equal rectangles
-8. Divide one of the rectangles into 2 more equal rectangles and repeat this step until you can't divide it any more.
-9. Select a new rectangle (fold lines) and repeat steps 6 to 8. After that your composition is finished.
+>1. Please read the instructions first (processing time max. 15 minutes)
+>2. Fold the sheet vertically into two equal parts
+>3. Fold the folded sheet horizontally back into two equal parts
+>4. Fold the sheet as in steps 2 and 3 again
+>5. Open the sheet and select one of the resulting rectangles (fold lines)
+>6. Draw the fold lines with the pencil
+>7. Divide the drawn rectangle into 4 equal rectangles
+>8. Divide one of the rectangles into 2 more equal rectangles and repeat this step until you can't divide it any more.
+>9. Select a new rectangle (fold lines) and repeat steps 6 to 8. After that your composition is finished.
 
 
 **03. Alternative**
 
 ![](./assets/images/iteration_03-3.png)
 
-1. Please read the instructions first (processing time max. 15 minutes)
-2. Draw a tiny circle on the leaf
-3. Draw a larger triangle that touches the circle
-4. Draw an even larger square that touches the triangle
-5. Draw again a larger pentagon that touches the square
-6. Draw a larger circle that touches the pentagon
-7. Repeat steps 2 to 6 five times
-8. Repeat step 2 to 6 another five times, but invert the steps
+>1. Please read the instructions first (processing time max. 15 minutes)
+>2. Draw a tiny circle on the leaf
+>3. Draw a larger triangle that touches the circle
+>4. Draw an even larger square that touches the triangle
+>5. Draw again a larger pentagon that touches the square
+>6. Draw a larger circle that touches the pentagon
+>7. Repeat steps 2 to 6 five times
+>8. Repeat step 2 to 6 another five times, but invert the steps
 
 **04. Alternative**
 
 ![](./assets/images/iteration_03-4.png)
 
-1. Please read the instructions first (processing time max. 15 minutes)
-2. Draw 10 circles with different diameters on the sheet
-3. Draw a square for each circle that touches each circle. Each square should have a different size to the connected circle (smaller or larger)
-4. Draw a triangle for each square that touches each square. The size of each triangle must be changed (smaller or larger)
-5. Draw a circle for each triangle that touches each triangle. The size of each circle should be different than the size of corresponding triangle (smaller or larger)
-6. Repeat steps 3 to 5 until at least 3 separate structures are connected with each other.
+>1. Please read the instructions first (processing time max. 15 minutes)
+>2. Draw 10 circles with different diameters on the sheet
+>3. Draw a square for each circle that touches each circle. Each square should have a different size to the connected circle (smaller or larger)
+>4. Draw a triangle for each square that touches each square. The size of each triangle must be changed (smaller or larger)
+>5. Draw a circle for each triangle that touches each triangle. The size of each circle should be different than the size of corresponding triangle (smaller or larger)
+>6. Repeat steps 3 to 5 until at least 3 separate structures are connected with each other.
 
 
 **05. Variant**
 
 ![](./assets/images/iteration_03-5.png)
 
-1. Please read the instructions first (processing time max. 15 minutes)
-2. Draw a square shape (diamond, rectangle, trapezoid, square) in the center of the work surface
-3. Select a side length of the shape and draw a new shape (rhombus, rectangle, trapezoid, square).
-4. Rotate the sheet 90 degrees and repeat steps 2 and 3 several times. The drawn side lengths should get smaller in the new drawn shapes until you aren't able to draw more shapes on the sheet, then you're done.
+>1. Please read the instructions first (processing time max. 15 minutes)
+>2. Draw a square shape (diamond, rectangle, trapezoid, square) in the center of the work surface
+>3. Select a side length of the shape and draw a new shape (rhombus, rectangle, trapezoid, square).
+>4. Rotate the sheet 90 degrees and repeat steps 2 and 3 several times. The drawn side lengths should get smaller in the new drawn shapes until you aren't able to draw more shapes on the sheet, then you're done.
 
 ## 3. Iteration
 ![](./assets/images/iteration_04.png)
@@ -148,7 +152,8 @@ _Draw a square shape with oblique sides at the edge of the work surface and afte
 ![](./assets/images/iteration_04-1.png)
 ![](./assets/images/iteration_04-2.png)
 
-One last point in this iteration was corrected by Fabian Morón Zirfas (our Lecturer), because the description of the definition in a list looks more legible to the subjects:
+One last point in this iteration was corrected by Fabian Morón Zirfas (our Lecturer), because the description of the definition in a list looks more legible to the subjects: 
+
 - Draw square shapes that touch each other
 - The length of the sides must vary
 - The shapes should not be drawn parallel to the sheet edges
