@@ -89,10 +89,23 @@ hr{
 }
 blockquote {
   font-family:'vollkornitalic', 'Georgia', serif;
+  color:lighten($colGrey, 50%);
   margin: 1em;
-  font-size: 1.44em;
-  border-left: 5px solid lighten($colGrey, 50%);
+  border-left: 5px dotted lighten($colGrey, 50%);
   padding-left:1em;
+   ul{
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      li{
+        padding-left: 1em;
+        text-indent: -.7em;
+    }
+      li:before{
+         content: "• ";
+         color:lighten($colGrey, 50%);
+      }
+  }
 }
 // header {
 //   border-bottom: 1px solid $colGrey;
