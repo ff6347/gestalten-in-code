@@ -154,19 +154,18 @@ _Draw a square shape with oblique sides at the edge of the work surface and afte
 
 One last point in this iteration was corrected by Fabian Morón Zirfas (our Lecturer), because the description of the definition in a list looks more legible to the subjects: 
 
-- Draw square shapes that touch each other
-- The length of the sides must vary
-- The shapes should not be drawn parallel to the sheet edges
-- The forms decrease and increase (linear, exponential, ...)
-- The forms can be partly hatched
+>- Draw square shapes that touch each other
+>- The length of the sides must vary
+>- The shapes should not be drawn parallel to the sheet edges
+>- The forms decrease and increase (linear, exponential, ...)
+>- The forms can be partly hatched
 
 Nevertheless the results that are shown above at this iteration are exactly the goal what it should be shown in every single artwork of subjects.
 
----
 
 ## License (MIT)
 
-_© Fh Potsdam · University of applied sciences · Edmundo Mejia Galindo WS2016/17 3. Semester Interface Design · Grundlagen Generative Gestaltung · Lecturer: Fabian Morón Zirfas · February 2017_
+©  February 2017 Fh Potsdam (University of Applied Sciences), Edmundo Mejia Galindo & Fabian Morón Zirfas
 
 This is free and unencumbered software released into the public domain.
 
