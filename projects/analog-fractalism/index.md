@@ -147,7 +147,7 @@ With the above informations could be described a new definition for the second i
 
 The last iteration had the goal to simplify the description for the artwork iteration. All parameters, variables and constants were summarized in one paragraph:
 
-_Draw a square shape with oblique sides at the edge of the work surface and afterwards draw other quadrangles, which are connected with the preceding one. Variate the side lengths. Draw the quadrangles that become smaller and then larger again until two corners of the sheet are full drawn with quadrangles. When you finish the artwork, just try to hatch some of the figures if you like._
+>Draw a square shape with oblique sides at the edge of the work surface and afterwards draw other quadrangles, which are connected with the preceding one. Variate the side lengths. Draw the quadrangles that become smaller and then larger again until two corners of the sheet are full drawn with quadrangles. When you finish the artwork, just try to hatch some of the figures if you like.
 
 ![](./assets/images/iteration_04-1.png)
 ![](./assets/images/iteration_04-2.png)
