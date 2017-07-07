@@ -9,8 +9,8 @@ function setup () {
   //gradient from and to color
   from = color(204, 102, 0);
   to = color(0, 102, 153);
-  createCanvas(500,500);
-  canvas.parent('sketch'); 
+  var canvas = createCanvas(500,500);
+  canvas.parent('sketch');
   population = new Population();
   ball = new Ball();
 }
