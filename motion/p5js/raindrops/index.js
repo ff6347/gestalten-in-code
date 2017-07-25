@@ -123,6 +123,6 @@ if (circleY5 >= height) {
   stroke(227,68,40);
   rect(0, rectX, width, rectH);
 
- // Klammer End Draw 
+
 }
 
