@@ -8,5 +8,5 @@ tags:
   - motion
   - Law of Similarity
 permalink: /motion/raindrops/
-summary: Elements of same speed towards same direction are seen as grouped together.
+summary: Elements of same speed towards the same direction are seen as a group.
 --- 
