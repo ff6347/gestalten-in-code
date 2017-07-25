@@ -50,6 +50,4 @@
       function draw() {
       }
       
-      function mousePressed(){
-      save('image.jpg');
-      }
+
