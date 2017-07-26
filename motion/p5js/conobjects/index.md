@@ -1,7 +1,7 @@
 ---  
 layout: p5js
 author: Theodor Hillmann
-author-url: https://www.invitrocolor.com
+author-url: http://www.invitrocolor.com
 title: conObjects
 tags:
   - P5.js
