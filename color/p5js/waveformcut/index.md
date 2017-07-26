@@ -3,7 +3,6 @@ layout: p5js
 author: Theodor Hillmann
 author-url: https://www.invitrocolor.com
 title: WaveformCut
-type: project
 tags:
   - P5.js
   - color
