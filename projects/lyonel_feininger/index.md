@@ -6,23 +6,24 @@ authors-url:
   - "https://github.com/hulianbrox"
   - "https://github.com/jakobvk"
 layout: project
-title: "Lyonel Feininger"
+title: "Deconstructing Master Artists - Lyonel Feininger"
 type: project
 ---
-## Deconstructing Master Artists 
 
 This project is an extensive analysis of artist Lyonel Feininger's painting “Vogelwolke” from 1924. By using the gestalt laws and self-developed new methods and tools, a set of rules and regulations was developed and applied on code to create generative art based on this old existing piece of art.
 
 The project was developed for the class “Gestalten in Code – Die Grundlagen Generativer Gestaltung” by Fabian Morón Zirfas at the University of Applied Sciences Potsdam, Faculty of Design.
 
 ## Who is Lyonel Feininger? 
+
 ![lyonel-feininger](./assets/images/lyonel.png)  
+
 Due to his works at Bauhaus 1919, Lyonel Feininger is one of the most eminent artist of the period of the “Classical Modernity”. 
 Lyonel Feininger was born 1871 in New York City. When he came to Europe 1887 he studied in Hamburg, Berlin and then Paris, France. 1919 he was called to Bauhaus University by Walter Gropius to be the first school master for painting and graphics. 
 
 
-He mostly pictured cities, gothic buildings and the sea, coastlines and sailing ships.
-Being influenced by the Cubism and Orphism, he calls his style “Prismaism”. His art is famous for sceneries flooded with light, geometricization to focus on the essentials and shapes being duplicated many times. Intense and detailed nature studies are always made before starting a painting. A new, inner reality is being created by breaking away from the outer reality.
+He mostly pictured cities, Gothic buildings and the sea, coastlines and sailing ships.
+Being influenced by the Cubism and Orphism, he calls his style “Prismaism”. His art is famous for sceneries flooded with light, geometrization to focus on the essentials and shapes being duplicated many times. Intense and detailed nature studies are always made before starting a painting. A new, inner reality is being created by breaking away from the outer reality.
 Lyonel Feininger once said “And it is always like that, whatever I draw – it is confirmed by nature itself.” (Lyonel Feininger, 1924) which is an interesting statement for us, as ongoing generative artists, because his paintings seem to have a very logic and regulated background, but are, concerning him, only created by nature.
 
 
@@ -44,11 +45,12 @@ A cloud is moving towards a curved coastline, in the background there is mountai
 ![composition](./assets/images/005_composition.png)
 
 
-In the following the painting was analyzed by composition, size, brightness, transparency, shapes, colors and lines.
+In the following the painting was analysed by composition, size, brightness, transparency, shapes, colors and lines.
 
 ## Composition
 
 Three zones
+
 * yellow beach
 * dark sea
 * see-through blue sky
@@ -58,9 +60,9 @@ In the foreground there is a small person.
 
 ### Size/Ratio
 
-[1:1:4] Beach – Sea – Sky
-Or
-[1:2] Earth – Sky
+[1:1:4] Beach – Sea – Sky  
+Or  
+[1:2] Earth – Sky  
 
 
 ### Brightness
@@ -104,7 +106,7 @@ Warm colours seem to be close, cold colours seem to be far. The beach appears cl
 ![law-of-space](assets/images/016_law_of_space_through_colour.png)
 
 ### Law of Contrast
-Areas are divided through contrast. The pretty dark sea stands out from the beach. The light cloud stands out from the sky. The dark sea seperates the beach and the sky. 
+Areas are divided through contrast. The pretty dark sea stands out from the beach. The light cloud stands out from the sky. The dark sea separates the beach and the sky. 
 
 ![law_of_contrast](./assets/images/017_law_of_contrast.png)
 ![law_of_contrast](./assets/images/018_law_of_contrast.png)
@@ -114,7 +116,7 @@ Areas are divided through contrast. The pretty dark sea stands out from the beac
 The code focusses on composition, sizes and shapes, as well as overlapping and transparency. 
 The size of the canvas is fixed to 780x500. It is separated into three areas that are coloured in the average three main colours in the ratio 1:1:4.
 
-Grey and white shapes in different gradation of transparencies are laying over the main three areas. The location of these shapes is fixed to a certain area. With every execution the program will generate new shapes within this area based on randomness in size and postion. The gradation of transparency varies in the range of 10-60 in the HSB colour range. 
+Grey and white shapes in different gradation of transparencies are laying over the main three areas. The location of these shapes is fixed to a certain area. With every execution the program will generate new shapes within this area based on randomness in size and position. The gradation of transparency varies in the range of 10-60 in the HSB colour range. 
 
 The results are variations of the basic shapes of Lyonel Feiningers “Vogelwolke”. 
 
@@ -124,7 +126,7 @@ The results are variations of the basic shapes of Lyonel Feiningers “Vogelwolk
 
 
 ## Conclusion and Future Prospects
-The variations of the output of our program are similar to one another but each provids a basis for a new individual “Vogelwolke” painting. If lines and tone shading are added according to the rules we developed, the cloud is shifting in the the upper two thirds of the picture. 
+The variations of the output of our program are similar to one another but each provides a basis for a new individual “Vogelwolke” painting. If lines and tone shading are added according to the rules we developed, the cloud is shifting in the the upper two thirds of the picture. 
 
 It can definitely be said that Lyonel Feininger was inspired by nature and didn’t focus much on creating an algorithm before painting. Still he somehow paid attention on the direction of lines, sizes and subdivision of the painting. It is not possible to fully transfer the “Vogelwolke” into code because most of the painting was drawn freely and randomly.
 
@@ -132,7 +134,8 @@ When looking for an artist and pieces of art for this project, we enjoyed the st
 We felt like it is possible to reduce the painting on a set of rules and try to recreate something similar with code. It seemed interesting to find out about calculations Lyonel Feininger developed for his paintings.
 
 
-- - -
+---
+
 ### License (MIT)
 
 (c) 2017 Jakob von Kietzell and Julian Broocks, University of Applied Sciences Potsdam (Germany)
