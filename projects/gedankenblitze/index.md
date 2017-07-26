@@ -7,18 +7,20 @@ layout: project
 title: "Gedankenblitze"
 type: project
 ---
-![Gedankenblitze](splash.png)
+
+![Gedankenblitze](splash.png)  
 
 ## The Assignment
 
 The assignment was to create an algorithm that had to be sketched on paper by 10 test persons. Content of the algorithm was a simple drawing instruction after defining parameters like tools, format, time and material. The description should be precise and easy to execute while leaving room for free interpretation. Further on, more iterations were conducted by changing parameters of the algorithm to improve its description and output.
 
-"Analog algorithm" was the first assignment of "Gestalten In Code – the basic of generative design" by Fabian Morón Zirfas at the University of Applied Sciences Potsdam.
+"Analog Algorithm" was the first assignment of "Gestalten In Code – the basic of generative design" by Fabian Morón Zirfas at the University of Applied Sciences Potsdam.
 
 ## My Inspiration 
 Inspiration came from the shapes of lightning, which can be recreated with paper by crumpling it, and from an artwork by Anders Hoff, who published a study of generative algorithms. The centralized arrangement of the elements in the picture were really appealing. So this aspect was implemented into the algorithm. 
 
-![Differnitalmesh3D](./assets/images/inconvergent.png)
+![Differnitalmesh3D](./assets/images/inconvergent.png)  
+
 copyrighted by [http://inconvergent.net](http://inconvergent.net/) 
 
 ## The Algorithm 
@@ -44,7 +46,7 @@ copyrighted by [http://inconvergent.net](http://inconvergent.net/)
 
 ## First Iterations 
 
-![Algorithm](./assets/images/ball.png)
+![Algorithm](./assets/images/ball.png)  
 
 Part of the initial algorithm were lines, which originated from one point on the paper and along which the test persons were supposed to draw triangles. Playing around with the algorithm by changing the following parameters:
 
@@ -55,10 +57,13 @@ Part of the initial algorithm were lines, which originated from one point on the
 * colors
 
 
-It was very important to conduct more iterations. First of all to improve the description of the algorithm, second to avoid misunderstandings, third to improve the output. At this stage this was my favourite : ![Favourite](./assets/images/gut.png)
+It was very important to conduct more iterations. First of all to improve the description of the algorithm, second to avoid misunderstandings, third to improve the output. At this stage this was my favourite:  
+
+![Favourite](./assets/images/gut.png)
 
 ## Final Algorithm 
-Based on the feedback the next step was to get rid of the triangles and to focus only on the lightning-style lines. Two very dominate shapes were too much and reducing the noise made the output look harmonious. The new algorithm reminded one of planets or a visualisation of the brain. That’s why the desicion was made to invert colours to give room for these kind of interpretations.   
+
+Based on the feedback the next step was to get rid of the triangles and to focus only on the lightning-style lines. Two very dominate shapes were too much and reducing the noise made the output look harmonious. The new algorithm reminded one of planets or a visualisation of the brain. That’s why the decision was made to invert colours to give room for these kind of interpretations.   
 
 ![Favourite](./assets/images/ball.png)
 
