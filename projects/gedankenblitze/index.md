@@ -67,7 +67,8 @@ Based on the feedback the next step was to get rid of the triangles and to focus
 
 ![Favourite](./assets/images/ball.png)
 
-- - - 
+--- 
+
 ## License (MIT) 
 
 (c) 2017 Julian Broocks, University of Applied Sciences Potsdam (Germany)
