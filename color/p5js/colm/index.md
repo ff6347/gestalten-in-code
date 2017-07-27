@@ -5,5 +5,5 @@ author-url: https://github.com/filipczekajlo
 title: colm
 tags: [P5.js, color]
 permalink: /color/colm
-summary: Linear changing color gradients.
+summary: Stripes changing color gradient after every row. Colors range form orange to blue.
 ---  
