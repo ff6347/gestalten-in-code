@@ -4,7 +4,7 @@ authors:
 authors-url: 
   - "https://github.com/filipczekajlo"
 layout: Project
-title: "Fractal-Lines"
+title: "Fractal Lines"
 type: Project
 authors:
   - "Filip Czekajlo"  
