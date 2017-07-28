@@ -7,6 +7,6 @@ tags:
   - P5.js
   - color
   - Law of Good Gestalt
-permalink: /color/colm
+permalink: /color/colm/
 summary: Stripes changing color gradient after every row. Colors range form orange to blue.
 ---  
