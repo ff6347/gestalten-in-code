@@ -4,7 +4,6 @@ authors:
 authors-url:
   - "http://theodorhillmann.de"
 layout: project
-title: "Synthetic Babylon: analogue generative architecture"
 type: project
 ---
 
@@ -17,87 +16,64 @@ For the algorithms first iteration pencils and sheets of paper were handed to 5 
 
 ### Iteration 1:
 
-Arbeite die folgenden Punkte nacheinander ab.
-Nutze dafür ein blankes Blatt Papier und ein Bleistift (wenn
-möglich).
+> Work the following points one at a time.
+> Use a blank sheet of paper and a pencil (if possible).
 
-1. Zeichne zwei Punkte die waagerecht zueinander stehen, und
-nicht weiter entfernt sind als ein Finger lang ist.
-2. Zeichne unterhalb – zwischen diesen Punkten eine Senkrechte,
-kaum länger als ein Fingernagel.
-3. Verbinde die Enden der Senkrechten jeweils mit den beiden
-Punkten durch gerade Linien.
-4. Zeichne eine beliebige Anzahl von Senkrechten zwischen diese
-Schrägen.
-5. Verbinde die entstandenen oberen Berührungspunkte auf den
-Schrägen mit den noch nicht verbundenen Punkt.
-6. Setze diese Technik fort bis ein Gefühl von Stadtraum entsteht
-
-Vielen Dank!
+> 1. Draw two points that are horizontal, and are not farther away than a finger is long.
+> 2. Draw below, between these points, a vertical, hardly more than a fingernail is wide.
+> 3. Connect the ends of the vertical to the two points through straight lines.
+> 4. Draw any number of verticals between them obliques.
+> 5. Connect the resulting upper contact points to the bevels with the not yet connected point.
+> 6. Continue this technique until a sense of urban space arises
+>
+> Thanks!
 
 The results turned out to be rough and did not fulfil the visual expectations.
-Therefore in the following steps the algorithm has continuously been adjusted to the impressions of natural and organic structures.
+Therefore in the following steps the algorithm has continuously been adjusted.
 
-![](https://github.com/t0dorakis/syntheticBabylon/blob/master/assets/visuals/IT1/1.png)
+![](./assests/images/IT1_1.jpg)
 
 
 ### Iteration 2:
 
-Arbeite die folgenden Punkte nacheinander ab.
-Nutze dafür ein blankes Blatt Papier und ein Bleistift (wenn
-möglich).
-
-1. Zeichne zwei Punkte die waagerecht zueinander stehen, und
-nicht weiter entfernt sind als ein Finger lang ist.
-2. Zeichne unterhalb – zwischen diesen Punkten eine Senkrechte,
-kaum länger als ein Fingernagel.
-3. Verbinde die Enden der Senkrechten jeweils mit den beiden
-Punkten durch gerade Linien.
-4. Zeichne eine beliebige Anzahl von Senkrechten zwischen diese
-Schrägen.
-5. Verbinde die entstandenen oberen Berührungspunkte auf den
-Schrägen mit den noch nicht verbundenen Punkt.
-6. Die Sonne geht im Osten auf.
-7. Bist du mit dem Ergebnis zufrieden? Was könnte man
-ergänzen?
-
-Vielen Dank!
+> Work the following points one at a time.
+> Use a blank sheet of paper and a pencil (if possible).
+>
+> 1. Draw two points that are horizontal, and are not farther away than a finger is long.
+> 2. Draw below, between these points, a vertical, hardly longer than a fingernail is wide.
+> 3. Connect the ends of the vertical to the two points through straight lines.
+> 4. Draw any number of verticals between them obliques.
+> 5. Connect the resulting upper contact points to the bevels with the not yet connected point.
+> 6. The sun is rising in the east.
+> 7. Are you satisfied with the result? What could be added?
+>
+> Thanks!
 
 This text was handed to 10 people.
 
-![](https://github.com/t0dorakis/syntheticBabylon/blob/master/assets/visuals/IT2/1.png)
-![](https://github.com/t0dorakis/syntheticBabylon/blob/master/assets/visuals/IT2/2.png)
+![](./assests/images/IT2_1.jpg)
+![](./assests/images/IT2_2.jpg)
 
 For the final iteration the algorithm was adjusted to achieve a richer picture.
 
 ### Iteration 3/4/5:
 
-Arbeite die folgenden Punkte nacheinander ab.
-Nutze dafür ein blankes Blatt Papier und ein Bleistift (wenn
-möglich).
+> Work the following points one at a time.
+> Use a blank sheet of paper and a pencil (if possible).
+>
+> 1. Draw two points that are horizontal to each other, and are not more distant than a finger long.
+> 2. Draw below - between these points a vertical, hardly more than a fingernail.
+> 3. Connect the ends of the vertical with the two points by straight lines.
+> 4. Draw any number of verticals between these slopes.
+> 5. Connect the resulting upper contact points on the slopes to the opposite point from (1) which is not yet connected.
+> 6. Continue this technique by drawing more bevels, uprights, and perhaps even points. Can you create a floating city?
+>
+> Thanks!
 
-1. Zeichne zwei Punkte die waagerecht zueinander stehen, und
-nicht weiter entfernt sind als ein Finger lang ist.
-2. Zeichne unterhalb – zwischen diesen Punkten eine Senkrechte,
-kaum länger als ein Fingernagel.
-3. Verbinde die Enden der Senkrechten jeweils mit den beiden
-Punkten durch gerade Linien.
-4. Zeichne eine beliebige Anzahl von Senkrechten zwischen diese
-Schrägen.
-5. Verbinde die entstandenen oberen Berührungspunkte auf den
-Schrägen jeweils mit dem gegenüberliegenden Punkt aus (1.)
-der noch nicht verbunden ist.
-6. Setze diese Technik fort, indem du weitere Schrägen,
-Senkrechten und vielleicht sogar Punkte zeichnest. Kannst du
-eine schwebende Stadt erschaffen?
+![](./assests/images/IT3_1.jpg)
+![](./assests/images/IT3_2.jpg)
+![](./assests/images/IT3_2.jpg)
 
-Vielen Dank!
+The picture underneath is my favorite one and it is closest to what I tried to achieve. It was a good exercise to get a basic understanding of how to write understandable code and opened up my perspective of thought towards a more linguistic future ahead. Will Human Machine communication be more focussed on our habits or on the languages machines are already developing independently?
 
-![](https://github.com/t0dorakis/syntheticBabylon/blob/master/assets/visuals/IT3/1.png)
-![](https://github.com/t0dorakis/syntheticBabylon/blob/master/assets/visuals/IT3/2.png)
-![](https://github.com/t0dorakis/syntheticBabylon/blob/master/assets/visuals/IT3/3.png)
-
-
-The picture underneath is my favorite one and it is closest to what I tried to achieve.
-
-![](https://github.com/t0dorakis/syntheticBabylon/blob/master/assets/visuals/final.jpg)
+![](./assests/images/IT3_3.jpg)
