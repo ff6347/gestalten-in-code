@@ -13,7 +13,8 @@ function aline () {
   }
 }
 function setup() {
-  createCanvas(500, 500);
+  var canvas = createCanvas(500, 500);
+canvas.parent('sketch'); 
   for (var l = 0; l < 650; l++) {
     lines[l] = new aline();
   }
