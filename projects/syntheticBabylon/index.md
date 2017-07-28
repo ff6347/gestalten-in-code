@@ -31,7 +31,7 @@ For the algorithms first iteration pencils and sheets of paper were handed to 5 
 The results turned out to be rough and did not fulfil the visual expectations.
 Therefore in the following steps the algorithm has continuously been adjusted.
 
-![](./assests/images/IT1_1.png)
+![](./assets/images/IT1_1.png)
 
 
 ### Iteration 2:
@@ -51,8 +51,8 @@ Therefore in the following steps the algorithm has continuously been adjusted.
 
 This text was handed to 10 people.
 
-![](./assests/images/IT2_1.png)
-![](./assests/images/IT2_2.png)
+![](./assets/images/IT2_1.png)
+![](./assets/images/IT2_2.png)
 
 For the final iteration the algorithm was adjusted to achieve a richer picture.
 
@@ -70,10 +70,10 @@ For the final iteration the algorithm was adjusted to achieve a richer picture.
 >
 > Thanks!
 
-![](./assests/images/IT3_1.png)
-![](./assests/images/IT3_2.png)
-![](./assests/images/IT3_2.png)
+![](./assets/images/IT3_1.png)
+![](./assets/images/IT3_2.png)
+![](./assets/images/IT3_2.png)
 
 The picture underneath is my favorite one and it is closest to what I tried to achieve. It was a good exercise to get a basic understanding of how to write understandable code and opened up my perspective of thought towards a more linguistic future ahead. Will Human Machine communication be more focussed on our habits or on the languages machines are already developing independently?
 
-![](./assests/images/final.jpg)
+![](./assets/images/final.jpg)
