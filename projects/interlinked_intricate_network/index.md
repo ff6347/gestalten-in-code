@@ -8,20 +8,20 @@ title: Interlinked Intricate Network
 type: project
 ---
 
-# Interlinked Intricate Network
+## Interlinked Intricate Network
 
 ![](./assets/images/009_splash.png)
 
 
-## Analog Algorithms
+### Analog Algorithms
  
 For this project an algorithm was developed, that can be executed by humans – in other words: analog. The function pattern was repeatedly evaluated and optimized iteratively.
  
 The project was developed for the class “Gestalten in Code – Die Grundlagen Generativer Gestaltung” by Fabian Morón Zirfas at the University of Applied Sciences Potsdam, Faculty of Design.
 
-<hr />
+---
  
-## First Algorithm
+### First Algorithm
 
 The first algorithm was only allowed to be up to 5 sentences long and created in 5 minutes. 
 These were the results. 
@@ -30,15 +30,15 @@ These were the results.
  
 ![](./assets/images/001_splash.png)
 
-### evaluation
+#### Evaluation
 
 The first algorithm was very open and a little hard to read because of the messy handwriting in a hurry. The results didn’t meet my expectations at all and were very different to one another.
 
-<hr />
+---
 
-## New Algorithm
+### New Algorithm
 
-### Inspiration
+#### Inspiration
 
 I decided to start all over. 
 The new thought was to have two separated areas on one work surface. In these areas there are three mushroom-like, recursive, smaller and smaller objects. There is an undefined open shape crossed by lines that are defined by objects, so that the two areas are connected.<br />
@@ -52,11 +52,11 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 [Source: Website Fractal Foundation](http://fractalfoundation.org/resources/what-are-fractals/)
  
 
-### execution
+#### Execution
 
 The people taking part only got the sheet of paper with the description of the algorithm, no additional tools or materials. The first step of the algorithm asks them to get the relevant material, needed for executing the code, so that the materials picked are comparable but not the same for all the people.  
  
->   **you need:**
+>   **You Need:**
 >* three text/ painting tools 
 >   1. thick and dark
 >   2. less thick and dark than 1.
@@ -64,7 +64,7 @@ The people taking part only got the sheet of paper with the description of the a
 >
 >* One work surfaces DIN A4 or bigger
 >
->**the algorithm**
+>**The Algorithm**
 >1. Subdivide your work surface into three parts, so that each part got at least two >connections to the edge of the work surface.
 >2. Mark the two of them that are not connected with text/ painting tool no. 1
 >3. Draw three triangles with text/ painting tool no. 3 within these areas
@@ -80,7 +80,7 @@ The people taking part only got the sheet of paper with the description of the a
 
 ![](./assets/images/002_normal.png)
  
-### constant parameters
+#### Constant Parameters
  
 One work surface<br />
 Three areas<br />
@@ -88,12 +88,12 @@ Each connected twice with the edge of the work surface<br />
 Three triangles that are branched out recursively<br />
 18 lines <br />
  
-### variable parameters
+#### Variable Parameters
  
 All of the other parameters were to a certain extent interpretable, partly as well to be able to execute the algorithm with only a few devices. Especially the size of the work surface and how it was subdivided was interesting for me. 
  
-### evaluation
-#### What went wrong? What worked out?
+#### Evaluation
+##### What went wrong? What worked out?
  
 When defining the algorithm it was hard to unequivocally define and still leave space for interpretation.<br />
 The algorithm was too long and too complicated to execute. The people taking part didn’t enjoy. <br />
@@ -102,12 +102,12 @@ The expression “two connections to the edge of the work surface” wasn’t un
 But there always are two seperated areas with three branched out objects, that mostly are connected with the other areas.
 
 ![](./assets/images/003_splash.png)
- 
-  <hr />
-  
-## 1st iteration
 
->**material**<br />
+---
+  
+### 1st Iteration
+
+>**Material**<br />
 >work surface: sheet of paper bigger than DIN A4 or a tissue<br />
 >pen1: a thick pen<br />
 >pen 2: a thin pen<br />
@@ -129,27 +129,27 @@ But there always are two seperated areas with three branched out objects, that m
 
 ![](./assets/images/004_splash.png)
  
-### constant parameters
+#### Constant Parameters
  
 One work surface<br />
 A chain of triangles with recursively smaller and smaller triangles on the sides.
  
-### variable parameters
+#### Variable Parameters
  
 All of the other parameters were still to a certain extent interpretable.
 
-### evaluation
+#### Evaluation
 
 In this iteration the algorithm got rid of the three areas and focussed on the recursive triangles. 
 
-#### What went wrong? What worked out?
+##### What went wrong? What worked out?
  
 The algorithm was still long and too complicated to execute. It took people taking part long and they didn’t enjoy. <br />
 Although it took people long, every output is comparable and I already really liked the looks. 
  
-  <hr />
+---
   
-## 2nd iteration
+### 2nd Iteration
 
 To shorten the algorithm in this iteration there is no numbered tasks. The people taking part only got the text. <br />
 
@@ -157,21 +157,21 @@ To shorten the algorithm in this iteration there is no numbered tasks. The peopl
 
 ![](./assets/images/007_splash.png)
 
-### evaluation
+#### Evaluation
 
 Although the algorithm was shorter it was more difficult to understand. Two people didn't continue. The other outputs are not what I expected. 
 
- <hr />
+---
  
-## 3rd iteration
+### 3rd iteration
 
->**material**
+>**Mterial**
 >a square piece of paper made out of a DIN A4 sheet
 >a DIN A4 Paper cut in half and stuck together to a long strip
 >a pen
 >a coloured pen in a colour that fits to your mood
 >
->**the algorithm**
+>**The Algorithm**
 >Before executing the code, please fully read it. 
 >
 >* Draw [n] equilateral triangles in different sizes. (n>5)
@@ -180,7 +180,7 @@ Although the algorithm was shorter it was more difficult to understand. Two peop
 >* Use 60-80% of the work surface
 >* Draw a rectangle filled with a colour that fits to your mood on top of the area that you like most. 
 
-### constant parameters
+#### Constant Parameters
  
 One work surface<br />
 A chain of triangles with recursively smaller and smaller triangles on the sides. <br />
@@ -188,14 +188,14 @@ At least 6 triangles<br />
 60-80% of the work surface is filled<br />
 A colourful rectangle<br />
  
-### variable parameters
+#### Variable Parameters
 
 Open how many triangles in the end <br />
 Open how the work surface is filled <br />
 Open what pens and colour is chosen <br />
 Open where the rectangle is put <br />
 
-## evaluation 
+### Evaluation 
 
 The last algorithm was rather a set of rules than a strict task what to do. 
  
@@ -203,8 +203,9 @@ The last algorithm was rather a set of rules than a strict task what to do.
 ![](./assets/images/006_splash.png)
 
 
- <hr />
-<h2>License (MIT)</h2> 
+---
+
+## License (MIT)
 
 (c) 2017 Jakob von Kietzell, University of Applied Sciences Potsdam (Germany)
 
