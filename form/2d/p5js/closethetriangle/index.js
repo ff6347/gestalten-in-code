@@ -1,5 +1,6 @@
 function setup() {
-  createCanvas (500,500);
+  var canvas = createCanvas(500, 500);
+  canvas.parent('sketch'); 
   colorMode (HSB, 360,100,100, 100);
   background (150,75,90,100);
   
