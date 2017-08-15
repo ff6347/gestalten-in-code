@@ -6,7 +6,7 @@ authors-url: [https://github.com/LFra, https://github.com/t0dorakis, https://git
 summary: Bringing shadow depths to paper
 ---
 # depth2paper
-**[video]**
+**[video + splash pics]**
 
 ## Introduction
 This project is part of a class by [Fabian Moron-Zirfas](https://github.com/fabianmoronzirfas) at the University of Applied Sciences in Potsdam.
@@ -45,8 +45,8 @@ Instead of tracing movement in a room and thereby changes in depth within it, th
 
 
 ## Design
-![](./assets/images/constructionconcept1.png)
-![](./assets/images/constructionconcept2.png)
+![](./images/constructionconcept1.png)
+![](./images/constructionconcept2.png)
 
 The depth2paper is made out of an MDF panel that serves as surface for the drawing area. The electronics for the vertical plotter is mounted on the top and on the back. The paper roll is also mounted on the backside of the depth2paper.
 
@@ -86,7 +86,8 @@ The software phase started with the help of the [gocupi](https://github.com/bran
 - the string length per one step of the motors (the length can vary for each of the two motors, even though they share the same model)
 All of these parameters have to be measured with great precision, small deviation will lead to unexpected results. This caused a lot of trouble in the start of the development process.
 
-**Mathematics**
+### Mathematics
+
 The core of the program is this mathematical formula that converts cartesian coordinates (x, y) into string lengths using a bipolar system:
 ![](./images/math1.png)
 [Source](http://www.homofaciens.de/bilder/technik/v-plotter_010.htm)
@@ -97,7 +98,8 @@ One of the first accomplishments with the plotter was drawing a SVG file depicti
 
 ![](./images/portrait.png)
 
-**Kinect**
+### Kinect
+
 The way to run a Kinect version two on Macintosh is through the OpenKinect framework for Processing.
 This created two problem:
 1. Java and Javascript have to run in the same time in individual processes
@@ -110,7 +112,8 @@ This step happens in the Java program before sending it to the node server in ``
 
 It is a rather simple but visually quite pleasing effect with a strong reference to Joy Divisons famous album artwork. depth2paper was now able to record individual full-body-portraits of objects and humans.
 
-**Conclusion**
+### Conclusion
+
 The amount of time needed for the project exceeded the expectations by a landslide. One of the main issues, was the constant uncertainty about where the mistakes were hiding: at the motors and their drivers, the analog build-up or the inaccurate measurements – too often it seemed intransparent and unreliable, especially because working with microcontrollers was a novel territory for the software team.
 Anyways, every so small goal towards the final product felt awesome after phases of trial and error and the received feedback was throughout amazing.
 
