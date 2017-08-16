@@ -8,7 +8,7 @@ title: "Fragment"
 type: project
 ---
 
-<img src="./splash.png" alt="alt text" width="800" height="450">
+<img src="./splash.png" alt="alt text" width="100%" height="450">
 
 
 ---------------------------------------
