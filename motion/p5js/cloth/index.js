@@ -44,7 +44,7 @@ function generateValues () {
 }
 
 function setup () {
-  var canvas = createCanvas(500, 500);
+  var canvas = createCanvas(windowWidth, windowHeight);
   canvas.parent('sketch');
   stroke(90);
   init();
@@ -69,7 +69,3 @@ function draw () {
   }
 }
 
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-  init();
-}
