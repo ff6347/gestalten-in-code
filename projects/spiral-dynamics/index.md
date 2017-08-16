@@ -4,21 +4,24 @@ authors:
 authors-url: 
   - "https://github.com/mariusclassen"
 layout: project
-title: spiraldynamics
+title: Spiral Dynamics
 type: project
 ---
 
-![](assets/images/splash.png)
+![](splash.png)  
 
-## Assignment
+## Assignment  
+
 The aim of the first project was to develop an analogous algorithm in one sentence. This should be performed by at least 10 people. The analysis of the results lead to an improvement of the algorithm. The results should be similar in their appearance but also have individual characteristics. It has to be ensured, that the results can be compared and evaluated. Before the trail main basics had to be set. For example the used material, the tools and the format of the sheet. Constants and variables had to be defined and rewritten over and over again.
 
 
-## Inspiration
+## Inspiration  
+
 The algorithm is inspired by the patterns of ammonites. The drawing is individual like every ammonite. It begins very small in the middle and becomes larger as it goes outward in the shape of a spiral. This was used to visualize music by using points strokes.
 
 
 ![](assets/images/ammonite.png)
+
 >[Source: Fractal Foundation](http://www.copyrightexpired.com/Heinrich_Harder/ammonoid.html)
 
 ## Idea
@@ -28,11 +31,11 @@ The user starts with the drawing in the center and works outwards in the shape o
 The result of the algorithm should always be in the form of a spiral so that the different results remain comparable. In addition it was important that the user chose a song and listened to it for a maximum of 2 minutes. Another parameter was the visualization by strokes, which were drawn during the song.
 The material, the tools and the music should be freely selectable. 
 
-## Instruction Manual
-1. Pick up a material and a writing tool
-2. Listen to a song for 2 minutes
-3. Draw in this time lines from the inside to the outside while listening the result should be a spiral
-4. Adjust your strokes to the music
+>## Instruction Manual
+>1. Pick up a material and a writing tool
+>2. Listen to a song for 2 minutes
+>3. Draw in this time lines from the inside to the outside while listening the result should be a spiral
+>4. Adjust your strokes to the music
 
 ## First Result
 The results were very different. Unfortunately the users used only Din A4 paper on which they drew with fineliners.
@@ -41,11 +44,12 @@ The spiral pattern worked out quite good. Only the way the strokes were plotted 
 ![](assets/images/result_1.png)
 
 ## 1. Iteration
-1. Pick up a material and a writing tool
-2. Listen to a song for 2 minutes
-3. Draw in this time lines from the inside to the outside while listening the result should be a spiral
-4. The lines may be parallel or vertical to the guide line
-5. Adjust your strokes to the music
+
+>1. Pick up a material and a writing tool
+>2. Listen to a song for 2 minutes
+>3. Draw in this time lines from the inside to the outside while listening the result should be a spiral
+>4. The lines may be parallel or vertical to the guide line
+>5. Adjust your strokes to the music
 
 ![](assets/images/iteration_1.png)
 
@@ -53,12 +57,12 @@ Even after the first iteration there seems to be no improvement in performance. 
 
 
 ## 2. Iteration
-1. Take a sheet of paper and tear it to a circle
-2. Use pens or brushes with different shapes
-3. Listen to a song with a length of about 3 minutes
-4. Draw in this time points and circles from the inside to the outside while listening the result should be a spiral
-5. The lines may be parallel or vertical to the guide line
-6. Adjust your work in terms of rhythm and volume to the music
+>1. Take a sheet of paper and tear it to a circle
+>2. Use pens or brushes with different shapes
+>3. Listen to a song with a length of about 3 minutes
+>4. Draw in this time points and circles from the inside to the outside while listening the result should be a spiral
+>5. The lines may be parallel or vertical to the guide line
+>6. Adjust your work in terms of rhythm and volume to the music
 
 ![](assets/images/iteration_2.png)
 
@@ -66,20 +70,22 @@ Many questions arose how large the circle should be. Therefore it was important 
 
 
 ## 3. Iteration
-1. Pull out a circle in the size of your palm from a piece of paper
-2. Use colors which interlace on the paper or form elevations (watercolor, acrylic, Tippex, etc.)
-3. Listen to this song (3:44 min): https://www.youtube.com/watch?v=zsyjS_vJfkw
-4. Draw points as well as circles from the inside to the outside in order to form a spiral
-5. Adjust your work to the music in terms of rhythm and volume
+
+>1. Pull out a circle in the size of your palm from a piece of paper
+>2. Use colors which interlace on the paper or form elevations (watercolor, acrylic, Tippex, etc.)
+>3. Listen to this song (3:44 min): https://www.youtube.com/watch?v=zsyjS_vJfkw
+>4. Draw points as well as circles from the inside to the outside in order to form a spiral
+>5. Adjust your work to the music in terms of rhythm and volume
 
 ![](assets/images/iteration_3.png)
 
-## Conclusion
+## Conclusion 
+
 The last iteration showed the best results. Above all point two and point three are decisive for this. The whole process shows how important it is to develop accurate instructions to produce similar results but do not look too arbitrary.
 
-## License (MIT)
+## License  
 
-_© Fh Potsdam · University of applied sciences · Edmundo Mejia Galindo WS2016/17 3. Semester Interface Design · Grundlagen Generative Gestaltung · Lecturer: Fabian Morón Zirfas · February 2017_
+_© Fh Potsdam · University of applied sciences · Marius Claßen WS2016/17 3. Semester Interface Design · Grundlagen Generative Gestaltung · Lecturer: Fabian Morón Zirfas · February 2017_
 
 This is free and unencumbered software released into the public domain.
 
