@@ -44,7 +44,7 @@ function generateValues () {
 }
 
 function setup () {
-  var canvas = createCanvas(windowWidth, windowHeight);
+  var canvas = createCanvas(500, 500);
   canvas.parent('sketch');
   stroke(90);
   init();
@@ -63,9 +63,9 @@ function draw () {
     y = y2;
 
     point(
-            map(x2, -SCALING, SCALING, height / 2, width / 2),
-            map(y2 * noise(2, 4), -SCALING, SCALING, height / 2, width / 2)
-        );
+      map(x2, -SCALING, SCALING, 200, height / 1.5),
+      map(y2 * noise(2, 4), -SCALING, SCALING, 200, height / 1.5)
+    );
   }
 }
 
