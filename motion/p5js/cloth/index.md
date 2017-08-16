@@ -1,8 +1,8 @@
 ---  
 layout: p5js
-author: Ludwig Frank
+author: "Ludwig Frank"
 author-url: http://www.ludwigfrank.com
-title: cloth
+title: Cloth
 tags:
   - P5.js
   - motion
