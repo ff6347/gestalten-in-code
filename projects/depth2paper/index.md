@@ -1,12 +1,47 @@
 ---
+authors:
+  - "Ludwig Frank"
+  - "Theodor Hillmann"
+  - "Jeanette Knipp"
+  - "Natalie Schreiber"
+  - "Malte Völkner"
+  - "Marius Claßen"
+  - "Edmundo Mejia Galindo"
+  - "Joshua Pacheco"
+  - "Daniele Maselli"
+  - "Denys Ivanchenko"
+  - "Filip Czekajlo"
+  - "Jakob von Kietzell"
+  - "Julia Hilt"
+  - "Julian Broocks"
+  - "Paulina Mrksic"
+authors-url:
+  - "https://github.com/LFra"
+  - "https://github.com/t0dorakis"
+  - "https://github.com/Lellahahaha"
+  - "https://github.com/natascher"
+  - "https://github.com/MalteVoelkner"
+  - "https://github.com/mariusclassen"
+  - "https://github.com/edgalindo"
+  - "https://github.com/josues"
+  - "https://github.com/DanieleMaselli"
+  - "https://github.com/deivanchenko"
+  - "https://github.com/filipczekajlo"
+  - "https://github.com/jakobvk"
+  - "https://github.com/piixelcat"
+  - "https://github.com/hulianbrox"
+  - "https://github.com/paulinalinaa"
 layout: project
 title: depth2paper
-authors: [Ludwig Frank, Theodor Hillmann, Jeanette Knipp, Natalie Schreiber, Malte Völkner, Marius Claßen, Edmundo Mejia Galindo, Joshua Pacheco, Daniele Maselli, Denys Ivanchenko, Filip Czekajlo, Jakob von Kietzell, Julia Hilt, Julian Broocks, Paulina Mrksic]
-authors-url: [https://github.com/LFra, https://github.com/t0dorakis, https://github.com/Lellahahaha, https://github.com/natascher, https://github.com/MalteVoelkner, https://github.com/mariusclassen, https://github.com/edgalindo, https://github.com/josues, https://github.com/DanieleMaselli, https://github.com/deivanchenko,  https://github.com/filipczekajlo, https://github.com/jakobvk, https://github.com/piixelcat, https://github.com/hulianbrox, https://github.com/paulinalinaa]
+type: project
 summary: Bringing shadow depths to paper
+
 ---
+
 # depth2paper
-**[video + splash pics]**
+![](./splash.png)
+
+**[video]**
 
 ## Introduction
 This project is part of a class by [Fabian Moron-Zirfas](https://github.com/fabianmoronzirfas) at the University of Applied Sciences in Potsdam.
@@ -114,7 +149,7 @@ It is a rather simple but visually quite pleasing effect with a strong reference
 
 ### Conclusion
 
-The amount of time needed for the project exceeded the expectations by a landslide. One of the main issues, was the constant uncertainty about where the mistakes were hiding: at the motors and their drivers, the analog build-up or the inaccurate measurements – too often it seemed intransparent and unreliable, especially because working with microcontrollers was a novel territory for the software team.
+The amount of time needed for the project exceeded the expectations by a landslide. One of the main issues, was the constant uncertainty about where the mistakes were hiding: at the motors and their drivers, the analog build-up or the inaccurate measurements – too often it seemed non-transparent and unreliable, especially because working with micro-controllers was a novel territory for the software team.
 Anyways, every so small goal towards the final product felt awesome after phases of trial and error and the received feedback was throughout amazing.
 
-![](./images/splash.png)
+![](./images/collage.png)
