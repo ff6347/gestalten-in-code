@@ -63,8 +63,8 @@ function draw () {
     y = y2;
 
     point(
-      map(x2, -SCALING, SCALING, 200, height / 1.5),
-      map(y2 * noise(2, 4), -SCALING, SCALING, 200, height / 1.5)
+      map(x2, -SCALING, SCALING, width / 2, height / 1.5),
+      map(y2 * noise(2, 4), -SCALING, SCALING, width / 2, height / 1.5)
     );
   }
 }
