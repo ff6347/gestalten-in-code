@@ -10,8 +10,7 @@ type: project
 
 <img src="./splash.png" alt="alt text" width="100%" height="450">
 
-This project is a first exploration into the generation of algorithms, with the aim to create art. Instead of a machine, these algorithms were meant to be implemented by humans. The initial instructions and further improvement circles are documented in the following. 
----------------------------------------
+> This project is a first exploration into the generation of algorithms, with the aim to create art. Instead of a machine, these algorithms were meant to be implemented by humans. The initial instructions and further improvement circles are documented in the following. 
 
 ## The assignment
 The project was the result of the first assignment of the »Gestalten in Code« course by Fabian Moron Zirfas at the University of Applied Sciences Potsdam. The objective was for the students to become acquainted with algorithms in an analog way. 
