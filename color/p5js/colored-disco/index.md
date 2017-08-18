@@ -11,4 +11,4 @@ permalink: /color/colored-disco/
 summary: change light strobe, reminding of a disco light
 ---  
 
-![](path/to/another/image.png)  
+![](images/colored-disco_1.png)  
