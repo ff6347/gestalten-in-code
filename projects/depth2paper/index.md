@@ -42,7 +42,8 @@ summary: Bringing shadow depths to paper
 ![](./images/title-1.png)
 ![](./images/title-2.png)
 
-<iframe src="https://player.vimeo.com/video/230577152?color=ffffff&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![Video](./images/vimeo.png)](https://vimeo.com/230577152)
+Watch our Video on [Vimeo](https://vimeo.com/230577152).
 
 ## Introduction
 This project is part of a class by [Fabian Moron-Zirfas](https://github.com/fabianmoronzirfas) at the University of Applied Sciences in Potsdam.
