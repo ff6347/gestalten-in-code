@@ -39,8 +39,8 @@ summary: Bringing shadow depths to paper
 ---
 
 # depth2paper
-![](./title-1.png)
-![](./title-2.png)
+![](./images/title-1.png)
+![](./images/title-2.png)
 
 <iframe src="https://player.vimeo.com/video/230577152?color=ffffff&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
