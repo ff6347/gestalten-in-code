@@ -39,9 +39,10 @@ summary: Bringing shadow depths to paper
 ---
 
 # depth2paper
-![](./splash.png)
+![](./title-1.png)
+![](./title-2.png)
 
-**[video]**
+<iframe src="https://player.vimeo.com/video/230577152?color=ffffff&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Introduction
 This project is part of a class by [Fabian Moron-Zirfas](https://github.com/fabianmoronzirfas) at the University of Applied Sciences in Potsdam.
