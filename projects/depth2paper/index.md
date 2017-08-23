@@ -38,7 +38,7 @@ summary: Bringing shadow depths to paper
 
 ---
 
-# depth2paper
+This project explores the interactive possibilities of a vertical plotter. In this version depth2paper recognizes objects in front of it and prints out a picture according to the varying depths of the object.  
 
 ![](./images/title-1.png)  
 
@@ -49,8 +49,6 @@ Watch our Video on [Vimeo](https://vimeo.com/230577152).
 
 ## Introduction
 
-This project is part of a class by [Fabian Moron-Zirfas](https://github.com/fabianmoronzirfas) at the University of Applied Sciences in Potsdam.
-It explores the interactive possibilities with a vertical plotter. In this version depth2paper recognizes objects in front of it and prints out a picture according to the varying depths of the object.
 
 ## Tech Specs
 
