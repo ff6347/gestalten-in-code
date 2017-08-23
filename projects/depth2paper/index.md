@@ -47,9 +47,6 @@ This project explores the interactive possibilities of a vertical plotter. In th
 [![Video](./images/vimeo.png)](https://vimeo.com/230577152)  
 Watch our Video on [Vimeo](https://vimeo.com/230577152).
 
-## Introduction
-
-
 ## Tech Specs
 
 The depth2paper is a custom-made vertical plotter with a manual paper feed and various electronics. It consists of the following elements:  
