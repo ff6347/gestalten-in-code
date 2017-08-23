@@ -15,26 +15,25 @@ authors:
 This project is an analysis of the works of Jason Pollock and the resulting imitation with code using p5.js.
 
 
-## The assignment
+### The assignment
 
 The first part of the task was to choose an artist and analyse his or her creative approach on their series of works or a single piece of it. In the next step the gethered information about the artists individual approach was then used to produce a generated image, resembling the work of the artist.
 
 The assignment was part of the course "Designing with code – the basic of generative design" by Fabian Morón Zirfas at the University of Applied Sciences Potsdam.
 
 
-## Jackson Pollock
+### Jackson Pollock
 
 Jackson Pollock was born in Cody, Wyoming, in 1912. The American was artist was one of the major representatives of the abstract expressionist movement and artist to make heavy usage of "Dripping" in his "Action Painting" works. 
 
 
-## Gestalt Principles
+### Gestalt Principles
 
 The Gestalt psychology in the works of Pollock have caused a room for discussion in the art world since the beginning. Anton Ehrenzweig for example, who proposes the "Gestalt-free" approach as an important attack on the controlled form system in art ("Unconscious Form-Creation in Art", British Journal of Medical Psychology, no. 21). Rudolf Arnheim states that "well-organised form produces pleasure" ("Toward a Psychology of Art: Collected Essays", p.45). Suggesting that in "perception there is a tendency to the best possible equilibrium", he also dismisses the existence of Gestalt principles in Pollocks works. On the other hand, art critiques like Barbara Rose or Clement Greenberg, assign the paintings of Pollock a high degree of universal patterns and the "power to assert an paint-strewn or paint-laden surface as a single synoptic image" ("Art and Culture" - Clement Greenberg, Boston,
 1961, p. 217).
 The oeuvre of of Abstract Expressionists like Pollock forms a foundation for the Color Field era of the 1940s. With the necessity and will for change the post-World War II era it gave Formalism and Minimalism, which is deeply linked to the Gestalt principles, a platform to flourish.
 
-
-## Nr. 30 - Autumn Rhythm
+### Nr. 30 - Autumn Rhythm
 
 ![](./assets/images/pollock-nr3.png)
 
