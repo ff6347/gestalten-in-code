@@ -14,11 +14,13 @@ authors:
 
 This project is an analysis of the works of Jason Pollock and the resulting imitation with code using p5.js.
 
+
 ### The assignment
 
 The first part of the task was to choose an artist and analyse his or her creative approach on their series of works or a single piece of it. In the next step the gethered information about the artists individual approach was then used to produce a generated image, resembling the work of the artist.
 
 The assignment was part of the course "Designing with code – the basic of generative design" by Fabian Morón Zirfas at the University of Applied Sciences Potsdam.
+
 
 ### Jackson Pollock
 
@@ -39,6 +41,7 @@ The oeuvre of of Abstract Expressionists like Pollock forms a foundation for the
 Jackson Pollocks Nr. 30 is a great example of the law of closure. The curvature of the outer strokes in most cases opens up to the middle of the image, giving the form the impression of being one object, a continuous trajectory around the seeming chaos. This chaos however, resembles "the way patterns in Nature evolve" in striking similarity ("Fractal expressionism", Richard Taylor et al., 2000).
 
 ![](./assets/images/pollock-nr3-whites.png)
+
 ![](./assets/images/pollock-nr3-blacks.png)
 
 The black trajectories give the image a coherent feeling where as the whites seem to break the unity. This demonstrates the habit of Pollock to paint with one colour only during one period of the months it took to finish a piece.
