@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-<div class="hero"><p>These are projects created during the seminar. There are more to come soon(-ish)</p></div>
+<div class="hero"><p>These are projects created during the seminar.</p></div>
 
 
 {% comment %}
