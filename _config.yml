@@ -3,7 +3,7 @@ highlighter: rouge
 # having a host parameter like this allows us to debug
 # the application in the local network
 host: 0.0.0.0
-exclude: [bower_components,node_modules,gestalt,playground,build-tmp,excludes]
+exclude: [package.json,jekyll-build.sh, generate.sh,README.md,bower_components,node_modules,gestalt,playground,build-tmp,excludes]
 sass:
     sass_dir: assets/_scss
     style: compressed
