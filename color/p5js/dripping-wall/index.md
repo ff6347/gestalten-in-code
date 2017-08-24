@@ -1,7 +1,7 @@
 ---  
 layout: p5js
 author: "Ludwig Frank"
-author-url: https://ludwigfrank.com
+author-url: http://ludwigfrank.com
 title: Dripping Wall
 tags:
   - P5.js

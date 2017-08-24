@@ -2,7 +2,7 @@
 authors: 
   - "Ludwig Frank"
 authors-url: 
-  - "https://ludwigfrank.com"
+  - "http://ludwigfrank.com"
 layout: project
 title: "Fragment"
 type: project

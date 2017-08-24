@@ -75,7 +75,7 @@ For the final iteration the algorithm was adjusted to achieve a richer picture.
 
 The picture underneath is my favorite one and it is closest to what I tried to achieve. It was a good exercise to get a basic understanding of how to write understandable code and opened up my perspective of thought towards a more linguistic future ahead. Will Human Machine communication be more focussed on our habits or on the languages machines are already developing independently?
 
-![](./assets/images/final.jpg)
+![](./assets/images/final.png)
 
 
 ---

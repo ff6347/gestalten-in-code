@@ -9,7 +9,6 @@ tags:
   - hsb
 permalink: /color/hsb/
 summary: using HSB
-archive: hsb.zip
 ---  
 
 This sketch shows the usage of HSB color mode.

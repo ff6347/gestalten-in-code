@@ -5,7 +5,6 @@ title: Noise Mesh
 tags: [processing, grid,mesh,form, repeat, ]
 permalink: /form/noise-mesh/
 summary: generate a noisy mesh
-archive: noiseMesh.zip
 ---
 
 {{page.summary}}

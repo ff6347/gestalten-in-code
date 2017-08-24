@@ -5,7 +5,6 @@ title: Simple Paint
 tags: [processing, interact,chance ]
 permalink: /interact/simple-paint/
 summary: A even simpler paint program then <a href="/gestalten-in-code/interact/paint/">paint</a>.
-archive: simple_paint.zip
 ---
 
 {{page.summary}}

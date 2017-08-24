@@ -6,7 +6,6 @@ title: Mesh3D
 tags: [processing, 3d,form, repeat,chance,library ]
 permalink: /form/mesh3d/
 summary: Creates a mesh and displaces its verticies in 3D space  
-archive: mesh3D.zip
 ---
 
 {{page.summary}}
