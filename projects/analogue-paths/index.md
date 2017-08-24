@@ -28,9 +28,9 @@ Draw a path from one border of your sheet to another border. Draw another path s
 
 This text was handed to 10 people. All of them were using the same pencil and a square sheet of paper, while following the algorithms rules.  
 
-![](./assets/images/it2_a.jpg)
+![](./assets/images/it2_a.png)
 
-![](./assets/images/it2_b.jpg)
+![](./assets/images/it2_b.png)
 
 The results emerged more organic and individual. Still they seemed rather flat.  
 
@@ -41,7 +41,7 @@ Draw a path from one border of your sheet to another border. Draw other paths, a
 
 Again this text was handed to 10 people. All of them were using a square peace of very thin paper and extra moist markers in different shades of blue.  
 
-![](./assets/images/it3.jpg)
+![](./assets/images/it3.png)
 
 The results became a little more organic due to the varying stroke width. The varying colours yet broke the overall pattern. Also the general stroke width overstrained the sheets size, as there was not enough room to get into many details.  
 
@@ -56,14 +56,14 @@ Restart the process at least another three times, starting from a border or an e
 The paths may never cut each other.  
 As soon as you are done, shortly hold the paper into the provided water.  
 
-![](./assets/images/it4/endpres.017.jpeg)
-![](./assets/images/it4/endpres.018.jpeg)
-![](./assets/images/it4/endpres.019.jpeg)
-![](./assets/images/it4/endpres.025.jpeg)
+![](./assets/images/endpres.017.png)
+![](./assets/images/endpres.018.png)
+![](./assets/images/endpres.019.png)
+![](./assets/images/endpres.025.png)
 
 The satisfying results especially opened new rooms and spaces when put and alined together.  
 The varying intensity of the leaking colour provided the drawings with another layer of random depth and movement.  
 
-![](./assets/images/it4/endpres.026.jpeg)
-![](./assets/images/it4/endpres.027.jpeg)
-![](./assets/images/it4/endpres.028.jpeg)
+![](./assets/images/endpres.026.png)
+![](./assets/images/endpres.027.png)
+![](./assets/images/endpres.028.png)
