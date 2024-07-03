@@ -50,3 +50,14 @@ _site
 .sass-cache
 _seq
 npm-debug.log
+
+
+# Bundle specific
+.bundle/
+vendor/bundle/
+
+# Jekyll specific
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
