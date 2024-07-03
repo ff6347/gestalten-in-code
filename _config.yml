@@ -3,11 +3,23 @@ highlighter: rouge
 # having a host parameter like this allows us to debug
 # the application in the local network
 host: 0.0.0.0
-exclude: [package.json,jekyll-build.sh, generate.sh,README.md,bower_components,node_modules,gestalt,playground,build-tmp,excludes]
+exclude:
+  [
+    package.json,
+    jekyll-build.sh,
+    generate.sh,
+    README.md,
+    bower_components,
+    node_modules,
+    gestalt,
+    playground,
+    build-tmp,
+    excludes,
+  ]
 sass:
-    sass_dir: assets/_scss
-    style: compressed
-baseurl: /gestalten-in-code
+  sass_dir: assets/_scss
+  style: compressed
+baseurl: /
 kramdown:
   input: GFM
   syntax_highlighter: rouge
@@ -21,6 +33,6 @@ kramdown:
   #   block:
   #     line_numbers: true
   #     start_line: 1
-excerpt_separator: "<!-- more -->"
-repo_url: https://github.com/fabianmoronzirfas/gestalten-in-code
-source_url: https://github.com/fabianmoronzirfas/gestalten-in-code/tree/master
+excerpt_separator: '<!-- more -->'
+repo_url: https://github.com/ff6347/gestalten-in-code
+source_url: https://github.com/ff6347/gestalten-in-code/tree/master
