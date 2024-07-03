@@ -19,7 +19,7 @@ exclude:
 sass:
   sass_dir: assets/_scss
   style: compressed
-baseurl: /
+baseurl: ''
 kramdown:
   input: GFM
   syntax_highlighter: rouge

@@ -1,21 +1,23 @@
 [
   {
-    "title": "<svg class=\"icon-home\"><use xlink:href=\"/gestalten-in-code/assets/fonts/icons.svg#icon-home\"></use></svg>",
+    "title": "<svg class=\"icon-home\"><use xlink:href=\"/assets/fonts/icons.svg#icon-home\"></use></svg>",
     "url": "/"
-  },{
-    "title":"Categories",
-    "url":"/categories"
   },
-  {"title":"Frameworks",
-    "url":"/frameworks"
-    },{
-      "title":"Laws of Gestalt",
-      "url":"/laws"
-    },{
-      "title":"Authors",
-      "url":"/authors"
-    },{
-      "title":"Projects",
-      "url":"/projects"
-    }
+  {
+    "title": "Categories",
+    "url": "/categories"
+  },
+  { "title": "Frameworks", "url": "/frameworks" },
+  {
+    "title": "Laws of Gestalt",
+    "url": "/laws"
+  },
+  {
+    "title": "Authors",
+    "url": "/authors"
+  },
+  {
+    "title": "Projects",
+    "url": "/projects"
+  }
 ]

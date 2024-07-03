@@ -25,7 +25,7 @@ var CANADA_eastlon = -119.75009; // the most right point
  * This is Germany bounding box
  */
 var DE_westlon = 2.50652; // the most left point
-var DE_northlat = 54.81060; // the most top point
+var DE_northlat = 54.8106; // the most top point
 var DE_southlat = 46.99199; // the most bottom point
 var DE_eastlon = 17.31609; // the most right point
 
@@ -57,8 +57,9 @@ var FHP_eastlon = 13.054676055908203; // the most right point
 var locs = [];
 var json = null;
 function preload() {
-
-  json = loadJSON('https://raw.githubusercontent.com/fabianmoronzirfas/gestalten-in-code/master/data/p5js/open-paths/openpaths_fabiantheblind.json');
+  json = loadJSON(
+    'https://raw.githubusercontent.com/fabianmoronzirfas/gestalten-in-code/master/data/p5js/open-paths/openpaths_fabiantheblind.json',
+  );
 }
 function setup() {
   var canvas = createCanvas(640, 360);
@@ -73,14 +74,14 @@ function setup() {
   strokeWeight(1);
   stroke(0);
   beginShape();
-  for(var i = 0; i < json.length; i++) {
+  for (var i = 0; i < json.length; i++) {
     // console.log(json[i].lat);
     var x = width * ((DE_westlon - json[i].lon) / (DE_westlon - DE_eastlon));
-    var y = (height * ((DE_northlat - json[i].lat) / (DE_northlat - DE_southlat)));
+    var y =
+      height * ((DE_northlat - json[i].lat) / (DE_northlat - DE_southlat));
     vertex(x, y); // draw the vertex
   }
   endShape();
   // saveCanvas(canvas, 'out', 'png');
 }
-function draw() {
-}
+function draw() {}
