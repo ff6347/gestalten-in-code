@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabianmoronzirfas/gestalten-in-code.git"
+    "url": "git+https://github.com/ff6347/gestalten-in-code.git"
   },
   "author": "Fabian 'fabiantheblind' Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fabianmoronzirfas/gestalten-in-code/issues"
+    "url": "https://github.com/ff6347/gestalten-in-code/issues"
   },
-  "homepage": "https://github.com/fabianmoronzirfas/gestalten-in-code#readme",
+  "homepage": "https://github.com/ff6347/gestalten-in-code#readme",
   "dependencies": {
     "jquery": "^3.1.0"
   },
