@@ -8,7 +8,7 @@ WORKDIR /app
 COPY Gemfile ./
 
 # Install bundler and dependencies
-RUN bundle install
+RUN gem install bundler && bundle install
 
 # Copy the rest of the application
 COPY . .
