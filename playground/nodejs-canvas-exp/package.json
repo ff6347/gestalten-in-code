@@ -10,6 +10,6 @@
   "author": "Fabian 'fabiantheblind' Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^1.4.0"
+    "canvas": "^2.0.0"
   }
 }
