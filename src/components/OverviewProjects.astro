@@ -1,0 +1,78 @@
+---
+import { getCollection } from 'astro:content';
+import IconPencil from './icons/IconPencil.astro';
+import IconLink from './icons/IconLink.astro';
+
+const base = import.meta.env.BASE_URL;
+
+// Get all project pages
+const allPages = await getCollection('pages');
+const projectPages = allPages.filter(page => page.data.type === 'project');
+
+function getThumbPath(pageId: string): string {
+  const path = pageId.replace(/\/index$/, '/').replace(/^\//, '');
+  return `${base}${path}thumb.png`;
+}
+
+function getPageUrl(page: any): string {
+  const path = page.id.replace(/\/index$/, '/').replace(/^\//, '');
+  return `${base}${path}`;
+}
+
+// Helper to handle authors that may be string or array
+function getAuthors(page: any): string[] {
+  if (!page.data.authors) return [];
+  if (typeof page.data.authors === 'string') return [page.data.authors];
+  return page.data.authors;
+}
+
+function getAuthorsUrl(page: any): string[] {
+  if (!page.data['authors-url']) return [];
+  if (typeof page.data['authors-url'] === 'string') return [page.data['authors-url']];
+  return page.data['authors-url'];
+}
+---
+<div id="blocks">
+  {projectPages.map((page) => {
+    const authors = getAuthors(page);
+    const authorsUrl = getAuthorsUrl(page);
+    const summaryText = page.data.summary || 'Click to learn more about this project.';
+
+    return (
+      <div class="block">
+        <div class="thumb">
+          <a href={getPageUrl(page)}>
+            <img src={getThumbPath(page.id)} alt={page.data.title} />
+          </a>
+        </div>
+        <div class="block-info">
+          <h3>{page.data.title}</h3>
+          {authors.length > 0 && (
+            <div class="author font_small">
+              <IconPencil />
+              {authors.map((author, index) => (
+                <span>
+                  {authorsUrl[index] ? (
+                    <a href={authorsUrl[index]}>{author}</a>
+                  ) : (
+                    author
+                  )}
+                  {index < authors.length - 1 ? ', ' : ''}
+                </span>
+              ))}
+            </div>
+          )}
+        </div>
+        <div class="summary">
+          <p>
+            {summaryText}
+            <a href={getPageUrl(page)}>
+              <span class="summary-link"><IconLink /></span>
+            </a>
+          </p>
+        </div>
+      </div>
+    );
+  })}
+</div>
+<div class="clear-float"></div>

@@ -1,0 +1,15 @@
+---
+import IconTwitter from './icons/IconTwitter.astro';
+import IconGithub from './icons/IconGithub.astro';
+import IconHeart from './icons/IconHeart.astro';
+const base = import.meta.env.BASE_URL;
+---
+<footer>
+  <div class="foot font_small">
+    <p>
+      You want to know more? Follow us on <a href="https://twitter.com/EingabeAusgabe" target="_blank"><IconTwitter /></a> or take a look at the source code on <a href="https://github.com/ff6347/gestalten-in-code" target="_blank"><IconGithub /></a>. Build with <a href="https://astro.build/" target="_blank">Astro</a>, <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">fontawesome</a> and <IconHeart /> by <a href="https://github.com/ff6347" target="_blank">Fabian Morón Zirfas</a> for <a href="http://www.fh-potsdam.de/" target="_blank">University of Applied Sciences Potsdam (Germany)</a>
+    </p>
+  </div>
+</footer>
+<script is:inline src={`${base}assets/js/jquery.min.js`}></script>
+<script is:inline src={`${base}assets/js/main.js`}></script>

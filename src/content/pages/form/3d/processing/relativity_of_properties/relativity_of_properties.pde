@@ -1,0 +1,11 @@
+size(500, 500);
+background(255);
+noStroke();
+translate(width/2, height/2);
+fill(0);
+rect(-width/2, -50, width, height);
+rectMode(CENTER);
+rect(20, -100, 50, 50);
+fill(255);
+rect(20, 0, 50, 50);
+saveFrame("out.png");

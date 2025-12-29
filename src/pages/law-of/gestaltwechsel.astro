@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "When faced with a Gestalt (form) we tend to see one clear view. Our perception can switch between two (or more) different interpretations of the same form.";
+---
+<DefaultLayout title="Law of Gestaltwechsel" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Gestaltwechsel" />
+</DefaultLayout>

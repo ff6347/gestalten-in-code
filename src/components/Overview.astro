@@ -1,0 +1,116 @@
+---
+import { getCollection } from 'astro:content';
+import IconTags from './icons/IconTags.astro';
+import IconPencil from './icons/IconPencil.astro';
+import IconLink from './icons/IconLink.astro';
+
+interface Props {
+  param: string;
+}
+
+const { param } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+// Get all pages and filter by tag
+const allPages = await getCollection('pages');
+const filteredPages = allPages.filter(page => {
+  if (page.data.meta) return false;
+  if (!page.data.tags) return false;
+  return page.data.tags.includes(param);
+});
+
+function getThumbPath(pageId: string): string {
+  const path = pageId.replace(/\/index$/, '/').replace(/^\//, '');
+  return `${base}${path}thumb.png`;
+}
+
+function getPageUrl(page: any): string {
+  if (page.data.permalink) {
+    const permalink = page.data.permalink.replace(/^\//, '').replace(/\/$/, '');
+    return `${base}${permalink}/`;
+  }
+  const path = page.id.replace(/\/index$/, '/').replace(/^\//, '');
+  return `${base}${path}`;
+}
+
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/\./g, '')
+    .replace(/\s+/g, '-')
+    .replace(/ä/g, 'ae')
+    .replace(/ö/g, 'oe')
+    .replace(/ü/g, 'ue')
+    .replace(/ß/g, 'ss');
+}
+
+function getTagClasses(tags: string[] | undefined, excludeTag: string): string {
+  if (!tags) return '';
+  return tags
+    .filter(t => t !== excludeTag)
+    .map(t => slugify(t))
+    .join(' ');
+}
+---
+<div id="blocks">
+  {filteredPages.map((page) => (
+    <div class={`block ${getTagClasses(page.data.tags, param)}`}>
+      <div class="thumb">
+        <a href={getPageUrl(page)}>
+          <img src={getThumbPath(page.id)} alt={page.data.title} />
+        </a>
+      </div>
+      <div class="block-info">
+        <h3>{page.data.title}</h3>
+        {page.data.tags && page.data.tags.length > 0 && (
+          <div class="block-page-tags font_small">
+            <IconTags />
+            {page.data.tags.map((t, i) => (
+              <span>{t}{i < page.data.tags!.length - 1 ? ', ' : ''}</span>
+            ))}
+          </div>
+        )}
+        {page.data.author && (
+          <div class="author font_small">
+            <IconPencil />
+            <span>
+              {page.data['author-url'] ? (
+                <a href={page.data['author-url']}>{page.data.author}</a>
+              ) : (
+                page.data.author
+              )}
+            </span>
+          </div>
+        )}
+      </div>
+      {page.data.summary && (
+        <div class="summary">
+          <p>
+            {page.data.summary}
+            <a href={getPageUrl(page)}>
+              <span class="summary-link"><IconLink /></span>
+            </a>
+          </p>
+        </div>
+      )}
+    </div>
+  ))}
+</div>
+<div class="clear-float"></div>
+
+<script is:inline src={`${Astro.url.origin}${base}assets/js/jquery.min.js`}></script>
+<script is:inline>
+document.addEventListener('DOMContentLoaded', function() {
+  if (typeof $ !== 'undefined') {
+    $('div.p5js').wrapAll('<div class="all-p5js" />');
+    $('div.processing').wrapAll('<div class="all-processing" />');
+    $('div.basiljs').wrapAll('<div class="all-basiljs" />');
+    $('div.extendscript').wrapAll('<div class="all-extendscript" />');
+    $('div.vanillajs').wrapAll('<div class="all-vanillajs" />');
+    $('.all-p5js').prepend('<h2>P5.js</h2>');
+    $('.all-processing').prepend('<h2>Processing</h2>');
+    $('.all-basiljs').prepend('<h2>Basil.js</h2>');
+    $('.all-extendscript').prepend('<h2>Extendscript</h2>');
+  }
+});
+</script>

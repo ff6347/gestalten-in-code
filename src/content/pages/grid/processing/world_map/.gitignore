@@ -1,0 +1,11 @@
+.DS_Store
+# nodejs and web dev
+node_modules
+bower_components
+#sublme sftp plugin
+sftp-config.json
+# processing
+sketch.properties
+build-tmp
+# codekit
+.codekit-cache

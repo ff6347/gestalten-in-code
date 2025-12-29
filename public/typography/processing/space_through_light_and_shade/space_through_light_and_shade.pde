@@ -1,0 +1,15 @@
+int pt = 200;
+int off = 8;
+String txt = "AZ";
+PFont font = createFont("Arvo-Bold", pt);
+background(255);
+size(500, 500);
+translate(width/2, height/2);
+fill(0);
+textFont(font);
+textSize(pt);
+textAlign(CENTER);
+text(txt, 0, pt/3);
+fill(255);
+text(txt, -off, pt/3 - off);
+saveFrame("out.png");

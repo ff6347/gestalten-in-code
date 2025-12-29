@@ -1,0 +1,33 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import FilteredAuthorOverview from '../components/FilteredAuthorOverview.astro';
+
+const base = import.meta.env.BASE_URL;
+
+// List of known authors
+const authors = [
+  'Fabian Morón Zirfas',
+  'Edmundo Mejía Galindo',
+  'Joshua Pacheco',
+  'Denys Semanchuk',
+  'Alexander Käßner',
+  'Lucas Vogel',
+  'Ludwig Frank',
+  'Elena Kandyba',
+  'Theodor Hillmann',
+  'Nils Rothenbächer',
+  'Franziska Ritter',
+];
+---
+<DefaultLayout title="Authors" nosource={true}>
+  <p>
+    These are the authors who contributed to "Gestalten in Code".
+  </p>
+
+  {authors.map((author) => (
+    <>
+      <h2>{author}</h2>
+      <FilteredAuthorOverview param={author} />
+    </>
+  ))}
+</DefaultLayout>

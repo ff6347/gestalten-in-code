@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "Our reading direction influences how we perceive visual information. In Western cultures, we read from left to right and top to bottom.";
+---
+<DefaultLayout title="Law of Direction of Reading" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Direction of Reading" />
+</DefaultLayout>

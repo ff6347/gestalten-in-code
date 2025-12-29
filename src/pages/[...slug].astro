@@ -1,0 +1,123 @@
+---
+import { getCollection, render } from 'astro:content';
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import ProjectLayout from '../layouts/ProjectLayout.astro';
+import { Code } from 'astro:components';
+import fs from 'node:fs';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+
+  // Filter out pages that should be handled by other routes
+  const filteredPages = pages.filter((page) => {
+    const slug = page.id.replace(/\/index$/, '');
+    // Skip pages that conflict with static routes
+    const staticRoutes = ['authors', 'categories', 'frameworks', 'projects', 'laws'];
+    if (staticRoutes.includes(slug)) return false;
+    return true;
+  });
+
+  return filteredPages.map((page) => {
+    // Convert page.id to URL slug
+    let slug = page.id.replace(/\/index$/, '');
+
+    // If page has a permalink, use that instead
+    if (page.data.permalink) {
+      slug = page.data.permalink.replace(/^\//, '').replace(/\/$/, '');
+    }
+
+    return {
+      params: { slug },
+      props: { page },
+    };
+  });
+}
+
+const { page } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+// Render the page content
+const { Content } = await render(page);
+
+// Determine layout based on frontmatter
+const layout = page.data.layout || 'default';
+const isProject = page.data.type === 'project';
+const isP5js = layout === 'p5js';
+
+// For P5.js pages, try to read the index.js file
+let jsCode = '';
+let jsPath = '';
+if (isP5js) {
+  const contentDir = `./src/content/pages/${page.id.replace(/\/index$/, '')}`;
+  const jsFilePath = `${contentDir}/index.js`;
+  jsPath = page.id.replace(/\/index$/, '/index.js');
+  try {
+    jsCode = fs.readFileSync(jsFilePath, 'utf-8');
+  } catch (e) {
+    // JS file might not exist
+  }
+}
+
+// Calculate path for source links
+const pagePath = `${page.id.replace(/\/index$/, '')}/index.md`;
+
+// Helper to handle authors that may be string or array
+function getAuthors(data: any): string[] {
+  if (!data.authors) return [];
+  if (typeof data.authors === 'string') return [data.authors];
+  return data.authors;
+}
+
+function getAuthorsUrl(data: any): string[] {
+  if (!data['authors-url']) return [];
+  if (typeof data['authors-url'] === 'string') return [data['authors-url']];
+  return data['authors-url'];
+}
+---
+
+{isProject ? (
+  <ProjectLayout
+    title={page.data.title}
+    authors={getAuthors(page.data)}
+    authorsUrl={getAuthorsUrl(page.data)}
+    tags={page.data.tags}
+    archive={page.data.archive}
+    nosource={page.data.nosource}
+    path={pagePath}
+  >
+    <Content />
+  </ProjectLayout>
+) : isP5js ? (
+  <DefaultLayout
+    title={page.data.title}
+    author={page.data.author}
+    authorUrl={page.data['author-url']}
+    tags={page.data.tags}
+    archive={page.data.archive}
+    nosource={page.data.nosource}
+    path={pagePath}
+  >
+    <div id="sketch"></div>
+    {page.data.summary && <div class="hero">{page.data.summary}</div>}
+    <Content />
+
+    {jsCode && (
+      <Code code={jsCode} lang="js" theme="github-light" />
+    )}
+
+    <script is:inline src={`${base}assets/js/p5.min.js`}></script>
+    <script is:inline src={`${base}${jsPath}`}></script>
+  </DefaultLayout>
+) : (
+  <DefaultLayout
+    title={page.data.title}
+    author={page.data.author}
+    authorUrl={page.data['author-url']}
+    tags={page.data.tags}
+    archive={page.data.archive}
+    nosource={page.data.nosource}
+    path={pagePath}
+  >
+    <Content />
+  </DefaultLayout>
+)}

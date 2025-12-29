@@ -1,0 +1,10 @@
+# Cloudflare Pages configuration
+name = "gestalten-in-code"
+compatibility_date = "2024-01-01"
+
+# Pages-specific configuration
+pages_build_output_dir = "dist"
+
+[vars]
+# Environment variables for the build
+NODE_VERSION = "20"

@@ -1,0 +1,11 @@
+---
+interface Props {
+  path: string;
+}
+const { path } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const imagePath = path.replace('index.md', '').replace(/^\//, '');
+---
+<div class="img-container">
+  <img src={`${base}${imagePath}out.png`} alt="" />
+</div>

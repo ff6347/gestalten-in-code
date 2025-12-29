@@ -1,0 +1,47 @@
+
+.DS_Store
+
+# java
+*.class
+# nodejs and web dev
+node_modules
+bower_components
+#sublme sftp plugin
+sftp-config.json
+# processing
+sketch.properties
+build-tmp
+# codekit
+.codekit-cache
+# a file with private data
+private.json.DS_Store
+# nodejs and web dev
+node_modules
+bower_components
+#sublme sftp plugin
+sftp-config.json
+# processing
+sketch.properties
+build-tmp
+# codekit
+.codekit-cache
+# a file with private data
+private.json
+# for extendscript ID dev
+pdfs
+.idlk
+# for CRAN
+# History files
+.Rhistory
+# Example code in package build process
+*-Ex.R
+# R data files from past sessions
+.Rdata
+# RStudio files
+.Rproj.user/
+
+# GOLANG
+
+# After Effects
+Adobe\ After\ Effects\ Auto-Save/
+Adobe\ After\ Effects\ Auto-Speichern

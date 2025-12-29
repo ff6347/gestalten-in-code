@@ -1,0 +1,63 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import IconDownload from '../components/icons/IconDownload.astro';
+import IconCode from '../components/icons/IconCode.astro';
+import IconTags from '../components/icons/IconTags.astro';
+import IconPencil from '../components/icons/IconPencil.astro';
+
+interface Props {
+  title: string;
+  author?: string;
+  authorUrl?: string;
+  tags?: string[];
+  archive?: string;
+  nosource?: boolean;
+  path?: string;
+}
+
+const { title, author, authorUrl, tags, archive, nosource, path } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const sourceUrl = 'https://github.com/ff6347/gestalten-in-code/tree/master';
+
+// Calculate paths for archive and source links
+const folderPath = path ? path.replace('index.md', '').replace(/^\//, '') : '';
+---
+<BaseLayout title={title}>
+  <section>
+    <div id="sub-header">
+      {archive && (
+        <div class="archive">
+          <a href={`${base}${folderPath}${archive}`}><IconDownload /></a>
+        </div>
+      )}
+      {!nosource && path && (
+        <div class="source">
+          <a href={`${sourceUrl}/${folderPath}`}><IconCode /></a>
+        </div>
+      )}
+      <h1 id="title">{title}</h1>
+      <div class="clear-float"></div>
+      {tags && tags.length > 0 && (
+        <div class="page-tags font_small">
+          <IconTags />
+          {tags.map((tag, index) => (
+            <span>{tag}{index < tags.length - 1 ? ', ' : ''}</span>
+          ))}
+        </div>
+      )}
+      {author && (
+        <div class="author font_small">
+          <IconPencil />
+          <span>
+            {authorUrl ? <a href={authorUrl}>{author}</a> : author}
+          </span>
+        </div>
+      )}
+    </div>
+  </section>
+  <section>
+    <div id="main">
+      <slot />
+    </div>
+  </section>
+</BaseLayout>

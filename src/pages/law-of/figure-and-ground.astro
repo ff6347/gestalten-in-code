@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "The eye differentiates an object from its surrounding area. A form or silhouette (the figure) is naturally perceived as distinct from the area surrounding it (the ground).";
+---
+<DefaultLayout title="Law of Figure and Ground" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Figure and Ground" />
+</DefaultLayout>

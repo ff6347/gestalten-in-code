@@ -1,0 +1,90 @@
+@import 'colors','mixins';
+.block{
+  min-height:256px;
+  height:300px;
+  width:48%;
+  overflow:hidden;
+  margin-bottom:2em;
+  padding-left:1em;
+  padding-right:1em;
+  padding-top:1em;
+  margin-right:2%;
+  // border-left: 1px solid $colGrey;
+  // border-bottom: 2px solid $colGrey;
+    border: 2px dotted $colGrey;
+
+  // @include shadow();
+  @include rounded();
+  // border-left: 1px solid $colGrey;
+  float:left;
+  .thumb{
+    float: left;
+    padding: 0 0.5em;
+    margin-left:0.5em;
+    background-color:white;
+
+    img{
+    }
+  }
+  .block-info{
+  min-height:128px;
+  h3{
+    font-size:1.2em;
+    margin-top:0;
+    span.block-title-link{
+      [class^="icon-"], [class*=" icon-"] {
+    height: 16px;
+    width: 16px;
+
+  }
+    }
+  }
+  }
+}
+
+
+.thumb-noblock{
+    // float:left;
+    text-align:center;
+    // display: inline-block !important;
+    // max-width:128px;
+    // @include shadow();
+    @include rounded();
+    border: 2px dotted $colGrey;
+    // background-color:$colGrey;
+    margin:0.5em;
+    margin-bottom:1em;
+    img{
+      @include rounded(5px, 5px, 0, 0);
+      background:white;
+      max-width:90%;
+      margin-top:5%;
+    }
+    a{
+    .thumb-title{
+      padding-left:0.3em;
+      text-align:left;
+      }
+    }
+}
+
+[class^="all-"],[class*="all-"] div.block:nth-child(2n+2){
+  clear:both;
+}
+ .block-page-tags{
+  padding-left:1em;
+  [class^="icon-"], [class*=" icon-"] {
+    height: 16px;
+    width: 16px;
+    position:relative;
+    top:2px;
+  }
+}
+
+.index-overview{
+  margin: 0 auto;
+text-align:center;
+ .thumb-noblock{
+    display: inline-block;
+ }
+}
