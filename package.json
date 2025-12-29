@@ -1,10 +1,14 @@
 {
   "name": "gestalten-in-code",
+  "type": "module",
   "version": "0.1.0",
-  "description": "Gestalten in Code =================",
-  "main": "index.js",
+  "description": "Gestalten in Code - An exploration into generative design",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "repository": {
     "type": "git",
@@ -17,7 +21,9 @@
   },
   "homepage": "https://github.com/ff6347/gestalten-in-code#readme",
   "dependencies": {
-    "jquery": "^3.1.0"
+    "astro": "^5.0.0",
+    "@astrojs/mdx": "^4.0.0",
+    "sass": "^1.77.0"
   },
   "devDependencies": {
     "cz-conventional-changelog": "3.3.0"

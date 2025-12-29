@@ -1,0 +1,29 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import ThumbNoblock from '../components/ThumbNoblock.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+<DefaultLayout title="Gestalten in Code" nosource={true}>
+  <blockquote>
+    <p>"program the beautiful"<br/>Max Bense</p>
+  </blockquote>
+
+  <div class="hero">
+    What is <em>"Gestalten in Code"</em>?<br/>
+    It is an exploration into the the depths of generative design. It is learning material for an upcoming seminar at the <a href="http://www.fh-potsdam.de/">University of Applied Sciences Potsdam (Germany)</a> by <a href="http://fabianmoronzirfas.me/">Fabian Morón Zirfas</a>. It is an attempt to apply the "Laws of Gestalt" in programming. Last but not least it is a comparison of several creative coding frameworks. To show how the same language can be applied in different contexts.
+  </div>
+
+  <p>
+    The examples on this site are clustered in different ways. By <a href={`${base}categories/`}>categories</a> like <a href={`${base}form/`}>form</a>, <a href={`${base}color/`}>color</a>, <a href={`${base}typography/`}>typography</a>, by <a href={`${base}frameworks/`}>framework</a> like <a href={`${base}processing/`}>Processing</a>, <a href={`${base}p5js/`}>P5.js</a>, <a href={`${base}basiljs/`}>Basil.js</a> and also by the <a href={`${base}laws/`}>Laws of Gestalt</a> like the <a href={`${base}law-of/proximity/`}>Law of Proximity</a>, the <a href={`${base}law-of/similarity/`}>Law of Similarity</a> or the <a href={`${base}law-of/common-fate/`}>Law of Common Fate</a> <em>(to name a few)</em>. Some of them might appear in different categories. Feel free to explore them. If you run into any errors, have questions or contributions contact me on <a href="https://github.com/ff6347/gestalten-in-code/issues">GitHub</a>.
+  </p>
+
+  <hr/>
+
+  <div class="index-overview">
+    <ThumbNoblock url="/frameworks/" title="Frameworks" thumb="/assets/images/logo-thumb.png" />
+    <ThumbNoblock url="/laws/" title="Laws of Gestalt" thumb="/assets/images/gest-thumb.png" />
+    <ThumbNoblock url="/categories/" title="Categories" thumb="/assets/images/cats-thumb.png" />
+  </div>
+  <div class="clear-float"></div>
+</DefaultLayout>

@@ -1,6 +1,6 @@
 [build]
-  command = "bundle exec jekyll build"
-  publish = "_site"
+  command = "npm install && npm run build"
+  publish = "dist"
 
 [build.environment]
-  RUBY_VERSION = "2.4.10"
+  NODE_VERSION = "20"

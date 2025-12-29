@@ -1,0 +1,28 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import FilteredIndexOverview from '../components/FilteredIndexOverview.astro';
+import IconLink from '../components/icons/IconLink.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+<DefaultLayout title="Frameworks (P5)" nosource={true}>
+  <blockquote>
+    <p>What? P5? I thought it is Processing. Is it P5.js or what?<br/>Rock Strongo</p>
+  </blockquote>
+
+  <p>
+    The naming "P5" is not a widely known convention. It is more or less my own term to combine all those flavors of Processing into one single title. Why mixing them all together? In the last several years I tried to teach each of these frameworks on its own. It turned out that each has its advantages and disadvantages <em>(who would have thought of that)</em>. if you want to create something for the web - use <a href={`${base}p5js/`}>P5.js</a>. If you want lots of particles or interact with hardware - use <a href={`${base}processing/`}>Processing</a> and if you need fine grained macro typography go for <a href={`${base}basiljs/`}>Basil.js</a> or <a href={`${base}extendscript/`}>Extendscript</a>. Don't lock yourself in one box. Use the right tool for the right job.
+  </p>
+
+  <h2>Processing <a href={`${base}processing/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="processing" />
+
+  <h2>Basil.js <a href={`${base}basiljs/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Basil.js" />
+
+  <h2>P5.js <a href={`${base}p5js/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="P5.js" />
+
+  <h2>Extendscript <a href={`${base}extendscript/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="extendscript" />
+</DefaultLayout>

@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+
+const base = import.meta.env.BASE_URL;
+
+// Get all non-meta pages
+const allPages = await getCollection('pages');
+const filteredPages = allPages.filter(page => !page.data.meta);
+
+function getThumbPath(pageId: string): string {
+  const path = pageId.replace(/\/index$/, '/').replace(/^\//, '');
+  return `${base}${path}thumb.png`;
+}
+
+function getPageUrl(page: any): string {
+  if (page.data.permalink) {
+    const permalink = page.data.permalink.replace(/^\//, '').replace(/\/$/, '');
+    return `${base}${permalink}/`;
+  }
+  const path = page.id.replace(/\/index$/, '/').replace(/^\//, '');
+  return `${base}${path}`;
+}
+
+function truncateTitle(title: string, length: number = 10): string {
+  if (title.length <= length) return title;
+  return title.substring(0, length) + '…';
+}
+---
+<div class="index-overview">
+  {filteredPages.map((page) => (
+    <div class="thumb thumb-noblock">
+      <a href={getPageUrl(page)}>
+        <img src={getThumbPath(page.id)} alt={page.data.title} />
+        <div class="thumb-title">
+          <small>{truncateTitle(page.data.title)} →</small>
+        </div>
+      </a>
+      <div class="clear-float"></div>
+    </div>
+  ))}
+</div>
+<div class="clear-float"></div>

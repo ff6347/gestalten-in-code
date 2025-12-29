@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "Elements that are connected by visual properties such as lines are perceived as more related than elements that are not connected.";
+---
+<DefaultLayout title="Law of Connected Elements" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Connected Elements" />
+</DefaultLayout>

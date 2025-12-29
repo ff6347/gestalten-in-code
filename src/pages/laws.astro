@@ -1,0 +1,78 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import FilteredIndexOverview from '../components/FilteredIndexOverview.astro';
+import IconLink from '../components/icons/IconLink.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+<DefaultLayout title="Gestalt Laws" nosource={true}>
+  <p>So what is "Gestalt"?</p>
+
+  <p>
+    In the beginning of the 20th century a group of german psychologist formed, based on a work by Christian Ehrenfels, the "Berlin School of Gestalt-Psychologie". Max Wertheimer, Wolfgang Köhler and Kurt Koffka <em>(among others)</em> where trying to define a theory on human perception. At the heart of all this stands this phrase by Kurt Koffka:
+  </p>
+
+  <blockquote>
+    <p>"The whole is other than the sum of the parts"</p>
+  </blockquote>
+
+  <p>Based on this Wertheimer defined six laws.</p>
+
+  <ul>
+    <li>the <a href={`${base}law-of/proximity/`}>"Law of Proximity"</a></li>
+    <li>the <a href={`${base}law-of/similarity/`}>"Law of Similarity"</a></li>
+    <li>the "Law of Good Gestalt" or also called <a href={`${base}law-of/praegnanz/`}>"Law of Prägnanz"</a></li>
+    <li>the <a href={`${base}law-of/continuity/`}>"Law of Continuity"</a></li>
+    <li>the <a href={`${base}law-of/closure/`}>"Law of Closure"</a></li>
+    <li>the <a href={`${base}law-of/common-fate/`}>"Law of Common Fate"</a></li>
+  </ul>
+
+  <p>
+    Later several other laws where introduced. The Law of Common Region, the Law of Simultaneity, the Law of Connected Elements, the Law of Figure and Ground and many more. There is no official "list" that tells us which these laws are. One might say there is an (in)finite number of them. In the spirit of Gestalt we can define laws by combining the existing ones into new ones to create something other then the sum of the parts.
+  </p>
+
+  <ul>
+    <li>the <a href={`${base}law-of/gestaltwechsel/`}>"Law of Gestaltwechsel"</a></li>
+    <li>the <a href={`${base}law-of/connected-elements/`}>"Law of Connected Elements"</a></li>
+    <li>the <a href={`${base}law-of/space/`}>"Law of Space"</a></li>
+    <li>the <a href={`${base}law-of/figure-and-ground/`}>"Law of Figure and Ground"</a></li>
+    <li>the <a href={`${base}law-of/direction-of-reading/`}>"Law of Direction of Reading"</a></li>
+    <li>the <a href={`${base}law-of/simplicity/`}>"Law of Simplicity"</a></li>
+  </ul>
+
+  <h2>Law of Proximity <a href={`${base}law-of/proximity/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Proximity" />
+
+  <h2>Law of Similarity <a href={`${base}law-of/similarity/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Similarity" />
+
+  <h2>Law of Prägnanz <a href={`${base}law-of/praegnanz/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Prägnanz" />
+
+  <h2>Law of Continuity <a href={`${base}law-of/continuity/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Continuity" />
+
+  <h2>Law of Closure <a href={`${base}law-of/closure/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Closure" />
+
+  <h2>Law of Common Fate <a href={`${base}law-of/common-fate/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Common Fate" />
+
+  <h2>Law of Gestaltwechsel <a href={`${base}law-of/gestaltwechsel/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Gestaltwechsel" />
+
+  <h2>Law of Connected Elements <a href={`${base}law-of/connected-elements/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Connected Elements" />
+
+  <h2>Law of Space <a href={`${base}law-of/space/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Space" />
+
+  <h2>Law of Figure and Ground <a href={`${base}law-of/figure-and-ground/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Figure and Ground" />
+
+  <h2>Law of Direction of Reading <a href={`${base}law-of/direction-of-reading/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Direction of Reading" />
+
+  <h2>Law of Simplicity <a href={`${base}law-of/simplicity/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="Law of Simplicity" />
+</DefaultLayout>

@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "Objects grouped together are seen as a whole. We tend to ignore gaps and complete contour lines.";
+---
+<DefaultLayout title="Law of Closure" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Closure" />
+</DefaultLayout>

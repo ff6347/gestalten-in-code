@@ -1,0 +1,21 @@
+---
+import menu from '../data/menu.json';
+const base = import.meta.env.BASE_URL;
+---
+<header>
+  <div class="inner">
+    <nav>
+      <a href={base} class="logo"></a>
+      <input type="checkbox" id="nav" />
+      <label for="nav"></label>
+      <a href="#" id="menu-icon"></a>
+      <ul id="menu-list">
+        {menu.map((item) => (
+          <li class="menu-item">
+            <a href={`${base}${item.url.replace(/^\//, '')}`} set:html={item.title} />
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>

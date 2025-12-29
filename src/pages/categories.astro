@@ -1,0 +1,39 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import FilteredIndexOverview from '../components/FilteredIndexOverview.astro';
+import IconLink from '../components/icons/IconLink.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+<DefaultLayout title="Categories" nosource={true}>
+  <blockquote>
+    <p>"I merely took the energy it takes to pout and wrote some blues."<br/>Duke Ellington</p>
+  </blockquote>
+
+  <h2>Form <a href={`${base}form/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="form" />
+
+  <h2>Color <a href={`${base}color/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="color" />
+
+  <h2>Typography <a href={`${base}typography/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="typography" />
+
+  <h2>Chance <a href={`${base}chance/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="chance" />
+
+  <h2>Grid <a href={`${base}grid/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="grid" />
+
+  <h2>Repeat <a href={`${base}repeat/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="repeat" />
+
+  <h2>Motion <a href={`${base}motion/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="motion" />
+
+  <h2>Interact <a href={`${base}interact/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="interact" />
+
+  <h2>Data <a href={`${base}data/`}><IconLink /></a></h2>
+  <FilteredIndexOverview param="data" />
+</DefaultLayout>

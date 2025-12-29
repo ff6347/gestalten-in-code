@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "Objects in the environment are seen in a way that makes them appear as simple as possible.";
+---
+<DefaultLayout title="Law of Prägnanz" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Prägnanz" />
+</DefaultLayout>

@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "Objects that are close to each other are perceived as a group.";
+---
+<DefaultLayout title="Law of Proximity" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Proximity" />
+</DefaultLayout>

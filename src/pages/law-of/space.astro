@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "Space can be perceived as depth through various visual cues.";
+---
+<DefaultLayout title="Law of Space" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Space" />
+</DefaultLayout>

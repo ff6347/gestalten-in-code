@@ -1,0 +1,17 @@
+---
+interface Props {
+  url: string;
+  title: string;
+  thumb: string;
+}
+const { url, title, thumb } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const fullUrl = url.startsWith('/') ? `${base}${url.slice(1)}` : url;
+const fullThumb = thumb.startsWith('/') ? `${base}${thumb.slice(1)}` : thumb;
+---
+<div class="thumb thumb-noblock">
+  <a href={fullUrl}>
+    <img src={fullThumb} alt={title} />
+    <div class="thumb-title"><small>{title}</small></div>
+  </a>
+</div>

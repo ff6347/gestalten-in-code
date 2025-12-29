@@ -1,0 +1,16 @@
+size(500, 500);
+background(0);
+color light = color(200); 
+color dark = color(50);
+translate(width/2, height/2);
+noStroke();
+rectMode(CENTER);
+fill(light);
+int y = 0;
+int x = 0;
+int w = 100;
+int h = 200;
+rect(x - w, y, w, h);
+fill(dark);
+rect(x + w, y, w, h);
+saveFrame("out.png");

@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../../layouts/DefaultLayout.astro';
+import Overview from '../../components/Overview.astro';
+
+const summary = "Objects moving in the same direction are perceived as more related than objects moving in different directions.";
+---
+<DefaultLayout title="Law of Common Fate" nosource={true}>
+  <div class="hero">{summary}</div>
+  <Overview param="Law of Common Fate" />
+</DefaultLayout>
